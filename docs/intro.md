@@ -11,17 +11,17 @@ This is the official wiki for **Lotus Mu Online**. This wiki is designed to prov
 
 If you're new to Mu Online, start here! This section will cover the basics of the game, including character creation, leveling up, and the game's different classes.
 
-- [Creating Your Character](/docs/getting-started/creating-your-character.md)
-- [Leveling Up](/docs/getting-started/leveling-up.md)
-- [Classes](/docs/getting-started/classes.md)
+- [Creating Your Character](#)
+- [Leveling Up](#)
+- [Classes](#)
 
 ## Advanced Topics
 
 For more experienced players, this section covers some of the more advanced topics in Mu Online, including crafting, PvP, and end-game content.
 
-- [Crafting](/docs/advanced-topics/crafting.md)
-- [PvP](/docs/advanced-topics/pvp.md)
-- [End-Game Content](/docs/advanced-topics/end-game-content.md)
+- [Crafting](#)
+- [PvP](#)
+- [End-Game Content](#)
 
 ## Troubleshooting
 
