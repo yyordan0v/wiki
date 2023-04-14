@@ -5,44 +5,39 @@ slug: /
 
 # Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is the official wiki for **Lotus Mu Online**. This wiki is designed to provide you with all the information you need to get started playing Lotus Mu, as well as advanced information for more experienced players.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+If you're new to Mu Online, start here! This section will cover the basics of the game, including character creation, leveling up, and the game's different classes.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [Creating Your Character](/docs/getting-started/creating-your-character.md)
+- [Leveling Up](/docs/getting-started/leveling-up.md)
+- [Classes](/docs/getting-started/classes.md)
 
-### What you'll need
+## Advanced Topics
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+For more experienced players, this section covers some of the more advanced topics in Mu Online, including crafting, PvP, and end-game content.
 
-## Generate a new site
+- [Crafting](/docs/advanced-topics/crafting.md)
+- [PvP](/docs/advanced-topics/pvp.md)
+- [End-Game Content](/docs/advanced-topics/end-game-content.md)
 
-Generate a new Docusaurus site using the **classic template**.
+## Troubleshooting
 
-The classic template will automatically be added to your project after you run the command:
+If you're having issues with the game, this section covers some of the most common problems players encounter, as well as how to fix them.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- [Common Issues](#)
+- [Reporting Bugs](#)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Community
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Looking to connect with other players? This section covers some of the best ways to get involved with the Mu Online community.
 
-## Start your site
+- [Forums](https://forum.lotusmu.org)
+- [Discord](#)
+- [Social Media](#)
 
-Run the development server:
+## Conclusion
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Thank you for using the Lotus Mu Wiki! We hope you find the information here helpful, and if you have any questions or suggestions, please feel free to reach out to us. Happy gaming!
