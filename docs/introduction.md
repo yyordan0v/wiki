@@ -9,13 +9,13 @@ This is the official wiki for **Lotus Mu Online**. This wiki is designed to prov
 
 ## Getting Started
 
-This documentation website serves as a comprehensive guide to all the settings and features of the Lotus Mu Online private game server. Whether you're a new player just starting out or a seasoned veteran looking to optimize your gameplay experience, this wiki-style resource contains all the information you need to make the most of your time in the game.
+This documentation website serves as a comprehensive guide to all the settings and features of the Lotus Mu Online Server. Whether you're a new player just starting out or a seasoned veteran looking to optimize your gameplay experience, this wiki-style resource contains all the information you need to make the most of your time in the game.
 
-Whether you're looking to master the art of combat, explore new areas, acquire rare items, or join a guild and interact with other players, the Lotus Mu Online documentation website has you covered. So dive in, explore the various categories and subcategories, and discover all the secrets that the game has to offer.
+Whether you're looking to master the art of combat, explore new areas, acquire rare items, or join a guild and interact with other players, this documentation website has you covered. So dive in, explore the various categories and subcategories, and discover all the secrets that the game has to offer.
 
 ## Topics
 
-**Lotus Mu** offers a wide range of gameplay systems and mechanics to explore. This documentation website covers them all in detail, providing you with clear and concise explanations, tutorials, and tips to help you get the most out of your gameplay experience.
+**Lotus Mu** offers a wide range of gameplay systems and mechanics to explore. This website covers them all in detail, providing you with clear and concise explanations, tutorials, and tips to help you get the most out of your gameplay experience.
 
 ## Community
 

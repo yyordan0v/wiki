@@ -75,11 +75,44 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Learn',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduction',
                 to: '/',
+              },
+              {
+                label: 'Game Client',
+                to: 'category/game-client-features',
+              },
+              {
+                label: 'Events',
+                to: '/category/events',
+              },
+              {
+                label: 'Crafting',
+                to: '/category/crafting',
+              },
+            ],
+          },
+          {
+            title: 'Useful Links',
+            items: [
+              {
+                label: 'Registration',
+                href: 'https://lotusmu.org/registration',
+              },
+              {
+                label: 'Downloads',
+                href: 'https://lotusmu.org/downloads',
+              },
+              {
+                label: 'Server Rules',
+                href: 'https://lotusmu.org/rules',
+              },
+              {
+                label: 'Give as a Vote Up',
+                href: 'https://lotusmu.org/vote-reward',
               },
             ],
           },
@@ -87,29 +120,35 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Forum',
+                href: 'https://forum.lotusmu.org',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://facebook.com/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Contacts',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'support@lotusmu.org',
+                href: 'mailto:support@lotusmu.org',
               },
             ],
           },
         ],
+        logo: {
+          alt: 'Lotus Mu Logo',
+          src: 'img/logo-full.png',
+          href: 'https://lotusmu.org',
+          height: 60,
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Lotus Mu Wiki.`,
       },
       prism: {
