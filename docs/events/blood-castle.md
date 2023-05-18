@@ -15,6 +15,10 @@ Risk your life to Save the Archangel, One of the strongest warriors in Lotus Mu,
 - The crafting ingredients (Blood Bone and Archangel Scroll) can be obtained from monster drops.
 - Additionally, you'll also need one Jewel of Chaos for the crafting.
 
+![Invisibility Cloak Crafting](/img/events/bc/bc-ingredients.jpg)
+
+_Invisibility Cloak Crafting_
+
 ### Required Level
 
 - **Knights, Wizards and Elves:**
