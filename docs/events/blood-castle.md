@@ -64,7 +64,7 @@ _Invisibility Cloak Crafting_
 
 ### Preparation
 
-At the beginning of each even hour, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the **Invisibility Cloak** to the Archangel whi is located ~~(TBD)~~. Talk to him and you will see a table in which you need to select the appropriate level of Blood Castle for your character (The Invisibility Cloak in your inventory should be the same level).
+At the beginning of each even hour, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the **Invisibility Cloak** to the Archangel which is located ~~(TBD)~~. Talk to him and you will see a table in which you need to select the appropriate level of Blood Castle for your character (The Invisibility Cloak in your inventory should be the same level).
 If you did everything correctly, then you will be taken to the **Blood Castle**.
 
 ![Messenger of Archangel](/img/events/bc/bc-npc.png)
@@ -82,6 +82,9 @@ After the reprisal against the sorcerers, you will need to find the way to the s
 Having reached the crystal statue, in the hands of which is the Archangel's weapon, you must find the strenght within you to smash it and take the weapon.
 
 ![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
+
+_Archangel Weapons_
+
 
 Having picked up the weapon, return back to the Archangel, simultaneously fighting off the monsters. Now you just need to give the weapon back to its owner.
 
