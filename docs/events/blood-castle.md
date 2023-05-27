@@ -85,7 +85,6 @@ Having reached the crystal statue, in the hands of which is the Archangel's weap
 
 _Archangel Weapons_
 
-
 Having picked up the weapon, return back to the Archangel, simultaneously fighting off the monsters. Now you just need to give the weapon back to its owner.
 
 ![Fallen Angel](/img/events/bc/fallen-angel.jpg)
@@ -96,3 +95,5 @@ _Fallen Angel_
 
 Quest completed! Archangel's Weapon Found! You will now get a generous reward.
 Blood Castle can be held as part of a party, in which case all of its members will receive reward.
+
+## Reward
