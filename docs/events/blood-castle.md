@@ -12,10 +12,12 @@ Risk your life to Save the Archangel, One of the strongest warriors in Lotus Mu,
 
 - You must craft an **Invisibility Cloak** in order to enter Blood Castle.
 - **Invisibility Cloak** is crafted via Chaos Goblin Machine.
-- The crafting ingredients (Blood Bone and Archangel Scroll) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
+- The crafting ingredients (Blood Bone and Scroll of Archangel) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
 - Additionally, you'll also need one Jewel of Chaos for the crafting.
 
-![Invisibility Cloak Crafting](/img/events/bc/bc-ingredients.jpg)
+| Blood Fang                                           |                                       | Scroll of Archangel                                                    |                                       | Jewel of Chaos                                 |                                         | Invisibility Cloak                                                   |
+| ---------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------- |
+| ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
 
 _Invisibility Cloak Crafting_
 

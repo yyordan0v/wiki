@@ -12,12 +12,14 @@ Enter as one of 10 warriors to engage the forces of Kundun as they spawn in fron
 
 - You must craft an **Devil Square Invitation** to enter **Devil Square**.
 - **Devil Square Invitation** is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Devil Key** and **Devil Eye**) can be obtained from monster drops.
+- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops.
 - Additionally, you'll also need one **Jewel of Chaos** for the crafting.
 
-![Devil Square Invitation](/img/events/ds/ds-ingredients.jpg)
+| Devil's Key                                           |                                       | Devil's Eye                                           |                                       | Jewel of Chaos                                 |                                         | Devil Square Invitation                                                    |
+| ----------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------- |
+| ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |
 
-_Devil Square Invitation_
+_Devil Square Invitation Crafting_
 
 ### Required Level
 

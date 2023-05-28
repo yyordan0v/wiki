@@ -15,9 +15,11 @@ The event consists out of two teams who will try to get as many items from the *
 - The crafting ingredients can be purchased via ~~TBD~~.
 - You'll also need one **Jewel of Chaos** for the crafting.
 
-![Scroll of Blood Ingredients](/img/events/it/it-ingedients.jpg)
+| Old Scroll                                           |                                       | Illusion Sorcerer Covenant                                                           |                                       | Jewel of Chaos                                 |                                         | Scroll of Blood                                                |
+| ---------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------- |
+| ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
 
-_Scroll of Blood Ingredients_
+_Scroll of Blood Crafting_
 
 ### Required Level
 

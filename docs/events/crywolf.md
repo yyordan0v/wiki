@@ -3,3 +3,78 @@ sidebar_position: 9
 ---
 
 # Crywolf
+
+Fortress of Crywolf is located at the southeastern area of Valley of Loren.
+It's a front line fortress where the allied forces of human and elf fight against the forces of Kundun. The rough geographical features of the fortress made it a fortress blessed with natural barriers for defense and a key area for strategy.
+Kundun's forces haven't been able to head north and now the frontline is in a deadlock.
+Therefore Kundun has commanded Lemuria to dispatch troops to the Fortress of Crywolf to overcome a situation.
+
+## Entry Requirements
+
+### Required Item
+
+- You must craft an **Devil Square Invitation** to enter **Devil Square**.
+- **Devil Square Invitation** is crafted via Chaos Goblin Machine.
+- The crafting ingredients (**Devil Key** and **Devil Eye**) can be obtained from monster drops.
+- Additionally, you'll also need one **Jewel of Chaos** for the crafting.
+
+![Devil Square Invitation](/img/events/ds/ds-ingredients.jpg)
+
+_Devil Square Invitation_
+
+### Required Level
+
+- **Knights, Wizards and Elves:**
+
+  | Devil Square Level | Character Level Req. |
+  | ------------------ | -------------------- |
+  | Devil Square 1     | 15 - 130             |
+  | Devil Square 2     | 131 - 180            |
+  | Devil Square 3     | 181 - 230            |
+  | Devil Square 4     | 231 - 280            |
+  | Devil Square 5     | 281 - 330            |
+  | Devil Square 6     | 331 - 400            |
+  | Devil Square 7     | 3rd Quest Completed  |
+
+- **Gladiators and Lords:**
+
+  | Devil Square Level | Character Level Req. |
+  | ------------------ | -------------------- |
+  | Devil Square 1     | 10 - 110             |
+  | Devil Square 2     | 111 - 160            |
+  | Devil Square 3     | 161 - 210            |
+  | Devil Square 4     | 211 - 260            |
+  | Devil Square 5     | 261 - 310            |
+  | Devil Square 6     | 311 - 400            |
+  | Devil Square 7     | 3rd Quest Completed  |
+
+## Devil Square Rules
+
+- A minimum of 1 player must enter, or it will not start.
+- A maximum of 10 players can join in a single instance.
+- A character is limited to participating in a total of 4 instances per day.
+- Party is allowed and can be formed inside the Devil Square map.
+- Any character with a PK Status cannot enter the Devil Square map.
+- Combat adjustments:
+  - No penalty upon character death.
+  - PVP is not allowed.
+
+## Game-play
+
+### Preparation
+
+Prior to the start of the **Devil Square**, the following messages start to appear in the Lotus Mu Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with **Devil Invitation** to the **Charon** (Located TBD). Talk to him, on the screen you will see a table in which you need to select the appropriate level of Devil Square for your character (you should have the same level of Devil Invitation in your inventory). If you did everything correctly, then you will be taken to the Devil Square Event map.
+
+![Charon](/img/events/ds/charon.jpg)
+
+_Charon_
+
+### Devil Square Quest
+
+When the **Devil Square** starts, 200 monsters will instantly spawn throughout the arena. If a monster is killed, another will spawn to keep the monster count at 200. Monsters will continue to spawn over 15 minutes. As the time progresses, the monsters which spawn will change and their difficulty will slightly increase.
+
+### Event Completion
+
+Depending on your score which is based on how many monsters you killed during the event, your character will gain a reward.
+
+## Reward
