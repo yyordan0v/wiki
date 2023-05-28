@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Star of Sacred Birth
 
-The **Star of Sacred Birth** is a special item in Mu Online that can be obtained from specific monsters, events or quests. When opened, it drops various **non-excellent** items that players can collect.
+The **Star of Sacred Birth** is a special item in Mu Online that can be obtained from specific monsters or [quests](/gameplay-systems/quest-system). When opened, it drops various **non-excellent** items that players can collect.
 
 Here you can find information about the items that can be obtained from the **Star of Sacred Birth** and where to find it.
 
@@ -12,7 +12,7 @@ Here you can find information about the items that can be obtained from the **St
 
 _Star of Sacred Birth_
 
-## Star of Sacred Birth - Drops
+## Item Drops
 
 The **Star of Sacred Birth** can drop the following items:
 
@@ -37,6 +37,14 @@ The **Star of Sacred Birth** can drop the following items:
 | ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
 
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
+
+## Obtaining the Star of Sacred Birth
+
+To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over formidable creatures such as the following ones:
+
+| [Giant](/special-monsters/others/budge-dragon) | [Golem](/special-monsters/others/budge-dragon) | [Ice Queen](/special-monsters/others/budge-dragon) |
+| ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
+| IMAGE                                          | IMAGE                                          | IMAGE                                              |
 
 ## Conclusion
 
