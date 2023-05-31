@@ -12,7 +12,7 @@ _Box of Luck_
 
 **Box of Luck** can be obtained from either [Budge Dragon](/special-monsters/others/budge-dragon) or via completing [quests](/gameplay-systems/quest-system).
 
-![Budge Dragon](/img/monsters/golden/budge-dragon.jpg)
+![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg)
 
 _Budge Dragon_
 

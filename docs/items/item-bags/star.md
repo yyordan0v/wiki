@@ -42,9 +42,9 @@ Please note that the drop rates for these items may vary and the items are **non
 
 To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over formidable creatures such as the following ones:
 
-| [Giant](/special-monsters/others/budge-dragon) | [Golem](/special-monsters/others/budge-dragon) | [Ice Queen](/special-monsters/others/budge-dragon) |
-| ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
-| IMAGE                                          | IMAGE                                          | IMAGE                                              |
+| [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) |
+| -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
+| ![Giant](/img/monsters/lorencia/giant.jpg)   | ![Giant](/img/monsters/noria/stone-golem.jpg)            | ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    | ![Balrog](/img/monsters/losttower/balrog.jpg)  | ![Hydra](/img/monsters/atlans/hydra.jpg)     |
 
 ## Conclusion
 
