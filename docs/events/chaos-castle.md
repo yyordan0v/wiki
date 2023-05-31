@@ -85,7 +85,13 @@ _Chaos Castle Characters_
 
 Once the Character Counter reaches 50, sections of the outer floor will crumble. If a character is standing where the floor crumbles, the character will fall off the arena and will be disqualified.
 
-Some of the monsters in **Chaos Castle** have a special Skill called **Explosion**, which causes strong Knock-back. Explosion (Range: 2) is only casted after the monster dies. The Knock-back effect of the Skill can cause characters to fall off the stage. Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of the Explosion Knock-back (Elemental Fire Resistance). Using AOE Skills can help avoid Explosion Knock-back.
+Some of the monsters in **Chaos Castle** have a special Skill called **Explosion**, which causes strong Knock-back. Explosion (Range: 2) is only casted after the monster dies. The Knock-back effect of the Skill can cause characters to fall off the stage. 
+
+:::tip
+
+Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of the Explosion Knock-back (Elemental Fire Resistance). Using AOE Skills can also help avoid Explosion Knock-back.
+
+:::
 
 ### Event Completion
 
