@@ -36,11 +36,15 @@ The **Star of Sacred Birth** can drop the following items:
 | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
 | ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
 
+:::note
+
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
+
+:::
 
 ## Obtaining the Star of Sacred Birth
 
-To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over formidable creatures such as the following ones:
+To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
 | [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) |
 | -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
