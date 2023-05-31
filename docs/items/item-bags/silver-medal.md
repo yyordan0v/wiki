@@ -44,15 +44,19 @@ The **Silver Medal** can drop the following items:
 | --------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
 | ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) | ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png) |
 
+:::note
+
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
+
+:::
 
 ## Obtaining the Silver Medal
 
-To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over formidable creatures such as the following ones:
+To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) |
-| -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
-| ![Giant](/img/monsters/lorencia/giant.jpg)   | ![Giant](/img/monsters/noria/stone-golem.jpg)            | ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    | ![Balrog](/img/monsters/losttower/balrog.jpg)  | ![Hydra](/img/monsters/atlans/hydra.jpg)     |
+| [Bali](/special-monsters/others/bali)   |
+| -------------------------------------------- |
+| ![Bali](/img/monsters/special/others/bali.jpg)      |
 
 ## Conclusion
 
