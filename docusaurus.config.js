@@ -111,7 +111,7 @@ const config = {
                 href: 'https://lotusmu.org/rules',
               },
               {
-                label: 'Give as a Vote Up',
+                label: 'Support Us by Voting',
                 href: 'https://lotusmu.org/vote-reward',
               },
             ],
