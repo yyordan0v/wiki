@@ -28,11 +28,11 @@ The **Box of Luck** can drop the following items:
 
 ### Zen
 
-- 15.000.000 Zen
+- 15,000,000 Zen
 
 or
 
-- 40.000.000 Zen
+- 40,000,000 Zen
 
 ## Conclusion
 

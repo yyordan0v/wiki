@@ -2,4 +2,4 @@
 sidebar_position: 6
 ---
 
-# Budge Dragon
+# Golden Budge Dragon

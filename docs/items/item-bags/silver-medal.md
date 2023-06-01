@@ -44,19 +44,21 @@ The **Silver Medal** can drop the following items:
 | --------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
 | ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) | ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png) |
 
-:::note
+:::tip
 
-Please note that the drop rates for these items may vary and the items are **non-excellent**.
+These powerful spells can be obtained only from the **Silver Medal**.
 
 :::
+
+Please note that the drop rates for these items may vary and the items are **non-excellent**.
 
 ## Obtaining the Silver Medal
 
 To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Bali](/special-monsters/others/bali)   |
-| -------------------------------------------- |
-| ![Bali](/img/monsters/special/others/bali.jpg)      |
+| [Bali](/special-monsters/others/bali)          |
+| ---------------------------------------------- |
+| ![Bali](/img/monsters/special/others/bali.jpg) |
 
 ## Conclusion
 
