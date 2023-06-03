@@ -12,7 +12,7 @@ This dimension houses a fortified city boasting drawbridges, wall-mounted cannon
 
 Please note that accessing **Lorencia** through the portal requires a minimum level of 10. Furthermore, utilizing the teleportation list (activated by pressing the "M" key) mandates both a minimum level of 10.
 
-![Lorencia](/img/maps/lorencia.jpg)
+![Lorencia](/img/maps/lorencia.webp)
 
 _Lorencia_
 
