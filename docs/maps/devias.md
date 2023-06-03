@@ -30,20 +30,20 @@ These portals serve as gateways to captivating realms, each offering its own uni
 
 ### Regular Monsters
 
-| Worm                                           | Ice Monster                                          | Hommerd                                            |
-| ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| ![Worm](/img/monsters/devias/worm.jpg)         | ![Ice Monster](/img/monsters/devias/ice-monster.jpg) | ![Hommerd](/img/monsters/devias/hommerd.jpg)       |
-| Assassin                                       | Yeti                                                 | Elite Yeti                                         |
-| ![Assassin](/img/monsters/devias/assassin.jpg) | ![Yeti](/img/monsters/devias/yeti.jpg)               | ![Elite Yeti](/img/monsters/devias/elite-yeti.jpg) |
+|                      Worm                      |                     Ice Monster                      |                      Hommerd                       |
+| :--------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
+|     ![Worm](/img/monsters/devias/worm.jpg)     | ![Ice Monster](/img/monsters/devias/ice-monster.jpg) |    ![Hommerd](/img/monsters/devias/hommerd.jpg)    |
+|                    Assassin                    |                         Yeti                         |                     Elite Yeti                     |
+| ![Assassin](/img/monsters/devias/assassin.jpg) |        ![Yeti](/img/monsters/devias/yeti.jpg)        | ![Elite Yeti](/img/monsters/devias/elite-yeti.jpg) |
 
 ### Boss
 
 | [Ice Queen](/special-monsters/mini-bosses/ice-queen) |
-| ---------------------------------------------------- |
-| ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     |
+| :--------------------------------------------------: |
+|   ![Ice Queen](/img/monsters/devias/ice-queen.jpg)   |
 
 ### Special Monsters
 
-| [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)          | [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)   |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
+| :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |

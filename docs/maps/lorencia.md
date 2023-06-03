@@ -44,6 +44,6 @@ These gateways serve as key conduits for exploration, enabling intrepid adventur
 
 ### Special Monsters
 
-| [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)          | [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)   |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
+| :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
