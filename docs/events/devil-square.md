@@ -15,8 +15,8 @@ Enter as one of 10 warriors to engage the forces of Kundun as they spawn in fron
 - The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops.
 - Additionally, you'll also need one **Jewel of Chaos** for the crafting.
 
-| Devil's Key                                           |                                       | Devil's Eye                                           |                                       | Jewel of Chaos                                 |                                         | Devil Square Invitation                                                    |
-| ----------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------------- |
+|                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       |                 Jewel of Chaos                 |                                         |                          Devil Square Invitation                           |
+| :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
 | ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |
 
 _Devil Square Invitation Crafting_
@@ -26,26 +26,26 @@ _Devil Square Invitation Crafting_
 - **Knights, Wizards and Elves:**
 
   | Devil Square Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Devil Square 1     | 15 - 130             |
-  | Devil Square 2     | 131 - 180            |
-  | Devil Square 3     | 181 - 230            |
-  | Devil Square 4     | 231 - 280            |
-  | Devil Square 5     | 281 - 330            |
-  | Devil Square 6     | 331 - 400            |
-  | Devil Square 7     | 3rd Quest Completed  |
+  | :----------------: | :------------------: |
+  |   Devil Square 1   |       15 - 130       |
+  |   Devil Square 2   |      131 - 180       |
+  |   Devil Square 3   |      181 - 230       |
+  |   Devil Square 4   |      231 - 280       |
+  |   Devil Square 5   |      281 - 330       |
+  |   Devil Square 6   |      331 - 400       |
+  |   Devil Square 7   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
   | Devil Square Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Devil Square 1     | 10 - 110             |
-  | Devil Square 2     | 111 - 160            |
-  | Devil Square 3     | 161 - 210            |
-  | Devil Square 4     | 211 - 260            |
-  | Devil Square 5     | 261 - 310            |
-  | Devil Square 6     | 311 - 400            |
-  | Devil Square 7     | 3rd Quest Completed  |
+  | :----------------: | :------------------: |
+  |   Devil Square 1   |       10 - 110       |
+  |   Devil Square 2   |      111 - 160       |
+  |   Devil Square 3   |      161 - 210       |
+  |   Devil Square 4   |      211 - 260       |
+  |   Devil Square 5   |      261 - 310       |
+  |   Devil Square 6   |      311 - 400       |
+  |   Devil Square 7   | 3rd Quest Completed  |
 
 ## Devil Square Rules
 

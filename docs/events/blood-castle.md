@@ -15,8 +15,8 @@ Risk your life to Save the Archangel, One of the strongest warriors in Lotus Mu,
 - The crafting ingredients (Blood Bone and Scroll of Archangel) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
 - Additionally, you'll also need one Jewel of Chaos for the crafting.
 
-| Blood Fang                                           |                                       | Scroll of Archangel                                                    |                                       | Jewel of Chaos                                 |                                         | Invisibility Cloak                                                   |
-| ---------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------- |
+|                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       |                 Jewel of Chaos                 |                                         |                          Invisibility Cloak                          |
+| :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
 | ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
 
 _Invisibility Cloak Crafting_
@@ -26,28 +26,28 @@ _Invisibility Cloak Crafting_
 - **Knights, Wizards and Elves:**
 
   | Blood Castle Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Blood Castle 1     | 15 - 80              |
-  | Blood Castle 2     | 81 - 130             |
-  | Blood Castle 3     | 131 - 180            |
-  | Blood Castle 4     | 181 - 230            |
-  | Blood Castle 5     | 231 - 280            |
-  | Blood Castle 6     | 281 - 330            |
-  | Blood Castle 7     | 331 - 400            |
-  | Blood Castle 8     | 3rd Quest Completed  |
+  | :----------------: | :------------------: |
+  |   Blood Castle 1   |       15 - 80        |
+  |   Blood Castle 2   |       81 - 130       |
+  |   Blood Castle 3   |      131 - 180       |
+  |   Blood Castle 4   |      181 - 230       |
+  |   Blood Castle 5   |      231 - 280       |
+  |   Blood Castle 6   |      281 - 330       |
+  |   Blood Castle 7   |      331 - 400       |
+  |   Blood Castle 8   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
   | Blood Castle Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Blood Castle 1     | 10 - 60              |
-  | Blood Castle 2     | 61 - 110             |
-  | Blood Castle 3     | 111 - 160            |
-  | Blood Castle 4     | 161 - 210            |
-  | Blood Castle 5     | 211 - 260            |
-  | Blood Castle 6     | 261 - 310            |
-  | Blood Castle 7     | 311 - 400            |
-  | Blood Castle 8     | 3rd Quest Completed  |
+  | :----------------: | :------------------: |
+  |   Blood Castle 1   |       10 - 60        |
+  |   Blood Castle 2   |       61 - 110       |
+  |   Blood Castle 3   |      111 - 160       |
+  |   Blood Castle 4   |      161 - 210       |
+  |   Blood Castle 5   |      211 - 260       |
+  |   Blood Castle 6   |      261 - 310       |
+  |   Blood Castle 7   |      311 - 400       |
+  |   Blood Castle 8   | 3rd Quest Completed  |
 
 ## Blood Castle Rules
 

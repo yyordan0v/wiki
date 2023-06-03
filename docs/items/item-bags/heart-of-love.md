@@ -18,22 +18,22 @@ The **Heart of Love** can drop the following items:
 
 ### Armor items
 
-| Brass Set                                    | Plate Set                                      | Bone Set                                                 | Sphinx Set                                     |
-| -------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- |
-| ![Brass Set](/img/items/armors/dk/brass.png) | ![Plate Set](/img/items/armors/dk/plate.png)   | ![Bone Set](/img/items/armors/dw/bone.png)               | ![Sphinx Set](/img/items/armors/dw/sphinx.png) |
-| Wind Set                                     | Spirit Set                                     | Light Plate Set                                          |
-| ![Wind Set](/img/items/armors/fe/wind.png)   | ![Spirit Set](/img/items/armors/fe/spirit.png) | ![Light Plate Set](/img/items/armors/dl/light-plate.png) |
+|                  Brass Set                   |                   Plate Set                    |                         Bone Set                         |                   Sphinx Set                   |
+| :------------------------------------------: | :--------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------: |
+| ![Brass Set](/img/items/armors/dk/brass.png) |  ![Plate Set](/img/items/armors/dk/plate.png)  |        ![Bone Set](/img/items/armors/dw/bone.png)        | ![Sphinx Set](/img/items/armors/dw/sphinx.png) |
+|                   Wind Set                   |                   Spirit Set                   |                     Light Plate Set                      |
+|  ![Wind Set](/img/items/armors/fe/wind.png)  | ![Spirit Set](/img/items/armors/fe/spirit.png) | ![Light Plate Set](/img/items/armors/dl/light-plate.png) |
 
 ### Weapons
 
-| Sword of Destruction                                                | Staff of Ressurrection                                                 | Bluewing Crossbow                                           | Battle Scepter                                            |
-| ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
+|                        Sword of Destruction                         |                         Staff of Ressurrection                         |                      Bluewing Crossbow                      |                      Battle Scepter                       |
+| :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
 | ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) | ![Staff of Ressurrection](/img/items/staffs/staff-of-ressurection.png) | ![Bluewing Crossbow](/img/items/bows/bluewing-crossbow.png) | ![Battle Scepter](/img/items/scepters/battle-scepter.png) |
 
 ### Jewels
 
-| Jewel of Bless                                 | Jewel of Soul                                | Jewel of Life                                | Jewel of Chaos                                 |
-| ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ---------------------------------------------- |
+|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                 Jewel of Chaos                 |
+| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
 | ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
 
 :::note

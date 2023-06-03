@@ -30,17 +30,17 @@ These gateways serve as key conduits for exploration, enabling intrepid adventur
 
 ### Regular Monsters
 
-| Spider                                                               | Budge Dragon                                             | Bull Fighter                                             | Hound                                      |
-| -------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------ |
-| ![Spider](/img/monsters/lorencia/spider.jpg)                         | ![Budge Dragon](/img/monsters/lorencia/budge-dragon.jpg) | ![Bull Fighter](/img/monsters/lorencia/bull-fighter.jpg) | ![Hound](/img/monsters/lorencia/hound.jpg) |
-| Elite Bull Fighter                                                   | Lich                                                     | Skeleton                                                 |                                            |
-| ![Elite Bull Fighter](/img/monsters/lorencia/elite-bull-fighter.jpg) | ![Lich](/img/monsters/lorencia/lich.jpg)                 | ![Skeleton](/img/monsters/dungeon/skeleton.jpg)          |                                            |
+|                                Spider                                |                       Budge Dragon                       |                       Bull Fighter                       |                   Hound                    |
+| :------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------: |
+|             ![Spider](/img/monsters/lorencia/spider.jpg)             | ![Budge Dragon](/img/monsters/lorencia/budge-dragon.jpg) | ![Bull Fighter](/img/monsters/lorencia/bull-fighter.jpg) | ![Hound](/img/monsters/lorencia/hound.jpg) |
+|                          Elite Bull Fighter                          |                           Lich                           |                         Skeleton                         |                                            |
+| ![Elite Bull Fighter](/img/monsters/lorencia/elite-bull-fighter.jpg) |         ![Lich](/img/monsters/lorencia/lich.jpg)         |     ![Skeleton](/img/monsters/dungeon/skeleton.jpg)      |                                            |
 
 ### Boss
 
 | [Giant](/special-monsters/mini-bosses/giant) |
-| -------------------------------------------- |
-| ![Giant](/img/monsters/lorencia/giant.jpg)   |
+| :------------------------------------------: |
+|  ![Giant](/img/monsters/lorencia/giant.jpg)  |
 
 ### Special Monsters
 

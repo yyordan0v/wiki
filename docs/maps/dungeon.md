@@ -42,7 +42,7 @@ Prepare yourself for remarkable escapades as you traverse these interconnected r
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="boss" label="Map Boss">
+  <TabItem value="boss" label="Boss">
 ```
 
 | [Gorgon](/special-monsters/mini-bosses/gorgon) |

@@ -25,24 +25,24 @@ _Armor of Guardsman_
 - **Knights, Wizards and Elves:**
 
   | Chaos Castle Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Chaos Castle 1     | 15 - 49              |
-  | Chaos Castle 2     | 50 - 119             |
-  | Chaos Castle 3     | 120 - 179            |
-  | Chaos Castle 4     | 180 - 239            |
-  | Chaos Castle 5     | 240 - 299            |
-  | Chaos Castle 6     | 300 - 400            |
+  | :----------------: | :------------------: |
+  |   Chaos Castle 1   |       15 - 49        |
+  |   Chaos Castle 2   |       50 - 119       |
+  |   Chaos Castle 3   |      120 - 179       |
+  |   Chaos Castle 4   |      180 - 239       |
+  |   Chaos Castle 5   |      240 - 299       |
+  |   Chaos Castle 6   |      300 - 400       |
 
 - **Gladiators and Lords:**
 
   | Chaos Castle Level | Character Level Req. |
-  | ------------------ | -------------------- |
-  | Chaos Castle 1     | 15 - 29              |
-  | Chaos Castle 2     | 30 - 99              |
-  | Chaos Castle 3     | 100 - 159            |
-  | Chaos Castle 4     | 160 - 219            |
-  | Chaos Castle 5     | 220 - 279            |
-  | Chaos Castle 6     | 280 - 400            |
+  | :----------------: | :------------------: |
+  |   Chaos Castle 1   |       15 - 29        |
+  |   Chaos Castle 2   |       30 - 99        |
+  |   Chaos Castle 3   |      100 - 159       |
+  |   Chaos Castle 4   |      160 - 219       |
+  |   Chaos Castle 5   |      220 - 279       |
+  |   Chaos Castle 6   |      280 - 400       |
 
 ## Chaos Castle Rules
 
@@ -85,7 +85,7 @@ _Chaos Castle Characters_
 
 Once the Character Counter reaches 50, sections of the outer floor will crumble. If a character is standing where the floor crumbles, the character will fall off the arena and will be disqualified.
 
-Some of the monsters in **Chaos Castle** have a special Skill called **Explosion**, which causes strong Knock-back. Explosion (Range: 2) is only casted after the monster dies. The Knock-back effect of the Skill can cause characters to fall off the stage. 
+Some of the monsters in **Chaos Castle** have a special Skill called **Explosion**, which causes strong Knock-back. Explosion (Range: 2) is only casted after the monster dies. The Knock-back effect of the Skill can cause characters to fall off the stage.
 
 :::tip
 

@@ -15,8 +15,8 @@ The event consists out of two teams who will try to get as many items from the *
 - The crafting ingredients can be purchased via ~~TBD~~.
 - You'll also need one **Jewel of Chaos** for the crafting.
 
-| Old Scroll                                           |                                       | Illusion Sorcerer Covenant                                                           |                                       | Jewel of Chaos                                 |                                         | Scroll of Blood                                                |
-| ---------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------- | ---------------------------------------------- | --------------------------------------- | -------------------------------------------------------------- |
+|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       |                 Jewel of Chaos                 |                                         |                        Scroll of Blood                         |
+| :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
 | ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
 
 _Scroll of Blood Crafting_
@@ -26,22 +26,22 @@ _Scroll of Blood Crafting_
 - **Knights, Wizards and Elves:**
 
   | Illusion Temple Level | Character Level Req. |
-  | --------------------- | -------------------- |
-  | Illusion Temple 1     | 220 - 270            |
-  | Illusion Temple 2     | 271 - 320            |
-  | Illusion Temple 3     | 321 - 350            |
-  | Illusion Temple 4     | 351 - 380            |
-  | Illusion Temple 5     | 381 - 400            |
+  | :-------------------: | :------------------: |
+  |   Illusion Temple 1   |      220 - 270       |
+  |   Illusion Temple 2   |      271 - 320       |
+  |   Illusion Temple 3   |      321 - 350       |
+  |   Illusion Temple 4   |      351 - 380       |
+  |   Illusion Temple 5   |      381 - 400       |
 
 - **Gladiators and Lords:**
 
   | Illusion Temple Level | Character Level Req. |
-  | --------------------- | -------------------- |
-  | Illusion Temple 1     | 220 - 270            |
-  | Illusion Temple 2     | 271 - 320            |
-  | Illusion Temple 3     | 321 - 350            |
-  | Illusion Temple 4     | 351 - 380            |
-  | Illusion Temple 5     | 381 - 400            |
+  | :-------------------: | :------------------: |
+  |   Illusion Temple 1   |      220 - 270       |
+  |   Illusion Temple 2   |      271 - 320       |
+  |   Illusion Temple 3   |      321 - 350       |
+  |   Illusion Temple 4   |      351 - 380       |
+  |   Illusion Temple 5   |      381 - 400       |
 
 ## Illusion Temple Rules
 

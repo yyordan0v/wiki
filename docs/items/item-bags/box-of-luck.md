@@ -22,8 +22,8 @@ The **Box of Luck** can drop the following items:
 
 ### Box of Kundun
 
-| Box of Kundun +1                               | Box of Kundun +2                              | Box of Kundun +3                             | Box of Kundun +4                           | Box of Kundun +5                            |
-| ---------------------------------------------- | --------------------------------------------- | -------------------------------------------- | ------------------------------------------ | ------------------------------------------- |
+|                Box of Kundun +1                |               Box of Kundun +2                |               Box of Kundun +3               |              Box of Kundun +4              |              Box of Kundun +5               |
+| :--------------------------------------------: | :-------------------------------------------: | :------------------------------------------: | :----------------------------------------: | :-----------------------------------------: |
 | ![Leather Set](/img/items/item-bags/bok-1.png) | ![Bronze Set](/img/items/item-bags/bok-2.png) | ![Scale Set](/img/items/item-bags/bok-3.png) | ![Pad Set](/img/items/item-bags/bok-4.png) | ![Vine Set](/img/items/item-bags/bok-5.png) |
 
 ### Zen
