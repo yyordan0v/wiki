@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# Jewel of Bless
+# Ghost Horse Prismatic Gems
