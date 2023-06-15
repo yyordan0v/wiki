@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 1st Level Wings
 
-In Mu Online, the wings serve as powerful equipment that enhances a character's abilities and appearance. As you progress through the game, you have the opportunity to combine **wings** and create even more formidable versions. This guide will walk you through the process of combining **1st Level Wings** to unlock event greater power.
+In Mu Online, the wings serve as powerful equipment that enhances a character's abilities and appearance. As you progress through the game, you have the opportunity to combine **wings** and create even more formidable versions. This guide will walk you through the process of combining **1st Level Wings** to unlock great power.
 
 :::tip
 

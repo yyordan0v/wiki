@@ -8,6 +8,11 @@ In the vast realm of Mu Online, **wings** serve as exceptional assets that augme
 
 Depending on the desired result you will either need to use **Loch's Feather** of **Crest Monarch**. More on that later in the guide.
 
+![Loch's Feather](/img/items/others/lochs-feather.png)
+![Crest of Monarch](/img/items/others/crest-of-monarch.png)
+
+_Loch's Feather and Crest of Monarch_
+
 :::tip
 
 These wings are also **main ingredient** in the [Condor Feather](/crafting/wings/condor-feather) Chaos Combination.
@@ -21,6 +26,7 @@ Before you can combine the **Wings**, you need to ensure that you have the neces
 - [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
 - [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
 - **Loch's Feather** or **Crest of Monarch**
+
 - [1st Level Wings](/crafting/wings/first-level-wings) upgraded to **minimum level of +7** and **minimum of +4 additional damage / +1% hp Recovery**
 - **Excellent** item that has been upgraded to a **minimum of +7** with an **option of +4 or higher**
 - 100,000,000 Zen
