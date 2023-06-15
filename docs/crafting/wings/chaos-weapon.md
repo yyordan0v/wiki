@@ -12,23 +12,27 @@ Mu Online offers a vast and immersive world where adventurers embark on quests, 
 
 To initiate the **Chaos Weapon Mix**, you'll need two essential components:
 
-- Jewel of Chaos;
-- Non excellent item that has been upgraded to a minimum of +11 with an option of +4 or higher;
-- 10,000,000 Zen;
+- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
+- **Non excellent** item that has been upgraded to a **minimum of +11** with an **option of +4 or higher**
+- 10,000,000 Zen
 
 The Jewel of Chaos serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of a formidable chaos weapon.
 
-![Example Chaos Weapon Ingredients](/img/crafting/chaos-weapon-mix.png)
+![Chaos Weapon Ingredients](/img/crafting/chaos-weapon-mix.png)
 
-_Example Chaos Weapon Mix_
+_Chaos Weapon Mix_
+
+:::info
 
 The success rate for this Chaos Combination is **100%**.
 
+:::
+
 ## The Chaos Machine
 
-Once you have acquired the Jewel of Chaos and upgraded items, locate the **Chaos Machine** within the game world. You can find him in Noria and Yoskreth.
+Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to insert the Jewel of Chaos and the upgraded items.
+Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 
 ![Chaos Goblin](/img/crafting/chaos-goblin.png)
 
@@ -36,12 +40,14 @@ _The Chaos Goblin_
 
 ## Reward
 
-A successful combination through **Chaos Weapon Mix** can yield extraordinary chaos weapons. These weapons include the **Chaos Dragon Axe, Chaos Nature Bow, and Chaos Lightning Staff**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
-
-These items are also **main ingredient** in the [1st Level Wings](/crafting/wings/first-level-wings) Chaos Combination.
+A successful combination through **Chaos Weapon Mix** can yield extraordinary chaos weapons. You will be rewarded with **Chaos Dragon Axe, Chaos Nature Bow, or Chaos Lightning Staff**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
 
 |                     Chaos Dragon Axe                      |                        Chaos Lightning Staff                         |                     Chaos Nature Bow                      |
 | :-------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------: |
 | ![Chaos Dragon Axe](/img/items/axes/chaos-dragon-axe.png) | ![Chaos Lightning Staff](/img/items/staffs/chaos-lighting-staff.png) | ![Chaos Nature Bow](/img/items/bows/chaos-nature-bow.png) |
 
-The art of combining chaos weapons in Mu Online adds an exciting dimension to the game, providing players with the opportunity to forge powerful artifacts and unlock their full potential.
+:::tip
+
+These items are also **main ingredient** in the [1st Level Wings](/crafting/wings/first-level-wings) Chaos Combination.
+
+:::

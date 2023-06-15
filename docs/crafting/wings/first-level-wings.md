@@ -4,46 +4,56 @@ sidebar_position: 2
 
 # 1st Level Wings
 
-In Mu Online, the wings serve as powerful equipment that enhances a character's abilities and appearance. As you progress through the game, you have the opportunity to combine wings and create even more formidable versions. This guide will walk you through the process of combining **1st Level Wings** to unlock event greater power.
+In Mu Online, the wings serve as powerful equipment that enhances a character's abilities and appearance. As you progress through the game, you have the opportunity to combine **wings** and create even more formidable versions. This guide will walk you through the process of combining **1st Level Wings** to unlock event greater power.
 
-**Chaos Weapon Mix** is a unique feature in Mu Online that allows players to fuse various items together to create powerful chaos weapons. These weapons possess extraordinary attributes, enhancing a player's combat prowess and unlocking new possibilities for character development.
+:::tip
+
+These wings are also **main ingredient** in the [2nd Level Wings](/crafting/wings/second-level-wings) Chaos Combination.
+
+:::
 
 ## Ingredients
 
 Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
 
-- Jewel of Chaos;
-- Jewel of Creation;
-- [Chaos Weapon](/crafting/wings/chaos-weapon) upgraded to minimum level of +4 and minimum of +4 additional damage;
-- Non excellent item that has been upgraded to a minimum of +11 with an option of +4 or higher;
-- 30,000,000 Zen;
+- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
+- [Chaos Weapon](/crafting/wings/chaos-weapon) upgraded to **minimum level of +4** and **minimum of +4 additional damage**
+- **Non excellent** item that has been upgraded to a **minimum of +11** with an **option of +4 or higher**
+- 30,000,000 Zen
 
-The Jewel of Chaos serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of a formidable chaos weapon.
+The Jewel of Chaos serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of the **wings**.
 
-![Example Chaos Weapon Ingredients](/img/crafting/chaos-weapon-mix.png)
+![First Level Wings Mix](/img/crafting/first-level-wings.png)
 
-_Example Chaos Weapon Mix_
+_First Level Wings Mix_
+
+:::info
 
 The success rate for this Chaos Combination is **100%**.
 
+:::
+
 ## The Chaos Machine
 
-Once you have acquired the Jewel of Chaos and upgraded items, locate the **Chaos Machine** within the game world. You can find him in Noria and Yoskreth.
+Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to insert the Jewel of Chaos and the upgraded items.
+Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.jpg)
+![Chaos Goblin](/img/crafting/chaos-goblin.png)
 
 _The Chaos Goblin_
 
 ## Reward
 
-A successful combination through **Chaos Weapon Mix** can yield extraordinary chaos weapons. These weapons include the **Chaos Dragon Axe, Chaos Nature Bow, and Chaos Lightning Staff**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
+A successful combination will reward you with **1st Level Wings**. You will get the **Wings of Satan, the Wings of Heaven or the Wings of Elf**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
 
-These items are also **main ingredient** in the [1st Level Wings](/crafting/wings/first-level-wings) Chaos Combination.
+|                     Wings of Satan                     |                     Wings of Heaven                      |                    Wings of Elf                    |
+| :----------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: |
+| ![Wings of Satan](/img/items/wings/wings-of-satan.png) | ![Wings of Heaven](/img/items/wings/wings-of-heaven.png) | ![Wings of Elf](/img/items/wings/wings-of-elf.png) |
 
-|                     Chaos Dragon Axe                      |                        Chaos Lightning Staff                         |                     Chaos Nature Bow                      |
-| :-------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------: |
-| ![Chaos Dragon Axe](/img/items/axes/chaos-dragon-axe.png) | ![Chaos Lightning Staff](/img/items/staffs/chaos-lighting-staff.png) | ![Chaos Nature Bow](/img/items/bows/chaos-nature-bow.png) |
+:::caution
 
-The art of combining chaos weapons in Mu Online adds an exciting dimension to the game, providing players with the opportunity to forge powerful artifacts and unlock their full potential.
+It's important to note that the type of **Wings** obtained does not rely on the type of the used [Chaos Weapon](/crafting/wings/chaos-weapon).
+
+:::
