@@ -14,7 +14,7 @@ This item is one of the **main ingredients** in the [3rd Level Wings](/crafting/
 
 ## Ingredients
 
-Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
+Before you can combine the **Feather**, you need to ensure that you have the necessary ingredients:
 
 - [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
 - [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
