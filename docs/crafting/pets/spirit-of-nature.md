@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# Necromancer
+# Spirit of Nature
 
 In the mystical realm of Mu Online, where battles rage and heroes emerge, players have the opportunity to form powerful bonds with a variety of pets, each offering unique abilities and assistance. Among these extraordinary companions, the **Necromancer** stands out as a pet of unparalleled strength and utility. With its mastery over the dark arts and control over the undead, the **Necromancer** pet is a force to be reckoned with.
 

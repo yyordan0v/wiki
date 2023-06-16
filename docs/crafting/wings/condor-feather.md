@@ -1,16 +1,14 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Condor Feather
 
-In the vast realm of Mu Online, **wings** serve as exceptional assets that augment a character's abilities and lend a captivating aura to their appearance. As adventurers traverse the game's vast landscapes, they encounter opportunities to transcend their current prowess by embarking on the path of combining wings. This comprehensive guide aims to illuminate the process of combining **2nd Level Wings** and unravel the untapped potential for even greater power that awaits those who dare to venture further.
-
-Depending on the desired result you will either need to use **Loch's Feather** of **Crest Monarch**. More on that later in the guide.
+Deep within the mystical realm of Mu Online, among the pivotal elements required to fashion the resplendent 3rd Level Wings, lies the illustrious **Condor Feather**. Revered as a sacred artifact, this extraordinary plume possesses a profound significance, serving as a crucial ingredient that infuses the wings with unparalleled strength and grace. Within this immersive guide, we shall illuminate the essence of this mystical plume, unveiling its hidden enchantments and the transformative potential it holds, as it weaves its ethereal essence into the very fabric of these mighty wings, elevating both their aesthetic allure and empowering those who wield them with extraordinary abilities beyond imagination.
 
 :::tip
 
-These wings are also **main ingredient** in the [Condor Feather](/crafting/wings/condor-feather) Chaos Combination.
+This item is one of the **main ingredients** in the [3rd Level Wings](/crafting/wings/third-level-wings) Chaos Combination.
 
 :::
 
@@ -19,20 +17,20 @@ These wings are also **main ingredient** in the [Condor Feather](/crafting/wings
 Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
 
 - [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- **Loch's Feather** or **Crest of Monarch**
-- [1st Level Wings](/crafting/wings/first-level-wings) upgraded to **minimum level of +7** and **minimum of +4 additional damage / +1% hp Recovery**
-- **Excellent** item that has been upgraded to a **minimum of +7** with an **option of +4 or higher**
-- 100,000,000 Zen
+- [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
+- [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
+- [10 Bundled Jewels of Creation](/items/jewels/regular-jewels/jewel-of-creation)
+- [2nd Level Wings](/crafting/wings/second-level-wings) upgraded to **minimum level of +13** and **minimum of +4 additional damage / +1% hp Recovery**
+- **Ancient** item that has been upgraded to a **minimum of +9** with an **option of +4 or higher**
+- 300,000,000 Zen
 
-![Second Level Wings Mix](/img/crafting/second-level-wings.png)
-![Cape of Lord Mix](/img/crafting/second-level-wings-dl.png)
+![Condor Feather Mix](/img/crafting/condor-feather.png)
 
-_Second Level Wings / Cape of Lord Mix_
+_Condor Feather Mix_
 
 :::info
 
-The success rate for this Chaos Combination is **90%**.
+The success rate for this Chaos Combination is **60%**.
 
 :::
 
@@ -48,19 +46,8 @@ _The Chaos Goblin_
 
 ## Reward
 
-A successful combination will reward you with **2nd Level Wings**. You will get **Wings of Dragon, Wings of Soul, Wings of Spirits, Wings of Darkness or the Cape of Lord** depending on the used ingredients.
+After a successful combination the player will be granted the **Condor Feather**.
 
-- To receive the **Cape of Lord** you must use **Crest of Monarch** in your combination.
-- To receive either of the other **wings** you must use **Loch's Feather**.
+![Condor Feather](/img/items/others/condor-feather.png)
 
-|                       Wings of Dragon                        |                    Wings of Soul                     |                     Wings of Spirits                      |
-| :----------------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------------: |
-|   ![Wings of Dragon](/img/items/wings/wings-of-dragon.png)   | ![Wings of Soul](/img/items/wings/wings-of-soul.png) | ![Wings of Spirits](/img/items/wings/wings-of-spirit.png) |
-|                      Wings of Darkness                       |                     Cape of Lord                     |
-| ![Wings of Darkness](/img/items/wings/wings-of-darkness.png) |  ![Cape of Lord](/img/items/wings/cape-of-lord.png)  |
-
-:::caution
-
-It is worth mentioning that the type of **2nd Level Wings** obtained is not dependent on the type of your initial [1st Level Wings](/crafting/wings/first-level-wings).
-
-:::
+_Condor Feather_

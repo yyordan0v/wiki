@@ -46,7 +46,7 @@ _The Chaos Goblin_
 
 ## Reward
 
-A successful combination will reward you with **1st Level Wings**. You will get the **Wings of Satan, the Wings of Heaven or the Wings of Elf**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
+A successful combination will reward you with **1st Level Wings**. You will get the **Wings of Satan, the Wings of Heaven** or the **Wings of Elf**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
 
 |                     Wings of Satan                     |                     Wings of Heaven                      |                    Wings of Elf                    |
 | :----------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: |
