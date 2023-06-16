@@ -6,7 +6,7 @@ sidebar_position: 2
 
 In the enchanting realm of Mu Online, where fantastical landscapes and wondrous creatures abound, players have the opportunity to form profound connections with mystical pets, each possessing their own unique abilities and allure. Among these extraordinary companions, the **Spirit of Nature** stands out as a pet of exceptional beauty and power. With its deep connection to the natural world and its harmonious presence, the **Spirit of Nature** is a prized companion for adventurers in Mu.
 
-The **Spirit of Nature** embodies the essence of the natural world, radiating a serene aura that captivates all who behold it. Resplendent with vibrant hues and adorned with floral embellishments, this ethereal creature exemplifies the delicate balance and raw power found in nature. Its appearance alone evokes a sense of tranquility and reverence, making the **Spirit of Nature** a highly coveted pet among players.
+The **Spirit of Nature** is a Tier 2 pet, evolving from its Tier 1 counterpart, the **Guardian Angel**. The magical fairy embodies the essence of the natural world, radiating a serene aura that captivates all who behold it. Resplendent with vibrant hues and adorned with floral embellishments, this ethereal creature exemplifies the delicate balance and raw power found in nature. Its appearance alone evokes a sense of tranquility and reverence, making the **Spirit of Nature** a highly coveted pet among players.
 
 ![Spirit of Nature](/img/items/pets/spirit-of-nature.png)
 
