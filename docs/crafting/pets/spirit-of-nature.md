@@ -4,29 +4,29 @@ sidebar_position: 2
 
 # Spirit of Nature
 
-In the mystical realm of Mu Online, where battles rage and heroes emerge, players have the opportunity to form powerful bonds with a variety of pets, each offering unique abilities and assistance. Among these extraordinary companions, the **Necromancer** stands out as a pet of unparalleled strength and utility. With its mastery over the dark arts and control over the undead, the **Necromancer** pet is a force to be reckoned with.
+In the enchanting realm of Mu Online, where fantastical landscapes and wondrous creatures abound, players have the opportunity to form profound connections with mystical pets, each possessing their own unique abilities and allure. Among these extraordinary companions, the **Spirit of Nature** stands out as a pet of exceptional beauty and power. With its deep connection to the natural world and its harmonious presence, the **Spirit of Nature** is a prized companion for adventurers in Mu.
 
-The **Necromancer** pet brings an air of darkness and intrigue to the gameplay experience. This skeletal sorcerer is a Tier 2 pet, evolving from its Tier 1 counterpart, the Devil Imp. Its skeletal visage, adorned in dark robes and wielding an ancient staff, exudes an aura of menace and power. The **Necromancer's** appearance alone sets it apart, captivating the attention of both allies and adversaries in the world of Mu.
+The **Spirit of Nature** embodies the essence of the natural world, radiating a serene aura that captivates all who behold it. Resplendent with vibrant hues and adorned with floral embellishments, this ethereal creature exemplifies the delicate balance and raw power found in nature. Its appearance alone evokes a sense of tranquility and reverence, making the **Spirit of Nature** a highly coveted pet among players.
 
-![Necromancer](/img/items/pets/necromancer.png)
+![Spirit of Nature](/img/items/pets/spirit-of-nature.png)
 
-_Necromancer_
+_Spirit of Nature_
 
 ## Ingredients
 
-In order to get your hands on the **Necromancer** you need to acquire the followings items:
+In order to get your hands on the **Spirit of Nature** you need to acquire the followings items:
 
 - [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
 - [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
 - [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life)
 - [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
 - [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
-- **Devil Imp** x10
+- **Guardian Angel** x10
 - 50,000,000 Zen
 
-![Necromancer Mix](/img/crafting/necromancer-mix.png)
+![Spirit of Nature Mix](/img/crafting/spirit-of-nature-mix.png)
 
-_Necromancer Mix_
+_Spirit of Nature Mix_
 
 :::info
 
@@ -36,7 +36,7 @@ The success rate for this Chaos Combination is **60%**.
 
 ## Stats
 
-Furthermore, the **Necromancer** pet boosts a range of formidable skills that complement its master's playstyle. When summoned, the pet bestows a significant increase in the wearer's attack damage. This and the other buffs that the **Necromancer** grants, makes its wearer a fearsome foe on the battlefield.
+One of the most remarkable aspects of the **Spirit of Nature** is its ability to harness the forces of nature to aid its master. With a simple gesture or a gentle touch, the Spirit of Nature is ensuring that their master  can endure even the most grueling of challenges.
 
 :::tip
 
@@ -44,16 +44,16 @@ No matter how hard you fight, the **Spirit of Nature** will stay healthy forever
 
 :::
 
-Hero equiped with the **Necromancer** gets the following bonuses:
+Hero equiped with the **Spirit of Nature** gets the following bonuses:
 
-- Increased Damage & Wizardry Damage by **40%**
-- **30%** of Damage Absorb
-- Increased maximum HP by **+5000**
+- Increased Damage & Wizardry Damage by **30%**
+- **40%** of Damage Absorb
+- Increased maximum HP by **+6500**
 
 ## Cosmetics
 
-Customization is another aspect that makes the **Necromancer** pet appealing to players. With a wide range of skins, owners can personalize their **Necromancer**, making it truly their own.
+Beyond its exceptional abilities, the **Spirit of Nature** also allows players to express their creativity and individuality. With a range of cosmetic options available, players can adorn their pet with vibrant colors, intricate patterns, and natural adornments, reflecting their own connection to the beauty of nature.
 
-Whether adorned in regal attire or draped in eerie darkness, players can display their individuality and style, giving their **Necromancer** a distinct presence on the battlefield.
+This customization feature adds a personal touch and allows players to create a **Spirit of Nature** that is as unique and awe-inspiring as the world it inhabits.
 
 You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/category/skin-system) section.
