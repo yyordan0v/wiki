@@ -22,7 +22,7 @@ Whether you're looking to master the art of combat, explore new areas, acquire r
 Join our vibrant and welcoming community on our forums, Discord server, and social media pages to connect with other players, get the latest news and updates, and take part in exciting events and giveaways!
 
 - [Forums](https://forum.lotusmu.org)
-- [Discord](#)
+- [Discord](https://discord.com/HQGpHQ69uc)
 - [Social Media](#)
 
 ## Something missing?

@@ -125,7 +125,7 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/',
+                href: 'https://discord.com/HQGpHQ69uc',
               },
               {
                 label: 'Facebook',
