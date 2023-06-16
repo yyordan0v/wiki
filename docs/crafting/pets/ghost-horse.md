@@ -40,6 +40,12 @@ The success rate for this Chaos Combination is **60%**.
 
 One of the standout features of the **Ghost Horse** is its ability to provide various buffs and bonuses to its master. When summoned, the pet bestows a significant increase in movement speed, allowing players to navigate the treacherous landscapes of Mu with unparalleled swiftness. This and the raw stats buffs give the **Ghost Horse** wearer advantageous position in both PvP battles and intense dungeon raids where every second counts.
 
+:::tip
+
+No matter how hard you fight, the **Ghost Horse** will stay healthy forever.
+
+:::
+
 Hero equiped with the **Ghost Horse** gets the following bonuses:
 
 - Increased Damage & Wizardry Damage by **30%**
