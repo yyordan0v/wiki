@@ -38,6 +38,12 @@ The success rate for this Chaos Combination is **60%**.
 
 Furthermore, the **Necromancer** pet boosts a range of formidable skills that complement its master's playstyle. When summoned, the pet bestows a significant increase in the wearer's attack damage. This and the other buffs that the **Necromancer** grants, makes its wearer a fearsome foe on the battlefield.
 
+:::tip
+
+No matter how hard you fight, the **Necromancer** will stay healthy forever.
+
+:::
+
 Hero equiped with the **Necromancer** gets the following bonuses:
 
 - Increased Damage & Wizardry Damage by **40%**
