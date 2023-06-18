@@ -26,10 +26,7 @@ Prepare yourself for remarkable escapades as you traverse these interconnected r
 
 ## Monsters in Dungeon
 
-```mdx-code-block
-<Tabs lazy>
-  <TabItem value="regular" label="Regular Monsters">
-```
+### Regular Monsters
 
 |                                    Lich                                     |                           Skeleton                            |                                 Larva                                 | Cyclops                                               |
 | :-------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | ----------------------------------------------------- |
@@ -39,27 +36,14 @@ Prepare yourself for remarkable escapades as you traverse these interconnected r
 |                           Chief Skeleton Warrior                            |                         Thunder Lich                          |                          Poison Bull Fighter                          | Dark Knight                                           |
 | ![Chief Skeleton Warrior](/img/monsters/dungeon/chief-skeleton-warrior.jpg) |    ![Thunder Lich](/img/monsters/dungeon/thunder-lich.jpg)    | ![Poison Bull Fighter](/img/monsters/dungeon/poison-bull-fighter.jpg) | ![Dark Knight](/img/monsters/dungeon/dark-knight.jpg) |
 
-```mdx-code-block
-  </TabItem>
-
-  <TabItem value="boss" label="Boss">
-```
+### Boss
 
 | [Gorgon](/special-monsters/mini-bosses/gorgon) |
 | ---------------------------------------------- |
 | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    |
 
-```mdx-code-block
-  </TabItem>
-  <TabItem value="special" label="Special Monsters">
-```
+### Special Monsters
 
-|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
-| :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
-
-```mdx-code-block
-
-  </TabItem>
-</Tabs>
-```
+|     [Bali](/special-monsters/others/bali)      |     [Soldier](/special-monsters/others/soldier)      |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
+| :--------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![Bali](/img/monsters/special/others/bali.jpg) | ![Soldier](/img/monsters/special/others/soldier.jpg) | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
