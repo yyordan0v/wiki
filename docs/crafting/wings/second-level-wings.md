@@ -6,7 +6,7 @@ sidebar_position: 3
 
 In the vast realm of Mu Online, **wings** serve as exceptional assets that augment a character's abilities and lend a captivating aura to their appearance. As adventurers traverse the game's vast landscapes, they encounter opportunities to transcend their current prowess by embarking on the path of combining wings. This comprehensive guide aims to illuminate the process of combining **2nd Level Wings** and unravel the untapped potential for even greater power that awaits those who dare to venture further.
 
-Depending on the desired result you will either need to use [Loch's Feather](/items/others/lochs-feather) or [Crest of Monarch](/items/others/crest-of-monarch) More on that later in the guide.
+Depending on the desired result you will either need to use [Loch's Feather](/items/others/lochs-feather) or [Crest of Monarch](/items/others/crest-of-monarch) - more on that later in the guide.
 
 ![Loch's Feather](/img/items/others/lochs-feather.png)
 ![Crest of Monarch](/img/items/others/crest-of-monarch.png)

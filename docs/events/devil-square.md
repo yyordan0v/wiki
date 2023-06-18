@@ -4,22 +4,24 @@ sidebar_position: 2
 
 # Devil Square
 
-Enter as one of 10 warriors to engage the forces of Kundun as they spawn in front of you in an endless barrage of attacks. Either alone or in a team only the strongest will survive **Devil Square**. With the **Devil Square Invitation**, you are granted access into **Devil Square**, where your strength will be tested.
+Enter as one of 10 warriors to engage the forces of Kundun as they spawn in front of you in an endless barrage of attacks. Either alone or in a team only the strongest will survive **Devil Square**. With the [Devil Square Invitation](/crafting/invitations/devil-square-invitation), you are granted access into **Devil Square**, where your strength will be tested.
 
 ## Entry Requirements
 
 ### Required Item
 
-- You must craft an **Devil Square Invitation** to enter **Devil Square**.
-- **Devil Square Invitation** is crafted via Chaos Goblin Machine.
+- You must craft an [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to enter **Devil Square**.
+- [Devil Square Invitation](/crafting/invitations/devil-square-invitation) is crafted via Chaos Goblin Machine.
 - The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops.
 - Additionally, you'll also need one **Jewel of Chaos** for the crafting.
 
-|                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       |                 Jewel of Chaos                 |                                         |                          Devil Square Invitation                           |
+|                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       |                 Jewel of Chaos                 |                                         |  [Devil Square Invitation](/crafting/invitations/devil-square-invitation)  |
 | :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
 | ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |
 
 _Devil Square Invitation Crafting_
+
+Detailed information on the crafting process you can find in the [Devil Square Invitation](/crafting/invitations/devil-square-invitation) article.
 
 ### Required Level
 
@@ -62,7 +64,7 @@ _Devil Square Invitation Crafting_
 
 ### Preparation
 
-Prior to the start of the **Devil Square**, the following messages start to appear in the Lotus Mu Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with **Devil Invitation** to the **Charon** (Located TBD). Talk to him, on the screen you will see a table in which you need to select the appropriate level of Devil Square for your character (you should have the same level of Devil Invitation in your inventory). If you did everything correctly, then you will be taken to the Devil Square Event map.
+Prior to the start of the **Devil Square**, the following messages start to appear in the Lotus Mu Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** (Located TBD). Talk to him, on the screen you will see a table in which you need to select the appropriate level of Devil Square for your character (you should have the same level of [Devil Square Invitation](/crafting/invitations/devil-square-invitation) in your inventory). If you did everything correctly, then you will be taken to the Devil Square Event map.
 
 ![Charon](/img/events/ds/charon.jpg)
 

@@ -10,16 +10,18 @@ The event consists out of two teams who will try to get as many items from the *
 
 ### Required Item
 
-- You must craft a **Scroll of Blood** to enter.
-- **Scroll of Blood** is crafted via Chaos Goblin Machine.
+- You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
+- [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
 - The crafting ingredients can be purchased via ~~TBD~~.
 - You'll also need one **Jewel of Chaos** for the crafting.
 
-|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       |                 Jewel of Chaos                 |                                         |                        Scroll of Blood                         |
+|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       |                 Jewel of Chaos                 |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
 | :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
 | ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
 
 _Scroll of Blood Crafting_
+
+Detailed information on the crafting process you can find in the [Scroll of Blood](/crafting/invitations/scroll-of-blood) article.
 
 ### Required Level
 
@@ -60,7 +62,7 @@ _Scroll of Blood Crafting_
 
 ### Preparation
 
-Prior to the start of the **Illusion Temple**, the following messages start to appear in the Lotus Mu Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the **Scroll of Blood** to **Mirage** ~~(Located TBD)~~. You need to have the correct Scroll corresponding to your Character's level in order to enter the Event. If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
+Prior to the start of the **Illusion Temple**, the following messages start to appear in the Lotus Mu Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** ~~(Located TBD)~~. You need to have the correct Scroll corresponding to your Character's level in order to enter the Event. If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
 
 ![Illusion Temple NPC - Mirage](/img/events/it/it-npc.jpg)
 

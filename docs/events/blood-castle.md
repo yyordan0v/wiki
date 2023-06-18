@@ -10,16 +10,18 @@ Risk your life to Save the Archangel, One of the strongest warriors in Lotus Mu,
 
 ### Required Item
 
-- You must craft an **Invisibility Cloak** in order to enter Blood Castle.
-- **Invisibility Cloak** is crafted via Chaos Goblin Machine.
+- You must craft an [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in order to enter Blood Castle.
+- [Invisibility Cloak](/crafting/invitations/invisibility-cloak) is crafted via Chaos Goblin Machine.
 - The crafting ingredients (Blood Bone and Scroll of Archangel) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
 - Additionally, you'll also need one Jewel of Chaos for the crafting.
 
-|                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       |                 Jewel of Chaos                 |                                         |                          Invisibility Cloak                          |
+|                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       |                 Jewel of Chaos                 |                                         |    [Invisibility Cloak](/crafting/invitations/invisibility-cloak)    |
 | :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
 | ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
 
 _Invisibility Cloak Crafting_
+
+Detailed information on the crafting process you can find in the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) article.
 
 ### Required Level
 
@@ -66,7 +68,7 @@ _Invisibility Cloak Crafting_
 
 ### Preparation
 
-At the beginning of each even hour, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the **Invisibility Cloak** to the Archangel which is located ~~(TBD)~~. Talk to him and you will see a table in which you need to select the appropriate level of Blood Castle for your character (The Invisibility Cloak in your inventory should be the same level).
+At the beginning of each even hour, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the Archangel which is located ~~(TBD)~~. Talk to him and you will see a table in which you need to select the appropriate level of Blood Castle for your character (The [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in your inventory should be the same level).
 If you did everything correctly, then you will be taken to the **Blood Castle**.
 
 ![Messenger of Archangel](/img/events/bc/bc-npc.png)
@@ -99,3 +101,5 @@ Quest completed! Archangel's Weapon Found! You will now get a generous reward.
 Blood Castle can be held as part of a party, in which case all of its members will receive reward.
 
 ## Reward
+
+## Monthly Reward
