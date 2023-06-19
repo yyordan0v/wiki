@@ -79,7 +79,7 @@ During the invasion **7** Golden Titans and **14** Golden Soldiers are spread in
 
 #### Reward
 
-By slaying those creates a player will be rewarded as follows:
+By slaying those creatures a player will be rewarded as follows:
 
 |                       Golden Titan                       |                        Golden Soldier                         |
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -140,7 +140,7 @@ During the invasion **3** Golden Lizard Kings and **6** Golden Vepars are spread
 
 #### Reward
 
-By slaying those creates a player will be rewarded as follows:
+By slaying those creatures a player will be rewarded as follows:
 
 |                    Golden Lizard King                    |                         Golden Vepar                          |
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -173,7 +173,7 @@ During the invasion **1** Golden Tantals and **3** Golden Wheels can be found [T
 
 #### Reward
 
-By slaying those creates a player will be rewarded as follows:
+By slaying those creatures a player will be rewarded as follows:
 
 |                      Golden Tantal                       |                         Golden Wheel                          |
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
