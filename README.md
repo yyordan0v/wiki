@@ -17,16 +17,11 @@ Built with [Docusaurus 2](https://docusaurus.io/), an open-source documentation 
 - Customizable themes and styling options to match the aesthetics and branding of Lotus Mu.
 - Regular updates to align with the latest features, patches, and changes in the game server.
 
-## Installation
+## Deployment
 
-To locally install and run the Lotus Mu Documentation project, please follow these steps:
+The Lotus Mu Wiki is deployed using [Netlify](https://www.netlify.com/), a powerful platform for continuous deployment and hosting of static websites. **Netlify** automates the build and deployment process, ensuring that the latest changes to the documentation are published and accessible to users in real-time.
 
-1. Clone the repository.
-2. Install the dependencies by running `npm install` in the project directory.
-3. Start the development server with `npm run start`.
-4. Access the documentation in your web browser by visiting the provided local development server URL.
-
-For more detailed instructions and configuration options, please refer to the official Docusaurus documentation.
+By leveraging the seamless integration between Docusaurus and Netlify, updates to the documentation are automatically detected, triggering the build process and deploying the new version of the site. This allows for a smooth and efficient workflow, reducing manual intervention and ensuring that users always have access to the most up-to-date documentation.
 
 ## Contributing
 
