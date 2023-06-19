@@ -40,17 +40,17 @@ The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adven
 
 _Golden Twin Tail_
 
-#### Location
+### Location
 
 The area targeted by the **Golden Twin Tail** consistently encompass the following map:
 
 - [Kanturu 2](/maps/kanturu-ruins)
 
-#### Quantity
+### Quantity
 
 During the invasion only **1** Golden Twin Tale is somewhere on the above mentioned maps.
 
-#### Reward
+### Reward
 
 When a player kills a **Golden Twin Tail**, they will receive a [Red Chaos Box](/items/item-bags/red-chaos-box).
 
@@ -70,17 +70,17 @@ The **Golden Knigth**, a formidable and relentless warrior, strikes fear into th
 
 _Golden Knight_
 
-#### Location
+### Location
 
 The menacing **Golden Knight** wreaks havoc in the serene lands of **Lotus Mu**, instilling chaos and fear. Find the Golden Knight on the designated map:
 
 - [Kanturu 1](/maps/kanturu-ruins)
 
-#### Quantity
+### Quantity
 
 During the invasion only **1** Golden Knight is crawling somewhere in **Kanturu**. .
 
-#### Reward
+### Reward
 
 By slaying that creature a player will be rewarded a [Green Ribbon Box](/items/item-bags/green-ribbon-box).
 
@@ -99,17 +99,17 @@ The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands re
 
 _Golden Great Dragon_
 
-#### Location
+### Location
 
 The **Golden Great Dragons** consistently attack only the following map:
 
 ??????????????????????????????/
 
-#### Quantity
+### Quantity
 
 Throughout the invasion, a solitary **Golden Great Dragon** is encountered, making it a **unique** and **singular** presence within the realm.
 
-#### Reward
+### Reward
 
 When the **Golden Great Dragon** dies, he will drop the legendary [Blue Chocolate Box](/items/item-bags/blue-chocolate-box).
 
