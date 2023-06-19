@@ -26,7 +26,7 @@ You can find the invaders close to the safe zones of the mentioned maps.
 
 ## Schedule
 
-The subsequent table provides detailed information about the time and the quantity of **Red Dragon** attacks that occur throughout the day. It offers a comprehensive overview of when the attacks take place and the number of **Red Dragons** involved in each assault.
+The subsequent table provides detailed information about the time and the quantity of **Red Dragon** attacks that occur throughout the day.
 
 | First Invasion time |  Frequency   | Monster Count |
 | :-----------------: | :----------: | :-----------: |
