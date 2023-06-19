@@ -2,6 +2,9 @@
 sidebar_position: 3
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Golden Dragon Invasion
 
 Prepare to be enthralled by the mythical realm of **Lotus Mu** as we delve into the thrilling phenomenon of the **Golden Dragon Invasion**. In this article, we embark on a journey through a land shrouded in mystery, where fearsome dragons wield immense power and treasure awaits those bold enough to face their fiery wrath. Join us as we uncover the secrets, challenges, and rewards that await adventurers who dare to confront the **Golden Dragon Invasion** in the immersive world of **Lotus Mu**.
@@ -26,7 +29,11 @@ Please take into account that the invasion timer is based on the server time.
 
 ## Invasion Details
 
-### Golden Goblin
+```mdx-code-block
+<Tabs lazy>
+  <TabItem value="golden-goblin" label="Golden Goblin">
+```
+
 
 The **Golden Goblin**, a rare and elusive creature, entices adventurers with the promise of untold wealth as it guards its precious hoard of treasures.
 
@@ -53,7 +60,11 @@ When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/
 
 _Box of Kundun +1_
 
-### Golden Titan
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="golden-titan" label="Golden Titan">
+```
 
 The **Golden Titan**, a towering behemoth of immense strength, strikes fear into the hearts of all who dare to challenge it, making for a formidable encounter in the world of **Lotus Mu**.
 
@@ -86,7 +97,11 @@ By slaying those creatures a player will be rewarded as follows:
 | [Box of Kundun +2](/items/item-bags/box-of-kundun/bok-2) |       [Red Ribbon Box](/items/item-bags/red-ribbon-box)       |
 |   ![Box of Kundun +2](/img/items/item-bags/bok-2.png)    | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
 
-### Golden Dragon
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="golden-dragon" label="Golden Dragon">
+```
 
 The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies of **Lotus Mu** with its immense power and deadly breath of fire.
 
@@ -114,7 +129,11 @@ When a player kills a **Golden Dragon**, they will receive a [Box of Kundun+3](/
 
 _Box of Kundun +3_
 
-### Golden Lizard King
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="golden-lizard-king" label="Golden Lizard King">
+```
 
 The **Golden Lizard King**, a regal and fearsome ruler of reptilian origins, dominates the battlegrounds of [Atlans](/maps/atlans) with its formidable presence and devastating attacks.
 
@@ -147,7 +166,11 @@ By slaying those creatures a player will be rewarded as follows:
 | [Box of Kundun +4](/items/item-bags/box-of-kundun/bok-4) |       [Red Ribbon Box](/items/item-bags/red-ribbon-box)       |
 |   ![Box of Kundun +4](/img/items/item-bags/bok-4.png)    | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
 
-### Golden Tantal
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="golden-tantal" label="Golden Tantal">
+```
 
 The **Golden Tantal**, an imposing monarch, reigns supreme over [Tarkan](/maps/tarkan) with its commanding presence and destructive assaults.
 
@@ -179,3 +202,9 @@ By slaying those creatures a player will be rewarded as follows:
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
 | [Box of Kundun +5](/items/item-bags/box-of-kundun/bok-5) |       [Red Ribbon Box](/items/item-bags/red-ribbon-box)       |
 |   ![Box of Kundun +5](/img/items/item-bags/bok-5.png)    | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
+
+```mdx-code-block
+
+  </TabItem>
+</Tabs>
+```

@@ -34,8 +34,6 @@ Please take into account that the invasion timer is based on the server time.
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
 ```
 
-### Golden Twin Tale
-
 The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Lotus Mu**.
 
 ![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg)
@@ -66,8 +64,6 @@ _Red Chaos Box_
   <TabItem value="golden-knight" label="Golden Knight">
 ```
 
-### Golden Knight
-
 The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **Lotus Mu**.
 
 ![Golden Knight](/img/monsters/special/golden/golden-iron-knight.jpg)
@@ -96,8 +92,6 @@ _Green Ribbon Box_
   </TabItem>
   <TabItem value="golden-great-dragon" label="Golden Great Dragon">
 ```
-
-### Golden Great Dragon
 
 The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **Lotus Mu**.
 
