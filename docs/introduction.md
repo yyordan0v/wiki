@@ -13,6 +13,12 @@ This documentation website serves as a comprehensive guide to all the settings a
 
 Whether you're looking to master the art of combat, explore new areas, acquire rare items, or join a guild and interact with other players, this documentation website has you covered. So dive in, explore the various categories and subcategories, and discover all the secrets that the game has to offer.
 
+:::info
+
+Currently, this documentation only addresses the **unique** setup and configuration of **Lotus Mu**.
+
+:::
+
 ## Topics
 
 **Lotus Mu** offers a wide range of gameplay systems and mechanics to explore. This website covers them all in detail, providing you with clear and concise explanations, tutorials, and tips to help you get the most out of your gameplay experience.
