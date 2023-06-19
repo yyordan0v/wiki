@@ -17,7 +17,7 @@ Built with [Docusaurus 2](https://docusaurus.io/), an open-source documentation 
 
 ## Deployment
 
-The Lotus Mu Wiki is deployed using [Netlify](https://www.netlify.com/), a powerful platform for continuous deployment and hosting of static websites. **Netlify** automates the build and deployment process, ensuring that the latest changes to the documentation are published and accessible to users in real-time.
+The **Lotus Mu Wiki** is deployed using [Netlify](https://www.netlify.com/), a powerful platform for continuous deployment and hosting of static websites. **Netlify** automates the build and deployment process, ensuring that the latest changes to the documentation are published and accessible to users in real-time.
 
 By leveraging the seamless integration between Docusaurus and Netlify, updates to the documentation are automatically detected, triggering the build process and deploying the new version of the site. This allows for a smooth and efficient workflow, reducing manual intervention and ensuring that users always have access to the most up-to-date documentation.
 
