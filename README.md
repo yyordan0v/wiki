@@ -1,6 +1,4 @@
-# Project Title
-
-Lotus Mu Wiki
+# Lotus Mu Wiki
 
 ## Description
 
