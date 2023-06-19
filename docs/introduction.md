@@ -21,9 +21,9 @@ We understand that continuous updates and improvements are vital to keeping pace
 
 ## Topics
 
-**Lotus Mu** offers a wide range of gameplay systems and mechanics to explore. This website covers them all in detail, providing you with clear and concise explanations, tutorials, and tips to help you get the most out of your gameplay experience.
+**Lotus Mu** offers a wide range of gameplay systems and mechanics to explore.
 
-The **Lotus Mu** Documentation covers a wide range of topics to provide players with comprehensive insights and guidance on all aspects of the game. Whether you are a novice player seeking to learn the basics or an experienced adventurer aiming to fine-tune your strategies, our documentation has you covered.
+This Documentation covers a wide range of topics to provide players with comprehensive insights and guidance on all aspects of the game, providing you with clear and concise explanations, tutorials, and tips to help you get the most out of your gameplay experience.
 
 ### 🐉 Monsters and Invasions
 
@@ -64,6 +64,6 @@ Together, we can build a vibrant and supportive community that enhances the enjo
 
 ## Something missing?
 
-If you find issues with the documentation or have suggestions on how to improve the documentation or the project in general, please feel free to [file an issue](https://lotusmu.org/support) for us, or send us a message in our [Discord Server](#).
+If you find issues with the documentation or have suggestions on how to improve the documentation or the project in general, please feel free to [file an issue](https://lotusmu.org/support) for us, or send us a message in our [Discord Server](https://discord.com/HQGpHQ69uc).
 
 Thank you for choosing **Lotus Mu**, and we hope this documentation becomes your trusted companion on your extraordinary journey through the captivating world of **Mu Online**. Let your adventure begin!
