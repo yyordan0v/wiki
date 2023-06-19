@@ -41,18 +41,18 @@ The **Golden Goblin**, a rare and elusive creature, entices adventurers with the
 
 _Golden Goblin_
 
-### Location
+#### Location
 
 The areas targeted by the **Golden Goblins** consistently encompass the following maps:
 
 - [Lorencia](/maps/lorencia)
 - [Noria](/maps/noria)
 
-### Quantity
+#### Quantity
 
 During the invasion **10** Golden Goblins are spread on both of the above mentioned maps.
 
-### Reward
+#### Reward
 
 When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/items/item-bags/box-of-kundun/bok-1).
 
@@ -78,17 +78,17 @@ The **Golden Titan** is joined by formidable **Golden Soldier** allies renowned 
 
 _Golden Soldier_
 
-### Location
+#### Location
 
 The menacing **Golden Titan** launches its relentless assault upon the serene lands of **Lotus Mu**, instilling chaos and fear in its wake. You can find him on the following map:
 
 - [Devias](/maps/devias)
 
-### Quantity
+#### Quantity
 
 During the invasion **7** Golden Titans and **14** Golden Soldiers are spread in [Devias](/maps/devias).
 
-### Reward
+#### Reward
 
 By slaying those creatures a player will be rewarded as follows:
 
@@ -109,7 +109,7 @@ The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies
 
 _Golden Dragon_
 
-### Location
+#### Location
 
 The areas targeted by the **Golden Dragons** consistently encompass one the following maps:
 
@@ -117,11 +117,11 @@ The areas targeted by the **Golden Dragons** consistently encompass one the foll
 - [Noria](/maps/noria)
 - [Devias](/maps/devias)
 
-### Quantity
+#### Quantity
 
 During the invasion **5** Golden Dragons are spread on one of the above mentioned maps.
 
-### Reward
+#### Reward
 
 When a player kills a **Golden Dragon**, they will receive a [Box of Kundun+3](/items/item-bags/box-of-kundun/bok-3).
 
@@ -147,17 +147,17 @@ The Golden Lizard King is accompanied by formidable **Golden Vepar** allies, and
 
 _Golden Vepar_
 
-### Location
+#### Location
 
 With relentless determination, the **Golden Lizard King** initiates an unyielding onslaught upon the tranquil realms of **Lotus Mu**, sowing chaos and terror in its path. Seek out this formidable foe on the designated map below:
 
 - [Atlans](/maps/atlans)
 
-### Quantity
+#### Quantity
 
 During the invasion **3** Golden Lizard Kings and **6** Golden Vepars are spread in [Atlans](/maps/atlans).
 
-### Reward
+#### Reward
 
 By slaying those creatures a player will be rewarded as follows:
 
@@ -184,17 +184,17 @@ The Golden Tantal is accompanied by formidable **Golden Wheel** allies, and play
 
 _Golden Wheel_
 
-### Location
+#### Location
 
 The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, inviting players to confront this formidable foe on the designated map.
 
 - [Tarkan](/maps/tarkan)
 
-### Quantity
+#### Quantity
 
 During the invasion **1** Golden Tantals and **3** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
 
-### Reward
+#### Reward
 
 By slaying those creatures a player will be rewarded as follows:
 
