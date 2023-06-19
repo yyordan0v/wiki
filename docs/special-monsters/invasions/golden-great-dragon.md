@@ -2,6 +2,9 @@
 sidebar_position: 6
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Golden Great Dragon Invasion
 
 Embark on an extraordinary adventure as we delve into the legendary **Golden Great Dragon** Invasion in Lotus Mu. In this captivating article, we uncover the awe-inspiring power and magnificence of the **Golden Great Dragon**, as well as the trials and triumphs that await players who dare to face this mighty creature. Prepare to witness the clash of titans and discover the extraordinary rewards that lie in wait for those who prove themselves worthy in this epic battle.
@@ -25,6 +28,11 @@ Please take into account that the invasion timer is based on the server time.
 :::
 
 ## Invasion Details
+
+```mdx-code-block
+<Tabs lazy>
+  <TabItem value="golden-twin-tale" label="Golden Twin Tale">
+```
 
 ### Golden Twin Tale
 
@@ -52,6 +60,12 @@ When a player kills a **Golden Twin Tail**, they will receive a [Red Chaos Box](
 
 _Red Chaos Box_
 
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="golden-knight" label="Golden Knight">
+```
+
 ### Golden Knight
 
 The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **Lotus Mu**.
@@ -78,6 +92,11 @@ By slaying that creature a player will be rewarded a [Green Ribbon Box](/items/i
 
 _Green Ribbon Box_
 
+```mdx-code-block
+  </TabItem>
+  <TabItem value="golden-great-dragon" label="Golden Great Dragon">
+```
+
 ### Golden Great Dragon
 
 The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **Lotus Mu**.
@@ -103,3 +122,9 @@ When the **Golden Great Dragon** dies, he will drop the legendary [Blue Chocolat
 ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
 _Blue Chocolate Box_
+
+```mdx-code-block
+
+  </TabItem>
+</Tabs>
+```
