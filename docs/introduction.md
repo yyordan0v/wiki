@@ -27,7 +27,7 @@ This Documentation covers a wide range of topics to provide players with compreh
 
 ### 🐉 Monsters and Invasions
 
-Delve into the diverse array of monsters that inhabit the world of Lotus Mu and be prepared for epic invasions that challenge your skills and teamwork. 
+Delve into the diverse array of monsters that inhabit the world of **Lotus Mu** and be prepared for epic invasions that challenge your skills and teamwork. 
 
 ### ⚔️ Items and Equipment
 
@@ -49,9 +49,6 @@ Step into the realm of personalization and self-expression with the innovative S
 
 Explore the wealth of features available in the **Lotus Mu** game client, designed to enhance your gameplay experience and provide convenient tools for seamless immersion in this fantasy world.
 
-
-These are just a few of the topics covered in the Lotus Mu Documentation. With our extensive collection of guides, tutorials, and informative articles, you will have all the knowledge and resources you need to embark on a thrilling adventure in the immersive world of Lotus Mu.
-
 ## Community
 
 At **Lotus Mu**, we value our community and strive to foster a positive and inclusive gaming environment. We encourage you to participate actively, share your experiences, and contribute to the growing knowledge base within our community forums. Connect with other players, get the latest news and updates, and take part in exciting events and giveaways!
@@ -60,7 +57,7 @@ Together, we can build a vibrant and supportive community that enhances the enjo
 
 - [Forums](https://forum.lotusmu.org)
 - [Discord](https://discord.com/HQGpHQ69uc)
-- [Social Media](#)
+- [Facebook](#)
 
 ## Something missing?
 
