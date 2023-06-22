@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Jewel of Guardian
 
-The **Jewel of Guardian** serves multiple purposes, acting as a crucial component in enhancing the fortification of the castle, crafting **Life Stones** of great significance, and unlocking the exclusive **Item Options** option with its unique abilities.
+The **Jewel of Guardian** serves multiple purposes, acting as a crucial component in enhancing the **fortification of the castle**, crafting **Life Stones** of great significance, and unlocking the exclusive **Item Options** option with its unique abilities.
 
 ![Jewel of Guardian](/img/items/jewels/guardian.png)
 
@@ -15,7 +15,7 @@ _Jewel of Guardian_
 The aforementioned **Item Options**, commonly referred to as **pink options** in the world of Mu Online, were originally restricted to **380 level** items. However, considering the distinct setup of **Lotus Mu**, our team has made the decision to extend the availability of these valuable Item Options to encompass **all items**. This expansion grants players the opportunity to enhance their equipment with these coveted enhancements, irrespective of their item's level.
 
 
-For a more comprehensive understanding of this procedure, I highly recommend delving into the informative and insightful >>>ARTICLE<<<.
+For a more comprehensive understanding of this procedure, We highly recommend delving into the informative and insightful >>>ARTICLE<<<.
 
 ## Upgrade Castle Defences
 

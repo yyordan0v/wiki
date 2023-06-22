@@ -29,22 +29,18 @@ _Gemstone_
 
 To refine these raw [Gemstones](/items/jewels/regular-jewels/gemstone) into the coveted **Jewel of Harmony**, the invaluable assistance of **Elpis** inside the **Refinery Tower** is needed. 
 
+
+Entrusting Elpis with the refining task ensures the successful transformation of the [Gemstone](/items/jewels/regular-jewels/gemstone) into the potent **Jewel of Harmony**, allowing you to unlock its exceptional powers.
+
 ![Elpis](/img/npc/elpis.jpg)
 
 _Elpis_
 
-:::tip
-
 You can go to the **Refinery Tower** by using the **Gateway Machine** (141,186) in **Kanturu Relics** 
-
-:::
 
 ![Gateway Machine](/img/npc/gateway-machine.jpg)
 
 _Gateway Machine_
-
-Entrusting Elpis with the refining task ensures the successful transformation of the [Gemstone](/items/jewels/regular-jewels/gemstone) into the potent **Jewel of Harmony**, allowing you to unlock its exceptional powers.
-
 
 ## Harmony Options
 
@@ -97,7 +93,7 @@ Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/lower-
 
 When it comes to Excellent items, the sole individual capable of removing the Harmony Option affixed to them is none other than **Jerridon**. His expertise and assistance are indispensable in eliminating the Harmony Option from these remarkable items.
 
-:::tip
+:::info
 
 **Jerridon** can be encountered within the vicinity of [Yoskreth](/maps/yoskreth).
 
