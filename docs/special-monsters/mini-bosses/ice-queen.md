@@ -8,7 +8,7 @@ Prepare yourself for an exhilarating expedition, where your abilities and courag
 
 Brace for a heart-pounding quest filled with icy challenges, where conquering this formidable foe holds the key to unlocking thrilling realms of adventure, glory, and the sheer thrill of triumph.
 
-![Ice Queen](/img/monsters/special/others/ice-queen.jpg)
+![Ice Queen](/img/monsters/devias/ice-queen.jpg)
 
 _Ice Queen_
 
