@@ -25,13 +25,19 @@ By seeking out Osbourne and engaging in dialogue, aspiring craftsmen and enthusi
 
 _Osbourne_
 
-The nature of the exchange with **Osbourne** determines the outcome of the transaction, as he has the power to bestow upon you either a **Low Refining Stone** or a **High Refining Stone**, depending on what you offer him. The outcomes of the exchange are further explained in the subsequent section, where you can delve deeper into the specifics and gain a more comprehensive understanding of the factors that influence **Osbourne's** decision.
+The nature of the exchange with **Osbourne** determines the outcome of the transaction, as he has the power to bestow upon you either a **Low Refining Stone** or a **High Refining Stone**, depending on what you offer him.
+
+The outcomes of the exchange are further explained in the subsequent section, where you can delve deeper into the specifics and gain a more comprehensive understanding of the factors that influence **Osbourne's** decision.
 
 ## Low Refining Stone
 
-By undergoing an upgrade process with a **Low Refining Stone**, the **Harmony Option** undergoes an advancement of one tier, resulting in an elevated level of power and effectiveness.
+By undergoing an upgrade process with a **Low Refining Stone**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes an advancement of one tier, resulting in an elevated level of power and effectiveness.
 
-However, it is crucial to be aware that there exists a risk associated with this upgrade. In the unfortunate event of a failed upgrade, the **Harmony Option** will be entirely **removed**.
+:::caution
+
+In the unfortunate event of a **failed upgrade**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) will be entirely **removed**.
+
+:::
 
 ![Low Refining Stone](/img/items/jewels/low-refining.png)
 
@@ -41,16 +47,19 @@ You can acquire **Low Refining Stone** by dismantling **non excellent** armor or
 
 :::info
 
-The success rate when upgrading **Harmony Option** with a Low Refining Stone is **50%**.
+The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a Low Refining Stone is **50%**.
 
 :::
 
 ## High Refining Stone
 
-Through the upgrading process with a **High Refining Stone**, the **Harmony Option** experiences an elevation of one tier, enhancing its overall potency.
+Through the upgrading process with a **High Refining Stone**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) experiences an elevation of one tier, enhancing its overall potency.
 
-However, it is important to note that there exists a possibility of **failure** during the upgrade attempt. In the unfortunate event of such a failure, the **Harmony Option** undergoes a **decrease** by one tier.
+:::caution
 
+In the unfortunate event of a **failure**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes a **decrease** by one tier.
+
+:::
 
 ![High Refining Stone](/img/items/jewels/high-refining.png)
 
@@ -60,6 +69,6 @@ You can acquire **High Refining Stone** by dismantling **excellent** armor or we
 
 :::info
 
-The success rate when upgrading **Harmony Option** with a High Refining Stone is **80%**.
+The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a High Refining Stone is **80%**.
 
 :::

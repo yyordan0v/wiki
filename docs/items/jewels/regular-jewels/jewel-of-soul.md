@@ -10,13 +10,21 @@ The **Jewel of Soul** enhances the level of an item from **+0** to **+9**, offer
 
 _Jewel of Soul_
 
-This versatile jewel can be utilized on equipment ranging from **+0** to **+8**.
+This versatile jewel can be utilized on equipment ranging from **+0** to **+9**.
 
 Further enhancements to **+10**, **+11**, **+12**, and **+13** require the use of the Chaos Machine.
 
-It can be applied to weapons, shields, armor, or wings, simply by selecting the jewel with the cursor and clicking it onto the desired item. Each application grants a one-level increase to the item with a **???** chance of success. However, if the item possesses the **+Luck** option, the probability of successful enhancement rises to **???**.
+It can be applied to weapons, shields, armor, or wings, simply by selecting the jewel with the cursor and clicking it onto the desired item. Each application grants a one-level increase.
 
-Master the art of item enhancement and shape your gear to withstand the formidable challenges that lie ahead.
+:::info
+
+Upgrading an item with **Jewel of Soul** has a **???** chance of success.
+
+However, if the item possesses the **+Luck** option, the probability of successful enhancement rises to **???**.
+
+:::
+
+Beware that if your Item's Level is already **+7** or more a **failed upgrade** will cause your to go all the way down to Item Level of **+0**.
 
 :::tip
 
