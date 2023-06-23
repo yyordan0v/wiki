@@ -37,9 +37,9 @@ The subsequent table provides detailed information about the time and the quanti
 
 Upon successfully killing **Haven Archanel**, players will be rewarded with one of the following mighty weapons:
 
-|                       Divine Sword of Archangel                        |                       Divine Crossbow of Archangel                        |                      Divine Scepter of Archangel                      |                         Divine Staff of Archangel                          |
-| :--------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| ![Divine Sword of Archangel](/img/items/swords/sword-of-archangel.png) | ![Divine Crossbow of Archangel](/img/items/staffs/archangel-crossbow.png) | ![Divine Scepter of Archangel](/img/items/bows/box-of-red-ribbon.png) | ![Divine Staff of Archangel](/img/items/scepters/scepter-of-archangel.png) |
+|                       Divine Sword of Archangel                        |                      Divine Staff of Archangel                      |                       Divine Crossbow of Archangel                       |                          Divine Scepter of Archangel                          |
+| :--------------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| ![Divine Sword of Archangel](/img/items/swords/sword-of-archangel.png) | ![Divine Staff of Archangel](/img/items/staffs/archangel-staff.png) | ![Divine Crossbow of Archangel ](/img/items/bows/archangel-crossbow.png) | ![Divine Scepter of Archangel ](/img/items/scepters/scepter-of-archangel.png) |
 
 :::note
 
