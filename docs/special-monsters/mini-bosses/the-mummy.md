@@ -8,8 +8,7 @@ Steel yourself for an enthralling exploration into the abyss of [Dungeon 2](/map
 
 Brace yourself for the ultimate test of bravery as you navigate the treacherous corridors and unravel the secrets that lie within the heart of this unforgiving underworld.
 
-`PLACE IMG`
-![The Mummy](/img/monsters/special/others/hydra.jpg)
+![The Mummy](/img/monsters/special/others/mummy.jpg)
 
 _The Mummy_
 
@@ -31,7 +30,7 @@ The subsequent table provides detailed information about the time and the quanti
 
 | Quantity |      Respawn Time      |
 | :------: | :--------------------: |
-|    10     | 4 minutes after killed |
+|    10    | 4 minutes after killed |
 
 ## Reward
 

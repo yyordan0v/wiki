@@ -8,8 +8,7 @@ Prepare yourself for a mesmerizing journey into the ethereal heights of the skie
 
 As you embark on this captivating odyssey, steel your nerves to confront the majestic and formidable entity known as the **Haven Archangel**, a being of immense power and mystique residing high above, demanding your unwavering focus and indomitable courage.
 
-`PLACE IMG`
-![Haven Archanel](/img/monsters/special/others/hydra.jpg)
+![Haven Archanel](/img/monsters/special/others/haven-archangel.jpg)
 
 _Haven Archangel_
 
