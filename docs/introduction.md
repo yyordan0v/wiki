@@ -7,7 +7,7 @@ slug: /
 
 Welcome to the **Lotus Mu** Wiki!
 
-We are thrilled to introduce you to the comprehensive documentation for **Lotus Mu**, an exciting and immersive game server based on the popular online multiplayer game, **Mu Online**. This documentation serves as your ultimate resource for understanding and navigating the world of **Lotus M**u, providing you with valuable insights, instructions, and tips to enhance your gaming experience.
+We are thrilled to introduce you to the comprehensive documentation for **Lotus Mu**, an exciting and immersive game server based on the popular online multiplayer game, **Mu Online**. This documentation serves as your ultimate resource for understanding and navigating the world of **Lotus Mu**, providing you with valuable insights, instructions, and tips to enhance your gaming experience.
 
 ## Getting Started
 

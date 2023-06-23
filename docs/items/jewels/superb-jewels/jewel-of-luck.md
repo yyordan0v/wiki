@@ -8,7 +8,7 @@ Unlocking a new realm of possibilities, this functionality empowers you to besto
 
 ![Jewel of Luck](/img/items/jewels/custom-green.png)
 
-_Jewel of Luck
+_Jewel of Luck_
 
 
 The **Jewel of Luck** offers the ability to add the **Luck Option** to **any** of your items.

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Jewel of Level
 
-By utilizing the **Jewel of Level**, you can elevate the level (enchantment) of your **ring** or **pendant** by a single point, thereby increasing its power and effectiveness.
+By utilizing the **Jewel of Level**, you can elevate the level of your **ring** or **pendant** by a single point, thereby increasing its power and effectiveness.
 
 ![Jewel of Level](/img/items/jewels/custom-orange.png)
 

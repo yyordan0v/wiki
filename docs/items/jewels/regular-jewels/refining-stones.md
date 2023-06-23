@@ -33,9 +33,9 @@ The outcomes of the exchange are further explained in the subsequent section, wh
 
 By undergoing an upgrade process with a **Low Refining Stone**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes an advancement of one tier, resulting in an elevated level of power and effectiveness.
 
-:::caution
+:::info
 
-In the unfortunate event of a **failed upgrade**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) will be entirely **removed**.
+The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a Low Refining Stone is **50%**.
 
 :::
 
@@ -45,9 +45,9 @@ _Low Refining Stone_
 
 You can acquire **Low Refining Stone** by dismantling **non excellent** armor or weapons.
 
-:::info
+:::caution
 
-The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a Low Refining Stone is **50%**.
+In the unfortunate event of a **failed upgrade**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) will be entirely **removed**.
 
 :::
 
@@ -55,9 +55,9 @@ The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/je
 
 Through the upgrading process with a **High Refining Stone**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) experiences an elevation of one tier, enhancing its overall potency.
 
-:::caution
+:::info
 
-In the unfortunate event of a **failure**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes a **decrease** by one tier.
+The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a High Refining Stone is **80%**.
 
 :::
 
@@ -67,8 +67,8 @@ _High Refining Stone_
 
 You can acquire **High Refining Stone** by dismantling **excellent** armor or weapons.
 
-:::info
+:::caution
 
-The success rate when upgrading [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) with a High Refining Stone is **80%**.
+In the unfortunate event of a **failure**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes a **decrease** by one tier.
 
 :::
