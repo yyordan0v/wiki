@@ -6,18 +6,17 @@ sidebar_position: 8
 
 The usage of **Jewel of Harmony** extends to imbuing items with unique and diverse special options. These options can vary significantly and provide distinct benefits to the equipped item.
 
-
 ![Jewel of Harmony](/img/items/jewels/harmony.png)
 
 _Jewel of Harmony_
 
 :::tip
-The Jewel of Harmony is **main ingredient** in a chaos combination that grants **Item Options** , commonly referred to as **pink options**. 
+The Jewel of Harmony is **main ingredient** in a chaos combination that grants **Item Options** , commonly referred to as **pink options**.
 
 For a more comprehensive understanding of this procedure, I highly recommend delving into the informative and insightful >>>ARTICLE<<<.
 :::
 
-## Crafting 
+## Crafting
 
 The acquisition of the **Jewel of Harmony** is exclusively achievable through the process of **crafting**. Although the procedure itself is relatively straightforward, there are certain factors that necessitate careful consideration.
 
@@ -27,8 +26,7 @@ To commence the crafting process, you must first acquire a [Gemstone](/items/jew
 
 _Gemstone_
 
-To refine these raw [Gemstones](/items/jewels/regular-jewels/gemstone) into the coveted **Jewel of Harmony**, the invaluable assistance of **Elpis** inside the **Refinery Tower** is needed. 
-
+To refine these raw [Gemstones](/items/jewels/regular-jewels/gemstone) into the coveted **Jewel of Harmony**, the invaluable assistance of **Elpis** inside the **Refinery Tower** is needed.
 
 Entrusting Elpis with the refining task ensures the successful transformation of the [Gemstone](/items/jewels/regular-jewels/gemstone) into the potent **Jewel of Harmony**, allowing you to unlock its exceptional powers.
 
@@ -36,7 +34,7 @@ Entrusting Elpis with the refining task ensures the successful transformation of
 
 _Elpis_
 
-You can go to the **Refinery Tower** by using the **Gateway Machine** (141,186) in **Kanturu Relics** 
+You can go to the **Refinery Tower** by using the **Gateway Machine** (141,186) in **Kanturu Relics**
 
 ![Gateway Machine](/img/npc/gateway-machine.jpg)
 
@@ -85,9 +83,9 @@ The **Jewel of Harmony** is a single-use item, rendering it irretrievable for an
 
 ## Harmony Options Upgrade
 
-The **Harmony Option** has the potential for further enhancement through the utilization of either [Low Refining Stones](/items/jewels/regular-jewels/lower-refining-stone) or [High Refining Stones](/items/jewels/regular-jewels/higher-refining-stone). These refining stones serve as catalysts for elevating the power and effectiveness of the **Jewel of Harmony Option**.
+The **Harmony Option** has the potential for further enhancement through the utilization of either [Low Refining Stones](/items/jewels/regular-jewels/refining-stones) or [High Refining Stones](/items/jewels/regular-jewels/refining-stones). These refining stones serve as catalysts for elevating the power and effectiveness of the **Jewel of Harmony Option**.
 
-Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/lower-refining-stone) or the [High Refining Stone](/items/jewels/regular-jewels/higher-refining-stone), this upgrade process enables you to amplify the benefits and advantages conferred by the **Jewel of Harmony Option**, allowing for a more formidable presence in the realms of **Lotus Mu**.
+Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/refining-stones) or the [High Refining Stone](/items/jewels/regular-jewels/refining-stones), this upgrade process enables you to amplify the benefits and advantages conferred by the **Jewel of Harmony Option**, allowing for a more formidable presence in the realms of **Lotus Mu**.
 
 ## Harmony Options Removal
 
