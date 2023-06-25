@@ -14,16 +14,6 @@ At its summit awaits [Balrog](/special-monsters/mini-bosses/balrog), a sinister 
 
 _Lost Tower_
 
-## Portals
-
-Explore the world of MU and unlock exciting new realms with these convenient transitions:
-
-- [Devias](/maps/devias) - Journey to the wintry land of Devias, where frozen landscapes and chilling mysteries await.
-
-- [Icarus](/maps/icarus) - Ascend to the mystical realm of Icarus, where floating islands and celestial wonders beckon.
-
-Let these gateways guide you to extraordinary adventures and untold treasures as you traverse the expansive world of MU.
-
 ## Monsters in Lost Tower
 
 ### Regular Monsters

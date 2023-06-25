@@ -14,15 +14,6 @@ Thus,fairy characters typically begin their journeys and careers within the fore
 
 _Noria_
 
-## Portals
-
-**Noria** acts as a hub, connecting several magical realms through portals. It contains two major gateways:
-
-- One portal opens into the kingdom of [Lorencia](/maps/lorencia) which is a land inhabited by mystical creatures, situated close by.
-- A second portal leads into the underwater city of [Atlans](/maps/atlans) that seems to be quite distant, given its underwater location.
-
-These portals allow fairies, humans and other magical beings to travel swiftly between the vast forest of **Noria** and the lands beyond, facilitating interaction and exchange between the different magical realms. **Noria** thus forms a nexus at the heart of a larger magical network.
-
 ## Monsters in Noria
 
 ### Regular Monsters

@@ -12,16 +12,6 @@ As you traverse the desolate dunes, remnants of past warriors who dared venture 
 
 _Tarkan_
 
-## Portals
-
-Embark on thrilling expeditions to other mesmerizing realms through these seamless transitions:
-
-- [Atlans](/maps/atlans) - Venture to the majestic realm of Atlans, where a vast ocean teems with life and formidable challenges await.
-
-- [Kanturu Ruins](/maps/kanturu-ruins) - Unearth the ancient secrets hidden within the enigmatic Kanturu Ruins, a mysterious and treacherous domain shrouded in mystery.
-
-Let these transitions transport you to breathtaking landscapes and immersive quests as you navigate the expansive world of MU.
-
 ## Monsters in Tarkan
 
 ### Regular Monsters

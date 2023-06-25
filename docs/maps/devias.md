@@ -16,16 +16,6 @@ The cold, snowbound environment of **Devias** and its powerful monsters make it 
 
 _Devias_
 
-## Portals
-
-In close proximity, one can discover portals or gateways leading to various enchanting realms:
-
-- [Lorencia](/maps/lorencia), a land of sprawling plains and fortified cities, where adventurers embark on their epic quests.
-- The mystic [Lost Tower](/maps/losttower), a towering structure shrouded in mystery and filled with perilous challenges for those who dare to ascend.
-- And the enchanting realm of [La Cleon](/maps/la-cleon), where ancient forests, serene lakes, and magical creatures coexist in harmony.
-
-These portals serve as gateways to captivating realms, each offering its own unique experiences, treasures, and dangers. Brace yourself for extraordinary adventures as you traverse these interconnected realms within the vast world of Mu Online.
-
 ## Monsters in Devias
 
 ### Regular Monsters

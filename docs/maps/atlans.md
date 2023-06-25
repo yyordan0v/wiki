@@ -10,13 +10,6 @@ Venture into the breathtaking expanse of **Atlans**, an oceanic realm teeming wi
 
 _Atlans_
 
-## Portals
-
-Moreover, **Atlans** offers passage through two distinct portals:
-
-- A gateway to the ancestral haven of the Elves - [Noria](/maps/noria)
-- The other marks the culmination of the arduous journey through Atlans, leading daring adventurers to the perilous realm of [Tarkan](maps/tarkan), where only the bravest souls can dare to tread.
-
 ## Monsters in Lorencia
 
 ### Regular Monsters

@@ -16,16 +16,6 @@ Please note that accessing **Lorencia** through the portal requires a minimum le
 
 _Lorencia_
 
-## Portals
-
-**Lorencia** stands as a realm adorned with an extensive network of portals, offering unparalleled access to a diverse array of maps. Within its borders, adventurers can venture forth through gateways that transport them to various destinations, including:
-
-- The Enchanted Gateway to [Noria](/maps/noria), a bustling town known for its vibrant markets and diverse range of services.
-- The Mystical Gateway to [Devias](/maps/devias), a snowy and treacherous landscape shrouded in secrets, where both peril and hidden treasures await.
-- The Forbidden Gateway to [Dungeon](/maps/dungeon), a perilous underground labyrinth teeming with formidable adversaries and untold mysteries.
-
-These gateways serve as key conduits for exploration, enabling intrepid adventurers to navigate the vast realms of MU Online and unravel its many enigmas.
-
 ## Monsters in Lorencia
 
 ### Regular Monsters

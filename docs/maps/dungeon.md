@@ -2,10 +2,6 @@
 sidebar_position: 5
 ---
 
-import Tabs from '@theme/Tabs';
-
-import TabItem from '@theme/TabItem';
-
 # Dungeon
 
 The **Dungeon** stands as a formidable cave nestled to the northeast of Lorencia. Spanning across three treacherous levels, this perilous labyrinth is inhabited by the fearsome [Gorgon](/special-monsters/mini-bosses/gorgon), lurking in wait at its deepest reaches.
@@ -28,12 +24,12 @@ Prepare yourself for remarkable escapades as you traverse these interconnected r
 
 ### Regular Monsters
 
-|                                    Lich                                     |                           Skeleton                            |                                 Larva                                 | Cyclops                                               |
-| :-------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | ----------------------------------------------------- |
-|                  ![Lich](/img/monsters/lorencia/lich.jpg)                   |        ![Skeleton](/img/monsters/dungeon/skeleton.jpg)        |               ![Larva](/img/monsters/dungeon/larva.jpg)               | ![Cyclops](/img/monsters/dungeon/cyclops.jpg)         |
-|                                    Ghost                                    |                        Skeleton Archer                        |                              Hell Hound                               | Hell Spider                                           |
+|                                    Lich                                     |                           Skeleton                            |                                 Larva                                 |                        Cyclops                        |
+| :-------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------: |
+|                  ![Lich](/img/monsters/lorencia/lich.jpg)                   |        ![Skeleton](/img/monsters/dungeon/skeleton.jpg)        |               ![Larva](/img/monsters/dungeon/larva.jpg)               |     ![Cyclops](/img/monsters/dungeon/cyclops.jpg)     |
+|                                    Ghost                                    |                        Skeleton Archer                        |                              Hell Hound                               |                      Hell Spider                      |
 |                  ![Ghost](/img/monsters/dungeon/ghost.jpg)                  | ![Skeleton Archer](/img/monsters/dungeon/skeleton-archer.jpg) |          ![Hell Hound](/img/monsters/dungeon/hell-hound.jpg)          | ![Hell Spider](/img/monsters/dungeon/hell-spider.jpg) |
-|                           Chief Skeleton Warrior                            |                         Thunder Lich                          |                          Poison Bull Fighter                          | Dark Knight                                           |
+|                           Chief Skeleton Warrior                            |                         Thunder Lich                          |                          Poison Bull Fighter                          |                      Dark Knight                      |
 | ![Chief Skeleton Warrior](/img/monsters/dungeon/chief-skeleton-warrior.jpg) |    ![Thunder Lich](/img/monsters/dungeon/thunder-lich.jpg)    | ![Poison Bull Fighter](/img/monsters/dungeon/poison-bull-fighter.jpg) | ![Dark Knight](/img/monsters/dungeon/dark-knight.jpg) |
 
 ### Boss

@@ -26,6 +26,6 @@ _Icarus_
 
 ### Boss
 
-| [Haven Archangel](/special-monsters/mini-bosses/haven-archangel) |
-| :--------------------------------------------------------------: |
-|                              IMAGE                               |
+|     [Haven Archangel](/special-monsters/mini-bosses/haven-archangel)     |
+| :----------------------------------------------------------------------: |
+| ![Phoenix of Darkness](/img/monsters/special/others/haven-archangel.jpg) |

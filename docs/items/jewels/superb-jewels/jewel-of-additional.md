@@ -6,10 +6,9 @@ sidebar_position: 4
 
 The remarkable **Jewel of Additional** grants you the ability to bestow your cherished **ring** or **pendant** an additional level of **Automatic HP Recovery** option.
 
-![Jewel of Additional](/img/items/jewels/custom-blue.png)
+![Jewel of Additional](/img/items/jewels/custom-purple.png)
 
 _Jewel of Additional_
-
 
 The **Jewel of Additional** offers the ability to add an additional level of **Automatic HP Recovery** to a **ring** or **pendant**.
 
