@@ -2,4 +2,4 @@
 sidebar_position: 99
 ---
 
-# Blue Chocolate Box
+# Blue Ribbon Box
