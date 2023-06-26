@@ -22,9 +22,9 @@ The **Box of Luck** can drop the following items:
 
 ### Box of Kundun
 
-|                  Box of Kundun +1                   |                  Box of Kundun +2                   |                  Box of Kundun +3                   |                  Box of Kundun +4                   |                  Box of Kundun +5                   |
-| :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
-| ![Box of Kundun +1](/img/items/item-bags/bok-1.png) | ![Box of Kundun +2](/img/items/item-bags/bok-2.png) | ![Box of Kundun +3](/img/items/item-bags/bok-3.png) | ![Box of Kundun +4](/img/items/item-bags/bok-4.png) | ![Box of Kundun +5](/img/items/item-bags/bok-5.png) |
+| [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) | [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) | [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3) | [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     ![Box of Kundun +1](/img/items/item-bags/bok-1.png)      |     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      |     ![Box of Kundun +3](/img/items/item-bags/bok-3.png)      |     ![Box of Kundun +4](/img/items/item-bags/bok-4.png)      |     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      |
 
 ### Zen
 

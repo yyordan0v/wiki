@@ -48,5 +48,5 @@ Upon successfully defeating the **Death King** or a **Death Bone**, players will
 
 |                        Death Bone                        |                          Death Bone                           |
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
-|     [Red Chaos Box](/items/item-bags/red-chaos-box)      |       [Red Ribbon Box](/items/item-bags/red-ribbon-box)       |
+|   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
 | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |

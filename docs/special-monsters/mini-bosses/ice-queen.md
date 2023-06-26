@@ -34,7 +34,7 @@ The subsequent table provides detailed information about the time and the quanti
 
 ## Reward
 
-Upon successfully killing an **Ice Queen**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/star).
+Upon successfully killing an **Ice Queen**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

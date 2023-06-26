@@ -6,7 +6,7 @@ sidebar_position: 2
 
 In the world of Mu Online, only the mightiest warriors get to the point of controlling the **Castle**. This comes with great benefits, all of which you can check on the article about [Castle Siege](/events/castle-siege).
 
-One of those benefits is the **Senior Mix**. In exchange for precious jewels found in the cruel world the **Senior** offers something extraordinary - the [Golden Box](/items/item-bags/golden-box) which hides unimaginable treasures.
+One of those benefits is the **Senior Mix**. In exchange for precious jewels found in the cruel world the **Senior** offers something extraordinary - the [Golden Box](/items/item-bags/misc/golden-box) which hides unimaginable treasures.
 
 :::note
 
@@ -18,7 +18,7 @@ The Senior Mix can be held only **once a day**, only by the **Castle Lord**.
 
 To utilize the **Senior Mix**, players must first gather the necessary components.
 
-| [30 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [30 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Jewels of Guardian - x30](/items/jewels/regular-jewels/jewel-of-guardian) |                                         |     [Golden Box](/items/item-bags/golden-box)      |
+| [30 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [30 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Jewels of Guardian - x30](/items/jewels/regular-jewels/jewel-of-guardian) |                                         |   [Golden Box](/items/item-bags/misc/golden-box)   |
 | :-----------------------------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------: |
 |         ![Jewel of Bless Bundle](/img/items/jewels/bless-30.png)          | ![Plus](/img/items/invitations/+.png) |         ![Jewel of Soul Bundle](/img/items/jewels/soul-30.png)          | ![Plus](/img/items/invitations/+.png) |            ![Jewel of Guardian](/img/items/jewels/guardian.png)            | ![Equals](/img/items/invitations/=.png) | ![Golden Box](/img/items/item-bags/golden-box.png) |
 
@@ -36,7 +36,7 @@ The success rate for the Senior Mix is **100%**.
 
 :::
 
-Detailed information on what items you can yield by using the **Senior Mix** you can find in the [Golden Box](/items/item-bags/golden-box) article.
+Detailed information on what items you can yield by using the **Senior Mix** you can find in the [Golden Box](/items/item-bags/misc/golden-box) article.
 
 ## The Senior
 

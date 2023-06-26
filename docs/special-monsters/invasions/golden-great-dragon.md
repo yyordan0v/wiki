@@ -52,7 +52,7 @@ During the invasion only **1** Golden Twin Tale is somewhere on the above mentio
 
 #### Reward
 
-When a player kills a **Golden Twin Tail**, they will receive a [Red Chaos Box](/items/item-bags/red-chaos-box).
+When a player kills a **Golden Twin Tail**, they will receive a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
 
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
@@ -82,7 +82,7 @@ During the invasion only **1** Golden Knight is crawling somewhere in **Kanturu*
 
 #### Reward
 
-By slaying that creature a player will be rewarded a [Green Ribbon Box](/items/item-bags/green-ribbon-box).
+By slaying that creature a player will be rewarded a [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
 
 ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
@@ -111,7 +111,7 @@ Throughout the invasion, a solitary **Golden Great Dragon** is encountered, maki
 
 #### Reward
 
-When the **Golden Great Dragon** dies, he will drop the legendary [Blue Chocolate Box](/items/item-bags/blue-chocolate-box).
+When the **Golden Great Dragon** dies, he will drop the legendary [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box).
 
 ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
