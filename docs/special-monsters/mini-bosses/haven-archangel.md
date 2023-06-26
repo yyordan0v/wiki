@@ -42,6 +42,6 @@ Upon successfully killing **Haven Archanel**, players will be rewarded with one 
 
 :::note
 
-All the prizes you will receive consist of items that do **non-excellent**.
+All the prizes you will receive consist of items that are **non-excellent**.
 
 :::

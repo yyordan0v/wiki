@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Death King Invasion
@@ -46,7 +46,7 @@ Please take into account that the invasion timer is based on the server time.
 
 Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
 
-|                        Death Bone                        |                          Death Bone                           |
+|                        Death King                        |                          Death Bone                           |
 | :------------------------------------------------------: | :-----------------------------------------------------------: |
 |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
 | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |

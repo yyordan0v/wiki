@@ -33,7 +33,7 @@ The table below presents valuable insights regarding the frequency of the **Illu
 | :--------------------------: |
 | XXX hours after being killed |
 
-## Rewards Details
+## Reward Details
 
 ```mdx-code-block
 <Tabs lazy>
