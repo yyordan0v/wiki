@@ -20,3 +20,9 @@ The table below provides a comprehensive overview of the rewards and experience 
 | **30** |   **1,400**   |  **1,400**   |  **14,900**  | **17,600**  |  **700**   |
 | 31-39  |      300      |     400      |      -       |      -      |    700     |
 | **40** |   **1,600**   |  **1,600**   |  **22,800**  | **26,400**  |  **600**   |
+
+:::note
+
+This table will be continuously updated as the server advances.
+
+:::
