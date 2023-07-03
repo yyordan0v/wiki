@@ -34,15 +34,17 @@ The **Gold Medal** can drop the following items:
 
 ### Jewels
 
-|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                 Jewel of Chaos                 |
-| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
+|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                  Jewel of Creation                   |                 Jewel of Chaos                 |
+| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
+| ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Creation](/img/items/jewels/creation.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
 
 ### Scrolls and Orbs
 
-|                    Crystal of Destruction                     |                     Crystal of Multishot                     |                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |                      Scroll of Fire Scream                       |
-| :-----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------: | :--------------------------------------------------------------: |
-| ![Crystal of Destruction](/img/items/scrolls-orbs/orb-dk.png) | ![Crystal of Multishot ](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Wizardry Enhance](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Gigantic Storm](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Fire Scream ](/img/items/scrolls-orbs/scroll-dl.png) |
+|                     Crystal of Destruction                      |                     Crystal of Multishot                     |                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |
+| :-------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------: |
+|  ![Crystal of Destruction](/img/items/scrolls-orbs/orb-dk.png)  | ![Crystal of Multishot ](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Wizardry Enhance](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Gigantic Storm](/img/items/scrolls-orbs/scroll-dw.png) |
+|                     Crystal of Flame Strike                     |                     Crystal of Recovery                      |                            Scroll of Nova                            |                       Scroll of Fire Scream                        |
+| ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) |  ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png)  |      ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png)       |  ![Scroll of Fire Scream ](/img/items/scrolls-orbs/scroll-dl.png)  |
 
 :::tip
 

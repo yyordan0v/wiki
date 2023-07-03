@@ -34,21 +34,9 @@ The **Silver Medal** can drop the following items:
 
 ### Jewels
 
-|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                 Jewel of Chaos                 |
-| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
-
-### Scrolls and Orbs
-
-|                     Crystal of Flame Strike                     |                    Crystal of Recovery                     |                      Scroll of Nova                       |
-| :-------------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: |
-| ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) | ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png) |
-
-:::tip
-
-These powerful spells can be obtained only from the **Silver Medal**.
-
-:::
+|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                  Jewel of Creation                   |                 Jewel of Chaos                 |
+| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
+| ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Creation](/img/items/jewels/creation.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
 
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
 
