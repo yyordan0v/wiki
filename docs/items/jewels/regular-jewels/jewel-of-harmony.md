@@ -13,7 +13,7 @@ _Jewel of Harmony_
 :::tip
 The Jewel of Harmony is **main ingredient** in a chaos combination that grants **Item Options** , commonly referred to as **pink options**.
 
-For a more comprehensive understanding of this procedure, I highly recommend delving into the informative and insightful >>>ARTICLE<<<.
+For a more comprehensive understanding of this procedure, I highly recommend delving into the informative and insightful [Item Options](/crafting/item-options) article.
 :::
 
 ## Crafting
