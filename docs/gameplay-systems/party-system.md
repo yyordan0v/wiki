@@ -47,10 +47,10 @@ There are two types of Party Bonuses: the General Party Bonus, which is obtained
 
 ## Party Matching
 
-**Party matching** is a convenient feature that allows you to easily discover and join a suitable party. You can do so by:
+**Party matching** is a convenient feature that allows you to easily discover and join a suitable party. 
 
-- Utilize the **Search Party** feature to locate an available party.
-- Utilize the **Search Party** feature to discover members for your own party.
-- Party Leaders will be notified when there are requests from members who wish to join.
+:::tip
 
->>>>>IMAGE<<<<<
+You can find more information on how utilize this feature in the [Search Party](/client-features/search-party) article.
+
+:::
