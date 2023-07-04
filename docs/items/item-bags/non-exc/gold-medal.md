@@ -40,11 +40,11 @@ The **Gold Medal** can drop the following items:
 
 ### Scrolls and Orbs
 
-|                     Crystal of Destruction                      |                     Crystal of Multishot                     |                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |
-| :-------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------: |
-|  ![Crystal of Destruction](/img/items/scrolls-orbs/orb-dk.png)  | ![Crystal of Multishot ](/img/items/scrolls-orbs/orb-dk.png) | ![Scroll of Wizardry Enhance](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Gigantic Storm](/img/items/scrolls-orbs/scroll-dw.png) |
-|                     Crystal of Flame Strike                     |                     Crystal of Recovery                      |                            Scroll of Nova                            |                       Scroll of Fire Scream                        |
-| ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) |  ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png)  |      ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png)       |  ![Scroll of Fire Scream ](/img/items/scrolls-orbs/scroll-dl.png)  |
+|                        Crystal of Destruction                        |                        Crystal of Multishot                        |                     Crystal of Flame Strike                     |                       Crystal of Recovery                        |
+| :------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
+|    ![Crystal of Destruction](/img/items/scrolls-orbs/orb-dk.png)     |    ![Crystal of Multishot ](/img/items/scrolls-orbs/orb-dk.png)    | ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) |    ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png)    |
+|                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |                         Scroll of Nova                          |                      Scroll of Fire Scream                       |
+| ![Scroll of Wizardry Enhance](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Gigantic Storm](/img/items/scrolls-orbs/scroll-dw.png) |    ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png)    | ![Scroll of Fire Scream ](/img/items/scrolls-orbs/scroll-dl.png) |
 
 :::tip
 
@@ -54,7 +54,7 @@ These powerful spells can be obtained only from the **Gold Medal**.
 
 ### Special Drops
 
-|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)    |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
+|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
 | :------------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
 
@@ -71,8 +71,6 @@ To obtain the **Gold Medal**, adventurers must complete [quests](/gameplay-syste
 |     [Soldier](/special-monsters/others/soldier)      |
 | :--------------------------------------------------: |
 | ![Soldier](/img/monsters/special/others/soldier.jpg) |
-
-
 
 ## Conclusion
 
