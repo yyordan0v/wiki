@@ -26,6 +26,6 @@ The subsequent table provides detailed information about location, respawn time 
 
 Upon successfully killing a **Hero Mutant**, players will be rewarded with one of the following:
 
-|    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |   [Box of Luck](/items/item-bags/misc/box-of-luck)   |   [Purple Chaos Box](/items/item-bags/exc/purple-chaos-box)    |
+|    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |   [Box of Luck](/items/item-bags/misc/box-of-luck)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)    |
 | :-----------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------: |
 | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) | ![Box of Luck](/img/items/item-bags/box-of-luck.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |

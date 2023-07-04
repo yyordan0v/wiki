@@ -24,7 +24,7 @@ You can find more information on the appearance of the Kato in the [Imperial Gua
 
 ## Reward
 
-Upon successfully killing a **Kato**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/exc/red-chocolate-box).
+Upon successfully killing a **Kato**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

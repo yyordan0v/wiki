@@ -24,7 +24,7 @@ You can find more information on the appearance of the Jerint in the [Imperial G
 
 ## Reward
 
-Upon successfully killing a **Jerint**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/exc/red-chocolate-box).
+Upon successfully killing a **Jerint**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

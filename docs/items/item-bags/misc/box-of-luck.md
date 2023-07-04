@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
 # Box of Luck
@@ -10,7 +10,7 @@ The **Box of Luck** is a highly sought-after item that grants you access to a va
 
 _Box of Luck_
 
-**Box of Luck** can be obtained from either [Budge Dragon](/special-monsters/others/golden-budge-dragon) or via completing [quests](/gameplay-systems/quest-system).
+**Box of Luck** can be obtained by slaying a [Budge Dragon](/special-monsters/others/golden-budge-dragon), drop from another item bag or via completing [quests](/gameplay-systems/quest-system).
 
 ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg)
 

@@ -54,7 +54,7 @@ These powerful spells can be obtained only from the **Gold Medal**.
 
 ### Special Drops
 
-|   [Purple Chaos Box](/items/item-bags/exc/purple-chaos-box)    |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
+|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)    |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
 | :------------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
 
@@ -66,11 +66,13 @@ Please note that the drop rates for these items may vary and the items are **non
 
 ## Obtaining the Gold Medal
 
-To obtain the **Gold Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+To obtain the **Gold Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
 
 |     [Soldier](/special-monsters/others/soldier)      |
 | :--------------------------------------------------: |
 | ![Soldier](/img/monsters/special/others/soldier.jpg) |
+
+
 
 ## Conclusion
 

@@ -40,7 +40,7 @@ Please note that the drop rates for these items may vary and the items are **non
 
 ## Obtaining the Star of Sacred Birth
 
-To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
 
 | [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
 | -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- |

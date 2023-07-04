@@ -44,6 +44,6 @@ Please note that the drop rates for these items may vary and the items are **non
 
 ## Conclusion
 
-The **Heart of Love** holds great value in Mu Online as it grants players a range of rewards upon opening. To acquire this precious item, players must successfully complete certain [quests](/gameplay-systems/quest-system).
+The **Heart of Love** holds great value in Mu Online as it grants players a range of rewards upon opening. To acquire this precious item, players must successfully complete certain [quests](/gameplay-systems/quest-system). There is also a chance for random drop while hunting in **Lotus Mu**.
 
 For additional details on different items, monsters, or gameplay mechanics, be sure to explore the relevant sections in the documentation.

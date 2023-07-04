@@ -42,7 +42,7 @@ Please note that the drop rates for these items may vary and the items are **non
 
 ## Obtaining the Silver Medal
 
-To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
 
 |     [Bali](/special-monsters/others/bali)      |
 | :--------------------------------------------: |

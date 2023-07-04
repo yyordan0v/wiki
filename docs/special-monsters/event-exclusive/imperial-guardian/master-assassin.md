@@ -24,7 +24,7 @@ You can find more information on the appearance of the Master Assassin in the [I
 
 ## Reward
 
-Upon successfully killing a **Master Assassin**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/exc/red-chocolate-box).
+Upon successfully killing a **Master Assassin**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 
