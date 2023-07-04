@@ -6,8 +6,6 @@ sidebar_position: 1
 
 The **Box of Kundun +1** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
 
-Here you can discover details about the items that can be obtained from the **Box of Kundun +1** and where to locate it.
-
 ![Box of Kundun +1](/img/items/item-bags/bok-1.png)
 
 _Box of Kundun +1_
