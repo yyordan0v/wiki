@@ -54,9 +54,9 @@ These powerful spells can be obtained only from the **Gold Medal**.
 
 ### Special Drops
 
-|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
+|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)    |
 | :------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
+| ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) |
 
 :::note
 

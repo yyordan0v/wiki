@@ -4,15 +4,15 @@ sidebar_position: 6
 
 # Blue Chocolate Box
 
-The **Blue Chocolate** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
+The **Blue Chocolate Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent rings and pendants** to collect.
 
-![Blue Chocolate](/img/items/item-bags/blue-chocolate-box.png)
+![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
-_Blue Chocolate_
+_Blue Chocolate Box_
 
 ## Item Drops
 
-The **Blue Chocolate** can drop the following items:
+The **Blue Chocolate Box** can drop the following items:
 
 ### Rings
 
@@ -30,15 +30,15 @@ The **Blue Chocolate** can drop the following items:
 |                          Pendant of Wind                          |                             Pendant of Water                              |                           Pendant of Ability                            |
 | ![Pendant of Wind](/img/items/rings-pendants/pendant-of-wind.png) |    ![Pendant of Water](/img/items/rings-pendants/pendant-of-water.png)    | ![Pendant of Ability](/img/items/rings-pendants/pendant-of-ability.png) |
 
-:::note
+:::tip
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Please note that you can collect these items only from the **Blue Chocolate Box**.
 
 :::
 
-## Obtaining the Blue Chocolate
+## Obtaining the Blue Chocolate Box
 
-To obtain the **Blue Chocolate**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+To obtain the **Blue Chocolate Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
 |     [Minotaur](/special-monsters/bosses/minotaur)      |     [Erohim](/special-monsters/bosses/erohim)      |
 | :----------------------------------------------------: | :------------------------------------------------: |
