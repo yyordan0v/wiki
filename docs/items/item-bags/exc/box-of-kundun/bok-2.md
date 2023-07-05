@@ -54,6 +54,6 @@ To obtain the **Box of Kundun +2**, adventurers must complete [quests](/gameplay
 
 There is also chance that you get **Box of Kundun +2** dropped by one of the following item bags:
 
-|   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
-| :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: |
-| ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |
+|   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) |
+| :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |     ![Box of Kundun +1](/img/items/item-bags/bok-1.png)      |

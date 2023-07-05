@@ -34,9 +34,9 @@ The **Silver Medal** can drop the following items:
 
 ### Jewels
 
-|                 Jewel of Bless                 |                Jewel of Soul                 |                Jewel of Life                 |                  Jewel of Creation                   |                 Jewel of Chaos                 |
-| :--------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
-| ![Jewel of Bless](/img/items/jewels/bless.png) | ![Jewel of Soul](/img/items/jewels/soul.png) | ![Jewel of Life](/img/items/jewels/life.png) | ![Jewel of Creation](/img/items/jewels/creation.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) |
+| [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |
+| :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: |
+|        ![Jewel of Bless](/img/items/jewels/bless.png)         |        ![Jewel of Soul](/img/items/jewels/soul.png)         |        ![Jewel of Life](/img/items/jewels/life.png)         |        ![Jewel of Creation](/img/items/jewels/creation.png)         |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         |
 
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
 

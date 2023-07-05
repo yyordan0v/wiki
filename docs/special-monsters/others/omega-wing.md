@@ -6,7 +6,7 @@ sidebar_position: 5
 
 In this comprehensive article, we explore the enigmatic world of the **Omega Wing**, a formidable special monster. With a particular emphasis on its elusive locations and the bountiful rewards awaiting courageous adventurers who dare to confront this mighty creature, prepare to unravel the secrets surrounding the awe-inspiring **Omega Wing**.
 
-![Omega Wing](/img/monsters/special/others/hero-mutant.jpg)
+![Omega Wing](/img/monsters/special/others/omega-wing.jpg)
 
 _Omega Wing_
 

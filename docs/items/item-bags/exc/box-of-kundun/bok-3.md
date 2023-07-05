@@ -49,11 +49,11 @@ Please note that the drop rates for these items may vary and the items are **exc
 To obtain the **Box of Kundun +3**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
 | [Golden Dragon](/special-monsters/invasions/golden-dragon) |
-| :-------------------------------------------------------: |
-|  ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |
+| :--------------------------------------------------------: |
+| ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |
 
 There is also chance that you get **Box of Kundun +3** dropped by one of the following item bags:
 
-|   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
-| :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: |
-| ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |
+|   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) |
+| :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |
+| ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      |
