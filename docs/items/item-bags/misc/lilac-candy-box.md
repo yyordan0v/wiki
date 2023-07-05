@@ -28,4 +28,4 @@ To obtain the **Lilac Candy Box**, adventurers must complete [quests](/gameplay-
 | :--------------------------------------------------------: |
 | ![Omega Wing](/img/monsters/special/others/omega-wing.jpg) |
 
-Another way to obtain a **Lilac Candy Box** is to win the [Blood Castle Event](/events/blood-castle).
+Another way to obtain a **Lilac Candy Box** is to win the [Devil Square Event](/events/devil-square).

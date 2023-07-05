@@ -10,12 +10,6 @@ The **Box of Luck** is a highly sought-after item that grants you access to a va
 
 _Box of Luck_
 
-**Box of Luck** can be obtained by slaying a [Budge Dragon](/special-monsters/others/golden-budge-dragon), drop from another item bag or via completing [quests](/gameplay-systems/quest-system).
-
-![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg)
-
-_Budge Dragon_
-
 ## Box of Luck - Drops
 
 The **Box of Luck** can drop the following items:
@@ -30,8 +24,16 @@ The **Box of Luck** can drop the following items:
 
 - 7,777,777 Zen
 
-## Conclusion
+## Obtaining the Box of Luck
 
-The **Box of Luck** is a valuable item in Mu Online that provides players with various drops when opened. Make sure to defeat monsters in the designated locations to obtain the **Box of Luck** and discover the exciting items it contains.
+To obtain the **Box of Luck**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following creatures:
 
-For more information about other items, monsters, or gameplay mechanics, refer to the corresponding documentation sections.
+|  [Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
+| :------------------------------------------------------------: |
+| ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
+
+There is also chance that you get **Box of Luck** dropped by of the following item bag:
+
+|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+| :----------------------------------------------------------: |
+| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
