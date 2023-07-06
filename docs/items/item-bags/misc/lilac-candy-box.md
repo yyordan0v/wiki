@@ -12,7 +12,7 @@ _Lilac Candy Box_
 
 ## Item Drops
 
-The **Lilac Candy Box** can drop the following items:
+The **Lilac Candy Box** can drop one of the following items:
 
 | [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |
 | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: |

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Silver Medal
 
-The **Silver Medal** is a unique item in Mu Online that can be acquired by defeating designated monsters or completing [quests](/gameplay-systems/quest-system). Upon opening, it bestows a selection of **non-excellent** items for players to gather.
+The **Silver Medal** is a unique item in Mu Online that can be acquired by defeating regular monsters, designated monsters for a guaranteed drop or completing [quests](/gameplay-systems/quest-system). Upon opening, it bestows a selection of **non-excellent** items for players to gather.
 
 Here you can find information about the items that can be obtained from the **Silver Medal** and where to find it.
 
@@ -14,7 +14,7 @@ _Silver Medal_
 
 ## Item Drops
 
-The **Silver Medal** can drop the following items:
+The **Silver Medal** can drop one of the following items:
 
 ### Armor items
 
@@ -47,9 +47,3 @@ To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-sys
 |     [Bali](/special-monsters/others/bali)      |
 | :--------------------------------------------: |
 | ![Bali](/img/monsters/special/others/bali.jpg) |
-
-## Conclusion
-
-The **Silver Medal** is a valuable item in Mu Online that provides players with various drops when opened. Make sure to defeat monsters in the designated locations to obtain the **Silver Medal** and discover the exciting items it contains.
-
-For more information about other items, monsters, or gameplay mechanics, refer to the corresponding documentation sections.

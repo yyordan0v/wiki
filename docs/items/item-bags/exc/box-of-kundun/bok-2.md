@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Box of Kundun +2
 
-The **Box of Kundun +2** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
+The **Box of Kundun +2** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
 
 ![Box of Kundun +2](/img/items/item-bags/bok-2.png)
 
@@ -12,7 +12,7 @@ _Box of Kundun +2_
 
 ## Item Drops
 
-The **Box of Kundun +2** can drop the following items:
+The **Box of Kundun +2** can drop one of the following items:
 
 ### Armor items
 

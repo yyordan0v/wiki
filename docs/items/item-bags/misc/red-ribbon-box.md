@@ -12,7 +12,7 @@ _Red Ribbon Box_
 
 ## Item Drops
 
-The **Red Ribbon Box** can drop the following items:
+The **Red Ribbon Box** can drop one of the following items:
 
 | [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |
 | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: |

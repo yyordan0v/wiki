@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Green Ribbon Box
 
-The **Green Ribbon Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
+The **Green Ribbon Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
 
 ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
@@ -12,7 +12,7 @@ _Green Ribbon Box_
 
 ## Item Drops
 
-The **Green Ribbon Box** can drop the following items:
+The **Green Ribbon Box** can drop one of the following items:
 
 ### Armor items
 

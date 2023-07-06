@@ -12,7 +12,7 @@ _Red Chocolate Box_
 
 ## Item Drops
 
-The **Red Chocolate Box** can drop the following items:
+The **Red Chocolate Box** can drop one of the following items:
 
 |    [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless)     |    [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul)     | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation) |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: |
@@ -27,7 +27,7 @@ To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gamepla
 - [Doppelganger Special Monsters](/category/doppelganger)
 - [Imeperial Guardian Special Monsters](/category/imperial-guardian)
 
-Another way to obtain the **Red Chocolate Box** is to win in the following Events:
+Another way to obtain the **Red Chocolate Box** is to win in one of the following Events:
 
 - [Blood Castle 1 - 7](/events/blood-castle)
 - [Hide n' Seek](/events/others/hide-n-seek)

@@ -12,7 +12,7 @@ _Pink Chocolate Box_
 
 ## Item Drops
 
-The **Pink Chocolate Box** can drop the following items:
+The **Pink Chocolate Box** can drop one of the following items:
 
 |   [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless)    | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)  |
 | :----------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :------------------------------------------------------------: |
@@ -22,7 +22,7 @@ The **Pink Chocolate Box** can drop the following items:
 
 ## Obtaining the Pink Chocolate Box
 
-In order to obtain a **Pink Chocolate Box** you need to win one of the following events:
+In order to obtain a **Pink Chocolate Box** you need to win in one of the following events:
 
 - [Blood Castle 8](/events/blood-castle)
 - [Chaos Castle 1-6](/events/chaos-castle)
