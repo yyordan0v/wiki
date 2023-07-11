@@ -29,9 +29,9 @@ You can learn on how to reach these monsters trough the [Kalima](/maps/kalima) a
 
 The table below presents valuable insights regarding the frequency of the **Illusion of Kundun** respawns in **Lotus Mu**.
 
-|         Respawn Time         |
-| :--------------------------: |
-| XXX hours after being killed |
+|          Location          |   Time   | Frequency |
+| :------------------------: | :------: | :-------: |
+| [Kalima 1-6](/maps/kalima) | 22:00:00 | Every 24h |
 
 ## Reward Details
 

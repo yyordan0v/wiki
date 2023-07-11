@@ -42,6 +42,14 @@ Please take into account that the invasion timer is based on the server time.
 
 :::
 
+### Land of Trials
+
+One of the advantages bestowed upon the victorious guild in the [Castle Siege Event](/events/castle-siege) is the exclusive privilege of having a dedicated **Death King** solely accessible to members of their guild.
+
+|                Location                |     Respawn Time     |
+| :------------------------------------: | :------------------: |
+| [Land of Trials](/maps/land-of-trials) | 5 hours after killed |
+
 ## Reward
 
 Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
