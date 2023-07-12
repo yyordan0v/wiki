@@ -46,6 +46,6 @@ To obtain the **Blue Ribbon Box**, adventurers must complete [quests](/gameplay-
 
 There is also chance that you get **Blue Ribbon Box** dropped by one of the following item bags:
 
-|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |
-| :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
-| ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) |
+|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |
+| :------------------------------------------------: | :------------------------------------------------------------: | :---------------------------------------------------------------: |
+| ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) |

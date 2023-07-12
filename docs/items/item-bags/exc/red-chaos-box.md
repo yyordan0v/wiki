@@ -38,9 +38,9 @@ The **Red Chaos Box** can drop the following items:
 
 ### Special Drops
 
-|     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
-| :-------------------------------------------------------------: |
-| ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) |
+|     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |
+| :---------------------------------------------------------------: |
+| ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) |
 
 :::note
 

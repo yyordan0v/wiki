@@ -32,6 +32,12 @@ The **Green Ribbon Box** can drop the following items:
 | :----------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------: |
 | ![Crimson Glory](/img/items/shields/crimson-glory.png) | ![Guardian Shield](/img/items/shields/guardian-shield.png) | ![Frost Barrier](/img/items/shields/frost-barrier.png) | ![Salamander Shield](/img/items/shields/salamander-shield.png) | ![Cross Shield](/img/items/shields/cross-shield.png) |
 
+### Special Drops
+
+|     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
+| :-------------------------------------------------------------: |
+| ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) |
+
 :::note
 
 Please note that the drop rates for these items may vary and the items are **excellent**.
@@ -48,6 +54,6 @@ To obtain the **Green Ribbon Box**, adventurers must complete [quests](/gameplay
 
 There is also chance that you get **Green Ribbon Box** dropped by one of the following item bags:
 
-|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
-| :------------------------------------------------: | :------------------------------------------------------------: |
-| ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |
+|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/misc/red-chaos-box)   |
+| :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
+| ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) |
