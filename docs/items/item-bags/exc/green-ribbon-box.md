@@ -54,6 +54,6 @@ To obtain the **Green Ribbon Box**, adventurers must complete [quests](/gameplay
 
 There is also chance that you get **Green Ribbon Box** dropped by one of the following item bags:
 
-|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/misc/red-chaos-box)   |
+|   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)   |
 | :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
 | ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) |
