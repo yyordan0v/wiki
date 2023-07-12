@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Gold Medal
 
-The **Gold Medal** is an exceptional item in Mu Online that players can obtain by vanquishing specific monsters or accomplishing [quests](/gameplay-systems/quest-system). When opened, it presents players with a range of **non-excellent** items to collect.
+The **Gold Medal** is an exceptional item in Mu Online that players can obtain by killing regular monster, specific monsters for a guaranteed drop or accomplishing [quests](/gameplay-systems/quest-system). When opened, it presents players with a range of **non-excellent** items to collect.
 
 Here you can find information about the items that can be obtained from the **Gold Medal** and where to find it.
 
@@ -14,7 +14,7 @@ _Gold Medal_
 
 ## Item Drops
 
-The **Gold Medal** can drop the following items:
+The **Gold Medal** can drop the one of following items:
 
 ### Armor items
 
@@ -54,8 +54,8 @@ These powerful spells can be obtained only from the **Gold Medal**.
 
 ### Special Drops
 
-|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)    |
-| :------------------------------------------------------------: | :----------------------------------------------------------------: |
+|   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |
+| :------------------------------------------------------------: | :--------------------------------------------------------: |
 | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Navy Candy Box](/img/items/item-bags/navy-candy-box.png) |
 
 :::note
@@ -71,9 +71,3 @@ To obtain the **Gold Medal**, adventurers must complete [quests](/gameplay-syste
 |     [Soldier](/special-monsters/others/soldier)      |
 | :--------------------------------------------------: |
 | ![Soldier](/img/monsters/special/others/soldier.jpg) |
-
-## Conclusion
-
-The **Gold Medal** is a valuable item in Mu Online that provides players with various drops when opened. Make sure to defeat monsters in the designated locations to obtain the **Gold Medal** and discover the exciting items it contains.
-
-For more information about other items, monsters, or gameplay mechanics, refer to the corresponding documentation sections.

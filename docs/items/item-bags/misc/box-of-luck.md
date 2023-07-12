@@ -12,7 +12,7 @@ _Box of Luck_
 
 ## Box of Luck - Drops
 
-The **Box of Luck** can drop the following items:
+The **Box of Luck** can drop one of the following items:
 
 ### Box of Kundun
 
@@ -32,7 +32,7 @@ To obtain the **Box of Luck**, adventurers must complete [quests](/gameplay-syst
 | :------------------------------------------------------------: |
 | ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
 
-There is also chance that you get **Box of Luck** dropped by of the following item bag:
+There is also chance that you get **Box of Luck** dropped by the following item bag:
 
 |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
 | :----------------------------------------------------------: |

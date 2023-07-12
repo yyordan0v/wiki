@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Heart of Love
 
-The **Heart of Love** is a special item in Mu Online that can be obtained from specific monsters or [quests](/gameplay-systems/quest-system). When opened, it drops various **non-excellent** items that players can collect.
+The **Heart of Love** is a special item in Mu Online that can be obtained from killing monsters or [quests](/gameplay-systems/quest-system). When opened, it drops various **non-excellent** items that players can collect.
 
 Here you can find information about the items that can be obtained from the **Heart of Love** and where to find it.
 
@@ -14,7 +14,7 @@ _Heart of Love_
 
 ## Item Drops
 
-The **Heart of Love** can drop the following items:
+The **Heart of Love** can drop one of the following items:
 
 ### Armor items
 
@@ -41,9 +41,3 @@ The **Heart of Love** can drop the following items:
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
 
 :::
-
-## Conclusion
-
-The **Heart of Love** holds great value in Mu Online as it grants players a range of rewards upon opening. To acquire this precious item, players must successfully complete certain [quests](/gameplay-systems/quest-system). There is also a chance for random drop while hunting in **Lotus Mu**.
-
-For additional details on different items, monsters, or gameplay mechanics, be sure to explore the relevant sections in the documentation.

@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Blue Chocolate Box
 
-The **Blue Chocolate Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent rings and pendants** to collect.
+The **Blue Chocolate Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent rings and pendants** to collect.
 
 ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
@@ -12,7 +12,7 @@ _Blue Chocolate Box_
 
 ## Item Drops
 
-The **Blue Chocolate Box** can drop the following items:
+The **Blue Chocolate Box** can drop one of the following items:
 
 ### Rings
 
@@ -32,7 +32,7 @@ The **Blue Chocolate Box** can drop the following items:
 
 :::tip
 
-Please note that you can collect these items only from the **Blue Chocolate Box**.
+Please note that you can collect most of these items only from the **Blue Chocolate Box**.
 
 :::
 

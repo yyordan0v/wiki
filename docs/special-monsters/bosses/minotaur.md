@@ -14,11 +14,17 @@ _Minotaur_
 
 ## Details
 
-???
+Experience the breathtaking presence of the **Minotaur** as you traverse [Karutan 2](/maps/karutan), embarking on a quest to confront this formidable creature.
 
-| Location | Quantity | Respawn Time |
-| :------: | :------: | :----------: |
-|    ??    |    1     |      ??      |
+|          Location          |   Time   | Frequency |
+| :------------------------: | :------: | :-------: |
+| [Karutan 2](/maps/karutan) | 20:00:00 | Every 24h |
+
+:::tip
+
+A Global message will appear to all players when the mighty **Minotaur** spawns.
+
+:::
 
 ## Reward
 

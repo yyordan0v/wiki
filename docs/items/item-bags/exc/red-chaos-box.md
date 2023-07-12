@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Red Chaos Box
 
-The **Red Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
+The **Red Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
 
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
@@ -12,7 +12,7 @@ _Red Chaos Box_
 
 ## Item Drops
 
-The **Red Chaos Box** can drop the following items:
+The **Red Chaos Box** can drop one of the following items:
 
 ### Armor items
 

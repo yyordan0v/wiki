@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Green Chaos Box
 
-The **Green Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing quests. When opened, it offers players a variety of **excellent** items to collect.
+The **Green Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
 
 ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png)
 
@@ -12,7 +12,7 @@ _Green Chaos Box_
 
 ## Item Drops
 
-The **Green Chaos Box** can drop the following items:
+The **Green Chaos Box** can drop one of the following items:
 
 ### Weapons
 

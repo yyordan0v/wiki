@@ -14,11 +14,27 @@ _Erohim_
 
 ## Details
 
-???
+### Aida
 
-| Location | Quantity | Respawn Time |
-| :------: | :------: | :----------: |
-|    ??    |    1     |      ??      |
+Prepare yourself for an exhilarating expedition through the perilous realm of [Aida](/maps/aida) as you gear up to face the mighty **Erohim**, a creature whose sheer power and presence are sure to captivate and challenge you.
+
+|      Location      |   Time   | Frequency |
+| :----------------: | :------: | :-------: |
+| [Aida](/maps/aida) | 08:00:00 | Every 24h |
+
+:::tip
+
+A Global message will appear to all players when the **Erohim** spawns in Aida.
+
+:::
+
+### Land of Trials
+
+One of the advantages bestowed upon the victorious guild in the [Castle Siege Event](/events/castle-siege) is the exclusive privilege of having a dedicated **Erohim** boss solely accessible to members of their guild.
+
+|                Location                |     Respawn Time      |
+| :------------------------------------: | :-------------------: |
+| [Land of Trials](/maps/land-of-trials) | 11 hours after killed |
 
 ## Reward
 

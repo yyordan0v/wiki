@@ -12,11 +12,17 @@ _Medusa_
 
 ## Details
 
-???
+Embark on a thrilling journey through the treacherous [Swamp of Peace](/maps/swamp-of-peace) and brace yourself for an encounter with the **Medusa**, a formidable creature whose presence is bound to leave you spellbound.
 
-| Location | Quantity | Respawn Time |
-| :------: | :------: | :----------: |
-|    ??    |    1     |      ??      |
+|                Location                |   Time   | Frequency |
+| :------------------------------------: | :------: | :-------: |
+| [Swamp of Peace](/maps/swamp-of-peace) | 08:00:00 | Every 24h |
+
+:::tip
+
+A Global message will appear to all players when the **Medusa** spawns.
+
+:::
 
 ## Reward
 

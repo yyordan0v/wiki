@@ -14,7 +14,7 @@ _Star of Sacred Birth_
 
 ## Item Drops
 
-The **Star of Sacred Birth** can drop the following items:
+The **Star of Sacred Birth** can drop one of the following items:
 
 ### Armor items
 
@@ -45,9 +45,3 @@ To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/game
 | [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
 | -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- |
 | ![Giant](/img/monsters/lorencia/giant.jpg)   | ![Giant](/img/monsters/noria/stone-golem.jpg)            | ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    | ![Balrog](/img/monsters/losttower/balrog.jpg)  | ![Hydra](/img/monsters/atlans/hydra.jpg)     | ![The Mummy](/img/monsters/special/others/mummy.jpg) |
-
-## Conclusion
-
-The **Star of Sacred Birth** is a valuable item in Mu Online that provides players with various drops when opened. Make sure to defeat monsters in the designated locations to obtain the **Star of Sacred Birth** and discover the exciting items it contains.
-
-For more information about other items, monsters, or gameplay mechanics, refer to the corresponding documentation sections.
