@@ -22,13 +22,17 @@ The **Blue Ribbon Box** can drop one of the following items:
 
 ### Weapons
 
-|                         Sword Breaker                         |                          Flemeberge                           |                        Bone Blade                         |                        Sword Dancer                         |                      Explosion Blade                      |
-| :-----------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
-|     ![Sword Breaker](/img/items/swords/sword-breaker.png)     |        ![Flemeberge](/img/items/swords/flameberge.png)        |      ![Bone Blade](/img/items/swords/bone-blade.png)      |     ![Sword Dancer](/img/items/swords/sword-dancer.png)     | ![Explosion Blade](/img/items/swords/explosion-blade.png) |
-|                       Grand Viper Staff                       |                         Deadly Staff                          |                      Inberial Staff                       |                        Dark Stinger                         |                      Sylph Wind Bow                       |
-| ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png) |      ![Deadly Staff](/img/items/staffs/deadly-staff.png)      |  ![Inberial Staff](/img/items/staffs/inberial-staff.png)  |      ![Dark Stinger](/img/items/bows/dark-stinger.png)      |   ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)   |
-|                          Aileen Bow                           |                       Absolute Scepter                        |                      Soleil Scepter                       |                       Striker Scepter                       |                                                           |
-|         ![Aileen Bow](/img/items/bows/aileen-bow.png)         | ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) | ![Striker Scepter](/img/items/scepters/striker-scepter.png) |                                                           |
+|                         Sword Breaker                         |                        Flemeberge                         |                           Bone Blade                            |
+| :-----------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------: |
+|     ![Sword Breaker](/img/items/swords/sword-breaker.png)     |      ![Flemeberge](/img/items/swords/flameberge.png)      |         ![Bone Blade](/img/items/swords/bone-blade.png)         |
+|                       Grand Viper Staff                       |                       Deadly Staff                        |                         Inberial Staff                          |
+| ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png) |    ![Deadly Staff](/img/items/staffs/deadly-staff.png)    |     ![Inberial Staff](/img/items/staffs/inberial-staff.png)     |
+|                         Dark Stinger                          |                      Sylph Wind Bow                       |                           Aileen Bow                            |
+|       ![Dark Stinger](/img/items/bows/dark-stinger.png)       |   ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)   |          ![Aileen Bow](/img/items/bows/aileen-bow.png)          |
+|                         Sword Dancer                          |                      Explosion Blade                      |                       Rune Bastard Sword                        |
+|      ![Sword Dancer](/img/items/swords/sword-dancer.png)      | ![Explosion Blade](/img/items/swords/explosion-blade.png) | ![Rune Bastard Sword](/img/items/swords/rune-bastard-sword.png) |
+|                       Absolute Scepter                        |                      Soleil Scepter                       |                         Striker Scepter                         |
+| ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) |   ![Striker Scepter](/img/items/scepters/striker-scepter.png)   |
 
 :::note
 
