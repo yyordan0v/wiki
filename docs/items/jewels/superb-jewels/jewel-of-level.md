@@ -21,7 +21,8 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 
 :::
 
-You can obtain the **Jewel of Level** by:
+You can obtain the **Jewel of Level** from:
 
-- bla bla
-- yata yata yata
+|   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
+| :----------------------------------------------------------: |
+| ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |

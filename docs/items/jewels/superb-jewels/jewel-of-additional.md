@@ -20,7 +20,8 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 
 :::
 
-You can obtain the **Jewel of Additional** by:
+You can obtain the **Jewel of Additional** from:
 
-- bla bla
-- yata yata yata
+|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+| :----------------------------------------------------------: |
+| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |

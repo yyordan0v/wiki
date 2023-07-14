@@ -10,7 +10,6 @@ Unlocking a new realm of possibilities, this functionality empowers you to besto
 
 _Jewel of Luck_
 
-
 The **Jewel of Luck** offers the ability to add the **Luck Option** to **any** of your items.
 
 It is worth noting that this enhancement process carries a **success rate of 50%**, signifying the likelihood of achieving the desired outcome.
@@ -21,7 +20,8 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 
 :::
 
-You can obtain the **Jewel of Luck** by:
+You can obtain the **Jewel of Luck** from:
 
-- bla bla
-- yata yata yata
+|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+| :----------------------------------------------------------: |
+| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
