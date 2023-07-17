@@ -103,7 +103,7 @@ _Golden Great Dragon_
 
 The **Golden Great Dragons** consistently attack only the following map:
 
-??????????????????????????????/
+- [La Cleon](/maps/la-cleon)
 
 #### Quantity
 
@@ -111,7 +111,7 @@ Throughout the invasion, a solitary **Golden Great Dragon** is encountered, maki
 
 #### Reward
 
-When the **Golden Great Dragon** dies, he will drop the legendary [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+When the **Golden Great Dragon** dies, he drops the legendary [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
 
 ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 

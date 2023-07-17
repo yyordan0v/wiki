@@ -19,6 +19,14 @@ Our goal is to provide you with clear and concise explanations, supported by vis
 
 We understand that continuous updates and improvements are vital to keeping pace with an ever-evolving game server. Rest assured that we will regularly update the documentation to align with the latest features, patches, and changes in **Lotus Mu**. Be sure to check back frequently to stay up to date with the most relevant and accurate information.
 
+## Search the Wiki
+
+As you embark on your journey through the mystical realms of this immersive online universe, we invite you to harness the full potential of our **cutting-edge search engine**.
+
+Equipped with precision and efficiency, our **search feature** acts as the key to unlock a treasure trove of information, secrets, and valuable insights that will elevate your gameplay to extraordinary heights.
+
+To search in this documentation simply click in the **Search Box** located at the topmost right corner of the webpage or use the shortcut by pressing `Ctrl + K`.
+
 ## Topics
 
 **Lotus Mu** offers a wide range of gameplay systems and mechanics to explore.
@@ -27,7 +35,7 @@ This Documentation covers a wide range of topics to provide players with compreh
 
 ### 🐉 Monsters and Invasions
 
-Delve into the diverse array of monsters that inhabit the world of **Lotus Mu** and be prepared for epic invasions that challenge your skills and teamwork. 
+Delve into the diverse array of monsters that inhabit the world of **Lotus Mu** and be prepared for epic invasions that challenge your skills and teamwork.
 
 ### ⚔️ Items and Equipment
 
