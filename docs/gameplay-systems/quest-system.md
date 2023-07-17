@@ -38,7 +38,6 @@ To accomplish this, all you need to do is click on the **Get Reward** button.
 
 _Quest Window_
 
-
 ## Primary Quests
 
 The **Primary Quests** adapt to your progress, gradually increasing the strength and quantity of monsters you face, while simultaneously improving the quality of the rewards you receive.
@@ -49,8 +48,9 @@ In the **Primary Quests** you will be killing monsters 99% of the time in order 
 
 In order to start your **Secondary Quest**, you need to talk with **Benet d'Eamon**.
 
-> PLACE
-> AN IMAGE
+![Benet d'Eamon](/img/npc/benet-d-eamon.jpg)
+
+_Benet d'Eamon_
 
 :::tip
 
@@ -59,6 +59,5 @@ In order to start your **Secondary Quest**, you need to talk with **Benet d'Eamo
 :::
 
 The **Secondary Quest** requires a lot of work in order to reward the player. However the reward is really appealing and we advice every player to put the effort and please **Benet d'Eamon**.
-
 
 Keep on mind that **Secondary Quest** will be only **1** and will be available only for **one week** and change afterwards with another one.
