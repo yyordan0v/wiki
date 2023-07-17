@@ -111,11 +111,11 @@ Throughout the invasion, a solitary **Golden Great Dragon** is encountered, maki
 
 #### Reward
 
-When the **Golden Great Dragon** dies, he will drop the legendary [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box).
+When the **Golden Great Dragon** dies, he will drop the legendary [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
 
-![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
+![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 
-_Blue Chocolate Box_
+_Blue Ribbon Box_
 
 ```mdx-code-block
 
