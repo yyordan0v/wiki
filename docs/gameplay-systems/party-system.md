@@ -45,11 +45,11 @@ There are two types of Party Bonuses: the General Party Bonus, which is obtained
 |    General Party    |   +2% EXP   |    +3% EXP    |   +4% EXP    |   +5% EXP    |
 | Character Set Party |   +2% EXP   |    +5% EXP    |   +6% EXP    |   +7% EXP    |
 
-## Party Matching
+## Search Party
 
-**Party matching** is a convenient feature that allows you to easily discover and join a suitable party. 
+The **Search Party** Module is a convenient feature that allows you to easily discover and join a suitable party.
 
-:::tip
+:::info
 
 You can find more information on how utilize this feature in the [Search Party](/client-features/search-party) article.
 
