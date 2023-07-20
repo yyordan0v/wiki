@@ -184,6 +184,11 @@ const config = {
   
         //... other Algolia params
       },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
     }),
 };
 
