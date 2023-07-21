@@ -14,11 +14,11 @@ _Atlans_
 
 ### Regular Monsters
 
-|                         Bahamut                          |                            Vepar                             |                       Valkyrie                       |  Sirena   |
-| :------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: | :-------: |
-|       ![Bahamut](/img/monsters/atlans/bahamut.jpg)       |           ![Vepar](/img/monsters/atlans/vepar.jpg)           |    ![Valkyrie](/img/monsters/atlans/valkyrie.jpg)    |   IMAGE   |
-|                      Great Bahamut                       |                       Silver Valkyrie                        |                     Lizard King                      | Sealithan |
-| ![Great Bahamut](/img/monsters/atlans/great-bahamut.jpg) | ![Silver Valkyrie](/img/monsters/atlans/silver-valkyrie.jpg) | ![Lizard King](/img/monsters/atlans/lizard-king.jpg) |   IMAGE   |
+|                         Bahamut                          |                            Vepar                             |                       Valkyrie                       |                      Siren                       |
+| :------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
+|       ![Bahamut](/img/monsters/atlans/bahamut.jpg)       |           ![Vepar](/img/monsters/atlans/vepar.jpg)           |    ![Valkyrie](/img/monsters/atlans/valkyrie.jpg)    |     ![Siren](/img/monsters/atlans/siren.jpg)     |
+|                      Great Bahamut                       |                       Silver Valkyrie                        |                     Lizard King                      |                    Sealithan                     |
+| ![Great Bahamut](/img/monsters/atlans/great-bahamut.jpg) | ![Silver Valkyrie](/img/monsters/atlans/silver-valkyrie.jpg) | ![Lizard King](/img/monsters/atlans/lizard-king.jpg) | ![Sealithan](/img/monsters/atlans/sealithan.jpg) |
 
 ### Boss
 
