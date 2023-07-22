@@ -8,7 +8,7 @@ In the mystical realm of Mu Online, where battles rage and heroes emerge, player
 
 The **Necromancer** pet brings an air of darkness and intrigue to the gameplay experience. This skeletal sorcerer is a Tier 2 pet, evolving from its Tier 1 counterpart, the Devil Imp. Its skeletal visage, adorned in dark robes and wielding an ancient staff, exudes an aura of menace and power. The **Necromancer's** appearance alone sets it apart, captivating the attention of both allies and adversaries in the world of Mu.
 
-![Necromancer](/img/items/pets/necromancer.png)
+![Necromancer](/img/items/pets/necromancer.jpg)
 
 _Necromancer_
 

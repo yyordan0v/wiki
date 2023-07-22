@@ -10,7 +10,7 @@ One such extraordinary companion is the **Ghost Horse**, a Tier 2 pet that capti
 
 The **Ghost Horse** is an evolution of the Tier 1 pet, **Dark Horse**, and is renowned for its exceptional speed and agility. As it glides through the mystical realm of Mu, its transparent form leaves a trail of wispy, ghostly echoes behind, adding an aura of mystery and enchantment to its presence.
 
-![Ghost Horse](/img/items/pets/ghost-horse.png)
+![Ghost Horse](/img/items/pets/ghost-horse.jpg)
 
 _Ghost Horse_
 
