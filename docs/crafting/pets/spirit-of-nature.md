@@ -56,4 +56,8 @@ Beyond its exceptional abilities, the **Spirit of Nature** also allows players t
 
 This customization feature adds a personal touch and allows players to create a **Spirit of Nature** that is as unique and awe-inspiring as the world it inhabits.
 
+:::tip
+
 You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+
+:::

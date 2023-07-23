@@ -65,4 +65,8 @@ The **Ghost Horse** not only serves as a formidable ally but also adds a touch o
 
 This level of customization fosters a sense of pride and ownership among players, making their **Ghost Horse** more than just a companion but an extension of their own identity within the game.
 
+:::tip
+
 You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+
+:::
