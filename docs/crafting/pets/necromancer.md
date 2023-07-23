@@ -56,4 +56,4 @@ Customization is another aspect that makes the **Necromancer** pet appealing to 
 
 Whether adorned in regal attire or draped in eerie darkness, players can display their individuality and style, giving their **Necromancer** a distinct presence on the battlefield.
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/category/skin-system) section.
+You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
