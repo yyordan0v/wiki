@@ -26,7 +26,7 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 :::
 
-### Silvia and Leah
+### Silvia and Rhea
 
 |                  Red Fenrir                   |                   Blue Fenrir                   |                   Black Fenrir                    |
 | :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
@@ -34,7 +34,7 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 :::info
 
-These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Leah** in [Yoskreth](/maps/yoskreth).
+These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea** in [Yoskreth](/maps/yoskreth).
 
 :::
 

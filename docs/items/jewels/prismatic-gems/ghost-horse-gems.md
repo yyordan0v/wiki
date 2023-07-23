@@ -20,7 +20,7 @@ _Prismatic Gem_
 
 :::info
 
-The Ghost Horse Prismatic Gems can be bought from either **Silvia** or **Leah** in [Yoskreth](/maps/yoskreth).
+The Ghost Horse Prismatic Gems can be bought from either **Silvia** or **Rhea** in [Yoskreth](/maps/yoskreth).
 
 :::
 

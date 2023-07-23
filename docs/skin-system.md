@@ -50,18 +50,22 @@ All of the following **NPCs** are located in [Yoskreth](/maps/yoskreth).
 
 You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia** in exchange for **Zen**.
 
-> PLACE IMAGE
+![Silvia](/img/items/npc/silvia.jpg)
+
+_Silvia_
 
 The Prismatic Gems available for purchase with **Zen** include:
 
 - [Red Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
 - [Red Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
 
-### Leah
+### Rhea
 
-You have the chance to obtain [Prismatic Gems](/category/prismatic-gems) from **Leah** in exchange for **Goblin Points**.
+You have the chance to obtain [Prismatic Gems](/category/prismatic-gems) from **Rhea** in exchange for **Goblin Points**.
 
-> PLACE IMAGE
+![Rhea](/img/items/npc/rhea.jpg)
+
+_Rhea_
 
 The Prismatic Gems available for purchase with **Goblin Points** include:
 
@@ -76,7 +80,9 @@ Within The **Lotus Mu Collector's Caches** are hidden the **rarest** prismatic g
 
 You can obtain these caches from **Jagod Di** in exchange for **Coins** .
 
-> PLACE IMAGE
+![Jagod Di](/img/items/npc/jagod-di.jpg)
+
+_Jagod Di_
 
 Currently, there are two types of collector's caches available:
 
