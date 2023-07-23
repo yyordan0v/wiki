@@ -12,7 +12,7 @@ It is within this training ground that his formidable army undergoes rigorous pr
 
 :::tip
 
-The completion of the [3rd Character Class Quest](/gameplay-systems/third-class-quest) requires eliminating all monsters on this map to succeed.
+The completion of the 3rd Character Class Quest requires eliminating all monsters on this map to succeed.
 
 :::
 
@@ -20,7 +20,7 @@ The completion of the [3rd Character Class Quest](/gameplay-systems/third-class-
 
 _Balgass' Barracks_
 
-To successfully undertake your [3rd Character Class Quest](/gameplay-systems/third-class-quest) and locate the elusive **Dark Elf (Trainee)**, a formidable journey awaits within the depths of the **Balgass Barracks**.
+To successfully undertake your 3rd Character Class Quest and locate the elusive **Dark Elf (Trainee)**, a formidable journey awaits within the depths of the **Balgass Barracks**.
 
 Within this challenging domain, you must navigate through various obstacles until you reach the final destination, where the **Gatekeeper** NPC awaits.
 
