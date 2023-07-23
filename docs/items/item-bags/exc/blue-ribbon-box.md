@@ -34,6 +34,12 @@ The **Blue Ribbon Box** can drop one of the following items:
 |                       Absolute Scepter                        |                      Soleil Scepter                       |                         Striker Scepter                         |
 | ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) |   ![Striker Scepter](/img/items/scepters/striker-scepter.png)   |
 
+### Shields
+
+|                      Arthemis Shield                       |                      Frostfire Aegis                       |                           Sapphire Seraphic Shield                           |                        Abyssal Bonebreaker                         |                       Heavengate Shield                        |
+| :--------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: |
+| ![Arthemis Shield](/img/items/shields/arthemis-shield.png) | ![Frostfire Aegis](/img/items/shields/frostfire-aegis.png) | ![Sapphire Seraphic Shield](/img/items/shields/sapphire-seraphic-shield.png) | ![Abyssal Bonebreaker](/img/items/shields/abyssal-bonebreaker.png) | ![Heavengate Shield](/img/items/shields/heavengate-shield.png) |
+
 :::note
 
 Please note that the drop rates for these items may vary and the items are **excellent**.
