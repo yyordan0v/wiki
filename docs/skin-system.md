@@ -82,7 +82,7 @@ Currently, there are two types of collector's caches available:
 
 #### The Fenrir Collector's Cache
 
-Inside this particular **Collector's Cache**, you have the chance to acquire [Fenrir Prismatic Gems](/items/jewels/prismatic-gems/fenrir-gems).
+Inside this particular **Collector's Cache**, are hidden the [Fenrir Prismatic Gems](/items/jewels/prismatic-gems/fenrir-gems).
 
 ![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
 
@@ -90,13 +90,13 @@ _Fenrir Collector's Cache_
 
 :::note
 
-The Red, Blue, and Black Fenrir Prismatic Gems are **excluded** from this specific Cache.
+The Red, Blue, and Black Fenrir Prismatic Gems are **not included** in this specific Cache.
 
 :::
 
 #### The Darkhorse Collector's Cache
 
-Inside this **Collector's Cache**, you have the chance to acquire [Darkhorse Prismatic Gems](/items/jewels/prismatic-gems/darkhorse-gems).
+From this specific **Collector's Cache**, you have the chance to acquire [Darkhorse Prismatic Gems](/items/jewels/prismatic-gems/darkhorse-gems).
 
 ![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
 
