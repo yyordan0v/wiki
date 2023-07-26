@@ -20,7 +20,15 @@ Prepare yourself for an exhilarating expedition through the perilous realm of [A
 
 |      Location      |   Time   | Frequency |
 | :----------------: | :------: | :-------: |
-| [Aida](/maps/aida) | 08:00:00 | Every 24h |
+| [Aida](/maps/aida) | 23:50:00 | Every 24h |
+
+:::info
+
+You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+
+Please take into account that the invasion timer is based on the server time.
+
+:::
 
 :::tip
 

@@ -16,9 +16,9 @@ The **Box of Kundun +4** can drop one of the following items:
 
 ### Armor items
 
-|                   Dragon Set                   |                   Legendary Set                   |                    Guardian Set                    |                     Storm Crow Set                     |                     Adamantine Set                     |
-| :--------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-| ![Dragon Set](/img/items/armors/dk/dragon.png) | ![Legendary Set](/img/items/armors/dw/sphinx.png) | ![Guardian Set](/img/items/armors/fe/guardian.png) | ![Storm Crow Set](/img/items/armors/mg/storm-crow.png) | ![Adamantine Set](/img/items/armors/dl/adamantine.png) |
+|                   Dragon Set                   |                    Legendary Set                     |                    Guardian Set                    |                     Storm Crow Set                     |                     Adamantine Set                     |
+| :--------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+| ![Dragon Set](/img/items/armors/dk/dragon.png) | ![Legendary Set](/img/items/armors/dw/legendary.png) | ![Guardian Set](/img/items/armors/fe/guardian.png) | ![Storm Crow Set](/img/items/armors/mg/storm-crow.png) | ![Adamantine Set](/img/items/armors/dl/adamantine.png) |
 
 ### Weapons
 

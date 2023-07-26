@@ -19,9 +19,11 @@ The table below presents valuable insights regarding the timing and frequency of
 
 | First Invasion time | Reappearing Time |
 | :-----------------: | :--------------: |
-|      01:55:00       |   Every 4 hour   |
+|      01:50:00       |   Every 6 hour   |
 
-:::note
+:::info
+
+You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
 

@@ -16,7 +16,15 @@ Embark on a thrilling journey through the treacherous [Swamp of Peace](/maps/swa
 
 |                Location                |   Time   | Frequency |
 | :------------------------------------: | :------: | :-------: |
-| [Swamp of Peace](/maps/swamp-of-peace) | 08:00:00 | Every 24h |
+| [Swamp of Peace](/maps/swamp-of-peace) | 05:50:00 | Every 24h |
+
+:::info
+
+You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+
+Please take into account that the invasion timer is based on the server time.
+
+:::
 
 :::tip
 
