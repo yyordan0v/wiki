@@ -2,7 +2,7 @@
 sidebar_position: 12
 ---
 
-# Crywolf
+# Crywolf Fortress
 
 Situated in the southeastern region of the [Valley of Loren](/maps/valley-of-loren), lies the formidable **Crywolf Fortress**. This advanced stronghold serves as the battleground where the united forces of humans and elves confront the relentless army of [Kundun](/special-monsters/bosses/kundun).
 

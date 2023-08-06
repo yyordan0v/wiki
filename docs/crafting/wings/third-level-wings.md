@@ -14,7 +14,7 @@ Before you can combine the **Wings**, you need to ensure that you have the neces
 - [20 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
 - [20 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
 - [20 Bundled Jewels of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- [Condor Flame](/items/others/condor-flame)
+- **Condor Flame**
 - [Condor Feather](/crafting/wings/condor-feather)
 - **Excellent** item that has been upgraded to a **minimum of +13** with an **option of +4 or higher**
 - 1,000,000,000 Zen

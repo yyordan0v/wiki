@@ -44,6 +44,12 @@ One of the advantages bestowed upon the victorious guild in the [Castle Siege Ev
 | :------------------------------------: | :-------------------: |
 | [Land of Trials](/maps/land-of-trials) | 11 hours after killed |
 
+### Castle Deep
+
+Erohim is set to emerge upon the conclusion of the [Castle Deep](/events/castle-deep) event.
+
+The event takes place in the [Valley of Loren](/maps/valley-of-loren). You are required to eliminate the spawned creatures. Once all adversaries have been vanquished, **Erohim** will materialize.
+
 ## Reward
 
 Upon successfully killing the **Erohim**, players will be rewarded with:
