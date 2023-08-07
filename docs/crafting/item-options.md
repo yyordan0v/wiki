@@ -8,16 +8,6 @@ The **Item Options** are the options which in Mu Online are normally exclusive t
 
 The **Item Options** can be added through a **Chaos Combination**. We will further delve into the process in the following sections of the artcle.
 
-## The Chaos Machine
-
-Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
-
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
-
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
-
-_The Chaos Goblin_
-
 ## Ingredients
 
 Before you add an **Item Option** to your item, you need to ensure that you have the necessary ingredients:
@@ -37,7 +27,7 @@ Each part of the character's equipment will gain a different pink options.
 
 You cannot **add**, **remove** or **change** the pink options.
 
-If you succeeded in putting an **Item Option** in your item, the necessary pink options will be **permanent**.
+If you succeeded in putting an **Item Option** in your item, the pink options will be **permanent**.
 
 :::
 
@@ -70,3 +60,13 @@ If you succeeded in putting an **Item Option** in your item, the necessary pink 
 
 - Additional Damage +200
 - Attack Success Rate increase +10
+
+## The Chaos Machine
+
+Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+
+Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+
+![Chaos Goblin](/img/crafting/chaos-goblin.png)
+
+_The Chaos Goblin_
