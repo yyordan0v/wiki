@@ -27,10 +27,10 @@ _Castle Siege cycle_
 ## How to Register
 
 - Qualified guilds must talk to the **Guardsman NPC** and press the **"Announce"** button and their registration will be accepted.
-- Only the guild master of the main alliance can announce intent to siege to the **Guardsman NPC**.
-- To register in a guild should be **20 or more players** and the level of guildmaster should be equal to 200 or more.
-- **Any guild members** of the guilds that have announced intent to seige **can submit a Sign of Lord** during the registration period. The **greater amount** of the Signs of Lord, **the better the chance** to take part in the siege.
-- When the **Guardsman NPC** is clicked, the guild name and allied guilds names rankings will show on the registry.
+- Only the guild master can announce intent to siege to the **Guardsman NPC**.
+- To register a guild it should be **20 or more players** and the level of the Guild Master should be equal to 200 or more.
+- **Any guild members** of the guilds that have announced intent to seige **can submit a Sign of Lord** during the registration period. The **greater the amount** of the Signs of Lord, **the better the chance** to take part in the siege.
+- When the **Guardsman NPC** is clicked, the guild name rankings will show on the registry.
 - When the **Guardsman NPC** is clicked Siege status information will be shown.
 - Only the **top 3 guilds** and their allies will be given a priority for the siege.
 
@@ -44,13 +44,13 @@ During the Guild Registration Period, guilds can announce their intentions to at
 
 Registration Period is the time to bid for the **top 3 slots** for the siege by using **Sign of Lord** to enhance their ranking.
 
-If more then **3 guilds** have been registered, then rank will be calculated with the following formula:
+If more than **3 guilds** have been registered, then rank will be calculated with the following formula:
 
 ```python title="Registration Ranking Formula"
-Ranking = (Registered Sign of Lord \* 5) + Guild Members Number + (Guild Master Level / 4)
+Ranking = (Registered Sign of Lord * 5) + Guild Members Number + (Guild Master Level / 4)
 ```
 
-The **Announcement of Qualified Guilds** announces guilds that have been **accepted** into the guild siege.
+The **Announcement of Qualified Guilds** announces all the guilds that have been **accepted** into the Guild Siege.
 
 :::tip
 
@@ -62,7 +62,7 @@ The **Announcement of Qualified Guilds** announces guilds that have been **accep
 
 :::info
 
-Keep on mind the following things when participating the Siege Warfare:
+Keep on mind the following things when participating the **Siege Warfare**:
 
 - PK penalty **do not apply** between the guilds of the invading and defending team.
 - PK penalty **will not be applied** to both invading team and defending teams but will be applicable to other characters who are not participants.
@@ -90,7 +90,7 @@ The **Guild Master** will have a **crown icon** instead of sword or shield. (A b
 
 ## Basic Policy and Winning condition
 
-To **win the Siege** the guild master's official seal should be registered in **the pedestal** located at the dragon tower and **if it succeeds** the lord of a castle **will be changed**.
+To **win the Siege** the guild master's official seal should be registered in **the pedestal** located at the Dragon Tower and **if it succeeds** the Lord of a Castle **will be changed**.
 
 ![Pedestal](/img/events/cs/pedestal.jpg)
 
@@ -155,7 +155,15 @@ Recover HP/MP/AG around the **Guardian Statue**.
 
 _Guardian Statue_
 
-Guardian statues can be upgraded up to a maximum of **3 stages** of defensive power and durability. Keep on mind that upgrading and restoring is **not possible** during the battle.
+:::info
+
+- Guardian statues can be upgraded up to a maximum of **3 stages** of defensive power and durability.
+
+- Recovery rate can be upgraded up to maximum of **3 stages**.
+
+Keep on mind that upgrading and restoring is **not possible** during the battle.
+
+:::
 
 ![Guardian Statue](/img/events/cs/statue2.jpg)
 
@@ -173,11 +181,7 @@ When all 4 statues inside the castle **have been destroyed**, the shield of the 
 
 :::note
 
-Keep on mind the following things:
-
-- Only the players of the defending team **can enter** through the **Shield of the Dragon Tower**.
-
-- Recovery rate can be upgraded up to maximum of **3 stages**.
+Only the players of the defending team **can enter** through the **Shield of the Dragon Tower**.
 
 :::
 
@@ -213,7 +217,7 @@ Click onto the **Siege Weapons** to view the menu to select the attacking locati
 
 :::tip
 
-Players can view the location being attacked when using the siege Weapons
+Players can view the location being attacked when using the **Siege Weapons**.
 
 :::
 
@@ -257,13 +261,13 @@ Keep on mind that decreased Weapons' Durability will greatly **reduce** the weap
 
 :::tip TIPS
 
-- Potion of Bless and Potion of Soul can be used the same as regular potions by using the shortcut keys `Q/W/E`
+- **Potion of Bless** and **Potion of Soul** can be used the same as regular potions by using the shortcut keys `Q/W/E`
 
 - Shortcut key setting can be assigned by pressing `CTRL` + `Q/W/E` while pointing the cursor over the corresponding item
 
 :::
 
-When the player uses the **Potion of Bless** and **Potion of Soul**, potions that are being used will be indicated at the top of the screen.
+When the player uses the **Potion of Bless** and **Potion of Soul**, potions that are being used will be indicated at the top of the screen as a buff effect.
 
 ![Potions Effect](/img/events/cs/pot-effect.jpg)
 
@@ -341,7 +345,7 @@ _Soldiers Army_
 
 ## Castle Operations
 
-The **Lord of the Castle** (Guild Master of owner of the Casle) **can collect the taxes** from all players using the stores and other systems like the **Chaos Goblin** in the server. Adjusting tax rate and settings for castle operations is done through the **Senior** NPC located in the Dragon Tower.
+The **Lord of the Castle** can collect the taxes from all players using the stores and other systems like the **Chaos Goblin** in the server. Adjusting tax rate and settings for castle operations is done through the **Senior** NPC located in the Dragon Tower.
 
 ![Senior NPC](/img/npc/senior.jpg)
 
@@ -373,7 +377,7 @@ _Tax Adjustments_
 - NPC who are not affected by taxes are: Sebina, Marlon, Guild Master, Charon, Messenger of Archangel.
 - Collected taxes will be displayed as a Remaining Zen of the **Senior NPC**.
 - Allowed withdrawal per transactions is set at **15,000,000** Zen.
-- The cost of maintenance/upgrades will be deducted from the **caslte lords inventory**.
+- The cost of maintenance/upgrades will be deducted from the **Castle Lord's inventory**.
 
 :::info
 
@@ -453,7 +457,7 @@ The **Guardian Statues Upgrade** can be done in **2nd tab** when interacting wit
 | :-----------------: | :----------------------------------: | :---------------------------------: | :---------------------------------: |
 |       **HP**        | 3 Jewel of Guardian + 1,000,000 Zen  | 5 Jewel of Guardian + 1,000,000 Zen | 7 Jewel of Guardian + 1,000,000 Zen |
 |     **Defense**     | 3 Jewel of Guardian + 3,000,000 Zen  | 5 Jewel of Guardian + 3,000,000 Zen | 7 Jewel of Guardian + 3,000,000 Zen |
-|    **Recovery**     | 3J ewel of Guardian + 35,000,000 Zen | 5 Jewel of Guardian + 5,000,000 Zen | 7 Jewel of Guardian + 5,000,000 Zen |
+|    **Recovery**     | 3 Jewel of Guardian + 5,000,000 Zen | 5 Jewel of Guardian + 5,000,000 Zen | 7 Jewel of Guardian + 5,000,000 Zen |
 
 ### Senior Mix
 
@@ -589,13 +593,13 @@ A total of **7 groups** can be commanded from this menu.
 
 ### Life Stone
 
-Only the Guild Master or Assistant Guild Master of the **invading team** can use the **Life Stone**. Once the **Life Stone** is created it functions as a respond point for the entire guild.
+Only the Guild Master or Assistant Guild Master of the **invading team** can use the **Life Stone**. Once the **Life Stone** is created it functions as a **respawn point** for the entire guild.
 
 ![Lifestone](/img/events/cs/life-stone.jpg)
 
 _Lifestone_
 
-When the invading team's character gets killed, he will respawn **from the Life Stone** and **not from the outside of Castle**.
+When the invading team's character gets killed, he will respawn **next to the Life Stone** and **not outside of the Castle**.
 
 :::caution
 
@@ -615,7 +619,7 @@ Due to its special powers, it will restore **HP/MP/AG** to the invading team's c
 
 #### Creating a Life Stone
 
-Life Stones can be created through the **Chaos Mix**.
+Life Stones can be created through the following **Chaos Mix**:
 
 | [Jewels of Bless - x5](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [ Jewels of Soul - x5](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Jewels of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |                                         |                     Place Life Stone                     |
 | :-----------------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------: | :-----------------------------------: | :------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------: |

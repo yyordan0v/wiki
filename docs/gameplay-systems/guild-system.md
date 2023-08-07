@@ -10,7 +10,7 @@ These guilds are formed with various objectives in mind, whether it's bringing t
 
 :::note
 
-In **Lotus Mu**, guilds have a maximum capacity of **30** members. However, if the guild master is **Dark Lord**, the guild can accommodate up to **40** members.
+In **Lotus Mu**, guilds have a maximum capacity of **30** members. However, if the guild master is **Dark Lord**, the guild can accommodate up to **35** members.
 
 :::
 
