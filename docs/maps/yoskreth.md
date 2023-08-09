@@ -24,4 +24,6 @@ At the heart of **Yoskreth** lies a bustling cityscape teeming with life and div
 
 One of the most anticipated events on **Lotus Mu** unfolds within the walls of **Yoskreth** - The [King of Yoskreth](/events/combat-events/king-of-yoskreth) Event. This grand spectacle showcases the prowess and teamwork of **guilds** as they vie for control over the city. **Guilds** battle fiercely to assert dominance and claim the coveted title of **King**, an honor that brings with it the responsibility of governance and the privileges that come with it. The event not only tests combat skills but also diplomacy, strategy, and coordination, making it a true test of a guild's mettle.
 
+## Summary 
+
 In summary, **Yoskreth**, the captivating capital city at the juncture of desert and sea, offers adventurers a sanctuary of peace and interaction in the midst of chaos. With its diverse populace, unique location, and the exhilarating [The King of Yoskreth](/events/combat-events/king-of-yoskreth) Event, it stands as a pivotal hub where tales are woven, alliances are forged, and legends are made in the ever-evolving world of **Lotus Mu**. So, step into the vibrant streets of **Yoskreth** and uncover the secrets it holds, for adventure awaits those who dare to explore its captivating realm.
