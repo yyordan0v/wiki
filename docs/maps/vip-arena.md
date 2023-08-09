@@ -22,8 +22,6 @@ To move to the **VIP Arena** you need to type the following command:
 
 ## Monsters in VIP Arena
 
-### Regular Monsters
-
 |                                 Death Gorgon                                  |                          Iron Wheel                          |                          Mega Crust                          |                        Alpha Crust                         |
 | :---------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
 |           ![Death Gorgon](/img/monsters/losttower/death-gorgon.jpg)           |      ![Iron Wheel](/img/monsters/tarkan/iron-wheel.jpg)      |      ![Megacrust](/img/monsters/icarus/mega-crust.jpg)       |    ![Alpha Crust](/img/monsters/icarus/alpha-crust.jpg)    |
