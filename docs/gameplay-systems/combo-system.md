@@ -22,7 +22,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 
 ```mdx-code-block
 <Tabs lazy>
-  <TabItem value="knights" label="Knight">
+  <TabItem value="knights" label="Knights">
 ```
 
 #### Activation Skills
@@ -43,7 +43,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="wizards" label="Wizard">
+  <TabItem value="wizards" label="Wizards">
 ```
 
 #### Activation Skills
@@ -62,7 +62,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="elves" label="Elf">
+  <TabItem value="elves" label="Elves">
 ```
 
 #### Activation Skills
@@ -78,7 +78,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="gladiators" label="Gladiator">
+  <TabItem value="gladiators" label="Gladiators">
 ```
 
 Text Here
@@ -86,7 +86,7 @@ Text Here
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="lords" label="Lord">
+  <TabItem value="lords" label="Lords">
 ```
 
 Text Here
