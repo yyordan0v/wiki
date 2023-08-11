@@ -8,6 +8,8 @@ We have embraced the concept of player self-expression by introducing the revolu
 
 This opens up the opportunity for you to modify the appearance of your [Tier 2 pets](/category/pets).
 
+The only benefit you will get from infusing your [Tier 2 pet](/category/pets) will be the **Plasma Storm Skill**. This skill **will be added** to all infused [Necromancer](/crafting/pets/necromancer) and [Spirit of Nature](/crafting/pets/spirit-of-nature) pets.
+
 :::note
 
 Please be aware that this functionality solely alters the pet's **appearance** while preserving its original stats.

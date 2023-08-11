@@ -28,7 +28,7 @@ The Ghost Horse Prismatic Gems can be bought from either **Silvia** or **Rhea** 
 
 Through the infusion of one of the Ghost Horse Prismatic Gems into your [Tier 2 Pets](/category/pets), you can seamlessly alter their appearances, with each **Gem** providing a distinct transformation based on the specific **Prismatic Gem** used in the process.
 
-|                     Red Ghost Horse                     |                     Ice Ghost Horse                     |                      White Ghost Horse                      |
+|                Red Ghost Horse - Common                 |               Ice Ghost Horse - Uncommon                |                White Ghost Horse - Uncommon                 |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------------------: |
 | ![Red Ghost Horse](/img/items/pets/red-ghost-horse.jpg) | ![Ice Ghost Horse](/img/items/pets/ice-ghost-horse.jpg) | ![White Ghost Horse](/img/items/pets/white-ghost-horse.jpg) |
 
@@ -37,3 +37,23 @@ Through the infusion of one of the Ghost Horse Prismatic Gems into your [Tier 2 
 Please be aware that the infusion process only alters the pet's appearance while preserving its original stats.
 
 :::
+
+## Rarity
+
+The skins are divided into different **Rarity Tiers** based on the chance to aquire each of them.
+
+:::note
+
+The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will be.
+
+:::
+
+The following table offers an overview of the various tiers of rarity.
+
+| Skin Rarity | Description                                                                         |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Common      | Skins that are commonly found and easily accessible.                                |
+| Uncommon    | Skins that are less common than usual and offer a bit of uniqueness.                |
+| Rare        | Skins that are harder to come by, making them more sought after.                    |
+| Mythical    | Skins that are extremely rare and often have special features or effects.           |
+| Legendary   | Skins of the highest rarity, known for their exceptional and distinctive qualities. |

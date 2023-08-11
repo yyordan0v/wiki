@@ -28,7 +28,7 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 ### Silvia and Rhea
 
-|                  Red Fenrir                   |                   Blue Fenrir                   |                   Black Fenrir                    |
+|              Red Fenrir - Common              |             Blue Fenrir - Uncommon              |              Black Fenrir - Uncommon              |
 | :-------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
 | ![Red Fenrir](/img/items/pets/red-fenrir.jpg) | ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg) | ![Black Fenrir](/img/items/pets/black-fenrir.jpg) |
 
@@ -40,10 +40,10 @@ These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea**
 
 ### Fenrir Collector's Cache
 
-|                    Holy Fenrir                    |                    Zyron Fenrir                     |                    Gold Fenrir                    |                   Steel Fenrir                    |
+|                Holy Fenrir - Rare                 |                 Zyron Fenrir - Rare                 |                Gold Fenrir - Rare                 |                Steel Fenrir - Rare                |
 | :-----------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 |  ![Holy Fenrir](/img/items/pets/holy-fenrir.jpg)  |  ![Zyron Fenrir](/img/items/pets/zyron-fenrir.jpg)  |  ![Gold Fenrir](/img/items/pets/gold-fenrir.jpg)  | ![Steel Fenrir](/img/items/pets/steel-fenrir.jpg) |
-|                   Green Fenrir                    |                    Purple Fenrir                    |                   Ghost Fenrir                    |
+|              Green Fenrir - Mythical              |              Purple Fenrir - Mythical               |             Ghost Fenrir - Legendary              |
 | ![Green Fenrir](/img/items/pets/green-fenrir.jpg) | ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg) | ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg) |
 
 :::info
@@ -55,3 +55,23 @@ These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cach
 _Fenrir Collector's Cache_
 
 :::
+
+## Rarity
+
+The skins are divided into different **Rarity Tiers** based on the chance to aquire each of them.
+
+:::note
+
+The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will be.
+
+:::
+
+The following table offers an overview of the various tiers of rarity.
+
+| Skin Rarity | Description                                                                         |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Common      | Skins that are commonly found and easily accessible.                                |
+| Uncommon    | Skins that are less common than usual and offer a bit of uniqueness.                |
+| Rare        | Skins that are harder to come by, making them more sought after.                    |
+| Mythical    | Skins that are extremely rare and often have special features or effects.           |
+| Legendary   | Skins of the highest rarity, known for their exceptional and distinctive qualities. |
