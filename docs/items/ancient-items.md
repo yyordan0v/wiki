@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Ancient Items
 
 **Ancient Items** comprises potent equipment sets that, when worn together, unveil an assortment of distinctive supplementary attributes referred to as '**+Set Option**'. These sets surpass their regular and sometimes even their excellent-grade equivalents, boasting significantly heightened offensive and defensive attributes.
@@ -14,7 +17,7 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 
 - **Ancient items** have fixed `Set Names` and fixed '**+Set Options**' depending on the `Set Name`.
 
-- '**+Set Options**' will be unlocked when you equip at least two items of the same `Ancient Set`.
+- '**+Set Options**' will be unlocked when you equip **at least two items** of the same `Ancient Set`.
 
 - Additional '**+Set Options**' are unlocked for each additional item equipped of the same `Ancient Set`.
 
