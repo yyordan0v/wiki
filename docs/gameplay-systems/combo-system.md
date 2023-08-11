@@ -27,7 +27,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 
 #### Activation Skills
 
-- Cresent Moon Slash ([Castle Siege](/events/castle-siege) only);
+- Cresent Moon Slash ([Castle Siege](/events/castle-siege#skills) only);
 - Falling Slash;
 - Lunge;
 - Uppercut;
@@ -48,7 +48,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 
 #### Activation Skills
 
-- Wind Blades ([Castle Siege](/events/castle-siege) only);
+- Wind Blades ([Castle Siege](/events/castle-siege#skills) only);
 - Poison;
 - Lightning;
 - Ice;
@@ -67,7 +67,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 
 #### Activation Skills
 
-- Heaven Arrow ([Castle Siege](/events/castle-siege) only);
+- Heaven Arrow ([Castle Siege](/events/castle-siege#skills) only);
 - Ice Age;
 
 #### Additional Skills
