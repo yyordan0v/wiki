@@ -40,11 +40,12 @@ These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea**
 
 ### Fenrir Collector's Cache
 
-|                Holy Fenrir - Rare                 |                 Zyron Fenrir - Rare                 |                Gold Fenrir - Rare                 |                Steel Fenrir - Rare                |
-| :-----------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
-|  ![Holy Fenrir](/img/items/pets/holy-fenrir.jpg)  |  ![Zyron Fenrir](/img/items/pets/zyron-fenrir.jpg)  |  ![Gold Fenrir](/img/items/pets/gold-fenrir.jpg)  | ![Steel Fenrir](/img/items/pets/steel-fenrir.jpg) |
-|              Green Fenrir - Mythical              |              Purple Fenrir - Mythical               |             Ghost Fenrir - Legendary              |
-| ![Green Fenrir](/img/items/pets/green-fenrir.jpg) | ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg) | ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg) |
+|                 Holy Fenrir - Rare                  |                 Zyron Fenrir - Rare                 |                Gold Fenrir - Rare                 |                Steel Fenrir - Rare                |
+| :-------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
+|   ![Holy Fenrir](/img/items/pets/holy-fenrir.jpg)   |  ![Zyron Fenrir](/img/items/pets/zyron-fenrir.jpg)  |  ![Gold Fenrir](/img/items/pets/gold-fenrir.jpg)  | ![Steel Fenrir](/img/items/pets/steel-fenrir.jpg) |
+|               Green Fenrir - Mythical               |              Purple Fenrir - Mythical               |             Ghost Fenrir - Legendary              |
+| <span className="tier-mythical">**Mythical**</span> | ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg) | ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg) |
+|  ![Green Fenrir](/img/items/pets/green-fenrir.jpg)  | ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg) | ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg) |
 
 :::info
 
@@ -68,10 +69,10 @@ The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will 
 
 The following table offers an overview of the various tiers of rarity.
 
-| Skin Rarity                                    | Description                                                                         |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <span className="tier-common">**Common**</span>    | Skins that are commonly found and easily accessible.                                |
-| <span className="tier-uncommon">**Uncommon**</span>  | Skins that are less common than usual and offer a bit of uniqueness.                |
-| <span className="tier-rare">**Rare**</span>      | Skins that are harder to come by, making them more sought after.                    |
-| <span className="tier-mythical">**Mythical**</span>  | Skins that are extremely rare and often have special features or effects.           |
+| Skin Rarity                                           | Description                                                                         |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <span className="tier-common">**Common**</span>       | Skins that are commonly found and easily accessible.                                |
+| <span className="tier-uncommon">**Uncommon**</span>   | Skins that are less common than usual and offer a bit of uniqueness.                |
+| <span className="tier-rare">**Rare**</span>           | Skins that are harder to come by, making them more sought after.                    |
+| <span className="tier-mythical">**Mythical**</span>   | Skins that are extremely rare and often have special features or effects.           |
 | <span className="tier-legendary">**Legendary**</span> | Skins of the highest rarity, known for their exceptional and distinctive qualities. |
