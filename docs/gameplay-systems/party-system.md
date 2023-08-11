@@ -59,7 +59,7 @@ You can find more information on how utilize this feature in the [Search Party](
 
 You also have the possibility to create a **password-protected party** which you can share with your fellow players so they can **join the party anytime** by just typing the password, **without the need** of your confirmation.
 
-:::info
+:::tip
 
 To create a password-protected party type:
 
