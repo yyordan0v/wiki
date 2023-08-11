@@ -27,7 +27,10 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 
 ## How to obtain an Ancient Item
 
-In order to obtain **Ancient Items**, adventurers must either slay _Regular Monsters_ in [Kalima](/maps/kalima) or to triumph in the [Chaos Castle](/events/chaos-castle) Event.
+In order to obtain **Ancient Items**, adventurers must either:
+- Slay monsters in [Kalima](/maps/kalima);
+- Slay monsters in [Land of Trials](/maps/land-of-trials);
+- Triumph in the [Chaos Castle](/events/chaos-castle) Event.
 
 ## Ancient Sets
 
