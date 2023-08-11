@@ -17,6 +17,8 @@ In the realm of **Lotus Mu**, every class has the opportunity to harness the pot
 
 :::
 
+Successfully executing a Combo significantly **enhances your character's damage** potential, and you can even **chain Combos** for immense damage output.
+
 In the subsequent segments of the article, we will present you with comprehensive lists of potential combinations tailored for each distinct class.
 
 ```mdx-code-block
