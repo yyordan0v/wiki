@@ -25,7 +25,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
   <TabItem value="knights" label="Knight">
 ```
 
-**Activation Skills**
+#### Activation Skills
 
 - Cresent Moon Slash ([Castle Siege](/events/castle-siege) only);
 - Falling Slash;
@@ -34,7 +34,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 - Cyclone;
 - Slash;
 
-**Additional Skills**
+#### Additional Skills
 
 - Twisting Slash;
 - Rageful Blow;
@@ -46,14 +46,14 @@ In the subsequent segments of the article, we will present you with comprehensiv
   <TabItem value="wizards" label="Wizard">
 ```
 
-**Activation Skills**
+#### Activation Skills
 
 - Wind Blades ([Castle Siege](/events/castle-siege) only);
 - Poison;
 - Lightning;
 - Ice;
 
-**Additional Skills**
+#### Additional Skills
 
 - Blast;
 - Decay;
@@ -65,12 +65,12 @@ In the subsequent segments of the article, we will present you with comprehensiv
   <TabItem value="elves" label="Elf">
 ```
 
-**Activation Skills**
+#### Activation Skills
 
 - Heaven Arrow ([Castle Siege](/events/castle-siege) only);
 - Ice Age;
 
-**Additional Skills**
+#### Additional Skills
 
 - Triple Shot;
 - Multi Shot;
