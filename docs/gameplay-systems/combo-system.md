@@ -15,7 +15,6 @@ In the realm of **Lotus Mu**, every class has the opportunity to harness the pot
 
 - To successfully trigger the **Combo**, it's essential to **execute specific skill combinations** in precise sequences.
 
-
 :::
 
 In the subsequent segments of the article, we will present you with comprehensive lists of potential combinations tailored for each distinct class.
@@ -81,7 +80,29 @@ In the subsequent segments of the article, we will present you with comprehensiv
   <TabItem value="gladiators" label="Gladiators">
 ```
 
-Text Here
+#### Activation Skills
+
+- Mana Rays ([Castle Siege](/events/castle-siege#mana-rays) only);
+- Spiral Slash ([Castle Siege](/events/castle-siege#spiral-slash) only);
+- Power Slash;
+- Falling Slash;
+- Lunge;
+- Uppercut;
+- Cyclone;
+- Slash;
+- Poison;
+- Lightning;
+- Ice;
+
+#### Additional Skills
+
+- Twisting Slash;
+- Fire Slash;
+- Flame Strike;
+- Fire Slash;
+- Flame;
+- Blast;
+- Gigantic Storm;
 
 ```mdx-code-block
   </TabItem>
@@ -89,7 +110,17 @@ Text Here
   <TabItem value="lords" label="Lords">
 ```
 
-Text Here
+#### Activation Skills
+
+- Fire Spines ([Castle Siege](/events/castle-siege#fire-spines) only);
+- Fire Burst;
+- Electric Spark;
+- Earthquake;
+
+#### Additional Skills
+
+- Fire Scream;
+- Chaotic Diseier;
 
 ```mdx-code-block
 
