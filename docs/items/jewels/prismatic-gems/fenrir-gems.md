@@ -75,3 +75,5 @@ The following table offers an overview of the various tiers of rarity.
 | Rare        | Skins that are harder to come by, making them more sought after.                    |
 | Mythical    | Skins that are extremely rare and often have special features or effects.           |
 | Legendary   | Skins of the highest rarity, known for their exceptional and distinctive qualities. |
+
+<span style="color:blue">some *blue* text</span>.
