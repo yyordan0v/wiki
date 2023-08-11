@@ -29,6 +29,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.purple-text {
-  color: rebeccapurple;
+.tier-common {
+  color: #b0c3d9 !important;
+}
+.tier-uncommon {
+  color: #5e98d9	 !important;
+}
+.tier-rare {
+  color: #4b69ff	 !important;
+}
+.tier-mythical {
+  color: #8847ff	 !important;
+}
+.tier-legendary {
+  color: #d32ce6	 !important;
 }
