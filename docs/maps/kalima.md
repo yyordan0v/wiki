@@ -22,7 +22,7 @@ Crafting a **Lost Map** requires the combination of (x5) **Symbols of Kundun**. 
 
 _Symbol of Kundun_
 
-## Monsters in Land of Trials
+## Monsters in Kalima
 
 ### Regular Monsters
 
@@ -31,6 +31,12 @@ _Symbol of Kundun_
 |  ![Aegis](/img/monsters/kalima/aegis.jpg)  | ![Rogue Centurion](/img/monsters/kalima/rogue-centurion.jpg) | ![Blood Soldier](/img/monsters/kalima/blood-soldier.jpg) | ![Death Angel](/img/monsters/kalima/death-angel.jpg) |
 |                   Necron                   |                       Death Centurion                        |                         Schriker                         |
 | ![Necron](/img/monsters/kalima/necron.jpg) | ![Death Centurion](/img/monsters/kalima/death-centurion.jpg) |      ![Schriker](/img/monsters/kalima/schriker.jpg)      |
+
+:::tip
+
+The distinctive aspect of the _Regular Monsters_ within **Kalima** lies in the potential to acquire [Ancient Item](/items/ancient-items) drops from them.
+
+:::
 
 ### Bosses
 
