@@ -54,3 +54,19 @@ The **Search Party** Module is a convenient feature that allows you to easily di
 You can find more information on how utilize this feature in the [Search Party](/client-features/search-party) article.
 
 :::
+
+## Set Party
+
+You also have the possibility to create a **password-protected party** which you can share with your fellow players so they can **join the party anytime** by just typing the password, **without the need** of your confirmation.
+
+:::info
+
+To create a password-protected party type:
+
+`/setparty <password>`
+
+To join a password-protected party type:
+
+`/joinparty <password>`
+
+:::

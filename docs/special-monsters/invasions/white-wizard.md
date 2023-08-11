@@ -20,7 +20,7 @@ The areas targeted by the **White Wizard** consistently encompass the following 
 
 :::tip
 
-The **White Wizard** and his orcs appear on all of the aforementioned maps.
+The **White Wizard** and his troops appear on all of the aforementioned maps.
 
 :::
 
