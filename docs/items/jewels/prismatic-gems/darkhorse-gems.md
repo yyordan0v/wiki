@@ -25,11 +25,11 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 :::
 
-| Red Darkhorse [<span className="tier-rare">**Rare**</span>]  |      Blue Darkhorse - <span className="tier-rare">**Rare**</span>      |     Pink Darkhorse - <span className="tier-rare">**Rare**</span>      |     Orange Darkhorse - <span className="tier-rare">**Rare**</span>     |
-| :----------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|     ![Red Darkhorse](/img/items/pets/red-dark-horse.jpg)     |         ![Blue Darkhorse](/img/items/pets/blue-dark-horse.jpg)         |        ![Pink Darkhorse](/img/items/pets/pink-dark-horse.jpg)         |       ![Orange Darkhorse](/img/items/pets/orange-dark-horse.jpg)       |
-| Gold Darkhorse - <span className="tier-rare">**Rare**</span> | Purple Darkhorse - <span className="tier-mythical">**Mythical**</span> | Green Darkhorse - <span className="tier-mythical">**Mythical**</span> | Cyan Darkhorse - <span className="tier-legendary">**Legendary**</span> |
-|    ![Gold Darkhorse](/img/items/pets/gold-dark-horse.jpg)    |       ![Purple Darkhorse](/img/items/pets/purple-dark-horse.jpg)       |       ![Green Darkhorse](/img/items/pets/green-dark-horse.jpg)        |         ![Cyan Darkhorse](/img/items/pets/cyan-dark-horse.jpg)         |
+| Red Darkhorse **[**<span className="tier-rare">**Rare**</span>**]** |      Blue Darkhorse - <span className="tier-rare">**Rare**</span>      |     Pink Darkhorse - <span className="tier-rare">**Rare**</span>      |     Orange Darkhorse - <span className="tier-rare">**Rare**</span>     |
+| :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|        ![Red Darkhorse](/img/items/pets/red-dark-horse.jpg)         |         ![Blue Darkhorse](/img/items/pets/blue-dark-horse.jpg)         |        ![Pink Darkhorse](/img/items/pets/pink-dark-horse.jpg)         |       ![Orange Darkhorse](/img/items/pets/orange-dark-horse.jpg)       |
+| **[**<span className="tier-rare">**Rare**</span>**]**Gold Darkhorse | Purple Darkhorse - <span className="tier-mythical">**Mythical**</span> | Green Darkhorse - <span className="tier-mythical">**Mythical**</span> | Cyan Darkhorse - <span className="tier-legendary">**Legendary**</span> |
+|       ![Gold Darkhorse](/img/items/pets/gold-dark-horse.jpg)        |       ![Purple Darkhorse](/img/items/pets/purple-dark-horse.jpg)       |       ![Green Darkhorse](/img/items/pets/green-dark-horse.jpg)        |         ![Cyan Darkhorse](/img/items/pets/cyan-dark-horse.jpg)         |
 
 :::info
 
