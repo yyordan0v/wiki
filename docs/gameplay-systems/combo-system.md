@@ -9,13 +9,12 @@ import TabItem from '@theme/TabItem';
 
 In the realm of **Lotus Mu**, every class has the opportunity to harness the potent capabilities of the **Combo Skill**, allowing all adventurers to unleash their true potential.
 
-:::tip Tips
+:::note Notes
 
 - To utilize the **Combo**, it is essential to successfully accomplish the **Marlon Quest** applicable to the _Knights, Wizards, and Elves_ classes.
 
 - To successfully trigger the **Combo**, it's essential to **execute specific skill combinations** in precise sequences.
 
-- In order to effectively initiate the **Combo**, it's necessary to commence your skill sequence with **an activating skill** and then proceed with **two additional skills**.
 
 :::
 
@@ -97,3 +96,9 @@ Text Here
   </TabItem>
 </Tabs>
 ```
+
+:::tip
+
+In order to effectively initiate the **Combo**, it's necessary to commence your skill sequence with **an activating skill** and then proceed with **two additional skills**.
+
+:::
