@@ -12,7 +12,7 @@ _White Wizard_
 
 ## Place of Invasion
 
-The areas targeted by the **White Wizard** consistently encompass one of the following maps:
+The areas targeted by the **White Wizard** consistently encompass the following maps:
 
 - [Lorencia](/maps/lorencia)
 - [Noria](/maps/noria)
@@ -20,7 +20,7 @@ The areas targeted by the **White Wizard** consistently encompass one of the fol
 
 :::tip
 
-The target map is completely random.
+The **White Wizard** and his orcs appear on all of the aforementioned maps.
 
 :::
 
@@ -58,9 +58,9 @@ When a player successfully vanquishes a **White Wizard**, they will receive a re
 
 When a player kills a **Destructive Orc**, they have the chance to receive one of following:
 
-|                                Wizard's Ring                                |     Zen     |
-| :-------------------------------------------------------------------------: | :---------: |
-| ![10 Bundled Jewels of Bless](/img/items/rings-pendants/ring-of-wizard.png) | 999,999 Zen |
+|                         Wizard's Ring                          |      Zen       |
+| :------------------------------------------------------------: | :------------: |
+| ![Wizard's Ring](/img/items/rings-pendants/ring-of-wizard.png) | 10,000,000 Zen |
 
 ![Destructive Orc Soldier](/img/monsters/special/invasions/orc-soldier.jpg)
 ![Destructive Orc Archer](/img/monsters/special/invasions/orc-archer.jpg)

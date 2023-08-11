@@ -93,10 +93,10 @@ During the invasion **7** Golden Titans and **14** Golden Soldiers are spread in
 
 By slaying those creatures a player will be rewarded as follows:
 
-|                         Golden Titan                         |                        Golden Soldier                         |
-| :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
-|     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
+|                         Golden Titan                         |                        Golden Soldier                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+|     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
 
 ```mdx-code-block
   </TabItem>
@@ -162,10 +162,10 @@ During the invasion **3** Golden Lizard Kings and **6** Golden Vepars are spread
 
 By slaying those creatures a player will be rewarded as follows:
 
-|                      Golden Lizard King                      |                         Golden Vepar                          |
-| :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
-|     ![Box of Kundun +4](/img/items/item-bags/bok-4.png)      | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
+|                      Golden Lizard King                      |                         Golden Vepar                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+|     ![Box of Kundun +4](/img/items/item-bags/bok-4.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
 
 ```mdx-code-block
   </TabItem>
@@ -199,10 +199,10 @@ During the invasion **1** Golden Tantals and **3** Golden Wheels can be found [T
 
 By slaying those creatures a player will be rewarded as follows:
 
-|                        Golden Tantal                         |                         Golden Wheel                          |
-| :----------------------------------------------------------: | :-----------------------------------------------------------: |
-| [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
-|     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
+|                        Golden Tantal                         |                         Golden Wheel                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+|     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
 
 ```mdx-code-block
 

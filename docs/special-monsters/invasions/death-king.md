@@ -56,7 +56,7 @@ One of the advantages bestowed upon the victorious guild in the [Castle Siege Ev
 
 Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
 
-|                        Death King                        |                          Death Bone                           |
-| :------------------------------------------------------: | :-----------------------------------------------------------: |
-|   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |
-| ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) |
+|                        Death King                        |                          Death Bone                          |
+| :------------------------------------------------------: | :----------------------------------------------------------: |
+|   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+| ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
