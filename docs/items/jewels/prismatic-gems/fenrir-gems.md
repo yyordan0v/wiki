@@ -28,7 +28,7 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 ### Silvia and Rhea
 
-| Red Fenrir - <span className="tier-common">**Common**</span> | Blue Fenrir - <span className="tier-uncommon">**Uncommon**</span> | Black Fenrir - <span className="tier-uncommon">**Uncommon**</span> |
+| Red Fenrir [<span className="tier-common">**Common**</span>] | Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
 | :----------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------: |
 |        ![Red Fenrir](/img/items/pets/red-fenrir.jpg)         |          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |
 
@@ -40,10 +40,10 @@ These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea**
 
 ### Fenrir Collector's Cache
 
-|     Holy Fenrir - <span className="tier-rare">**Rare**</span>      |     Zyron Fenrir - <span className="tier-rare">**Rare**</span>      |      Gold Fenrir - <span className="tier-rare">**Rare**</span>       | Steel Fenrir - <span className="tier-rare">**Rare**</span> |
+|     Holy Fenrir [<span className="tier-rare">**Rare**</span>]      |     Zyron Fenrir [<span className="tier-rare">**Rare**</span>]      |      Gold Fenrir [<span className="tier-rare">**Rare**</span>]       | Steel Fenrir [<span className="tier-rare">**Rare**</span>] |
 | :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------: |
 |          ![Holy Fenrir](/img/items/pets/holy-fenrir.jpg)           |          ![Zyron Fenrir](/img/items/pets/zyron-fenrir.jpg)          |           ![Gold Fenrir](/img/items/pets/gold-fenrir.jpg)            |     ![Steel Fenrir](/img/items/pets/steel-fenrir.jpg)      |
-| Green Fenrir - <span className="tier-mythical">**Mythical**</span> | Purple Fenrir - <span className="tier-mythical">**Mythical**</span> | Ghost Fenrir - <span className="tier-legendary">**Legendary**</span> |
+| Green Fenrir [<span className="tier-mythical">**Mythical**</span>] | Purple Fenrir [<span className="tier-mythical">**Mythical**</span>] | Ghost Fenrir [<span className="tier-legendary">**Legendary**</span>] |
 |         ![Green Fenrir](/img/items/pets/green-fenrir.jpg)          |         ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg)         |          ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg)           |
 
 :::info
