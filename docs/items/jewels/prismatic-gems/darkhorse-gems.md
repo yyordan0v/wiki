@@ -40,23 +40,3 @@ The **Darkhorse Prismatic Gems** can be obtained via the [Darkhorse Collector's 
 _Darkhorse Collector's Cache_
 
 :::
-
-## Rarity
-
-The skins are divided into different **Rarity Tiers** based on the chance to aquire each of them.
-
-:::note
-
-The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will be.
-
-:::
-
-The following table offers an overview of the various tiers of rarity.
-
-| Skin Rarity | Description                                                                         |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Common      | Skins that are commonly found and easily accessible.                                |
-| Uncommon    | Skins that are less common than usual and offer a bit of uniqueness.                |
-| Rare        | Skins that are harder to come by, making them more sought after.                    |
-| Mythical    | Skins that are extremely rare and often have special features or effects.           |
-| Legendary   | Skins of the highest rarity, known for their exceptional and distinctive qualities. |

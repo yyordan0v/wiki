@@ -109,3 +109,23 @@ From this specific **Collector's Cache**, you have the chance to acquire [Darkho
 ![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
 
 _Darkhorse Collector's Cache_
+
+## Rarity
+
+The skins are divided into different **Rarity Tiers** based on the chance to aquire each of them.
+
+:::note
+
+The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will be.
+
+:::
+
+The following table offers an overview of the various tiers of rarity.
+
+| Skin Rarity                                           | Description                                                                         |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| <span className="tier-common">**Common**</span>       | Skins that are commonly found and easily accessible.                                |
+| <span className="tier-uncommon">**Uncommon**</span>   | Skins that are less common than usual and offer a bit of uniqueness.                |
+| <span className="tier-rare">**Rare**</span>           | Skins that are harder to come by, making them more sought after.                    |
+| <span className="tier-mythical">**Mythical**</span>   | Skins that are extremely rare and often have special features or effects.           |
+| <span className="tier-legendary">**Legendary**</span> | Skins of the highest rarity, known for their exceptional and distinctive qualities. |
