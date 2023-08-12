@@ -14,6 +14,9 @@ Before you add an **Item Option** to your item, you need to ensure that you have
 
 - [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian)
 - [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony)
+- [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless)
+- [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul)
+- [Jewel of Creation Bundle](/items/jewels/regular-jewels/jewel-of-creation)
 - **Excellent item** that has been upgraded to a **minimum of +4**
 - 10,000,000 Zen
 
