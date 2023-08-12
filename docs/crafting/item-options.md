@@ -17,7 +17,9 @@ Before you add an **Item Option** to your item, you need to ensure that you have
 - **Excellent item** that has been upgraded to a **minimum of +4**
 - 10,000,000 Zen
 
-> PLACE IMAGE
+![Item Options](/img/crafting/item-options.png)
+
+_Item Options_
 
 ## Pink Options
 
@@ -30,7 +32,6 @@ You cannot **add**, **remove** or **change** the pink options.
 If you succeeded in putting an **Item Option** in your item, the pink options will be **permanent**.
 
 :::
-
 
 ### Helms
 
