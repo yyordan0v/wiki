@@ -24,6 +24,14 @@ Before you add an **Item Option** to your item, you need to ensure that you have
 
 _Item Options_
 
+:::note
+
+The success rate for this combination is **70%**.
+
+If the combination **fails** you will lose the jewels used but **not the item**.
+
+:::
+
 ## Pink Options
 
 Each part of the character's equipment will gain a different pink options.
