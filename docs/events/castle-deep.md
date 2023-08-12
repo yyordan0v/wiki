@@ -6,8 +6,6 @@ sidebar_position: 8
 
 The **Castle Deep** event takes place in the [Valley of Loren](/maps/valley-of-loren). You are required to eliminate all the spawned creatures.
 
-Prior its start a system message will notify all online players for the upcoming Castle Deep Event.
-
 :::info
 
 The overall **Castle Deep** duration is **30 minutes**.
