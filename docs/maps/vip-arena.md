@@ -10,7 +10,9 @@ Beyond its battlefields, the **VIP Arena** unveils a **treasure** trove of conve
 
 For **VIP players** seeking the pinnacle of adventure, the **VIP Arena** offers an exclusive haven where battles, triumphs, and rewards are reserved solely for the worthy few. Embark on this exceptional journey, and let the **VIP Arena** redefine your **Lotus Mu** experience.
 
-> PLACE IMAGE
+![VIP Arena](/img/maps/vip-arena.jpg)
+
+_VIP Arena_
 
 :::info
 
@@ -31,5 +33,3 @@ To move to the **VIP Arena** you need to type the following command:
 |           ![Sapi Tres](/img/monsters/swamp-of-peace/sapi-tres.jpg)            | ![Ghost Napin](/img/monsters/swamp-of-peace/ghost-napin.jpg) | ![Blaze Napin](/img/monsters/swamp-of-peace/blaze-napin.jpg) |   ![Iron Knight](/img/monsters/la-cleon/iron-knight.jpg)   |
 |                            Venomous Chain Scorpion                            |                           Cryptos                            |                          Narcondra                           |                       Dark Coolutin                        |
 | ![Venomous Chain Scorpion](/img/monsters/karutan/venomous-chain-scorpion.jpg) |         ![Cryptos](/img/monsters/karutan/crypos.jpg)         |      ![Narcondra](/img/monsters/karutan/narcondra.jpg)       | ![Dark Coolutin](/img/monsters/la-cleon/dark-coolutin.jpg) |
-
-

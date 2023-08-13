@@ -14,10 +14,23 @@ Before you add an **Item Option** to your item, you need to ensure that you have
 
 - [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian)
 - [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony)
+- [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless)
+- [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul)
+- [Jewel of Creation Bundle](/items/jewels/regular-jewels/jewel-of-creation)
 - **Excellent item** that has been upgraded to a **minimum of +4**
 - 10,000,000 Zen
 
-> PLACE IMAGE
+![Item Options](/img/crafting/item-options.png)
+
+_Item Options_
+
+:::note
+
+The success rate for this combination is **70%**.
+
+If the combination **fails** you will lose the jewels used but **not the item**.
+
+:::
 
 ## Pink Options
 
@@ -30,7 +43,6 @@ You cannot **add**, **remove** or **change** the pink options.
 If you succeeded in putting an **Item Option** in your item, the pink options will be **permanent**.
 
 :::
-
 
 ### Helms
 
