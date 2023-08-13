@@ -8,7 +8,7 @@ The **Item Options** are the options which in Mu Online are normally exclusive t
 
 The **Item Options** can be added through a **Chaos Combination**. We will further delve into the process in the following sections of the artcle.
 
-## Ingredientss
+## Ingredients
 
 Before you add an **Item Option** to your item, you need to ensure that you have the necessary ingredients:
 
