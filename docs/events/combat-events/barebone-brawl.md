@@ -12,7 +12,7 @@ Prepare for an exhilarating and unique experience in **Lotus Mu** with the **Bar
 
 When the **Barebone Brawl** Event is about to start, a **system notice** will display on the screens of all players. Subsequently, you will be granted a five-minute window to secure the **necessary ticket** and enter the thrilling brawl.
 
-![Barebone Brawl Ticket](/img/items/invitations/barebone-brawl-ticket.jpg)
+![Barebone Brawl Ticket](/img/items/invitations/barebone-brawl-ticket.png)
 
 _Barebone Brawl Ticket_
 
