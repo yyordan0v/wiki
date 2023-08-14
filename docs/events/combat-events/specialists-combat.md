@@ -48,8 +48,6 @@ To take part in the Specialists' Combat Event, follow these steps:
 
    _Specialists' Combat Ticket_
 
-
-
 3. Engage with the **Brynjar Knollwood** in [Yoskreth](/maps/yoskreth) in order to be transported to the waiting room.
 
    ![Brynjar Knollwood](/img/npc/brynjar-knollwood.jpg)
