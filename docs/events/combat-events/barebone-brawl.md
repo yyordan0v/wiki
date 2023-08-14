@@ -26,7 +26,7 @@ _Silvia_
 
 :::
 
-After obtaining the ticket, you can proceed by interacting with the **Jaq Le'quet** in [Yoskreth](/maps/yoskreth) to enroll in the event.
+After obtaining the ticket, you can proceed by interacting with **Jaq Le'quet** in [Yoskreth](/maps/yoskreth) to enroll in the event.
 
 
 ![Jaq Le'quet](/img/npc/jaq-le-quet.jpg)

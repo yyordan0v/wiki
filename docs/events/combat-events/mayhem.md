@@ -51,7 +51,7 @@ The **Mayhem** Event offers a diverse array of competitions tailored to **differ
 
 Regardless of your class, each **Mayhem** promises a unique experience and challenges your ability to **adapt and conquer**.
 
-### The Taste of Victory
+## The Taste of Victory
 
 As the dust settles and the timer expires, the player with the **highest score** emerges victorious. The spoils of war are not only the thrill of triumph but also a substantial reward.
 
