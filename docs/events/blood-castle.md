@@ -133,7 +133,7 @@ For a comprehensive breakdown of the **Blood Castle rewards**, refer to the tabl
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
-_Red Chocolate Box & _
+_Red Chocolate Box & Pink Chocolate Box_
 
 :::tip
 
