@@ -28,29 +28,29 @@ _Silvia_
 
 After obtaining the ticket, you can proceed by interacting with **Jaq Le'quet** in [Yoskreth](/maps/yoskreth) to enroll in the event.
 
-
 ![Jaq Le'quet](/img/npc/jaq-le-quet.jpg)
 
 _Jaq Le'quet_
-
 
 ## Event Mechanics and Gameplay
 
 Once the **Barebone Brawl** Event begins, players will find themselves **stripped of their equipment**, revealing their raw combat prowess. But fear not, for you will be **granted 20,000 level up points** that you can distribute to bolster your character's attributes according to your preferred playstyle. This unique customization allows for a personalized approach to the battle, ensuring that each participant brings their own strategy to the arena.
 
-> PLACE IMAGE (in arena naked - with points)
+![Barebone Brawl](/img/events/barebone/barebone-prep.jpg)
+
+_Barebone Brawl_
 
 As the event **starts**, various items, ranging from armors and weapons to skills and wings, will start **dropping on the ground**. Strategically seizing these items can provide a significant **advantage** in the battle, granting you the **edge** you need to **outlast your opponents**.
 
-> PLACE IMAGE (items dropping)
+![Barebone Brawl](/img/events/barebone/barebone-start.jpg)
+
+_Barebone Brawl_
 
 ## Test Your Combat Skills
 
 The **Barebone Brawl** Event is a true test of skill, strategy, and adaptability. With no armor or equipment to rely on, and only your level up points and collected items to guide you, it's a battle where **tactics and quick decisions** reign supreme.
 
 The fierce **PvP nature** of the event ensures that only the strongest and most resourceful will emerge as the **ultimate victor**.
-
-> PLACE IMAGE (Winner)
 
 ## Embrace the Challenge
 
