@@ -12,7 +12,7 @@ This Combat Event revolves around two competing teams, **Team Red** and **Team B
 
 ## Event Overview
 
-Once the event commences, players are **randomly divided** into two factions, **Team Red** and **Team Blue**. These factions will be instantly recognizable through the **special skins** they wear.
+Once the event commences, players are **randomly divided** into two factions - **Team Red** and **Team Blue**. These factions will be instantly recognizable through the **special skins** they wear.
 
 The objective of the event is to engage in fierce battles against members of the opposing team. Every **successful kill** on the opposing team **contributes points** to your team's score.
 
@@ -36,7 +36,7 @@ Here's how to get involved:
 
     _Team Clash Ticket_
 
-3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** to officially join the event.
+3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** in [Yoskreth](/maps/yoskreth) to officially join the event.
 
     ![Freyr Rygax](/img/npc/freyr-rygax.jpg)
 

@@ -30,4 +30,7 @@ To obtain the **Lilac Candy Box**, adventurers must complete [quests](/gameplay-
 | :--------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------: |
 | ![Omega Wing](/img/monsters/special/others/omega-wing.jpg) | ![Death Bone](/img/monsters/special/invasions/death-bone.jpg) | ![Golden Soldier](/img/monsters/special/golden/soldier.jpg) |  ![Golden Vepar](/img/monsters/special/golden/vepar.jpg)  | ![Golden Wheel](/img/monsters/special/golden/golden-wheel.jpg) |
 
-Another way to obtain a **Lilac Candy Box** is to win the [Devil Square Event](/events/devil-square).
+Another way to obtain a **Lilac Candy Box** is to triumph in one of the following events:
+
+- [Devil Square Event](/events/devil-square);
+- [Team Clash](/events/combat-events/team-clash);
