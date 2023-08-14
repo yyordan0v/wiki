@@ -42,17 +42,25 @@ To take part in the Specialists' Combat Event, follow these steps:
 
 1. Stay vigilant for **system notices** indicating the commencement of the event.
 
-2. Find the SHOP NPC and get yourself a **Specialists' Combat Ticket**.
+2. Find the **Silvia** in [Yoskreth](/maps/yoskreth) and get yourself a **Specialists' Combat Ticket**.
 
-> PLACE IMAGE (SHOP NPC)
+   ![Silvia](/img/npc/silvia.jpg)
 
-3. Engage with the EVENT NPC in order to be transported to the waiting room.
+   _Silvia_
 
-> PLACE IMAGE (Event NPC)
+3. Engage with the **Brynjar Knollwood** in [Yoskreth](/maps/yoskreth) in order to be transported to the waiting room.
+
+   ![Brynjar Knollwood](/img/npc/brynjar-knollwood.jpg)
+
+   _Brynjar Knollwood_
 
 4. Gather with fellow warriors in the **waiting room**, eagerly awaiting your chance to prove your combat skills.
 
+   > PLACE IMAGE (waiting room)
+
 5. Once the event initiates, give your best in the **1v1 battles**, aiming to score **3 points** against your opponents.
+
+   > PLACE IMAGE (battle arena)
 
 6. Win rounds, claim rewards, and strive for the prestigious title of the event's **final winner**.
 

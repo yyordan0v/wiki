@@ -12,19 +12,27 @@ Prepare for an exhilarating and unique experience in **Lotus Mu** with the **Bar
 
 When the **Barebone Brawl** Event is about to start, a **system notice** will display on the screens of all players. Subsequently, you will be granted a five-minute window to secure the **necessary ticket** and enter the thrilling brawl.
 
-> PLACE IMAGE (Ticket)
+![Barebone Brawl Ticket](/img/items/invitations/barebone-brawl-ticket.jpg)
+
+_Barebone Brawl Ticket_
 
 :::info
 
-You can buy the **Barebown Brawl Ticket** from PLACE NAME in [Yoskreth](/maps/yoskreth).
+You can buy the **Barebown Brawl Ticket** from **Silvia** in [Yoskreth](/maps/yoskreth).
 
-> PLACE IMAGE (SHOP NPC)
+![Silvia](img/npc/silvia.jpg)
+
+_Silvia_
 
 :::
 
-After obtaining the ticket, you can proceed by interacting with the PLACE NPC NAME to enroll in the event.
+After obtaining the ticket, you can proceed by interacting with the **Jaq Le'quet** in [Yoskreth](/maps/yoskreth) to enroll in the event.
 
-> PLACE IMAGE (NPC)
+
+![Jaq Le'quet](img/npc/jaq-le-quet.jpg)
+
+_Jaq Le'quet_
+
 
 ## Event Mechanics and Gameplay
 

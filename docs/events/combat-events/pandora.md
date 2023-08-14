@@ -14,7 +14,9 @@ The **Pandora** Event offers an intriguing challenge that will keep you on your 
 
 The heart of the **Pandora** Event lies within the **Pandora Box** itself. This enigmatic box spawns **randomly** on **one of the maps**. When the Pandora Box materializes, a **system notice** will be broadcasted to all players across the realm, marking the commencement of this thrilling event.
 
-> PLACE IMAGE (Pandora Box)
+![Pandora Box](img/events/pandora/pandora-box.jpg)
+
+_Pandora Box_
 
 ## The Cursed Pursuit
 
@@ -32,11 +34,16 @@ But don't assume that the **cursed status** is a guaranteed ticket to triumph. T
 
 Other players can vie for the **cursed status** by **eliminating** the currently cursed individual. A **relentless pursuit** of the curse, through alliances, skirmishes, and calculated moves, adds an extra layer of excitement to this event.
 
-:::tip
+:::info
 
-The player **under the curse** will possess a **unique appearance**, allowing easy identification.
+- If the **cursed player** logs out of the game, the **Pandora Box** will show in its initial location.
+- The player **under the curse** will possess a **unique appearance**, allowing easy identification.
+- The **cursed player** will temporarily gain a **PK Status**.
+- The **cursed player** cannot enter safe zones until the event is over.
 
-> PLACE IMAGE (Cursed player skin)
+![Cursed Player](img/events/pandora/cursed-player.jpg)
+
+_Cursed Player_
 
 :::
 
