@@ -12,9 +12,15 @@ To join the event you must buy **Armor of Guardsman** from **Silvia** in [Yoskre
 
 _Silvia_
 
+:::note
+
 During the **Chaos Castle Event** you are **disguised** to look like your enemies, where no one will be able to tell who’s who.
 
+:::
+
 ## Entry Requirements
+
+As the **Chaos Castle** is about to commence, a **system notice** will be sent to all active players.
 
 ### Required Item
 
@@ -24,7 +30,7 @@ During the **Chaos Castle Event** you are **disguised** to look like your enemie
 - The monsters that spawn also have a **Guardsman** skin so its hard to see the differences between players and monsters.
 - **Chaos Castle** Entry item - the **Armor of Guardsman** is sold by **Silvia** in [Yoskreth](/maps/yoskreth).
 
-![Armor of Guardsman](/img/events/cc/armor-of-guardsman.jpg)
+![Armor of Guardsman](/img/items/invitations/armor-of-guardsman.png)
 
 _Armor of Guardsman_
 
@@ -76,7 +82,7 @@ The **Chaos Castle** arena is square shaped with sections of the floor missing. 
 
 :::note
 
-Once the Entry Period has passed, there is a 1 minute delay before the event starts.
+Once the Entry Period has passed, there is a **1 minute** delay before the event starts.
 
 :::
 
@@ -87,7 +93,7 @@ _Chaos Castle Event Map_
 
 ### Chaos Castle Quest
 
-When started, monster will instantly spawn throughout the arena. Including other characters, there will be a total of **100 enemies** in the arena. As enemies are killed, the **Character Counter** will **decrease**.
+When then event starts, monster will instantly spawn throughout the arena. Including other characters, there will be a total of **100 enemies** in the arena. As enemies are killed, the **Character Counter** will **decrease**.
 
 ![Chaos Castle Characters](/img/events/cc/cc-monsters.jpg)
 
@@ -117,13 +123,13 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 
 | Chaos Castle Level |                             Item                              | Event Points |
 | :----------------: | :-----------------------------------------------------------: | :----------: |
-|   Chaos Castle 1   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |     5 EP     |
-|   Chaos Castle 2   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |     5 EP     |
-|   Chaos Castle 3   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |    10 EP     |
-|   Chaos Castle 4   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |    15 EP     |
-|   Chaos Castle 5   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |    20 EP     |
-|   Chaos Castle 6   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |    30 EP     |
-|   Chaos Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/red-chocolate-box) |    60 EP     |
+|   Chaos Castle 1   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |     5 EP     |
+|   Chaos Castle 2   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |     5 EP     |
+|   Chaos Castle 3   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    10 EP     |
+|   Chaos Castle 4   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    15 EP     |
+|   Chaos Castle 5   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    20 EP     |
+|   Chaos Castle 6   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    30 EP     |
+|   Chaos Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    60 EP     |
 
 ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 

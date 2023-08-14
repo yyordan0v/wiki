@@ -101,13 +101,13 @@ For a comprehensive breakdown of the reward of the **Devil Square Winner**, refe
 
 | Devil Square Level |                            Item                            | Event Points |
 | :----------------: | :--------------------------------------------------------: | :----------: |
-|   Devil Square 1   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |     5 EP     |
-|   Devil Square 2   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |     5 EP     |
-|   Devil Square 3   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |     5 EP     |
-|   Devil Square 4   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |    10 EP     |
-|   Devil Square 5   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |    15 EP     |
-|   Devil Square 6   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |    20 EP     |
-|   Devil Square 7   | [Lilac Candy Box](/items/item-bags/misc/red-chocolate-box) |    40 EP     |
+|   Devil Square 1   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
+|   Devil Square 2   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
+|   Devil Square 3   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
+|   Devil Square 4   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    10 EP     |
+|   Devil Square 5   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    15 EP     |
+|   Devil Square 6   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    20 EP     |
+|   Devil Square 7   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    40 EP     |
 
 ![Lilac Candy Box](/img/items/item-bags/red-chocolate-box.png)
 
