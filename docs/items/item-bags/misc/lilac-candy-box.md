@@ -34,3 +34,4 @@ Another way to obtain a **Lilac Candy Box** is to triumph in one of the followin
 
 - [Devil Square Event](/events/devil-square);
 - [Team Clash](/events/combat-events/team-clash);
+- [Illusion Temple 1-5](/events/illusion-temple);

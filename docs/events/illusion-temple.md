@@ -4,7 +4,15 @@ sidebar_position: 4
 
 # Illusion Temple
 
-The event consists out of two teams who will try to get as many items from the **Stone Pedestal** NPC as possible. Once a player has received the item he will be slowed. Returning the item to the **base camp** will get the team 1 point. The players will be granted special skills only when killing adversaries. Also the players look will change.
+The event consists out of **two teams** who will try to get as many items from the **Stone Pedestal** NPC as possible. Once a player has received the item he will be slowed. Returning the item to the **base camp** will get the team **1 point**.
+
+During the **Illusion Temple**, players will have applied a **skin** on their character in order to recognize the enemy team.
+
+:::tip
+
+The players will be granted [special skills](/events/illusion-temple#kill-points--skills) when killing adversaries.
+
+:::
 
 ## Entry Requirements
 
@@ -13,15 +21,19 @@ The event consists out of two teams who will try to get as many items from the *
 - You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
 - [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
 - The crafting ingredients can be purchased via ~~TBD~~.
-- You'll also need one **Jewel of Chaos** for the crafting.
+- You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
-|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       |                 Jewel of Chaos                 |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
-| :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
-| ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
+|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
+| :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
+| ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
 
 _Scroll of Blood Crafting_
 
+:::tip
+
 Detailed information on the crafting process you can find in the [Scroll of Blood](/crafting/invitations/scroll-of-blood) article.
+
+:::
 
 ### Required Level
 
@@ -51,18 +63,20 @@ Detailed information on the crafting process you can find in the [Scroll of Bloo
 - A minimum of **5** Party Members must be in the Party in order to enter the **Illusion Temple** map.
 - A minimum of **2** Parties must enter, or it will not start.
 - A maximum of **2** Parties can join in a single instance.
-- Any character with a PK Status cannot enter the **Illusion Temple** map.
+- Any character with a **PK Status** cannot enter the **Illusion Temple** map.
 - Combat adjustments:
   - PVP is allowed, once the Event starts.
   - No penalty upon character death.
 - Other adjustments:
-  - Upon death, characters are moved to their Party's respawn area, which is inside their base.
+  - Upon **death**, characters are moved to their **Party's respawn area**, which is inside their base.
 
 ## Game-play
 
 ### Preparation
 
-Prior to the start of the **Illusion Temple**, the following messages start to appear in the Lotus Mu Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** ~~(Located TBD)~~. You need to have the correct Scroll corresponding to your Character's level in order to enter the Event. If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
+Prior to the start of the **Illusion Temple**, the following messages appear in the Lotus Mu Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** - located in [Yoskreth](/maps/yoskreth). You need to have the **correct Scroll of Blood** corresponding to your **Character's level** in order to enter the Event.
+
+If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
 
 ![Illusion Temple NPC - Mirage](/img/events/it/it-npc.jpg)
 
@@ -71,7 +85,7 @@ _Illusion Temple NPC - Mirage_
 ### Illusion Temple Quest
 
 The arena is large. Here's a look at the layout of the zone.
-You can see both teams starting positions on the westernmost and easternmost sides of the map.
+You can see both teams starting positions on the **westernmost** and **easternmost** sides of the map.
 
 ![Illusion Temple Event Map](/img/events/it/it-map.jpg)
 
@@ -87,9 +101,15 @@ _Red Team Skin_
 
 _Blue Team Skin_
 
-The **Illusion Temple Ball** is located in either the northern or southern part of the map. Return the Ball to the team's **pedestal** to earn one Game Point.
+The **Illusion Temple Ball** is located in either the **northern** or **southern** part of the map. Return the Ball to the **team's pedestal** to earn **one Game Point**.
 
-When a ball is picked up, the character's Movement Speed will be decreased greatly so it's important for his or her teammates to work together to protect the ball carrier from the opposing team. Once a ball carrier is killed, disconnects or leaves the event the ball will fall to the ground and is able to be picked up by any player on either team.
+When a ball is picked up, the character's Movement Speed will be **decreased** greatly so it's important for his or her teammates to work together to **protect the ball carrier** from the opposing team.
+
+:::note
+
+If the ball carrier is **killed**, **disconnects** or **leaves** the event, the ball will **fall** to the ground and will be able to be picked up by **any player** on **either team**.
+
+:::
 
 The Illusion Temple Ball spawns on the **Pedestal**.
 
@@ -103,39 +123,59 @@ Each team's base also comes equipped with a **pedestal**, where players can brin
 
 _Illusion Temple Team Pedestal_
 
-Once a ball is taken from the statue, they both disappear. They reappear again once a team returns the ball to their respective base.
+Once a ball is taken from the **statue**, both of the statues will disappear. They will **reappear** again once a team **returns the ball** to their respective base.
 
 ### Kill Points & Skills
 
-Players can attack each other to earn **Kill Points**.
-**Kill Points** can be used to buy skills during the event.
+Players can kill each other or kill monster during the **Illusion Temple Event** to earn **Kill Points**. **Kill Points** can be used to buy skills during the event.
 
-- **Magic Shield Order**
-  - Cost: Kill Points (x5)
-  - Function: Prevents 100% of DMG for 15 sec.
-- **Resistance Order**
-  - Cost: Kill Points (x5)
-  - Function: Immobilize the enemy for 15 sec.
-- **Freeze Time**
-  - Cost: Kill Points (x5)
-  - Function: Damages 50% of target's SD
-- **Tracking Order**
-  - Cost: Kill Points (x10)
-  - Function: Teleports the player to the ball
+The following table is a comprehensive breakdown of the available **special skills** during the **Illusion Temple**.
+
+| Skill Name             | Cost                  | Function                         |
+| ---------------------- | --------------------- | -------------------------------- |
+| **Magic Shield Order** | Kill Points (**x5**)  | Prevents 100% of DMG for 15 sec. |
+| **Resistance Order**   | Kill Points (**x5**)  | Immobilize the enemy for 15 sec. |
+| **Freeze Time**        | Kill Points (**x5**)  | Damages 50% of target's SD       |
+| **Tracking Order**     | Kill Points (**x10**) | Teleports the player to the ball |
 
 **Kill Points** are earned by:
 
-- Player Kill: Kill Points (x5)
-- Monster Kill: Kill Points (x1)
+- **Player Kill**: Kill Points (**x5**)
+- **Monster Kill**: Kill Points (**x1**)
 
-### Event Completion
+### How to Win
 
 The first team which is able to return the ball **seven** times first wins.
 
-**Time limit**: 15 minutes
+:::info
 
-**Returning Ball**: Game Point (x1)
+- **Time limit**: 15 minutes.
 
-**Steps to win the event**: Earn **7** Game Points to win
+- **Returning Ball**: Game Point (x1).
+
+- **Game Points to win the event**: Earn **7 Game Points** to win.
+
+:::
 
 ## Reward
+
+For a comprehensive breakdown of the **Illusion Temple rewards**, refer to the table below.
+
+| Illusion Temple Level |                           Item                            | Event Points |
+| :-------------------: | :-------------------------------------------------------: | :----------: |
+|   Illusion Temple 1   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)  |     5 EP     |
+|   Illusion Temple 2   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)  |    10 EP     |
+|   Illusion Temple 3   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)  |    15 EP     |
+|   Illusion Temple 4   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)  |    20 EP     |
+|   Illusion Temple 5   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)  |    40 EP     |
+|   Illusion Temple 6   | [Purple Chaos Box](/items/item-bags/exc/purple-chaos-box) |    80 EP     |
+
+![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+
+_Lilac Candy Box & Purple Chaos box Box_
+
+:::note
+
+**All players** from the **winning team** will receive the afore mentioned rewards.
+
+:::

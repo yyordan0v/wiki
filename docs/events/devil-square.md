@@ -99,8 +99,8 @@ Depending on your **score** which is based on how many monsters you killed durin
 
 For a comprehensive breakdown of the reward of the **Devil Square Winner**, refer to the table below.
 
-| Devil Square Level |                            Item                            | Event Points |
-| :----------------: | :--------------------------------------------------------: | :----------: |
+| Devil Square Level |                           Item                           | Event Points |
+| :----------------: | :------------------------------------------------------: | :----------: |
 |   Devil Square 1   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
 |   Devil Square 2   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
 |   Devil Square 3   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
