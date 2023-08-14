@@ -105,7 +105,7 @@ The **Illusion Temple Ball** is located in either the **northern** or **southern
 
 When a ball is picked up, the character's Movement Speed will be **decreased** greatly so it's important for his or her teammates to work together to **protect the ball carrier** from the opposing team.
 
-:::note
+:::caution
 
 If the ball carrier is **killed**, **disconnects** or **leaves** the event, the ball will **fall** to the ground and will be able to be picked up by **any player** on **either team**.
 
@@ -123,11 +123,15 @@ Each team's base also comes equipped with a **pedestal**, where players can brin
 
 _Illusion Temple Team Pedestal_
 
+:::note
+
 Once a ball is taken from the **statue**, both of the statues will disappear. They will **reappear** again once a team **returns the ball** to their respective base.
+
+:::
 
 ### Kill Points & Skills
 
-Players can kill each other or kill monster during the **Illusion Temple Event** to earn **Kill Points**. **Kill Points** can be used to buy skills during the event.
+Players can kill each other or kill monster during the **Illusion Temple Event** to earn **Kill Points**. They can be used to buy **special skills** during the event.
 
 The following table is a comprehensive breakdown of the available **special skills** during the **Illusion Temple**.
 
@@ -145,7 +149,7 @@ The following table is a comprehensive breakdown of the available **special skil
 
 ### How to Win
 
-The first team which is able to return the ball **seven** times first wins.
+The team which is able to return the ball **seven** times first will **win** the **Illusion Temple**.
 
 :::info
 
