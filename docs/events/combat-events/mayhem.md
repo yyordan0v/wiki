@@ -10,7 +10,7 @@ Welcome to the heart-pounding world of the **Mayhem** Event in **Lotus Mu**. Thi
 
 The **Mayhem** is not for the faint of heart—it's a fast-paced battle where every move counts, every kill matters, and only the strongest will survive.
 
-![Mayhem Arena](/img/events/mayhem/mayhem-arena.jpg)
+![Mayhem Arena](/img/events/mayhem-arena.jpg)
 
 _Mayhem Arena_
 
@@ -59,15 +59,15 @@ As the dust settles and the timer expires, the player with the **highest score**
 
 - The winner of each **Mayhem** is granted a substantial bounty of **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
-    ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+  ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-    _Purple Chaos Box_
+  _Purple Chaos Box_
 
 - The winner of the **Mu Mayhem** will receve a **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
 
-    ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
+  ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
-    _Blue Chocolate Box_
+  _Blue Chocolate Box_
 
 :::
 

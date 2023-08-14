@@ -8,6 +8,10 @@ The **Yoskreth Drop** Event is a recurring event in **Lotus Mu** that provides p
 
 Taking place **twice a day**, this event occurs at **02:45** and **14:45** within the **capital city** of [Yoskreth](/maps/yoskreth). Prior to the event's commencement, a **system notice** will be broadcasted to all online players, informing them about the upcoming event.
 
+![Yoskreth Drop](/img/events/yoskreth-drop.jpg)
+
+_Yoskreth Drop_
+
 ## Event Details
 
 During the **Yoskreth Drop** Event, various valuable items are dispersed across the city for players to collect. These items can significantly enhance a player's progress and gameplay experience. During the event players need to be quick and vigilant in order to secure these valuable rewards.
