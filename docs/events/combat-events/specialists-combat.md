@@ -44,9 +44,11 @@ To take part in the Specialists' Combat Event, follow these steps:
 
 2. Find the **Silvia** in [Yoskreth](/maps/yoskreth) and get yourself a **Specialists' Combat Ticket**.
 
-   ![Silvia](/img/npc/silvia.jpg)
+   ![Specialists' Combat Ticket](/img/items/invitations/specialists-combat-ticket.png)
 
-   _Silvia_
+   _Specialists' Combat Ticket_
+
+
 
 3. Engage with the **Brynjar Knollwood** in [Yoskreth](/maps/yoskreth) in order to be transported to the waiting room.
 
