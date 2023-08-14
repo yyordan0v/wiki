@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# **Hide n' Seek**
+# Hide n' Seek
 
 The **Hide n' Seek** Event in Lotus Mu adds an element of fun and spontaneity to the realm, challenging players to embark on a quest to locate a hidden **Game Master**.
 
