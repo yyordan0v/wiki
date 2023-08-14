@@ -32,6 +32,10 @@ When the event starts, an **auction hammer icon** will appear in the rightmost p
 - Bid button to place your bid
 - Time left for the auction
 
+![Auction Window](/img/events/auction/auction-system.jpg)
+
+_Auction Window_
+
 ### Placing Bids
 
 To participate in the auction, players can place their bids by clicking the **bid button** in the auction window. When a player places a bid, a **system notice** will be sent to all active players, informing them of the new highest bid.
@@ -43,6 +47,10 @@ If the **idle time** of **1 minute** passes without any higher bids, or if the *
 A **system notice** will be sent to all players, announcing the winner of the auction.
 
 In the auction window, a "**Receive Your Prize**" button will appear for the winner to claim their prize. This marks the successful completion of the **Auction Event**, providing players with exciting opportunities to acquire valuable items through competitive bidding.
+
+![Auction - Receive Your Prize](/img/events/auction/auction-end.jpg)
+
+_Auction - Receive Your Prize_
 
 ## Auction Items
 
