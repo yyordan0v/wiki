@@ -59,8 +59,6 @@ The **Pandora** Event in **Lotus Mu** is a true test of cunning and adaptability
 
 :::info
 
-Only the **last survivor** will claim **victory**!
-
 The winner in the event will receive the following as a reward:
 
 - **60 Event Points (EP)**;
