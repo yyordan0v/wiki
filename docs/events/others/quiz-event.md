@@ -20,7 +20,9 @@ To participate, players need to use the **`/resp <answer>`** command, replacing 
 
 The system will then determine if the answer is correct or not based on the provided options.
 
+![Quiz Event](/img/events/quiz-event.jpg)
 
+_Quiz Event_
 
 ## Reward
 
