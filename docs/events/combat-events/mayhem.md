@@ -10,7 +10,7 @@ Welcome to the heart-pounding world of the **Mayhem** Event in **Lotus Mu**. Thi
 
 The **Mayhem** is not for the faint of heart—it's a fast-paced battle where every move counts, every kill matters, and only the strongest will survive.
 
-![Mayhem Arena](img/events/mayhem/mayhem-arena.jpg)
+![Mayhem Arena](/img/events/mayhem/mayhem-arena.jpg)
 
 _Mayhem Arena_
 

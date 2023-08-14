@@ -20,7 +20,7 @@ _Barebone Brawl Ticket_
 
 You can buy the **Barebown Brawl Ticket** from **Silvia** in [Yoskreth](/maps/yoskreth).
 
-![Silvia](img/npc/silvia.jpg)
+![Silvia](/img/npc/silvia.jpg)
 
 _Silvia_
 
@@ -29,7 +29,7 @@ _Silvia_
 After obtaining the ticket, you can proceed by interacting with the **Jaq Le'quet** in [Yoskreth](/maps/yoskreth) to enroll in the event.
 
 
-![Jaq Le'quet](img/npc/jaq-le-quet.jpg)
+![Jaq Le'quet](/img/npc/jaq-le-quet.jpg)
 
 _Jaq Le'quet_
 

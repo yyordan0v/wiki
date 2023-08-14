@@ -14,7 +14,7 @@ The **Pandora** Event offers an intriguing challenge that will keep you on your 
 
 The heart of the **Pandora** Event lies within the **Pandora Box** itself. This enigmatic box spawns **randomly** on **one of the maps**. When the Pandora Box materializes, a **system notice** will be broadcasted to all players across the realm, marking the commencement of this thrilling event.
 
-![Pandora Box](img/events/pandora/pandora-box.jpg)
+![Pandora Box](/img/events/pandora/pandora-box.jpg)
 
 _Pandora Box_
 
@@ -41,7 +41,7 @@ Other players can vie for the **cursed status** by **eliminating** the currently
 - The **cursed player** will temporarily gain a **PK Status**.
 - The **cursed player** cannot enter safe zones until the event is over.
 
-![Cursed Player](img/events/pandora/cursed-player.jpg)
+![Cursed Player](/img/events/pandora/cursed-player.jpg)
 
 _Cursed Player_
 
