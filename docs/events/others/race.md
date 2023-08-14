@@ -32,11 +32,15 @@ _Santa NPC_
 
 Interacting with **Santa** signifies that you have successfully completed the race and have won the event.
 
-As a reward for your speed and determination, **Santa** will grant you a **Red Ribbon Box**.
-
 ![Race Event Winner](/img/events/race/race-3.jpg)
 
 _Race Event Winner_
+
+As a reward for your speed and determination, **Santa** will grant you a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+
+![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+
+_Red Chocolate Box_
 
 ## Strategy and Quick Thinking
 
