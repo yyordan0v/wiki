@@ -59,7 +59,15 @@ As the dust settles and the timer expires, the player with the **highest score**
 
 - The winner of each **Mayhem** is granted a substantial bounty of **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+
+_Purple Chaos Box_
+
 - The winner of the **Mu Mayhem** will receve a **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
+
+![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
+
+_Blue Chocolate Box_
 
 :::
 

@@ -66,4 +66,8 @@ The winner in the event will receive the following as a reward:
 - **60 Event Points (EP)**;
 - **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+
+_Purple Chaos Box_
+
 :::
