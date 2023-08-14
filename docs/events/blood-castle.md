@@ -69,7 +69,7 @@ Detailed information on the crafting process you can find in the [Invisibility C
 
 ### Preparation
 
-Prior the **Blood Castle** start, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which is located in [Yoskreth](/maps/yoskreth).
+Prior the **Blood Castle** start, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found both in [Devias](/maps/devias) and [Yoskreth](/maps/yoskreth).
 
 Interacting with the **Messenger of Archangel** will open a table in which you need to select the **appropriate level** of Blood Castle for your character (The [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in your inventory **should be the same level**).
 If you did everything correctly, then you will be taken to the **Blood Castle**.
@@ -106,15 +106,15 @@ The Blood Castle duration is **15 minutes**.
 
 5. Having reached the **crystal statue**, in the hands of which is the **Archangel's Weapon**, you must find the strenght within you to smash it and take the **weapon**.
 
-![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
+  ![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
 
-_Archangel Weapons_
+  _Archangel Weapons_
 
 6. Having picked up the **weapon**, return back to the **Archangel**, simultaneously fighting off the monsters. Now you just need to give the **weapon** back to its owner.
 
-![Fallen Angel](/img/events/bc/fallen-angel.jpg)
+  ![Fallen Angel](/img/events/bc/fallen-angel.jpg)
 
-_Fallen Angel_
+  _Fallen Angel_
 
 ## Reward
 
