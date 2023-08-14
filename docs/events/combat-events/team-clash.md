@@ -8,7 +8,7 @@ The **Team Clash Event** brings an exhilarating opportunity for players to engag
 
 This Combat Event revolves around two competing teams, **Team Red** and **Team Blue**, battling for supremacy. With **unique skins** distinguishing each team's members, the event promises intense and action-packed gameplay.
 
-![Red Team Skin](/img/events/it/it_team_red.jpg) ![Blue Team Skin](/img/events/it/it_team_blue.jpg)
+![Red Team Skin](/img/events/it/it_team_red.jpg)![Blue Team Skin](/img/events/it/it_team_blue.jpg)
 
 _Red Team Skin & Blue Team Skin_
 
