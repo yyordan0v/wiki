@@ -30,6 +30,13 @@ To obtain the **Purple Chaos Box**, adventurers must complete [quests](/gameplay
 
 There is also chance that you get **Purple Chaos Box** dropped by one of the following item bags:
 
-|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
-| :----------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |
+| [Gold Medal](/items/item-bags/non-exc/gold-medal)  |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
+| :------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![Gold Medal](/img/items/item-bags/gold-medal.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |
+
+You can also obtain a **Purple Chaos Box** by winning in one of the following events:
+
+- [Auction Event](/events/others/auction).
+- [Pandora Event](/events/combat-events/pandora).
+- [Illusion Temple 6](/events/illusion-temple).
+- [Mayhem](/events/combat-events/mayhem).

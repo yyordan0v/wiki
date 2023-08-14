@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Auction
 
-## Lotus Mu Auction Event
-
 The **Auction Event** is an exciting event in **Lotus Mu** that provides players with the opportunity to bid on valuable items using **Event Points**. This event takes place every **Saturday**, with three auctions held in the morning (starting at 06:00 AM) and three in the evening (starting at 18:00 PM).
 
 ## Event Details
