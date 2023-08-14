@@ -97,7 +97,7 @@ Depending on your **score** which is based on how many monsters you killed durin
 
 ## Reward
 
-For a comprehensive breakdown of the **Devil Square rewards**, refer to the table below.
+For a comprehensive breakdown of the reward of the **Devil Square Winner**, refer to the table below.
 
 | Devil Square Level |                            Item                            | Event Points |
 | :----------------: | :--------------------------------------------------------: | :----------: |
