@@ -44,26 +44,25 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ![Leather Set](/img/items/armors/dk/leather.png)
 
-| Set Item Parts            | Parts Set Options                                | Full Set Bonus Options       |
-| ------------------------- | ------------------------------------------------ | ---------------------------- |
-| Warrior Leather Helmet    | **2 Parts Set option**: Strength +10             | Increase agility +10         |
-| Warrior Leather Armor     | **3 Parts Set option**: Increase attack Rate +10 | Critical damage Chance + 5%  |
-| Warrior Leather Pants     | **4 Parts Set option**: Increase maximum AG +20  | Excellent damage Chance + 5% |
-| Warrior Leather Gauntlets | **5 Parts Set option**: AG increase Rate + 5     | Increase strength + 25       |
-| Warrior Leather Boots     | **6 Parts Set option**: Increase Defense + 20    |                              |
-| Warrior Morning Star      |                                                  |                              |
-| Warrior Ring of Ice       |                                                  |                              |
+| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
+| ---------------------- | ------------------------------------------------ | ---------------------------- |
+| Warrior Leather Helmet | **2 Parts Set option**: Strength +10             | Increase agility +10         |
+| Warrior Leather Armor  | **3 Parts Set option**: Increase attack Rate +10 | Critical damage Chance + 5%  |
+| Warrior Leather Pants  | **4 Parts Set option**: Increase maximum AG +20  | Excellent damage Chance + 5% |
+| Warrior Leather Gloves | **5 Parts Set option**: AG increase Rate + 5     | Increase strength + 25       |
+| Warrior Leather Boots  | **6 Parts Set option**: Increase Defense + 20    |                              |
+| Warrior Morning Star   |                                                  |                              |
+| Warrior Ring of Ice    |                                                  |                              |
 
 #### Anonymous Leather Set
 
 ![Leather Set](/img/items/armors/dk/leather.png)
-
-| Set Item Parts           | Parts Set Options                            | Full Set Bonus Options     |
+| Set Item Parts | Parts Set Options | Full Set Bonus Options |
 | ------------------------ | -------------------------------------------- | -------------------------- |
-| Anonymous Leather Helmet | **2 Parts Set option**: HP +50               | Increase Defense +25%      |
-| Anonymous Leather Pants  | **3 Parts Set option**: Increase Agility +50 | Increase Attack damage +30 |
-| Anonymous Leather Boots  |                                              |                            |
-| Anonymous Small Shield   |                                              |                            |
+| Anonymous Leather Helmet | **2 Parts Set option**: HP +50 | Increase Defense +25% |
+| Anonymous Leather Pants | **3 Parts Set option**: Increase Agility +50 | Increase Attack damage +30 |
+| Anonymous Leather Boots | | |
+| Anonymous Small Shield | | |
 
 #### Hyperion Bronze Set
 
