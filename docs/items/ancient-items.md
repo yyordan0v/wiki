@@ -57,12 +57,13 @@ In order to obtain **Ancient Items**, adventurers must either:
 #### Anonymous Leather Set
 
 ![Leather Set](/img/items/armors/dk/leather.png)
-| Set Item Parts | Parts Set Options | Full Set Bonus Options |
+
+| Set Item Parts           | Parts Set Options                            | Full Set Bonus Options     |
 | ------------------------ | -------------------------------------------- | -------------------------- |
-| Anonymous Leather Helmet | **2 Parts Set option**: HP +50 | Increase Defense +25% |
-| Anonymous Leather Pants | **3 Parts Set option**: Increase Agility +50 | Increase Attack damage +30 |
-| Anonymous Leather Boots | | |
-| Anonymous Small Shield | | |
+| Anonymous Leather Helmet | **2 Parts Set option**: HP +50               | Increase Defense +25%      |
+| Anonymous Leather Pants  | **3 Parts Set option**: Increase Agility +50 | Increase Attack damage +30 |
+| Anonymous Leather Boots  |                                              |                            |
+| Anonymous Small Shield   |                                              |                            |
 
 #### Hyperion Bronze Set
 
