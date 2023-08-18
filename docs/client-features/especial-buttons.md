@@ -6,7 +6,7 @@ sidebar_position: 4
 
 The **Especial Buttons**, located at the top center of the screen, grant users convenient access to a range of noteworthy features, including:
 
-- [Battle Pass](/gameplay-systems/battle-pass)
+- [Quest Pavilion](/gameplay-systems/quest-pavilion)
 - Active Invasions
 - [Daily Reward](/gameplay-systems/daily-reward)
 
