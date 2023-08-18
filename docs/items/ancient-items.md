@@ -181,7 +181,97 @@ In order to obtain **Ancient Items**, adventurers must either:
   <TabItem value="wizards" label="Wizard Sets">
 ```
 
-Text Here
+#### Apollo Pad Set
+
+![Pad Set](/img/items/armors/dw/pad.png)
+
+| Set Item Parts        | Parts Set Options                                   | Full Set Bonus Options        |
+| --------------------- | --------------------------------------------------- | ----------------------------- |
+| Apollo Pad Helm       | **2 Parts Set option**: Increase Energy +10         | Increase AG +25               |
+| Apollo Pad Armor      | **3 Parts Set option**: Increase Wizardy damage +5% | Increase Energy +30           |
+| Apollo Pad Pants      | **4 Parts Set option**: Increase Skill damage +10   | Increase Critical damage +10  |
+| Apollo Pad Gloves     | **5 Parts Set option**: Increase Mana +30           | Increase Excellent damage +10 |
+| Apollo Pendant of Ice | **6 Parts Set option**: Increase HP +30             |                               |
+| Apollo Ring of Magic  |                                                     |                               |
+| Apollo Skull Staff    |                                                     |                               |
+
+#### Barnake Pad Set
+
+![Pad Set](/img/items/armors/dw/pad.png)
+
+| Set Item Parts    | Parts Set Options                                    | Full Set Bonus Options    |
+| ----------------- | ---------------------------------------------------- | ------------------------- |
+| Barnake Pad Helm  | **2 Parts Set option**: Increase Wizardy damage +10% | Increase Mana +100        |
+| Barnake Pad Pants |                                                      | Increase Energy +20       |
+| Barnake Pad Boots |                                                      | Increase Skill damage +30 |
+
+#### Evis Bone Set
+
+![Bone Set](/img/items/armors/dw/bone.png)
+
+| Set Item Parts       | Parts Set Options                                 | Full Set Bonus Options       |
+| -------------------- | ------------------------------------------------- | ---------------------------- |
+| Evis Bone Armor      | **2 Parts Set option**: Increase Skill damage +15 | Increase Wizardy damage +10  |
+| Evis Bone Pants      | **3 Parts Set option**: Increase Stamina +20      | Increase Attack rate +50     |
+| Evis Bone Boots      |                                                   | Increase AG Recovery rate +5 |
+| Evis Pendant of Wind |                                                   | Double damage Chance +5%     |
+
+#### Sylion Bone Set
+
+![Bone Set](/img/items/armors/dw/bone.png)
+
+| Set Item Parts     | Parts Set Options                                  | Full Set Bonus Options |
+| ------------------ | -------------------------------------------------- | ---------------------- |
+| Sylion Bone Helm   | **2 Parts Set option**: Double damage Chance +5%   | Increase defense +20   |
+| Sylion Bone Armor  | **3 Parts Set option**: Critical damage Chance +5% | Increase Strength +50  |
+| Sylion Bone Gloves |                                                    | Increase Agility +50   |
+| Sylion Bone Boots  |                                                    | Increase Energy +50    |
+
+#### Heras Sphinx Set
+
+![Sphinx Set](/img/items/armors/dw/sphinx.png)
+
+| Set Item Parts      | Parts Set Options                                              | Full Set Bonus Options       |
+| ------------------- | -------------------------------------------------------------- | ---------------------------- |
+| Heras Sphinx Helm   | **2 Parts Set option**: Increase Strength +15                  | Increase Attack rate +50     |
+| Heras Sphinx Armor  | **3 Parts Set option**: Increase Wizardy damage +10%           | Increase HP +50              |
+| Heras Sphinx Pants  | **4 Parts Set option**: Increase defense +5% (Shield equipped) | Increase Mana +50            |
+| Heras Sphinx Gloves | **5 Parts Set option**: IIncrease Energy +15                   | Critical damage Chance +10%  |
+| Heras Sphinx Boots  |                                                                | Excellent damage Chance +10% |
+| Heras Skull Shield  |                                                                |                              |
+
+#### Minet Sphinx Set
+
+![Sphinx Set](/img/items/armors/dw/sphinx.png)
+
+| Set Item Parts     | Parts Set Options                           | Full Set Bonus Options    |
+| ------------------ | ------------------------------------------- | ------------------------- |
+| Minet Sphinx Armor | **2 Parts Set option**: Increase Energy +30 | Increase Defense rate +30 |
+| Minet Sphinx Pants |                                             | Increase Mana +100        |
+| Minet Sphinx Boots |                                             | Increase Skill damage +15 |
+
+#### Anubis Legendary Set
+
+![Legendary Set](/img/items/armors/dw/legendary.png)
+
+| Set Item Parts          | Parts Set Options                                | Full Set Bonus Options        |
+| ----------------------- | ------------------------------------------------ | ----------------------------- |
+| Anubis Legendary Helm   | **2 Parts Set option**: Double damage Chance +5% | Increase Critical damage +20  |
+| Anubis Legendary Armor  | **3 Parts Set option**: Increase Mana +50        | Increase Excellent damage +20 |
+| Anubis Legendary Gloves |                                                  | Increase Wizardy damage +10%  |
+| Anubis Ring of Fire     |                                                  | Excellent damage Chance +15%  |
+|                         |                                                  | Critical damage Chance +15%   |
+
+#### Enis Legendary Set
+
+![Legendary Set](/img/items/armors/dw/legendary.png)
+
+| Set Item Parts       | Parts Set Options                                  | Full Set Bonus Options       |
+| -------------------- | -------------------------------------------------- | ---------------------------- |
+| Enis Legendary Helm  | **2 Parts Set option**: Increase Skill damage + 10 | Increase Energy +30          |
+| Enis Legendary Armor | **3 Parts Set option**: Double damage Chance +10%  | Increase Wizardy damage +10% |
+| Enis Legendary Pants |                                                    | Ignore defense Chance +5%    |
+| Enis Legendary Boots |                                                    |                              |
 
 ```mdx-code-block
   </TabItem>
