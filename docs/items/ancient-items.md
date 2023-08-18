@@ -44,15 +44,15 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ![Leather Set](/img/items/armors/dk/leather.png)
 
-| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
-| ---------------------- | ------------------------------------------------ | ---------------------------- |
-| Warrior Leather Helmet | **2 Parts Set option**: Strength +10             | Increase agility +10         |
-| Warrior Leather Armor  | **3 Parts Set option**: Increase attack Rate +10 | Critical damage Chance + 5%  |
-| Warrior Leather Pants  | **4 Parts Set option**: Increase maximum AG +20  | Excellent damage Chance + 5% |
-| Warrior Leather Gloves | **5 Parts Set option**: AG increase Rate + 5     | Increase strength + 25       |
-| Warrior Leather Boots  | **6 Parts Set option**: Increase Defense + 20    |                              |
-| Warrior Morning Star   |                                                  |                              |
-| Warrior Ring of Ice    |                                                  |                              |
+| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options      |
+| ---------------------- | ------------------------------------------------ | --------------------------- |
+| Warrior Leather Helmet | **2 Parts Set option**: Strength +10             | Increase agility +10        |
+| Warrior Leather Armor  | **3 Parts Set option**: Increase attack Rate +10 | Critical damage Chance +5%  |
+| Warrior Leather Pants  | **4 Parts Set option**: Increase maximum AG +20  | Excellent damage Chance +5% |
+| Warrior Leather Gloves | **5 Parts Set option**: AG increase Rate +5      | Increase strength +25       |
+| Warrior Leather Boots  | **6 Parts Set option**: Increase Defense +20     |                             |
+| Warrior Morning Star   |                                                  |                             |
+| Warrior Ring of Ice    |                                                  |                             |
 
 #### Anonymous Leather Set
 
@@ -83,7 +83,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 | ------------------ | -------------------------------------------- | ------------------------- |
 | Mist Bronze Helm   | **2 Parts Set option**: Increase Stamina +20 | Increase Agility +15      |
 | Mist Bronze Pants  |                                              | Increase Skill damage +30 |
-| Mist Bronze Gloves |                                              | Double damage chance +10% |
+| Mist Bronze Gloves |                                              | Double damage Chance +10% |
 
 #### Garuda Brass Set
 
@@ -92,7 +92,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
 | ---------------------- | ------------------------------------------------ | ---------------------------- |
 | Garuda Brass Armor     | **2 Parts Set option**: Increase Stamina +30     | Increase HP +50              |
-| Garuda Brass Pants     | **3 Parts Set option**: Double damage chance +5% | Increase Skill damage +25    |
+| Garuda Brass Pants     | **3 Parts Set option**: Double damage Chance +5% | Increase Skill damage +25    |
 | Garuda Brass Gloves    | **4 Parts Set option**: Increase Stamina +15     | Increase Wizardy damage +15% |
 | Garuda Brass Boots     |                                                  |                              |
 | Garuda Pendant of Fire |                                                  |                              |
@@ -236,7 +236,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Heras Sphinx Helm   | **2 Parts Set option**: Increase Strength +15                  | Increase Attack rate +50     |
 | Heras Sphinx Armor  | **3 Parts Set option**: Increase Wizardy damage +10%           | Increase HP +50              |
 | Heras Sphinx Pants  | **4 Parts Set option**: Increase defense +5% (Shield equipped) | Increase Mana +50            |
-| Heras Sphinx Gloves | **5 Parts Set option**: IIncrease Energy +15                   | Critical damage Chance +10%  |
+| Heras Sphinx Gloves | **5 Parts Set option**: Increase Energy +15                    | Critical damage Chance +10%  |
 | Heras Sphinx Boots  |                                                                | Excellent damage Chance +10% |
 | Heras Skull Shield  |                                                                |                              |
 
@@ -266,12 +266,12 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ![Legendary Set](/img/items/armors/dw/legendary.png)
 
-| Set Item Parts       | Parts Set Options                                  | Full Set Bonus Options       |
-| -------------------- | -------------------------------------------------- | ---------------------------- |
-| Enis Legendary Helm  | **2 Parts Set option**: Increase Skill damage + 10 | Increase Energy +30          |
-| Enis Legendary Armor | **3 Parts Set option**: Double damage Chance +10%  | Increase Wizardy damage +10% |
-| Enis Legendary Pants |                                                    | Ignore defense Chance +5%    |
-| Enis Legendary Boots |                                                    |                              |
+| Set Item Parts       | Parts Set Options                                 | Full Set Bonus Options       |
+| -------------------- | ------------------------------------------------- | ---------------------------- |
+| Enis Legendary Helm  | **2 Parts Set option**: Increase Skill damage +10 | Increase Energy +30          |
+| Enis Legendary Armor | **3 Parts Set option**: Double damage Chance +10% | Increase Wizardy damage +10% |
+| Enis Legendary Pants |                                                   | Ignore defense Chance +5%    |
+| Enis Legendary Boots |                                                   |                              |
 
 ```mdx-code-block
   </TabItem>
@@ -279,7 +279,115 @@ In order to obtain **Ancient Items**, adventurers must either:
   <TabItem value="elves" label="Elf Sets">
 ```
 
-Text Here
+#### Ceto Vine Set
+
+![Vine Set](/img/items/armors/fe/vine.png)
+
+| Set Item Parts     | Parts Set Options                                             | Full Set Bonus Options |
+| ------------------ | ------------------------------------------------------------- | ---------------------- |
+| Ceto Vine Helm     | **2 Parts Set option**: Increase Agility +10                  | Increase Energy +10    |
+| Ceto Vine Pants    | **3 Parts Set option**: Increase HP +50                       | Increase HP +50        |
+| Ceto Vine Gloves   | **4 Parts Set option**: Increase defense +20                  | Increase Strength +20  |
+| Ceto Vine Boots    | **5 Parts Set option**: Increase defense +5% (Shield equpped) |                        |
+| Ceto Ring of Earth |                                                               |                        |
+| Ceto Rapier        |                                                               |                        |
+
+#### Drake Vine Set
+
+![Vine Set](/img/items/armors/fe/vine.png)
+
+| Set Item Parts   | Parts Set Options                                  | Full Set Bonus Options      |
+| ---------------- | -------------------------------------------------- | --------------------------- |
+| Drake Vine Helm  | **2 Parts Set option**: Increase Agility +20       | Increase Defense +40        |
+| Drake Vine Armor | **3 Parts Set option**: Increase Attack damage +25 | Critical damage Chance +10% |
+| Drake Vine Pants |                                                    | Double damage Chance +20%   |
+| Drake Vine Boots |                                                    |                             |
+
+#### Gaia Silk Set
+
+![Silk Set](/img/items/armors/fe/silk.png)
+
+| Set Item Parts       | Parts Set Options                                  | Full Set Bonus Options        |
+| -------------------- | -------------------------------------------------- | ----------------------------- |
+| Gaia Silk Helm       | **2 Parts Set option**: Increase Attack damage +10 | Increase Agility +30          |
+| Gaia Silk Armor      | **3 Parts Set option**: Increase Mana +25          | Increase Excellent damage +10 |
+| Gaia Silk Pants      | **4 Parts Set option**: Increase Strength +10      | Excellent damage Chance +10%  |
+| Gaia Silk Gloves     |                                                    | Double damage Chance +5%      |
+| Gaia Golden Crossbow |                                                    |                               |
+
+#### Fase Silk Set
+
+![Silk Set](/img/items/armors/fe/silk.png)
+
+| Set Item Parts   | Parts Set Options                        | Full Set Bonus Options |
+| ---------------- | ---------------------------------------- | ---------------------- |
+| Fase Silk Pants  | **2 Parts Set option**: Increase HP +100 | Increase HP +100       |
+| Fase Silk Gloves |                                          | Increase defense +100  |
+| Fase Silk Boots  |                                          |                        |
+
+#### Odin Wind Set
+
+![Wind Set](/img/items/armors/fe/wind.png)
+
+| Set Item Parts   | Parts Set Options                                | Full Set Bonus Options    |
+| ---------------- | ------------------------------------------------ | ------------------------- |
+| Odin Wind Helm   | **2 Parts Set option**: Increase Energy +15      | Increase Agility +30      |
+| Odin Wind Armor  | **3 Parts Set option**: Increase HP +50          | Increase Mana +50         |
+| Odin Wind Pants  | **4 Parts Set option**: Increase Attack rate +50 | Increase AG +50           |
+| Odin Wind Gloves |                                                  | Ignore defense Chance +5% |
+| Odin Wind Boots  |                                                  |                           |
+
+#### Elvian Wind Set
+
+![Wind Set](/img/items/armors/fe/wind.png)
+
+| Set Item Parts    | Full Set Bonus Options    |
+| ----------------- | ------------------------- |
+| Elvian Wind Pants | Increase Agility +30      |
+| Elvian Wind Boots | Ignore defense Chance +5% |
+
+#### Argo Spirit Set
+
+![Spirit Set](/img/items/armors/fe/spirit.png)
+
+| Set Item Parts     | Parts Set Options                                   | Full Set Bonus Options    |
+| ------------------ | --------------------------------------------------- | ------------------------- |
+| Argo Spirit Armor  | **2 Parts Set option**: Increase Maximum damage +20 | Increase Skill damage +15 |
+| Argo Spirit Pants  |                                                     | Increase AG +50           |
+| Argo Spirit Gloves |                                                     | Double damage Chance +5%  |
+
+#### Karis Spirit Set
+
+![Spirit Set](/img/items/armors/fe/spirit.png)
+
+| Set Item Parts     | Parts Set Options                                 | Full Set Bonus Options      |
+| ------------------ | ------------------------------------------------- | --------------------------- |
+| Karis Spirit Helm  | **2 Parts Set option**: Increase Skill damage +15 | Increase Agility +40        |
+| Karis Spirit Pants |                                                   | Critical damage Chance +10% |
+| Karis Spirit Boots |                                                   | Double damage Chance +10%   |
+
+#### Gywen Guardian Set
+
+![Guardian Set](/img/items/armors/fe/guardian.png)
+
+| Set Item Parts           | Parts Set Options                                   | Full Set Bonus Options        |
+| ------------------------ | --------------------------------------------------- | ----------------------------- |
+| Gywen Guardian Armor     | **2 Parts Set option**: Increase Agility +30        | Increase Max damage +20       |
+| Gywen Guardian Gloves    | **3 Parts Set option**: Increase Minimum damage +20 | Increase Critical damage +20  |
+| Gywen Guardian Boots     | **4 Parts Set option**: Increase defense +20        | Increase Excellent damage +20 |
+| Gywen Pendant of Ability |                                                     | Critical damage Chance +15%   |
+| Gywen Silver Bow         |                                                     | Excellent damage Chance +15%  |
+
+#### Aruan Guardian Set
+
+![Guardian Set](/img/items/armors/fe/guardian.png)
+
+| Set Item Parts       | Parts Set Options                                  | Full Set Bonus Options       |
+| -------------------- | -------------------------------------------------- | ---------------------------- |
+| Aruan Guardian Helm  | **2 Parts Set option**: Increase Attack damage +10 | Increase Skill damage +20    |
+| Aruan Guardian Armor | **3 Parts Set option**: Double damage Chance +10%  | Critical damage Chance +15%  |
+| Aruan Guardian Pants |                                                    | Excellent damage Chance +15% |
+| Aruan Guardian Boots |                                                    | Ignore defense Chance +5%    |
 
 ```mdx-code-block
   </TabItem>
@@ -287,7 +395,29 @@ Text Here
   <TabItem value="gladiators" label="Gladiator Sets">
 ```
 
-Text Here
+#### Gaion Storm Crow Set
+
+![Storm Crow Set](/img/items/armors/mg/storm-crow.png)
+
+| Set Item Parts         | Parts Set Options                                 | Full Set Bonus Options        |
+| ---------------------- | ------------------------------------------------- | ----------------------------- |
+| Gaion Storm Crow Armor | **2 Parts Set option**: Ignore defense Chance +5% | Increase Attack damage +15    |
+| Gaion Storm Crow Pants | **3 Parts Set option**: Double damage Chance +15% | Increase Excellent damage +30 |
+| Gaion Storm Crow Boots |                                                   | Increase Strength +30         |
+| Gaion Pendant of Water |                                                   | Excellent damage Chance +15%  |
+|                        |                                                   | Increase Wizardy damage +20%  |
+
+#### Muren Storm Crow Set
+
+![Storm Crow Set](/img/items/armors/mg/storm-crow.png)
+
+| Set Item Parts          | Parts Set Options                                   | Full Set Bonus Options        |
+| ----------------------- | --------------------------------------------------- | ----------------------------- |
+| Muren Storm Crow Armor  | **2 Parts Set option**: Increase Skill damage +10   | Increase defense +25          |
+| Muren Storm Crow Pants  | **3 Parts Set option**: Increase Wizardy damage +10 | Two-Handed Weapon damage +20% |
+| Muren Storm Crow Gloves |                                                     | Critical damage Chance +15%   |
+| Muren Ring of Fire      |                                                     | Excellent damage Chance +15%  |
+|                         |                                                     | Double damage Chance +10%     |
 
 ```mdx-code-block
   </TabItem>
@@ -295,7 +425,29 @@ Text Here
   <TabItem value="lords" label="Lord Sets">
 ```
 
-Text Here
+#### Agnis Adamantine Set
+
+![Adamantine Set](/img/items/armors/dl/adamantine.png)
+
+| Set Item Parts         | Parts Set Options                                 | Full Set Bonus Options        |
+| ---------------------- | ------------------------------------------------- | ----------------------------- |
+| Agnis Adamantine Mask  | **2 Parts Set option**: Double damage Chance +10% | Increase Skill damage +10     |
+| Agnis Adamantine Armor | **3 Parts Set option**: Increase defense +20      | Increase Critical damage +20  |
+| Agnis Adamantine Pants |                                                   | Increase Excellent damage +20 |
+| Agnis Ring of Poison   |                                                   | Critical damage Chance +15%   |
+|                        |                                                   | Excellent damage Chance +15%  |
+
+#### Broy Adamantine Set
+
+![Adamantine Set](/img/items/armors/dl/adamantine.png)
+
+| Set Item Parts         | Parts Set Options                                  | Full Set Bonus Options      |
+| ---------------------- | -------------------------------------------------- | --------------------------- |
+| Broy Adamantine Pants  | **2 Parts Set option**: Increase Attack damage +20 | Increase Energy +30         |
+| Broy Adamantine Gloves | **3 Parts Set option**: Increase Skill damage +20  | Increase Command +30        |
+| Broy Adamantine Boots  |                                                    | Critical damage Chance +5%  |
+| Broy Pendant of Ice    |                                                    | Excellent damage Chance +5% |
+|                        |                                                    | Ignore defense Chance +5%   |
 
 ```mdx-code-block
 
