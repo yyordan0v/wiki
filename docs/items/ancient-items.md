@@ -42,20 +42,19 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 #### Warrior Leather Set
 
-- **2 Set option**: Strength +10
-- **3 Set option**: Incr. attack rate +10
-- **4 Set option**: Incr. maximum AG +20
-- **5 Set option**: AG increase Rate + 5
-- **6 Set option**: Increase Defense + 20
+![Leather Set](/img/items/armors/dk/leather.png)
 
-_Full set Option_
+_Warrior Leather Set_
 
-- Increase agility +10
-- Critical damage rate + 5%
-- Excellent damage rate + 5%
-- Increase strength + 25
+| Parts Set Options                       | Full Set Options           |
+| --------------------------------------- | -------------------------- |
+| **2 Set option**: Strength +10          | Increase agility +10       |
+| **3 Set option**: Incr. attack rate +10 | Critical damage rate + 5%  |
+| **4 Set option**: Incr. maximum AG +20  | Excellent damage rate + 5% |
+| **5 Set option**: AG increase Rate + 5  | Increase strength + 25     |
+| **6 Set option**: Increase Defense + 20 |                            |
 
-_Set Items Parts_
+Set Items Parts:
 
 - Helmet
 - Armor
