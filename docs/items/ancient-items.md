@@ -28,6 +28,7 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 ## How to obtain an Ancient Item
 
 In order to obtain **Ancient Items**, adventurers must either:
+
 - Slay monsters in [Kalima](/maps/kalima);
 - Slay monsters in [Land of Trials](/maps/land-of-trials);
 - Triumph in the [Chaos Castle](/events/chaos-castle) Event.
@@ -39,7 +40,30 @@ In order to obtain **Ancient Items**, adventurers must either:
   <TabItem value="knights" label="Knight Sets">
 ```
 
-Text Here
+#### Warrior Leather Set
+
+**2 Set option**: Strength +10
+**3 Set option**: Incr. attack rate +10
+**4 Set option**: Incr. maximum AG +20
+**5 Set option**: AG increase Rate + 5
+**6 Set option**: Increase Defense + 20
+
+_Full set Option_
+
+Increase agility +10
+Critical damage rate + 5%
+Excellent damage rate + 5%
+Increase strength + 25
+
+_Set Items Parts=_
+
+- Helmet
+- Armor
+- Pants
+- Gauntlets
+- Boots
+- Morning Star
+- Ring of Ice
 
 ```mdx-code-block
   </TabItem>
