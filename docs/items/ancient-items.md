@@ -44,17 +44,136 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ![Leather Set](/img/items/armors/dk/leather.png)
 
-_Warrior Leather Set_
+| Set Item Parts            | Parts Set Options                                | Full Set Bonus Options       |
+| ------------------------- | ------------------------------------------------ | ---------------------------- |
+| Warrior Leather Helmet    | **2 Parts Set option**: Strength +10             | Increase agility +10         |
+| Warrior Leather Armor     | **3 Parts Set option**: Increase attack Rate +10 | Critical damage Chance + 5%  |
+| Warrior Leather Pants     | **4 Parts Set option**: Increase maximum AG +20  | Excellent damage Chance + 5% |
+| Warrior Leather Gauntlets | **5 Parts Set option**: AG increase Rate + 5     | Increase strength + 25       |
+| Warrior Leather Boots     | **6 Parts Set option**: Increase Defense + 20    |                              |
+| Warrior Morning Star      |                                                  |                              |
+| Warrior Ring of Ice       |                                                  |                              |
 
-| Set Item Parts | Parts Set Options                             | Full Set Bonus Options     |
-| -------------- | --------------------------------------------- | -------------------------- |
-| Helmet         | **2 Parts Set option**: Strength +10          | Increase agility +10       |
-| Armor          | **3 Parts Set option**: Incr. attack rate +10 | Critical damage rate + 5%  |
-| Pants          | **4 Parts Set option**: Incr. maximum AG +20  | Excellent damage rate + 5% |
-| Gauntlets      | **5 Parts Set option**: AG increase Rate + 5  | Increase strength + 25     |
-| Boots          | **6 Parts Set option**: Increase Defense + 20 |                            |
-| Morning Star   |                                               |                            |
-| Ring of Ice    |                                               |                            |
+#### Anonymous Leather Set
+
+![Leather Set](/img/items/armors/dk/leather.png)
+
+| Set Item Parts           | Parts Set Options                            | Full Set Bonus Options     |
+| ------------------------ | -------------------------------------------- | -------------------------- |
+| Anonymous Leather Helmet | **2 Parts Set option**: HP +50               | Increase Defense +25%      |
+| Anonymous Leather Pants  | **3 Parts Set option**: Increase Agility +50 | Increase Attack damage +30 |
+| Anonymous Leather Boots  |                                              |                            |
+| Anonymous Small Shield   |                                              |                            |
+
+#### Hyperion Bronze Set
+
+![Bronze Set](/img/items/armors/dk/bronze.png)
+
+| Set Item Parts        | Parts Set Options                           | Full Set Bonus Options    |
+| --------------------- | ------------------------------------------- | ------------------------- |
+| Hyperion Bronze Armor | **2 Parts Set option**: Increase Energy +15 | Increase Energy +15       |
+| Hyperion Bronze Pants |                                             | Increase Skill damage +20 |
+| Hyperion Bronze Boots |                                             | Increase Mana +30         |
+
+#### Mist Bronze Set
+
+![Bronze Set](/img/items/armors/dk/bronze.png)
+
+| Set Item Parts     | Parts Set Options                            | Full Set Bonus Options    |
+| ------------------ | -------------------------------------------- | ------------------------- |
+| Mist Bronze Helm   | **2 Parts Set option**: Increase Stamina +20 | Increase Agility +15      |
+| Mist Bronze Pants  |                                              | Increase Skill damage +30 |
+| Mist Bronze Gloves |                                              | Double damage chance +10% |
+
+#### Garuda Brass Set
+
+![Brass Set](/img/items/armors/dk/brass.png)
+
+| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
+| ---------------------- | ------------------------------------------------ | ---------------------------- |
+| Garuda Brass Armor     | **2 Parts Set option**: Increase Stamina +30     | Increase HP +50              |
+| Garuda Brass Pants     | **3 Parts Set option**: Double damage chance +5% | Increase Skill damage +25    |
+| Garuda Brass Gloves    | **4 Parts Set option**: Increase Stamina +15     | Increase Wizardy damage +15% |
+| Garuda Brass Boots     |                                                  |                              |
+| Garuda Pendant of Fire |                                                  |                              |
+
+#### Cloud Brass Set
+
+![Brass Set](/img/items/armors/dk/brass.png)
+
+| Set Item Parts    | Full Set Bonus Options       |
+| ----------------- | ---------------------------- |
+| Cloud Brass Helm  | Critical damage Chance +20%  |
+| Cloud Brass Pants | Increase Critical damage +50 |
+
+#### Eplate Scale Set
+
+![Scale Set](/img/items/armors/dk/scale.png)
+
+| Set Item Parts              | Parts Set Options                                   | Full Set Bonus Options       |
+| --------------------------- | --------------------------------------------------- | ---------------------------- |
+| Eplate Scale Helm           | **2 Parts Set option**: Increase Skill damage +15   | Increase HP +50              |
+| Eplate Scale Armor          | **3 Parts Set option**: Increase Attack damage +15  | Increase AG +30              |
+| Eplate Scale Pants          | **4 Parts Set option**: Increase Wizardy damage +5% | Critical damage Chance +10%  |
+| Eplate Plate Shield         |                                                     | Excellent damage Chance +10% |
+| Eplate Pendant of Lightning |                                                     |                              |
+
+#### Berserker Scale Set
+
+![Scale Set](/img/items/armors/dk/scale.png)
+
+| Set Item Parts         | Parts Set Options                                   | Full Set Bonus Options      |
+| ---------------------- | --------------------------------------------------- | --------------------------- |
+| Berserker Scale Helm   | **2 Parts Set option**: Increase Maximum damage +10 | Increase Maximum damage +40 |
+| Berserker Scale Armor  | **3 Parts Set option**: Increase Maximum damage +20 | Increase Skill damage +40   |
+| Berserker Scale Pants  | **4 Parts Set option**: Increase Maximum damage +30 | Increase Strength +40       |
+| Berserker Scale Boots  |                                                     |                             |
+| Berserker Scale Gloves |                                                     |                             |
+
+#### Kantata Plate Set
+
+![Plate Set](/img/items/armors/dk/plate.png)
+
+| Set Item Parts         | Parts Set Options                                    | Full Set Bonus Options        |
+| ---------------------- | ---------------------------------------------------- | ----------------------------- |
+| Kantata Plate Armor    | **2 Parts Set option**: Increase Energy +15          | Increase Stamina +15          |
+| Kantata Plate Gloves   | **3 Parts Set option**: Increase Stamina +30         | Increase Skill damage +25     |
+| Kantata Plate Boots    | **4 Parts Set option**: Increase Wizardy damage +10% | Increase Strength +40         |
+| Kantata Ring of Poison |                                                      | Excellent damage Chance +10%  |
+| Kantata Ring of Wind   |                                                      | Increase Excellent damage +20 |
+
+#### Rave Plate Set
+
+![Plate Set](/img/items/armors/dk/plate.png)
+
+| Set Item Parts   | Parts Set Options                                 | Full Set Bonus Options        |
+| ---------------- | ------------------------------------------------- | ----------------------------- |
+| Rave Plate Helm  | **2 Parts Set option**: Increase Skill damage +20 | Two-Handed Weapon damage +30% |
+| Rave Plate Armor |                                                   | Ignore defense Chance +5%     |
+| Rave Plate Pants |                                                   | Double damage Chance +10%     |
+
+#### Hyon Dragon Set
+
+![Dragon Set](/img/items/armors/dk/dragon.png)
+
+| Set Item Parts       | Parts Set Options                                 | Full Set Bonus Options        |
+| -------------------- | ------------------------------------------------- | ----------------------------- |
+| Hyon Dragon Helm     | **2 Parts Set option**: Increase Defense +25      | Increase Skill damage +20     |
+| Hyon Dragon Gloves   | **3 Parts Set option**: Double damage Chance +10% | Increase Critical damage +20  |
+| Hyon Dragon Boots    |                                                   | Increase Excellent damage +20 |
+| Hyon Lightning Sword |                                                   | Critical damage Chance +15%   |
+|                      |                                                   | Excellent damage Chance +10%  |
+
+#### Vicious Dragon Set
+
+![Dragon Set](/img/items/armors/dk/dragon.png)
+
+| Set Item Parts        | Parts Set Options                                  | Full Set Bonus Options      |
+| --------------------- | -------------------------------------------------- | --------------------------- |
+| Vicious Dragon Helm   | **2 Parts Set option**: Increase Skill damage +15  | Increase Minimum damage +20 |
+| Vicious Dragon Armor  | **3 Parts Set option**: Increase Attack damage +15 | Increase Maximum damage +30 |
+| Vicious Dragon Pants  |                                                    | Double damage Chance +10%   |
+| Vicious Ring of Earth |                                                    | Ignore defense Chance +5%   |
 
 ```mdx-code-block
   </TabItem>
