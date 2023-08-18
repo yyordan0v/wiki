@@ -42,6 +42,10 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 #### Warrior Leather Set
 
+![Leather Set](/img/items/armors/dk/leather.png)
+
+_Warrior Leather Set_
+
 | Set Item Parts | Parts Set Options                             | Full Set Bonus Options     |
 | -------------- | --------------------------------------------- | -------------------------- |
 | Helmet         | **2 Parts Set option**: Strength +10          | Increase agility +10       |
@@ -51,10 +55,6 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Boots          | **6 Parts Set option**: Increase Defense + 20 |                            |
 | Morning Star   |                                               |                            |
 | Ring of Ice    |                                               |                            |
-
-![Leather Set](/img/items/armors/dk/leather.png)
-
-_Warrior Leather Set_
 
 ```mdx-code-block
   </TabItem>
