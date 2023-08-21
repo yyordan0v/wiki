@@ -62,3 +62,5 @@ At the end of the event, the player with the most points or the first to reach *
 :::
 
 Prepare for an adrenaline-pumping battle and demonstrate your combat prowess in the **Massacre Event**. Engage in relentless combat, secure kills, and earn points to emerge as the ultimate victor in this high-stakes PvP showdown. Will you be able to master the chaos and claim victory in the arena?
+
+## Reward
