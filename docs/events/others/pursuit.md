@@ -8,7 +8,7 @@ The **Pursuit Event** in **Lotus Mu** offers an adrenaline-filled experience tha
 
 As a **GM-triggered** event, it brings a dynamic twist to the gaming realm, requiring participants to either escape or outwit the pursuing **GM**. Here's what you need to know about this exciting event:
 
-![Pursuit Event](/img/events/pursuit/pursuit-start.jpg)
+![Pursuit Event](/img/events/pursuit/pursuit-open.jpg)
 
 _Pursuit Event_
 
