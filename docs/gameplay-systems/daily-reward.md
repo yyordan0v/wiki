@@ -10,7 +10,7 @@ At the heart of this enticing system lies the promise of something special every
 
 :::note
 
-The **Daily Rewards** are only available to our `VIP Players`.
+The **Daily Rewards** are only available to our **`VIP Players`**.
 
 :::
 
