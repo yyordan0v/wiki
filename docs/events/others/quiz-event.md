@@ -16,7 +16,11 @@ The event's regular occurrence ensures that players have multiple chances throug
 
 During the **Quiz Event**, a total of **10 questions** will be asked through the global system notice. Each question will be displayed for **1 minute**, giving players a brief window to submit their answers.
 
+:::tip
+
 To participate, players need to use the **`/resp <answer>`** command, replacing **`<answer>`** with their chosen response to the question.
+
+:::
 
 The system will then determine if the answer is correct or not based on the provided options.
 

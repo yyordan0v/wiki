@@ -34,20 +34,22 @@ As players scour the realm in search of the hidden **GM**, the event brings abou
 
 ## Victory and Reward
 
-The first player to successfully locate the hidden **Game Master** and initiate a **trade** with them emerges victorious in the **Hide n' Seek** Event.
+The first player to successfully locate the hidden **Game Master** and initiate a **`trade`** with them emerges victorious in the **Hide n' Seek** Event.
 
 ![Hide n' Seek](/img/events/hidenseek/hidenseek-2.jpg)
 
 _Hide n' Seek_
-
-As a **reward** for their exceptional sleuthing skills, the winner will receive a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
-
-![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
-
-_Red Chocolate Box_
 
 ## Stay Alert and Join the Hunt
 
 Keep an eye out for the **system notices** signaling the start of the **Hide n' Seek** Event. When that message appears, gear up for an exhilarating adventure as you race against time to find the elusive **Game Master**.
 
 Will you be the one to crack the riddle, locate the hidden **Game Master**, and claim your well-earned [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)? Join the hunt and embrace the thrill of the **Hide n' Seek** Event in Lotus Mu!
+
+## Reward
+
+As a **reward** for their exceptional sleuthing skills, the winner will receive a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+
+![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+
+_Red Chocolate Box_

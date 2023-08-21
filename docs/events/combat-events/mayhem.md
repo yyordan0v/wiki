@@ -20,7 +20,7 @@ As the **Mayhem** is about to commence, a **system notice** will be sent to all 
 
 :::tip
 
-To participate in the Mayhem, simply enter the command: `/mayhem`.
+To participate in the Mayhem, simply enter the command: **`/mayhem`**.
 
 :::
 

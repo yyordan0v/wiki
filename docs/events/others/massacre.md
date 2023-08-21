@@ -14,7 +14,7 @@ When a **GM** initiates the **Massacre Event**, a global notice will be broadcas
 
 :::tip
 
-To participate, simply type the command `/go` to indicate your willingness to enter the event.
+To participate, simply type the command **`/go`** to indicate your willingness to enter the event.
 
 :::
 

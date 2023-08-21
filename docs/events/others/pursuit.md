@@ -14,7 +14,15 @@ _Pursuit Event_
 
 ## How to Participate
 
-When a **GM** initiates the **Pursuit Event**, a global notice will be broadcast to all players. Those interested in joining can easily do so by typing the command **`/go`**. Once confirmed, participants are instantly teleported next to the **GM**, signaling their readiness for the challenge.
+When a **GM** initiates the **Pursuit Event**, a global notice will be broadcast to all players.
+
+:::tip
+
+Those interested in joining can easily do so by typing the command **`/go`**.
+
+:::
+
+Once confirmed, participants are instantly teleported next to the **GM**, signaling their readiness for the challenge.
 
 ![Pursuit Event](/img/events/pursuit/pursuit-join.jpg)
 
