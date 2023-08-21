@@ -35,23 +35,21 @@ Here's how points are earned and deducted:
 - **Killing an enemy:** +2 points
 - **Dying:** -1 point
 
-![Masscre Event Points](/img/events/massacre/massacre-points.jpg)
-
-_Masscre Event Points_
-
 :::
 
 To claim **victory**, participants must be the first to accumulate **30 points** or hold the **highest point total** when the event's maximum duration is reached.
 
+![Masscre Event Points](/img/events/massacre/massacre-points.jpg)
+
+_Masscre Event Points_
+
 ## Event Specifications
 
-The Massacre Event will conclude either when a player reaches the required **30 points** or when the **time limit expires**.
+At the end of the event, the player with the **most points** or the first to reach **30 points** will be declared the winner.
 
 ![Masscre Event](/img/events/massacre/massacre-end.jpg)
 
 _Masscre Event_
-
-At the end of the event, the player with the most points or the first to reach **30 points** will be declared the winner.
 
 :::info
 
