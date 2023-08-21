@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Massacre
+# Massacre Event
 
 The **Massacre Event** is a thrilling **PvP competition** that brings intense battles and fierce rivalry to the world of **Lotus Mu**.
 

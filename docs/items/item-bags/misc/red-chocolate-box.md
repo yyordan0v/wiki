@@ -31,5 +31,5 @@ Another way to obtain the **Red Chocolate Box** is to win in one of the followin
 
 - [Blood Castle 1 - 7](/events/blood-castle)
 - [Hide n' Seek](/events/others/hide-n-seek)
-- [Run and Catch](/events/others/run-and-catch)
+- [Pursuit](/events/others/pursuit)
 - [Russian Roulette](/events/others/russian-roulette)

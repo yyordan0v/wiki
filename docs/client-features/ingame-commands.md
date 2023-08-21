@@ -38,4 +38,4 @@ You can also check this list of commands while playing through the [Especial Men
 | `/mayhem`               | Join the [Mayhem](/events/combat-events/mayhem) Event.                                    |
 | `/king`                 | Seize the throne in the [King of Yoskreth](/events/combat-events/king-of-yoskreth) Event. |
 | `/join`                 | Join in an Event.                                                                         |
-| `/run`                  | Join the [Run and Catch](/events/others/run-and-catch) Event.                             |
+| `/go`                   | Join the [Pursuit](/events/others/pursuit), [Massacre](/events/others/massacre) Events.   |
