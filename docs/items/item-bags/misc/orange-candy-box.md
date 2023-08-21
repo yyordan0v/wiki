@@ -27,4 +27,4 @@ In order to obtain a **Orange Candy Box** you need to win in one of the followin
 - [Doppelganger](/events/doppelganger)
 - [Team Clash](/events/combat-events/team-clash)
 - [Specialists' Combat](/events/combat-events/specialists-combat)
-- [Kill All](/events/others/kill-all)
+- [Massacre](/events/others/massacre)
