@@ -16,13 +16,13 @@ When a **GM** initiates the **Massacre Event**, a global notice will be broadcas
 
 To participate, simply type the command `/go` to indicate your willingness to enter the event.
 
-![Masscre Event](/img/events/massacre/massacre-start.jpg)
-
-_Masscre Event_
-
 :::
 
 Once **confirmed**, you will be **instantly transported** to the event area and bestowed with **temporary PK status**, allowing you to engage in unrestricted player-versus-player combat.
+
+![Masscre Event](/img/events/massacre/massacre-start.jpg)
+
+_Masscre Event_
 
 ## Rules and Objectives
 
