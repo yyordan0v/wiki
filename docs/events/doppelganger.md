@@ -30,6 +30,12 @@ After obtaining the **Dimensional Mirror**, you can proceed to [Yoskreth](/maps/
 
 _Lugard_
 
+:::caution
+
+Please be aware that if **other players** are **currently engaged** in the **Doppelganger** event, you'll need to **wait** for them to **complete** it before you can enter.
+
+:::
+
 ## Gameplay
 
 As the **Doppelganger** Event **commences**, players are tasked with the critical mission of **protecting** their **Magical Barrier** from monster onslaughts.
@@ -46,10 +52,10 @@ Monsters emerge from their respective barriers and gradually advance toward your
 
 The **Doppelganger arena** encompasses **four distinct** maps, randomly selected for each event session:
 
-- Fire Zone
-- Ice Zone
-- Water Zone
-- Crystal Zone.
+- Blazezone
+- Icezone
+- Underwater
+- Crystalcave
 
 ![Doppelganger Arenas](/img/events/doppelganger/maps.jpg)
 
@@ -60,6 +66,18 @@ The arena takes the shape of a lengthy, narrow trail adorned with Magical Barrie
 ## Triumph Through Strategy
 
 Your **success** hinges on your ability to work **collaboratively** and **effectively**. Monsters will spawn in clusters from their Magical Barriers, prompting you to counter their advance and protect your own barrier.
+
+An exclusive client **interface** is accessible within the **Doppelganger**, offering vital event-related information including:
+
+- Remaining Time
+- Ongoing monster breaches
+- Blue indicator: character advancement
+- Yellow indicator: monster advancement
+- Red indicator: boss monster advancement
+
+![Doppelganger Interface](/img/events/doppelganger/interface.jpg)
+
+_Doppelganger Interface_
 
 **Coordinate** with your **team** to thwart the monsters' efforts and prevent them from breaching your barrier.
 
