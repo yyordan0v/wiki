@@ -70,7 +70,7 @@ Your **success** hinges on your ability to work **collaboratively** and **effect
 An exclusive client **interface** is accessible within the **Doppelganger**, offering vital event-related information including:
 
 - Remaining Time
-- Ongoing monster breaches
+- Current monster breaches
 - Blue indicator: character advancement
 - Yellow indicator: monster advancement
 - Red indicator: boss monster advancement
