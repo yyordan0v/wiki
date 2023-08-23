@@ -43,7 +43,7 @@ The **Gold Medal** can drop the one of following items:
 |                        Crystal of Destruction                        |                        Crystal of Multishot                        |                     Crystal of Flame Strike                     |                       Crystal of Recovery                        |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
 |    ![Crystal of Destruction](/img/items/scrolls-orbs/orb-dk.png)     |    ![Crystal of Multishot ](/img/items/scrolls-orbs/orb-dk.png)    | ![Crystal of Flame Strike ](/img/items/scrolls-orbs/orb-dk.png) |    ![Crystal of Recovery](/img/items/scrolls-orbs/orb-dk.png)    |
-|                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |                         Scroll of Nova                          |                      Scroll of Fire Scream                       |
+|                      Scroll of Wizardry Enhance                      |                      Scroll of Gigantic Storm                      |                         Scroll of Nova                          |                      Scroll of Chaotic Diseier                       |
 | ![Scroll of Wizardry Enhance](/img/items/scrolls-orbs/scroll-dw.png) | ![Scroll of Gigantic Storm](/img/items/scrolls-orbs/scroll-dw.png) |    ![Scroll of Nova ](/img/items/scrolls-orbs/scroll-dw.png)    | ![Scroll of Fire Scream ](/img/items/scrolls-orbs/scroll-dl.png) |
 
 :::tip
