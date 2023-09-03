@@ -23,6 +23,6 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 
 You can obtain the **Jewel of Level** from:
 
-|   [Lilac Candy Box](/items/item-bags/misc/pink-chocolate-box)   |
+|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
 | :----------------------------------------------------------: |
-| ![Lilac Candy Box](/img/items/item-bags/pink-chocolate-box.png) |
+| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
