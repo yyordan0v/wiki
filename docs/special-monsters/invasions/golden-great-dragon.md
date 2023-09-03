@@ -46,7 +46,7 @@ _Golden Knight_
 
 The menacing **Golden Knight** wreaks havoc in the serene lands of **Lotus Mu**, instilling chaos and fear. Find the Golden Knight on the designated map:
 
-- [Kanturu 1](/maps/kanturu-ruins)
+- [Kanturu Ruins](/maps/kanturu-ruins)
 
 #### Quantity
 

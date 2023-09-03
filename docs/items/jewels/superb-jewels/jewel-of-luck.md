@@ -22,6 +22,6 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 
 You can obtain the **Jewel of Luck** from:
 
-|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+|   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
 | :----------------------------------------------------------: |
-| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+| ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |

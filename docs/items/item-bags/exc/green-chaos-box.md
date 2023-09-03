@@ -37,9 +37,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Green Chaos Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-|     [Medusa](/special-monsters/bosses/medusa)      |     [Balgass](/special-monsters/bosses/balgass)      | [Kundun](/special-monsters/bosses/kundun)  |
-| :------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------: |
-| ![Medusa](/img/monsters/special/bosses/medusa.jpg) | ![Balgass](/img/monsters/special/bosses/balgass.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) |
+|     [Medusa](/special-monsters/bosses/medusa)      |     [Balgass](/special-monsters/bosses/balgass)      | [Kundun](/special-monsters/bosses/kundun)  |     [Selupan](/special-monsters/bosses/selupan)      |
+| :------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------: | :--------------------------------------------------: |
+| ![Medusa](/img/monsters/special/bosses/medusa.jpg) | ![Balgass](/img/monsters/special/bosses/balgass.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |
 
 There is also chance that you get **Green Chaos Box** dropped by one of the following item bags:
 

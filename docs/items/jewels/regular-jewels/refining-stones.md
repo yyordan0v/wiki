@@ -69,6 +69,6 @@ You can acquire **High Refining Stone** by dismantling **excellent** armor or we
 
 :::caution
 
-In the unfortunate event of a **failure**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes a **decrease** by one tier.
+In the unfortunate event of a **failure**, the [Harmony Option](/items/jewels/regular-jewels/jewel-of-harmony) undergoes a **decrease** to its initial value.
 
 :::

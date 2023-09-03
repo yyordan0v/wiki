@@ -50,9 +50,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Blue Ribbon Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-|    [Golden Great Dragon](/special-monsters/invasions/golden-great-dragon)    | [Dark Elf](/special-monsters/event-exclusive/dark-elf) |     [Nightmare](/special-monsters/bosses/nightmare)      | [Kundun](/special-monsters/bosses/kundun)  |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------: |
-| ![Golden Great Dragon](/img/monsters/special/golden/golden-great-dragon.jpg) | ![Dark Elf](/img/monsters/special/others/dark-elf.jpg) | ![Nightmare](/img/monsters/special/bosses/nightmare.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) |
+|    [Golden Great Dragon](/special-monsters/invasions/golden-great-dragon)    | [Dark Elf](/special-monsters/event-exclusive/dark-elf) |     [Nightmare](/special-monsters/bosses/nightmare)      | [Kundun](/special-monsters/bosses/kundun)  |     [Selupan](/special-monsters/bosses/selupan)      |
+| :--------------------------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------: | :--------------------------------------------------: |
+| ![Golden Great Dragon](/img/monsters/special/golden/golden-great-dragon.jpg) | ![Dark Elf](/img/monsters/special/others/dark-elf.jpg) | ![Nightmare](/img/monsters/special/bosses/nightmare.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |
 
 There is also chance that you get **Blue Ribbon Box** dropped by one of the following item bags:
 
