@@ -32,8 +32,6 @@ Please take into account that the invasion timer is based on the server time.
 ## Invasion Details
 
 ```mdx-code-block
-  </TabItem>
-
   <TabItem value="golden-knight" label="Golden Knight">
 ```
 
@@ -57,13 +55,13 @@ During the invasion only **1** Golden Knight is crawling somewhere in **Kanturu*
 
 By slaying that creature a player will be rewarded a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
 
-
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
 _Red Chaos Box_
 
 ```mdx-code-block
 <Tabs lazy>
+  </TabItem>
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
 ```
 
