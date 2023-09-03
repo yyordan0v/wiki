@@ -19,7 +19,7 @@ The table below presents valuable insights regarding the timing and frequency of
 
 | First Invasion time | Reappearing Time |
 | :-----------------: | :--------------: |
-|      01:50:00       |   Every 6 hour   |
+|      01:50:00       |   Every 2 hour   |
 
 :::info
 

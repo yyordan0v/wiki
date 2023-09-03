@@ -109,7 +109,7 @@ For a comprehensive breakdown of the reward of the **Devil Square Winner**, refe
 |   Devil Square 6   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    20 EP     |
 |   Devil Square 7   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    40 EP     |
 
-![Lilac Candy Box](/img/items/item-bags/red-chocolate-box.png)
+![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
 
 _Lilac Candy Box_
 

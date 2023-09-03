@@ -22,14 +22,3 @@ _Kanturu Relics_
 | :-------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 | ![Persona](/img/monsters/kanturu/persona.jpg) | ![Twin Tale](/img/monsters/kanturu/twin-tale.jpg) | ![Dreadfear](/img/monsters/kanturu/dreadfear.jpg) |
 
-### Event Exclusive Monster
-
-| [Maya Left Hand](/special-monsters/event-exclusive/maya-hands) | [Maya Right Hand](/special-monsters/event-exclusive/maya-hands) |
-| :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![Maya Left Hand](/img/monsters/special/others/maya-left.jpg)  | ![Maya Right Hand](/img/monsters/special/others/maya-right.jpg) |
-
-### Boss
-
-|     [Nightmare](/special-monsters/bosses/nightmare)      |
-| :------------------------------------------------------: |
-| ![Nightmare](/img/monsters/special/bosses/nightmare.jpg) |

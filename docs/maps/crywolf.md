@@ -22,14 +22,3 @@ _Crywolf_
 |                      Scout (Hero)                       |                       Warewolf (Hero)                       |                      Balram (Hero)                      |                     Soram (Hero)                      |
 |  ![Scout (Hero)](/img/monsters/crywolf/scout-hero.jpg)  | ![Warewolf (Hero)](/img/monsters/crywolf/warewolf-hero.jpg) | ![Balram (Hero)](/img/monsters/crywolf/balram-hero.jpg) | ![Soram (Hero)](/img/monsters/crywolf/soram-hero.jpg) |
 
-### Event Exclusive Monster
-
-| [Dark Elf](/special-monsters/event-exclusive/dark-elf) |
-| :----------------------------------------------------: |
-|    ![Dark Elf](/img/monsters/crywolf/dark-elf.jpg)     |
-
-### Boss
-
-|  [Balgass](/special-monsters/bosses/balgass)  |
-| :-------------------------------------------: |
-| ![Balgass](/img/monsters/crywolf/balgass.jpg) |

@@ -18,7 +18,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 |                Location                | Quantity |           Respawn Time            |
 | :------------------------------------: | :------: | :-------------------------------: |
-|      [El'Harath](/maps/el-harath)      |    5     | **10 minutes** after being killed |
+|        [Ultoria](/maps/ultoria)        |    5     | **10 minutes** after being killed |
 | [Land of Trials](/maps/land-of-trials) |    5     | **10 minutes** after being killed |
 
 ## Reward

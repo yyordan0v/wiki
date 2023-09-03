@@ -32,35 +32,6 @@ Please take into account that the invasion timer is based on the server time.
 ## Invasion Details
 
 ```mdx-code-block
-<Tabs lazy>
-  <TabItem value="golden-twin-tale" label="Golden Twin Tale">
-```
-
-The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Lotus Mu**.
-
-![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg)
-
-_Golden Twin Tail_
-
-#### Location
-
-The area targeted by the **Golden Twin Tail** consistently encompass the following map:
-
-- [Kanturu 2](/maps/kanturu-ruins)
-
-#### Quantity
-
-During the invasion only **1** Golden Twin Tale is somewhere on the above mentioned maps.
-
-#### Reward
-
-When a player kills a **Golden Twin Tail**, they will receive a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
-
-![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
-
-_Red Chaos Box_
-
-```mdx-code-block
   </TabItem>
 
   <TabItem value="golden-knight" label="Golden Knight">
@@ -84,7 +55,37 @@ During the invasion only **1** Golden Knight is crawling somewhere in **Kanturu*
 
 #### Reward
 
-By slaying that creature a player will be rewarded a [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
+By slaying that creature a player will be rewarded a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
+
+
+![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+
+_Red Chaos Box_
+
+```mdx-code-block
+<Tabs lazy>
+  <TabItem value="golden-twin-tale" label="Golden Twin Tale">
+```
+
+The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Lotus Mu**.
+
+![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg)
+
+_Golden Twin Tail_
+
+#### Location
+
+The area targeted by the **Golden Twin Tail** consistently encompass the following map:
+
+- [Kanturu Relics](/maps/kanturu-relics)
+
+#### Quantity
+
+During the invasion only **1** Golden Twin Tale is somewhere on the above mentioned maps.
+
+#### Reward
+
+When a player kills a **Golden Twin Tail**, they will receive a [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
 
 ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 

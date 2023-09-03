@@ -22,8 +22,13 @@ The **Red Ribbon Box** can drop one of the following items:
 
 To obtain the **Red Ribbon Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-|       [Golden Soldier](/special-monsters/invasions/golden-dragon)        |  [Golden Vepar](/special-monsters/invasions/golden-dragon)   |   [Golden Wheel](/special-monsters/invasions/golden-dragon)    |     [Death Bone](/special-monsters/invasions/death-king)      |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: | :-----------------------------------------------------------: |
-|       ![Golden Soldier](/img/monsters/special/golden/soldier.jpg)        |   ![Golden Vepar](/img/monsters/special/golden/vepar.jpg)    | ![Golden Wheel](/img/monsters/special/golden/golden-wheel.jpg) | ![Death Bone](/img/monsters/special/invasions/death-bone.jpg) |
-|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |     [Hero Mutant](/special-monsters/others/hero-mutant)      |         [Axl Hero](/special-monsters/others/axl-hero)          |                                                               |
-| ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg) |     ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)     |                                                               |
+|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |     [Hero Mutant](/special-monsters/others/hero-mutant)      |         [Axl Hero](/special-monsters/others/axl-hero)          |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: |
+| ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg) |     ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)     |
+
+Another way to obtain the **Red Ribbon Box** is to win in one of the following Events:
+
+- [Yoskreth Lottery](/events/others/yoskreth-lottery)
+- [Yoskreth Drop](/events/others/yoskreth-drop)
+- [Race Event](/events/others/race)
+- [Massacre Event](/events/others/massacre)

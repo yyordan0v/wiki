@@ -21,3 +21,9 @@ _Karutan_
 | ![Venomous Chain Scorpion](/img/monsters/karutan/venomous-chain-scorpion.jpg) | ![Bone Scorpion](/img/monsters/karutan/bone-scorpion.jpg) |  ![Orcus](/img/monsters/karutan/orcus.jpg)  |   ![Gollock](/img/monsters/karutan/gollock.jpg)   |
 |                                    Crypta                                     |                          Crypos                           |                   Condra                    |                     Narcondra                     |
 |                  ![Crypta](/img/monsters/karutan/crypta.jpg)                  |        ![Crypos](/img/monsters/karutan/crypos.jpg)        | ![Condra](/img/monsters/karutan/condra.jpg) | ![Narcondra](/img/monsters/karutan/narcondra.jpg) |
+
+### Boss
+
+|     [Minotaur](/special-monsters/bosses/minotaur)      |
+| :----------------------------------------------------: |
+| ![Minotaur](/img/monsters/special/bosses/minotaur.jpg) |

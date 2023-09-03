@@ -10,7 +10,7 @@ With anticipation and trepidation, adventurers brace themselves for the ultimate
 
 :::info
 
-The **Nightmare** can only be defeated by participating in the [Crywolf Event](/events/crywolf).
+The **Balgass** can only be defeated by participating in the [Crywolf Event](/events/crywolf).
 
 :::
 

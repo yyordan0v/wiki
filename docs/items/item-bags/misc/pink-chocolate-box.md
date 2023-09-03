@@ -24,6 +24,5 @@ The **Pink Chocolate Box** can drop one of the following items:
 
 In order to obtain a **Pink Chocolate Box** you need to win in one of the following events:
 
-- [Blood Castle 8](/events/blood-castle).
-- [Chaos Castle 1-6](/events/chaos-castle).
-- [Auction Event](/events/others/auction).
+- [Blood Castle 8](/events/blood-castle)
+- [Auction Event](/events/others/auction)

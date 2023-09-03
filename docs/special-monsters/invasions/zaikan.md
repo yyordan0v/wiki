@@ -26,9 +26,9 @@ You can find the **Zaikan** all across Tarkan.
 
 The subsequent table provides detailed information about the time and the quantity of the **Zaikan** attacks that occur throughout the day.
 
-| First Invasion time |  Frequency   |
-| :-----------------: | :----------: |
-|      01:40:00       | Every 2 hour |
+| First Invasion time |  Frequency   | Monster Count |
+| :-----------------: | :----------: | :-----------: |
+|      01:40:00       | Every 2 hour |       3       |
 
 :::info
 

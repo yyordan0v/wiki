@@ -25,23 +25,8 @@ You can learn on how to reach these monsters trough the [Kalima](/maps/kalima) a
 
 :::
 
-## Respawn Times
 
-The table below presents valuable insights regarding the frequency of the **Illusion of Kundun** respawns in **Lotus Mu**.
-
-|          Location          |   Time   | Frequency |
-| :------------------------: | :------: | :-------: |
-| [Kalima 1-6](/maps/kalima) | 17:50:00 | Every 24h |
-
-:::info
-
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
-
-Please take into account that the invasion timer is based on the server time.
-
-:::
-
-## Reward Details
+## Details
 
 ```mdx-code-block
 <Tabs lazy>
@@ -49,6 +34,10 @@ Please take into account that the invasion timer is based on the server time.
 ```
 
 When an **Illusion of Kundun** in **Kalima 1** is successfully defeated, players will be rewarded with a [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1).
+
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 1](/maps/kalima) | 2h after being killed |
 
 ![Box of Kundun +1](/img/items/item-bags/bok-1.png)
 
@@ -62,6 +51,10 @@ _Box of Kundun +1_
 
 When an **Illusion of Kundun** in **Kalima 2** is successfully defeated, players will be rewarded with a [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2).
 
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 2](/maps/kalima) | 3h after being killed |
+
 ![Box of Kundun +2](/img/items/item-bags/bok-2.png)
 
 _Box of Kundun +2_
@@ -73,6 +66,10 @@ _Box of Kundun +2_
 ```
 
 When an **Illusion of Kundun** in **Kalima 3** is successfully defeated, players will be rewarded with a [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3).
+
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 3](/maps/kalima) | 4h after being killed |
 
 ![Box of Kundun +3](/img/items/item-bags/bok-3.png)
 
@@ -86,6 +83,10 @@ _Box of Kundun +3_
 
 When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players will be rewarded with a [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4).
 
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 4](/maps/kalima) | 5h after being killed |
+
 ![Box of Kundun +4](/img/items/item-bags/bok-4.png)
 
 _Box of Kundun +4_
@@ -98,6 +99,10 @@ _Box of Kundun +4_
 
 When an **Illusion of Kundun** in **Kalima 5** is successfully defeated, players will be rewarded with a [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5).
 
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 5](/maps/kalima) | 6h after being killed |
+
 ![Box of Kundun +5](/img/items/item-bags/bok-5.png)
 
 _Box of Kundun +5_
@@ -109,6 +114,10 @@ _Box of Kundun +5_
 ```
 
 When an **Illusion of Kundun** in **Kalima 6** is successfully defeated, players will be rewarded with a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
+
+|         Location         |       Frequency       |
+| :----------------------: | :-------------------: |
+| [Kalima 6](/maps/kalima) | 7h after being killed |
 
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
