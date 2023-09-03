@@ -32,6 +32,7 @@ Please take into account that the invasion timer is based on the server time.
 ## Invasion Details
 
 ```mdx-code-block
+<Tabs lazy>
   <TabItem value="golden-knight" label="Golden Knight">
 ```
 
@@ -60,7 +61,6 @@ By slaying that creature a player will be rewarded a [Red Chaos Box](/items/item
 _Red Chaos Box_
 
 ```mdx-code-block
-<Tabs lazy>
   </TabItem>
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
 ```
@@ -119,7 +119,6 @@ When the **Golden Great Dragon** dies, he drops the legendary [Blue Ribbon Box](
 _Blue Ribbon Box_
 
 ```mdx-code-block
-
   </TabItem>
 </Tabs>
 ```
