@@ -8,13 +8,13 @@ The **Silver Box** bestows upon the player who obtains it a **top-tier ancient**
 
 In this article you can find information about the items that can be obtained from the **Silver Box** and where to find it.
 
-![Silver Box](/img/items/item-bags/gold-medal.png)
+![Silver Box](/img/items/item-bags/silver-box.png)
 
 _Silver Box_
 
 ## Item Drops
 
-The **Silver Medal** can drop the one of following items:
+The **Silver Box** can drop the one of following items:
 
 ### Armor items
 
