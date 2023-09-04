@@ -56,27 +56,3 @@ _Mu Helper Settings_
 To initiate the **Mu Helper** functionality, simply click the `yellow play button`.
 
 Make sure you have saved your settings before starting the **Mu Helper**.
-
-## Off Helper
-
-You also have the flexibility to **close** the Lotus Mu Client while your hero continues to hunt and collect items on your behalf.
-
-To accomplish this, you need to configure your **Mu Helper** settings and then click the `OFF HELPER` button.
-
-By clicking the `OFF HELPER` button, you will be **instantly disconnected** from the game, but your hero **will remain active** within the game world, faithfully executing the configured settings for hunting and item acquisition.
-
-## Mu Helper Tax
-
-While functioning, **Mu Helper** consumes a nominal amount of **Zen**.
-
-During the active operation of **Mu Helper**, the consumption of **Zen** varies over time, depending on the current **stage** you are in.
-
-The following table provides comprehensive details about the initiation of each stage and the corresponding **Zen** cost associated with it.
-
-| Stage | Duration |     Cost      |
-| :---: | :------: | :-----------: |
-| **1** |  1 hour  | 5,000,000 Zen |
-| **2** |  1 hour  | 5,000,000 Zen |
-| **3** |  1 hour  | 5,000,000 Zen |
-| **4** |  1 hour  | 5,000,000 Zen |
-| **5** |  1 hour  | 5,000,000 Zen |

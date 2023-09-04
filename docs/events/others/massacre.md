@@ -62,3 +62,11 @@ _Masscre Event_
 Prepare for an adrenaline-pumping battle and demonstrate your combat prowess in the **Massacre Event**. Engage in relentless combat, secure kills, and earn points to emerge as the ultimate victor in this high-stakes PvP showdown. Will you be able to master the chaos and claim victory in the arena?
 
 ## Reward
+
+Players will be rewarded depending on their final placement as follows:
+
+| Rank | Reward                                                       |
+| ---- | ------------------------------------------------------------ |
+| 1.   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |
+| 2.   | [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box) |
+| 3.   | [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)       |

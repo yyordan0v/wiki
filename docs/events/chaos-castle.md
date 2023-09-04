@@ -46,6 +46,7 @@ _Armor of Guardsman_
   |   Chaos Castle 4   |      180 - 239       |
   |   Chaos Castle 5   |      240 - 299       |
   |   Chaos Castle 6   |      300 - 400       |
+  |   Chaos Castle 7   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
@@ -57,11 +58,11 @@ _Armor of Guardsman_
   |   Chaos Castle 4   |      160 - 219       |
   |   Chaos Castle 5   |      220 - 279       |
   |   Chaos Castle 6   |      280 - 400       |
+  |   Chaos Castle 7   | 3rd Quest Completed  |
 
 ## Chaos Castle Rules
 
 - Characters **cannot** cast any Buff Skill **onto another player**, during the **Chaos Castle**.
-- Mounts **cannot** be used in the **Chaos Castle** map.
 - Transformation Rings cannot be used in the **Chaos Castle** map.
 - Any character in a Party cannot enter the **Chaos Castle** map.
 - Any character with a PK Status cannot enter the **Chaos Castle** map.
@@ -71,8 +72,6 @@ _Armor of Guardsman_
 - Other adjustments:
   - Character Commands are disabled.
   - The Chat Box is disabled once the **Chaos Castle** starts.
-  - Town Portal Scroll warps characters to [Devias](/maps/devias).
-  - Upon death characters are moved to [Devias](/maps/devias).
 
 ## Game-play
 
@@ -115,22 +114,18 @@ Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of th
 
 :::
 
-If more than one character remains after the timer reaches 00:00, the winner is determined by the amount of Event Points earned (Monster killed: +2 Event Points; Character killed: +1 Event Points).
-
 ## Reward
 
 For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the table below.
 
-| Chaos Castle Level |                             Item                              | Event Points |
-| :----------------: | :-----------------------------------------------------------: | :----------: |
-|   Chaos Castle 1   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |     5 EP     |
-|   Chaos Castle 2   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |     5 EP     |
-|   Chaos Castle 3   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    10 EP     |
-|   Chaos Castle 4   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    15 EP     |
-|   Chaos Castle 5   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    20 EP     |
-|   Chaos Castle 6   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    30 EP     |
-|   Chaos Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    60 EP     |
+| Chaos Castle Level |         Items         | Event Points |
+| :----------------: | :-------------------: | :----------: |
+|   Chaos Castle 1   | ANCIENT SET : bla bla |     5 EP     |
+|   Chaos Castle 2   | ANCIENT SET : bla bla |     5 EP     |
+|   Chaos Castle 3   | ANCIENT SET : bla bla |    10 EP     |
+|   Chaos Castle 4   | ANCIENT SET : bla bla |    15 EP     |
+|   Chaos Castle 5   | ANCIENT SET : bla bla |    20 EP     |
+|   Chaos Castle 6   | ANCIENT SET : bla bla |    30 EP     |
+|   Chaos Castle 7   | ANCIENT SET : bla bla |    60 EP     |
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
-
-_Pink Chocolate Box_
+## Monthly Reward

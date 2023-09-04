@@ -46,7 +46,8 @@ If you succeeded in putting an **Item Option** in your item, the pink options wi
 
 ### Helms
 
-- SD Recovery Rate increase +20 Defense Success Rate increase +10
+- SD Recovery Rate increase +20
+- Defense Success Rate increase +10
 
 ### Armors
 
@@ -72,6 +73,11 @@ If you succeeded in putting an **Item Option** in your item, the pink options wi
 
 - Additional Damage +200
 - Attack Success Rate increase +10
+
+### Shields
+
+- Max SD increase +700
+- SD Auto Recovery
 
 ## The Chaos Machine
 

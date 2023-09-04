@@ -43,3 +43,8 @@ To obtain the **Blue Chocolate Box**, adventurers must complete [quests](/gamepl
 |     [Minotaur](/special-monsters/bosses/minotaur)      |     [Erohim](/special-monsters/bosses/erohim)      |
 | :----------------------------------------------------: | :------------------------------------------------: |
 | ![Minotaur](/img/monsters/special/bosses/minotaur.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) |
+
+You can also obtain a **Blue Chocolate Box** by winning in the following events:
+
+- [My Mayhem](/events/combat-events/mayhem)
+- [Specialists' Combat](/events/combat-events/specialists-combat)

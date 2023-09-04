@@ -64,6 +64,6 @@ Keep on mind that **Secondary Quest** will be only **1** and will be available o
 
 ## Quest Pavilion
 
-Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion): a rewarding feature in **Lotus Mu** that recognizes your quest achievements by granting **`stars`**
+Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion) - a rewarding feature in **Lotus Mu** that recognizes your quest achievements by granting **`stars`**
 
 These **stars** can be exchanged for valuable rewards, enhancing your gameplay experience. Dive into **quests**, earn **stars**, and unlock exciting possibilities in the [Quest Pavilion](/gameplay-systems/quest-pavilion).

@@ -24,8 +24,8 @@ _Captain Lorence_
 
 However, certain requirements need to be met:
 
-- The guild master must have a minimum level of 100.
-- The guild name should consist of at least 4 letters and should not include any symbols.
+- The guild master must have a minimum **level of 100**.
+- The guild name should consist of at least **4 letters** and should not include any symbols.
 
 :::tip
 
@@ -60,13 +60,17 @@ To leave a guild, one can press the "G" key to open the guild interface and navi
 
 Similarly, to disband a guild, pressing the "G" key opens the guild interface, and selecting the "Guild" tab is the next step. At the bottom of the "Guild" tab, there is an option to choose "Disband," which will commence the process of dissolving the guild.
 
-## Guild's Alliance 
+## Guild's Alliance
+
+:::caution
 
 The option for guild alliances is not available in Lotus Mu.
 
+:::
+
 ## Guild's Hostility
 
-Guilds have the ability to declare **hostility** towards other guilds in **Lotus Mu**. Once this feature is enabled, all members of the opposing guild will be visually marked as **flagged for PK** (Player Killing), allowing attacks and kills on them **without** incurring any penalties. The names of hostile guilds will appear in **red** on your screen, similar to the appearance of outlaws. 
+Guilds have the ability to declare **hostility** towards other guilds in **Lotus Mu**. Once this feature is enabled, all members of the opposing guild will be visually marked as **flagged for PK** (Player Killing), allowing attacks and kills on them **without** incurring any penalties. The names of hostile guilds will appear in **red** on your screen, similar to the appearance of outlaws.
 
 :::tip
 
@@ -80,13 +84,4 @@ Engaging and defeating members of hostile guilds **will not** result in you bein
 
 Guild Masters in **Lotus Mu** have the authority to initiate guild duels by using the command "**/war**" followed by the name of the target guild. Once the challenged guild accepts the duel, members from both guilds can engage in immediate combat against each other.
 
-If your guild is challenged to a duel by another guild master, a notification screen will appear. If you prefer not to participate in the duel, you can reject the proposal by selecting "Cancel". It is possible to receive multiple guild duel challenges while playing the game. In such cases, you can block incoming requests by enabling the "Request Off" option. Enabling "Request Off" will block all trade, party play, and guild duel requests. 
-
-### Guild's Battle Soccer
-
-Guilds have an additional option to resolve conflicts through a **battle soccer** challenge using the command "/soccer" followed by the name of the target guild. This game allows guilds to form parties consisting of 1-5 members on each team and compete on a field, aiming to score points and defeat the opposing team. Points can be earned by either eliminating the other team's players or by successfully scoring goals.
-
-- Each goal scored is worth **20** points
-- Eliminating an opposing player grants **1** point
-
-The first team to reach **100 points** emerges as the winner of the battle soccer challenge.
+If your guild is challenged to a duel by another guild master, a notification screen will appear. If you prefer not to participate in the duel, you can reject the proposal by selecting "Cancel". It is possible to receive multiple guild duel challenges while playing the game. In such cases, you can block incoming requests by enabling the "Request Off" option. Enabling "Request Off" will block all trade, party play, and guild duel requests.

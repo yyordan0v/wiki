@@ -31,7 +31,7 @@ The entrance - the **Gateway Machine** is located in the [Kanturu Ruins](/maps/k
 
 _Gateway Machine_
 
-The **Moonstone Pendant** (actually equipped in the **RING** section) can be found in the [Kanturu Ruins](/maps/kanturu-ruins) by slaying monsters there (you cannot trade the item but can drop it).
+The **Moonstone Pendant** (actually equipped in the **RING** section) can be found in the [Kanturu Relics](/maps/kanturu-relics) by slaying monsters there (you cannot trade the item but can drop it).
 
 ![Moonstone Pendant](/img/items/rings-pendants/moonstone-ring.png)
 
@@ -77,15 +77,13 @@ Upon the triumphant overthrow of [Maya](/special-monsters/event-exclusive/maya-h
 
 Within a **20-minute timeframe**, players are tasked with eliminating [Nightmare](/special-monsters/bosses/nightmare), who will summon waves of monsters thrice during the encounter and subsequently withdraw.
 
-Prior to defeating [Nightmare](/special-monsters/bosses/nightmare), participants are obliged to vanquish all of the spawned adversaries.
-
 ![Nightmare](/img/monsters/special/bosses/nightmare.jpg)
 
 _Nightmare_
 
 ## Refining Tower
 
-The **Refining Tower** becomes accessible for a duration of **23 hours** upon players' **successful** conquest of [Nightmare](/special-monsters/bosses/nightmare), allowing entry without the need for a moonstone pendant.
+The **Refining Tower** becomes accessible for a duration of **23 hours** upon players' **successful** conquest of [Nightmare](/special-monsters/bosses/nightmare), allowing entry without the need for a **Moonstone Pendant**.
 
 This availability extends to **any character** present in the server.
 

@@ -34,3 +34,4 @@ Another way to obtain the **Red Chocolate Box** is to win in one of the followin
 - [Pursuit Event](/events/others/pursuit)
 - [Russian Roulette](/events/others/russian-roulette)
 - [Massacre Event](/events/others/massacre)
+- [Yoskreth Drop](/events/others/yoskreth-drop)

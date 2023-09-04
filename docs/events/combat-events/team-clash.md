@@ -22,6 +22,12 @@ The objective of the event is to engage in fierce battles against members of the
 
 The event duration is set for **10 minutes**, during which players must strive to accumulate as many points as possible.
 
+A Minimum of **2 Players** are required for the event to commence.
+
+A Maximum of **20 Players** can participate in one instance of the **Team Clash Event**.
+
+- Required Level[Resets] - **300[35]**.
+
 :::
 
 ## How to Participate
@@ -34,15 +40,15 @@ Here's how to get involved:
 
 2. **Acquire the Team Clash Ticket**: Players interested in joining the event need to acquire the **Team Clash Ticket**. This ticket can be obtained from **Silvia** in [Yoskreth](/maps/yoskreth), ensuring every player has equal access to participate.
 
-    ![Team Clash Ticket](/img/items/invitations/team-clash-ticket.png)
+   ![Team Clash Ticket](/img/items/invitations/team-clash-ticket.png)
 
-    _Team Clash Ticket_
+   _Team Clash Ticket_
 
 3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** in [Yoskreth](/maps/yoskreth) to officially join the event.
 
-    ![Freyr Rygax](/img/npc/freyr-rygax.jpg)
+   ![Freyr Rygax](/img/npc/freyr-rygax.jpg)
 
-    _Freyr Rygax_
+   _Freyr Rygax_
 
 4. **Waiting Room**: After joining, participants will be instantly transported to a **waiting room**. This brief **1-minute** period allows players to gather and prepare for the impending clash.
 
@@ -58,12 +64,12 @@ The outcome of the **Team Clash** Event is determined by the **accumulated point
 
 **Each player** on the **winning team** will receive the following well-deserved **reward** for their contribution:
 
-- **50 Event Points (EP)**;
-- **[Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)**;
+- **50 Event Points (EP)**
+- **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
 
-    ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
+  ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-    _Lilac Candy Box_
+  _Purple Chaos Box_
 
 :::
 

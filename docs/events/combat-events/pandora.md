@@ -26,6 +26,8 @@ The essence of the **Pandora** Event revolves around the concept of being **curs
 
 The player who **holds the curse** at the event's conclusion will be declared the **winner**.
 
+The duration of the **Pandora event** is **5 minutes**.
+
 :::
 
 ## The Dance of Deception
@@ -64,8 +66,8 @@ The winner in the event will receive the following as a reward:
 - **60 Event Points (EP)**;
 - **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
-    ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+  ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-    _Purple Chaos Box_
+  _Purple Chaos Box_
 
 :::

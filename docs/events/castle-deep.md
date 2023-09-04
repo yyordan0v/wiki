@@ -22,7 +22,7 @@ You need to move your character in [Valley of Loren](/maps/valley-of-loren) and 
 
 _Castle Deep_
 
-Once all adversaries have been vanquished, [Erohim](/special-monsters/bosses/erohim) will materialize onto the battlefield.
+In the final minutes of the **Castle Deep Event** [Erohim](/special-monsters/bosses/erohim) will materialize onto the battlefield.
 
 ![Erohim](/img/monsters/special/bosses/erohim.jpg)
 

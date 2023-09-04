@@ -46,6 +46,7 @@ Detailed information on the crafting process you can find in the [Scroll of Bloo
   |   Illusion Temple 3   |      321 - 350       |
   |   Illusion Temple 4   |      351 - 380       |
   |   Illusion Temple 5   |      381 - 400       |
+  |   Illusion Temple 6   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
@@ -56,13 +57,12 @@ Detailed information on the crafting process you can find in the [Scroll of Bloo
   |   Illusion Temple 3   |      321 - 350       |
   |   Illusion Temple 4   |      351 - 380       |
   |   Illusion Temple 5   |      381 - 400       |
+  |   Illusion Temple 6   | 3rd Quest Completed  |
 
 ## Illusion Temple Rules
 
-- You must be in a Party to enter the **Illusion Temple** map.
-- A minimum of **5** Party Members must be in the Party in order to enter the **Illusion Temple** map.
-- A minimum of **2** Parties must enter, or it will not start.
-- A maximum of **2** Parties can join in a single instance.
+- A minimum of **2** Players must enter, or it will not start.
+- A maximum of **10** Players can join in a single instance.
 - Any character with a **PK Status** cannot enter the **Illusion Temple** map.
 - Combat adjustments:
   - PVP is allowed, once the Event starts.
@@ -135,17 +135,23 @@ Players can kill each other or kill monster during the **Illusion Temple Event**
 
 The following table is a comprehensive breakdown of the available **special skills** during the **Illusion Temple**.
 
-| Skill Name             | Cost                  | Function                         |
-| ---------------------- | --------------------- | -------------------------------- |
-| **Magic Shield Order** | Kill Points (**x5**)  | Prevents 100% of DMG for 15 sec. |
-| **Resistance Order**   | Kill Points (**x5**)  | Immobilize the enemy for 15 sec. |
-| **Freeze Time**        | Kill Points (**x5**)  | Damages 50% of target's SD       |
-| **Tracking Order**     | Kill Points (**x10**) | Teleports the player to the ball |
+| Skill Name               | Cost                  | Function                         |
+| ------------------------ | --------------------- | -------------------------------- |
+| **Spell of Protection**  | Kill Points (**x5**)  | Prevents 100% of DMG for 15 sec. |
+| **Spell of Restriction** | Kill Points (**x5**)  | Immobilize the enemy for 15 sec. |
+| **Shield Burn**          | Kill Points (**x5**)  | Damages 50% of target's SD       |
+| **Spell of Pursuit**     | Kill Points (**x10**) | Teleports the player to the ball |
+
+:::tip
+
+To use a skill select the desired skill from the HUD and press `SHIFT` + `Right Click` a target (monster or player).
+
+:::
 
 **Kill Points** are earned by:
 
 - **Player Kill**: Kill Points (**x5**)
-- **Monster Kill**: Kill Points (**x1**)
+- **Monster Kill**: Kill Points (**x2**)
 
 ### How to Win
 
@@ -158,6 +164,12 @@ The team which is able to return the ball **seven** times first will **win** the
 - **Returning Ball**: Game Point (x1).
 
 - **Game Points to win the event**: Earn **7 Game Points** to win.
+
+:::
+
+:::caution
+
+If both team have **equal Game Points** when the time expires the **Illusion Temple** will fail and no one will receive a reward.
 
 :::
 

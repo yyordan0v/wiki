@@ -64,6 +64,14 @@ To take part in the Specialists' Combat Event, follow these steps:
 
 6. Win rounds, claim rewards, and strive for the prestigious title of the event's **final winner**.
 
+:::caution
+
+- A Minimum of **2 Players** are required for the event to commence.
+- A Maximum of **200 Players** can participate in one instance of the **Specialists' Combat Event**.
+- Required Level[Resets] - **300[35]**.
+
+:::
+
 The **Specialists' Combat** Event is a thrilling opportunity to demonstrate your **individual combat prowess**, earn rewards, and stand out as a skilled fighter in the realm of **Lotus Mu**.
 
 Don't miss out on this chance to prove your mettle and compete against the **best warriors** from various classes!

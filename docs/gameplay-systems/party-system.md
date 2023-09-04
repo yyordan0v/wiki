@@ -11,9 +11,8 @@ A **Party** refers to a compact gathering of players who unite their efforts to 
 - Party Members also share **item drops**.
 - Any two players can join a Party together via **Character Command**.
 - The player that sends the initial Party Request will become the **Party Leader**.
-- To join an existing Party, only the Party Leader can send or accept a **Party Request**.
+- To join an existing Party, only the Party Leader can accept a **Party Request**.
 - If a Party Member **disconnects** from the game, the character will remain in the Party.
-- If the Party Leader disconnects from the game, the Party will be **"inactive"** until the Party Leader reconnects to the game.
 
 ## Party Window
 
@@ -27,23 +26,24 @@ A **Party** refers to a compact gathering of players who unite their efforts to 
 
 EXP sharing within the Party is based on the Character Level of each member, following a specific ratio. The calculation of shared EXP takes into account the Base EXP obtained by the Party Member who has the highest Character Level.
 
-EXP Share Example:
-
-- Example 1
-- Example 2
-
 ## Party EXP Bonus
 
 While actively participating in a Party, characters can receive a **Party EXP Bonus**. The bonus amount increases as **more** characters join the Party!
 
 The Party Bonus EXP gained is determined based on the personal Base EXP of each character.
 
-There are two types of Party Bonuses: the General Party Bonus, which is obtained when any combination of Character Classes are in a party, and the Character Set Party Bonus, which is acquired when a specific combination of Character Classes are present in a party.
+There are two types of Party Bonuses: the **General Party Bonus**, which is obtained when **any combination** of Character Classes are in a party, and the **Character Set Party Bonus**, which is acquired when a **specific combination** of Character Classes are present in a party.
 
 |     Party Bonus     | Two Members | Three Members | Four Members | Five Members |
 | :-----------------: | :---------: | :-----------: | :----------: | :----------: |
-|    General Party    |   +2% EXP   |    +3% EXP    |   +4% EXP    |   +5% EXP    |
-| Character Set Party |   +2% EXP   |    +5% EXP    |   +6% EXP    |   +7% EXP    |
+|    General Party    |  -25% EXP   |   -20% EXP    |   -15% EXP   |   -10% EXP   |
+| Character Set Party |  -25% EXP   |   +10% EXP    |   +15% EXP   |   +20% EXP   |
+
+:::tip
+
+To form a **Character Set Party**, your party must consist from **at least** three different classes.
+
+:::
 
 ## Search Party
 
@@ -57,7 +57,7 @@ You can find more information on how utilize this feature in the [Search Party](
 
 ## Set Party
 
-You also have the possibility to create a **password-protected party** which you can share with your fellow players so they can **join the party anytime** by just typing the password, **without the need** of your confirmation.
+You also have the possibility to create a **password-protected party** which you can share with your fellow players so they can **join the party anytime, anywhere** by just typing the password, **without the need** of your confirmation.
 
 :::tip
 

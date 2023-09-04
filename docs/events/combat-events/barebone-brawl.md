@@ -32,6 +32,14 @@ After obtaining the ticket, you can proceed by interacting with **Jaq Le'quet** 
 
 _Jaq Le'quet_
 
+:::tip
+
+A Minimum of **2 Players** are required for the event to commence.
+
+A Maximum of **20 Players** can participate in one instance of the **Barebone Brawl**.
+
+:::
+
 ## Event Mechanics and Gameplay
 
 Once the **Barebone Brawl** Event begins, players will find themselves **stripped of their equipment**, revealing their raw combat prowess. But fear not, for you will be **granted 20,000 level up points** that you can distribute to bolster your character's attributes according to your preferred playstyle. This unique customization allows for a personalized approach to the battle, ensuring that each participant brings their own strategy to the arena.
@@ -62,7 +70,7 @@ Step into the arena, distribute your level up points wisely, seize valuable item
 
 Only the **last survivor** will claim **victory**!
 
-He will receive **200 Event Points (EP)** as a reward.
+He will receive **300 Event Points (EP)** as a reward.
 
 :::
 

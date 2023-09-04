@@ -83,10 +83,38 @@ _Doppelganger Interface_
 
 ## The Finale and Rewards
 
-**Successfully** kill all three waves of monsters and their **boss counterparts** to unlock the ultimate reward — the **Golden Chest**. This chest holds coveted rewards, and its contents are yours for the taking once you emerge victorious from the **Doppelganger** Event.
+**Successfully** kill all three waves of monsters and their [Boss counterparts](/category/doppelganger) to unlock rewards — the **Silver and Golden Chests**.
 
-> PLACE IMAGE (GOLDEN CHEST)
+> PLACE IMAGE (GOLDEN SILVER CHEST)
 
-> REWARDS LIST
+### First Wave
+
+After killing successfully the [Slaughterer](/special-monsters/event-exclusive/doppelganger/slaughterer) a **Silver Chest** will appear with its rewards.
+
+![Slaughterer](/img/monsters/special/others/slaughterer.jpg)
+
+_Slaughterer_
+
+### Second Wave
+
+After killing successfully the [Furious Slaughterer](/special-monsters/event-exclusive/doppelganger/furious-slaughterer) a **Silver Chest** will appear with its rewards.
+
+![Furious Slaughterer](/img/monsters/special/others/furious-slaughterer.jpg)
+
+_Furious Slaughterer_
+
+### Third Wave
+
+The third and final wave will have the [Ice Walker](/special-monsters/event-exclusive/doppelganger/ice-walker).
+
+![Ice Walker](/img/monsters/special/others/ice-walker.jpg)
+
+_Ice Walker_
+
+:::info
+
+After successfuly completing the **Doppelganger** a **Golden Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
+
+:::
 
 Prepare to engage in an exhilarating test of skill and coordination as you defend against relentless waves of monsters. The **Doppelganger** Event is not only a chance to showcase your **combat prowess** but also a platform to demonstrate the **power of teamwork** in the realm of **Lotus Mu**.

@@ -40,3 +40,4 @@ You can also obtain a **Purple Chaos Box** by winning in one of the following ev
 - [Pandora Event](/events/combat-events/pandora)
 - [Illusion Temple 6](/events/illusion-temple)
 - [Mayhem](/events/combat-events/mayhem)
+- [Team Clash](/events/combat-events/team-clash)

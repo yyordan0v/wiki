@@ -45,3 +45,9 @@ It's a test of wits, reflexes, and cunning strategy, where every decision can me
 Experience the thrill of the **Pursuit Event** in Lotus Mu, where your ability to flee or outpace the pursuing GM determines your success. Stay sharp, strategize on your feet, and aim to be the ultimate survivor in this heart-pounding challenge.
 
 ## Reward
+
+The winner will be granted with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box/).
+
+![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+
+_Red Chocolate Box_

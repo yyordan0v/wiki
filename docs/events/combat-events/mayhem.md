@@ -24,6 +24,12 @@ To participate in the Mayhem, simply enter the command: **`/mayhem`**.
 
 :::
 
+## Requirements
+
+- A Minimum of **2 Players** are required for the event to commence.
+- A Maximum of **50 Players** can participate in one instance of **Mayhem**.
+- Required Level[Resets] - **300[35]**.
+
 ## The Mayhem Format
 
 In the **Mayhem**, players enter a furious **free-for-all showdown**, where the goal is simple: **gain as many points as possible** within a **5-minute** time frame.

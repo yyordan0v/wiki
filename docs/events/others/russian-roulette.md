@@ -55,3 +55,9 @@ As the interactions continue and shots are fired, only the **luckiest player** w
 Participate in the **Russian Roulette** Event in Lotus Mu for a heart-pounding thrill that combines daring, luck, and strategy. Will you be the last player left standing, or will fate test your luck in this exhilarating showdown?
 
 ## Reward
+
+The winner will be granted with a [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box/).
+
+![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
+
+_Lilac Candy Box_

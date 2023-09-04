@@ -14,7 +14,7 @@ The event's regular occurrence ensures that players have multiple chances throug
 
 ## How the Event Works
 
-During the **Quiz Event**, a total of **10 questions** will be asked through the global system notice. Each question will be displayed for **1 minute**, giving players a brief window to submit their answers.
+During the **Quiz Event**, a total of **3 questions** will be asked through the global system notice. Each question will be displayed for **1 minute**, giving players a brief window to submit their answers.
 
 :::tip
 
@@ -34,7 +34,7 @@ The player who answers the question correctly **first** will be declared the **w
 
 :::info
 
-The **winner** will receive a reward of **5 Event Points** as recognition for their knowledge and participation.
+The **winner** will receive a reward of **10 Event Points** as recognition for their knowledge and participation.
 
 :::
 
