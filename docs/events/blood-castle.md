@@ -12,7 +12,7 @@ Risk your life to **Save the Archangel**. One of the strongest warriors in **Lot
 
 - You must craft an [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in order to enter Blood Castle.
 - [Invisibility Cloak](/crafting/invitations/invisibility-cloak) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
+- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Yorskreth](/maps/yoskreth).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
 |                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Invisibility Cloak](/crafting/invitations/invisibility-cloak)    |

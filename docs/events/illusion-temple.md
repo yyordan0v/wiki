@@ -20,7 +20,7 @@ The players will be granted [special skills](/events/illusion-temple#kill-points
 
 - You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
 - [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
-- The crafting ingredients can be purchased via ~~TBD~~.
+- The crafting ingredients can be purchased in [Yoskreth](/maps/yoskreth).
 - You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
 |                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |

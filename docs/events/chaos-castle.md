@@ -118,14 +118,14 @@ Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of th
 
 For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the table below.
 
-| Chaos Castle Level |         Items         | Event Points |
-| :----------------: | :-------------------: | :----------: |
-|   Chaos Castle 1   | ANCIENT SET : bla bla |     5 EP     |
-|   Chaos Castle 2   | ANCIENT SET : bla bla |     5 EP     |
-|   Chaos Castle 3   | ANCIENT SET : bla bla |    10 EP     |
-|   Chaos Castle 4   | ANCIENT SET : bla bla |    15 EP     |
-|   Chaos Castle 5   | ANCIENT SET : bla bla |    20 EP     |
-|   Chaos Castle 6   | ANCIENT SET : bla bla |    30 EP     |
-|   Chaos Castle 7   | ANCIENT SET : bla bla |    60 EP     |
+| Chaos Castle Level |                                                                                                                                  Items                                                                                                                                   | Event Points |
+| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+|   Chaos Castle 1   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
+|   Chaos Castle 2   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
+|   Chaos Castle 3   |                                                                [Bronze](/items/ancient-items#hyperion-bronze-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                |    10 EP     |
+|   Chaos Castle 4   |                                                                  [Scale](/items/ancient-items#eplate-scale-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                  |    15 EP     |
+|   Chaos Castle 5   |                                                               [Brass](/items/ancient-items#garuda-brass-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Wind](/items/ancient-items#odin-wind-set)                                                                |    20 EP     |
+|   Chaos Castle 6   |                                                             [Plate](/items/ancient-items#kantata-plate-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Spirit](/items/ancient-items#argo-spirit-set)                                                             |    30 EP     |
+|   Chaos Castle 7   | [Dragon](/items/ancient-items#hyon-dragon-set), [Legendary](/items/ancient-items#hyon-dragon-set), [Guardian](/items/ancient-items#gywen-guardian-set), [Storm Crow](/items/ancient-items#gaion-storm-crow-set), [Adamantine](/items/ancient-items#agnis-adamantine-set) |    60 EP     |
 
 ## Monthly Reward
