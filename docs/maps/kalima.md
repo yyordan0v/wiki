@@ -34,7 +34,7 @@ _Symbol of Kundun_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Kalima** lies in the potential to acquire [Ancient Item](/items/ancient-items) drops from them.
+The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
 
 :::
 
