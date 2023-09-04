@@ -116,10 +116,12 @@ Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of th
 
 ## Reward
 
+By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/items/ancient-items). The **strength** of the items you receive in **Chaos Castle** depends on **which instance** of the event you are participating in.
+
 For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the table below.
 
 | Chaos Castle Level |                                                                                                                                  Items                                                                                                                                   | Event Points |
-| :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
 |   Chaos Castle 1   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
 |   Chaos Castle 2   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
 |   Chaos Castle 3   |                                                                [Bronze](/items/ancient-items#hyperion-bronze-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                |    10 EP     |
