@@ -131,3 +131,20 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 |   Chaos Castle 7   | [Dragon](/items/ancient-items#hyon-dragon-set), [Legendary](/items/ancient-items#hyon-dragon-set), [Guardian](/items/ancient-items#gywen-guardian-set), [Storm Crow](/items/ancient-items#gaion-storm-crow-set), [Adamantine](/items/ancient-items#agnis-adamantine-set) |    60 EP     |
 
 ## Monthly Reward
+
+For our **most dedicated** players, we have the **Monthly Rewards System**.
+
+At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+
+The **Top 15** Player will be rewarded as follows:
+
+- The player ranked **1st** will receive **40 Coins**
+- The player ranked **2nd** will receive **38 Coins**
+- The player ranked **3rd** will receive **36 Coins**
+- And so on ...
+
+:::tip
+
+This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+
+:::

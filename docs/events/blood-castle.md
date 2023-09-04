@@ -142,3 +142,20 @@ Blood Castle can be held as part of a **party**, in which case **all of its memb
 :::
 
 ## Monthly Reward
+
+For our **most dedicated** players, we have the **Monthly Rewards System**.
+
+At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+
+The **Top 15** Player will be rewarded as follows:
+
+- The player ranked **1st** will receive **40 Coins**
+- The player ranked **2nd** will receive **38 Coins**
+- The player ranked **3rd** will receive **36 Coins**
+- And so on ...
+
+:::tip
+
+This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+
+:::
