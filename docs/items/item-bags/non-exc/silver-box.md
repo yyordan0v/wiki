@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Silver Box
 
-The **Silver Box** bestows upon the player who obtains it a **top-tier ancient** item and can be acquired by defeating monsters on designated maps.
+The **Silver Box** bestows upon the player who obtains it a **top-tier** [Ancient Item](/items/ancient-items) and can be acquired by defeating monsters on designated maps.
 
 In this article you can find information about the items that can be obtained from the **Silver Box** and where to find it.
 
@@ -26,7 +26,7 @@ The **Silver Box** can drop the one of following items:
 
 :::note
 
-Please note that these items are **ancients**.
+Please note that these items are [ancients](/items/ancient-items).
 
 :::
 
