@@ -20,8 +20,18 @@ The players will be granted [special skills](/events/illusion-temple#kill-points
 
 - You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
 - [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
-- The crafting ingredients can be purchased via ~~TBD~~.
+- The crafting ingredients can be purchased in [Yoskreth](/maps/yoskreth).
 - You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
+
+:::tip
+
+For a **guaranteed** drop of the **Scroll of Blood Ingredients** you can kill the [Mine Driller](//special-monsters/others/mine-driller) in either [El'Harath](/maps/el-harath) or [Land of Trials](/maps/land-of-trials).
+
+![Mine Driller](/img/monsters/special/others/mine-driller.jpg)
+
+_Mine Driller_
+
+:::
 
 |                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
 | :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |

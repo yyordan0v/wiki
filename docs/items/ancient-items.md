@@ -29,9 +29,8 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 
 In order to obtain **Ancient Items**, adventurers must either:
 
-- Slay monsters in [Kalima](/maps/kalima);
-- Slay monsters in [Land of Trials](/maps/land-of-trials);
-- Triumph in the [Chaos Castle](/events/chaos-castle) Event.
+- Acquire a [Silver Box](/items/item-bags/non-exc/silver-box)
+- Triumph in the [Chaos Castle](/events/chaos-castle) Event
 
 ## Ancient Sets
 
@@ -85,27 +84,6 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Mist Bronze Pants  |                                              | Increase Skill damage +30 |
 | Mist Bronze Gloves |                                              | Double damage Chance +10% |
 
-#### Garuda Brass Set
-
-![Brass Set](/img/items/armors/dk/brass.png)
-
-| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
-| ---------------------- | ------------------------------------------------ | ---------------------------- |
-| Garuda Brass Armor     | **2 Parts Set option**: Increase Stamina +30     | Increase HP +50              |
-| Garuda Brass Pants     | **3 Parts Set option**: Double damage Chance +5% | Increase Skill damage +25    |
-| Garuda Brass Gloves    | **4 Parts Set option**: Increase Stamina +15     | Increase Wizardy damage +15% |
-| Garuda Brass Boots     |                                                  |                              |
-| Garuda Pendant of Fire |                                                  |                              |
-
-#### Cloud Brass Set
-
-![Brass Set](/img/items/armors/dk/brass.png)
-
-| Set Item Parts    | Full Set Bonus Options       |
-| ----------------- | ---------------------------- |
-| Cloud Brass Helm  | Critical damage Chance +20%  |
-| Cloud Brass Pants | Increase Critical damage +50 |
-
 #### Eplate Scale Set
 
 ![Scale Set](/img/items/armors/dk/scale.png)
@@ -129,6 +107,27 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Berserker Scale Pants  | **4 Parts Set option**: Increase Maximum damage +30 | Increase Strength +40       |
 | Berserker Scale Boots  |                                                     |                             |
 | Berserker Scale Gloves |                                                     |                             |
+
+#### Garuda Brass Set
+
+![Brass Set](/img/items/armors/dk/brass.png)
+
+| Set Item Parts         | Parts Set Options                                | Full Set Bonus Options       |
+| ---------------------- | ------------------------------------------------ | ---------------------------- |
+| Garuda Brass Armor     | **2 Parts Set option**: Increase Stamina +30     | Increase HP +50              |
+| Garuda Brass Pants     | **3 Parts Set option**: Double damage Chance +5% | Increase Skill damage +25    |
+| Garuda Brass Gloves    | **4 Parts Set option**: Increase Stamina +15     | Increase Wizardy damage +15% |
+| Garuda Brass Boots     |                                                  |                              |
+| Garuda Pendant of Fire |                                                  |                              |
+
+#### Cloud Brass Set
+
+![Brass Set](/img/items/armors/dk/brass.png)
+
+| Set Item Parts    | Full Set Bonus Options       |
+| ----------------- | ---------------------------- |
+| Cloud Brass Helm  | Critical damage Chance +20%  |
+| Cloud Brass Pants | Increase Critical damage +50 |
 
 #### Kantata Plate Set
 

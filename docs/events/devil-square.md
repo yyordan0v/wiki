@@ -14,8 +14,18 @@ With the [Devil Square Invitation](/crafting/invitations/devil-square-invitation
 
 - You must craft an [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to enter **Devil Square**.
 - [Devil Square Invitation](/crafting/invitations/devil-square-invitation) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops.
+- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops or in [Yoskreth](/maps/yoskreth).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
+
+:::tip
+
+For a **guaranteed** drop of the **Devil Square Invitiation Ingredients** you can kill the [Dead Showbell](//special-monsters/others/dead-showbell) in either [Ultoria](/maps/ultoria) or [Land of Trials](/maps/land-of-trials).
+
+![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
+
+_Dead Showbell_
+
+:::
 
 |                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |  [Devil Square Invitation](/crafting/invitations/devil-square-invitation)  |
 | :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
@@ -128,5 +138,24 @@ Furthermore, there is a **Zen reward** granted to the **top 10 players** in the 
 :::note
 
 **Devil Square** can be held as part of a **party**, but the **rewards** are individual.
+
+:::
+
+## Monthly Reward
+
+For our **most dedicated** players, we have the **Monthly Rewards System**.
+
+At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+
+The **Top 15** Player will be rewarded as follows:
+
+- The player ranked **1st** will receive **40 Coins**
+- The player ranked **2nd** will receive **38 Coins**
+- The player ranked **3rd** will receive **36 Coins**
+- And so on ...
+
+:::tip
+
+This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
 
 :::

@@ -12,8 +12,18 @@ Risk your life to **Save the Archangel**. One of the strongest warriors in **Lot
 
 - You must craft an [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in order to enter Blood Castle.
 - [Invisibility Cloak](/crafting/invitations/invisibility-cloak) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or from ~~MERCHANT~~ in Yorskreth.
+- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Yorskreth](/maps/yoskreth).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
+
+:::tip
+
+For a **guaranteed** drop of the **Invisibility Cloak Ingredients** you can kill the [Dead Digger](//special-monsters/others/dead-digger) in either [Icewrack](/maps/icewrack) or [Land of Trials](/maps/land-of-trials).
+
+![Dead Digger](/img/monsters/special/others/dead-digger.jpg)
+
+_Dead Digger_
+
+:::
 
 |                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Invisibility Cloak](/crafting/invitations/invisibility-cloak)    |
 | :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
@@ -142,3 +152,20 @@ Blood Castle can be held as part of a **party**, in which case **all of its memb
 :::
 
 ## Monthly Reward
+
+For our **most dedicated** players, we have the **Monthly Rewards System**.
+
+At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+
+The **Top 15** Player will be rewarded as follows:
+
+- The player ranked **1st** will receive **40 Coins**
+- The player ranked **2nd** will receive **38 Coins**
+- The player ranked **3rd** will receive **36 Coins**
+- And so on ...
+
+:::tip
+
+This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+
+:::
