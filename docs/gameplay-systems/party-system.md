@@ -39,7 +39,7 @@ There are two types of Party Bonuses: the **General Party Bonus**, which is obta
 |    General Party    | **-25%** EXP | **-20%** EXP  | **-15%** EXP | **-10%** EXP |
 | Character Set Party | **-25%** EXP | **+10%** EXP  | **+15%** EXP | **+20%** EXP |
 
-:::tip
+:::tip TIPP
 
 To form a **Character Set Party**, your party must consist from **at least** three different classes.
 
