@@ -6,19 +6,35 @@ sidebar_position: 26
 
 Reserved solely for the esteemed **VIP players** of **Lotus Mu**, the **VIP Arena** stands as a realm apart, offering an unmatched sanctuary of challenges and rewards. This privileged domain welcomes **VIP** adventurers with open arms, providing an expansive playground of monster spawns that cater to diverse strengths – from the feeble to the formidable.
 
-Beyond its battlefields, the **VIP Arena** unveils a **treasure** trove of convenience. An **exclusive shop** brimming with indispensable main quest items awaits, ensuring **VIP** players are fully equipped for their daring exploits. As blades clash and strategies unfold, victorious **VIPs** claim both the spoils of battle and the distinction of overcoming this exclusive challenge.
+:::note
 
-For **VIP players** seeking the pinnacle of adventure, the **VIP Arena** offers an exclusive haven where battles, triumphs, and rewards are reserved solely for the worthy few. Embark on this exceptional journey, and let the **VIP Arena** redefine your **Lotus Mu** experience.
+There are **2 VIP Arenas** available currently - **Arena** and **Arena 2**.
 
-![VIP Arena](/img/maps/vip-arena.jpg)
+:::
+
+![VIP Arena](/img/maps/arena-1.jpg)
+
+_VIP Arena_
+
+Beyond its battlefields, the **VIP Arena** unveils a **treasure** trove of convenience. An **exclusive shop** stocked with essential **main quest items** awaits, ensuring **VIP** players are fully equipped for their daring exploits.
+
+![VIP Arena](/img/maps/arena-shop.jpg)
+
+_VIP Arena Shop_
+
+For **VIP players** seeking the pinnacle of adventure, the **VIP Arena** offers an exclusive haven where battles, triumphs, and rewards are reserved solely for the worthy few.
+
+![VIP Arena](/img/maps/arena-2.jpg)
 
 _VIP Arena_
 
 :::info
 
-To move to the **VIP Arena** you need to type the following command:
+To move to the **VIP Arena** you need to type one of the following commands:
 
 **`/move vip`**
+
+**`/move vip1`**
 
 :::
 
