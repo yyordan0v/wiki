@@ -41,3 +41,4 @@ You can also obtain a **Purple Chaos Box** by winning in one of the following ev
 - [Illusion Temple 6](/events/illusion-temple)
 - [Mayhem](/events/combat-events/mayhem)
 - [Team Clash](/events/combat-events/team-clash)
+- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
