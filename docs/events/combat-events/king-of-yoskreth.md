@@ -10,7 +10,7 @@ The battleground for the **King of Yoskreth** event is none other than the capit
 
 ## How to Participate
 
-To take part in the Specialists' Combat Event, follow these steps:
+To take part in the King of Yoskreth Event, follow these steps:
 
 1. Stay vigilant for **system notices** indicating the commencement of the event.
 
@@ -71,11 +71,11 @@ During the event additional rankigs are being held:
 
 1. **Tomb Holder** - the character that "locks" the Tomb for the longest period during the event instance will be rewarded with: **100 Event Points (EP)**.
 
-2. **Event Points** - during the event instance the most active players will gain **Event Points**. Using those **Event Points** a individual ranking is being made.
+2. **Battle Points** - during the event instance the most active players will gain **Battle Points**. Using those **Battle Points** a individual ranking is being made.
 
 :::info
 
- The **Top 5** players ranked by their **Event Points** will receive the followings rewards:
+ The **Top 5** players ranked by their **Battle Points** will receive the followings rewards:
 
    - **Rank 1**: **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
 
