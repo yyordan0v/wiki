@@ -63,9 +63,8 @@ At **Lotus Mu**, we value our community and strive to foster a positive and incl
 
 Together, we can build a vibrant and supportive community that enhances the enjoyment of all players.
 
-- [Forums](https://forum.lotusmu.org)
 - [Discord](https://discord.com/HQGpHQ69uc)
-- [Facebook](#)
+- [Facebook](https://www.facebook.com/people/Lotus-Mu/61551508616563/)
 
 ## Something missing?
 

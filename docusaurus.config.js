@@ -120,16 +120,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Forum',
-                href: 'https://forum.lotusmu.org',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.com/HQGpHQ69uc',
               },
               {
                 label: 'Facebook',
-                href: 'https://facebook.com/',
+                href: 'https://www.facebook.com/people/Lotus-Mu/61551508616563/',
               },
             ],
           },
