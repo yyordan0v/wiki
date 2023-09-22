@@ -4,55 +4,56 @@ sidebar_position: 2
 
 # Mu Helper
 
-**Mu Helper** is an exceptional **in-game assistance system** that seamlessly integrates within the game, providing players with comprehensive support and guidance.
+**Mu Helper** - это исключительная **система внутриигровой помощи**, которая интегрируется в игру, обеспечивая игроков всесторонней поддержкой и руководством.
 
-This remarkable feature operates efficiently, enabling players to access its valuable assistance even when the game window is minimized or running in the background.
+Эта удивительная функция работает эффективно, позволяя игрокам получать ценную помощь, даже когда игровое окно минимизировано или работает в фоновом режиме.
 
-With **Mu Helper**, players can effortlessly navigate through the game's intricacies, swiftly overcoming challenges and maximizing their gameplay experience.
+С **Mu Helper** игроки могут легко ориентироваться в сложностях игры, быстро преодолевать вызовы и максимально использовать свой игровой опыт.
 
-## Interface
+## Интерфейс
 
-By simply tapping the icon situated at the screen's pinnacle, you can effortlessly access the **Mu Helper** settings menu.
+Просто коснувшись иконки в верхней части экрана, вы легко получите доступ к меню настроек **Mu Helper**.
 
-The settings for **Mu Helper** are neatly divided into two distinct tabs, namely "**Hunting**" and "**Obtaining**".
+Настройки **Mu Helper** удобно разделены на две отдельные вкладки: "**Охота**" и "**Получение**".
 
 :::note
-It is worth noting that you need to save your settings before closing the Mu Helper Settings Window.
+Стройте внимание, что вы должны сохранить свои настройки перед закрытием окна настроек Mu Helper.
 :::
 
-### Hunting
+### Охота
 
-- **Range** - Configure the desired proximity at which your character engages and attacks monsters.
+- **Диапазон** - Настройте желаемую близость, на которой ваш персонаж будет атаковать монстров.
 
-- **Potion** - To enable the automatic use of healing potions, you must mark the checkbox. By clicking on the "**Settings**" option, you gain the ability to establish the threshold at which your character will consume a healing potion based on your character's HP.
-- **Long Distance Attack** - Adjust the maximum attainable attack range.
+- **Зелье** - Чтобы включить автоматическое использование лечебных зелий, вы должны установить флажок. Нажав на опцию "**Настройки**", вы сможете установить порог, при котором ваш персонаж будет использовать лечебное зелье, основываясь на HP вашего персонажа.
 
-- **Original Position** - configure the duration it takes for your character to return to the starting position.
+- **Атака на дальней дистанции** - Настройте максимально достижимую дистанцию атаки.
 
-- **Skills and Buffs Settings** - These configurable settings provide you the ability to determine the usage behavior of your character's combat skills and buffs.
+- **Исходное положение** - Настройте продолжительность, необходимую вашему персонажу, чтобы вернуться в начальное положение.
 
-![Mu Helper Settings](/img/client-features/mu-helper-hunting.jpg)
+- **Настройки навыков и баффов** - Эти настраиваемые параметры позволяют вам определить поведение использования навыков боя и баффов вашего персонажа.
 
-_Mu Helper Settings_
+![Настройки Mu Helper](/img/client-features/mu-helper-hunting.jpg)
 
-### Obtaining
+_Настройки Mu Helper_
 
-- **Range** - Customize the preferred range at which your character will acquire items.
+### Получение
 
-- **Repair Item** - Furthermore, you have the option to enable automatic equipment repair through **Mu Helper**.
+- **Диапазон** - Настройте предпочтительную дистанцию, на которой ваш персонаж будет подбирать предметы.
 
-- **Pick All Near Items** - When this option is enabled, your character will automatically collect all nearby dropped items.
+- **Ремонт предметов** - Кроме того, у вас есть возможность включить автоматический ремонт оборудования через **Mu Helper**.
 
-- **Pick Selected Items** - By selecting this option, only the items that align with your preferences and needs will be automatically picked up.
+- **Подбирать все близкие предметы** - Если эта опция включена, ваш персонаж автоматически соберет все близко уроненные предметы.
 
-- **Add Extra Item** - If you wish to specifically collect certain special items, you can mark this checkbox and manually enter the name of the desired item.
+- **Подбирать выбранные предметы** - Выбрав эту опцию, будут автоматически подбираться только предметы, соответствующие вашим предпочтениям и потребностям.
 
-![Mu Helper Settings](/img/client-features/mu-helper-obtaining.jpg)
+- **Добавить дополнительный предмет** - Если вы хотите собирать определенные специальные предметы, вы можете поставить этот флажок и вручную ввести имя желаемого предмета.
 
-_Mu Helper Settings_
+![Настройки Mu Helper](/img/client-features/mu-helper-obtaining.jpg)
 
-### Launching the Mu Helper
+_Настройки Mu Helper_
 
-To initiate the **Mu Helper** functionality, simply click the `yellow play button`.
+### Запуск Mu Helper
 
-Make sure you have saved your settings before starting the **Mu Helper**.
+Чтобы активировать функциональность **Mu Helper**, просто нажмите `желтую кнопку воспроизведения`.
+
+Убедитесь, что вы сохранили свои настройки перед запуском **Mu Helper**.

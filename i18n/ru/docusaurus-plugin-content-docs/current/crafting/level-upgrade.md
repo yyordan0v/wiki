@@ -2,37 +2,37 @@
 sidebar_position: 1
 ---
 
-# Item Level Upgrades
+# Повышение Уровня Предметов (Item Level Upgrades)
 
-In the vast and captivating world of Mu Online, players constantly seek to strengthen their characters and equip them with the most formidable gear. One of the most sought-after achievements is **upgrading items** to the coveted **+15** level, which unlocks immense power and enhances the effectiveness of equipment. This can be accomplished through the **Chaos Machine**, a mystical device that holds the key to ascending items to new heights.
+В огромном и завораживающем мире Mu Online игроки постоянно стремятся укрепить своих персонажей и снабдить их самым мощным снаряжением. Одним из самых желанных достижений является **повышение уровня предметов** до желаемого уровня **+15**, что открывает огромную силу и увеличивает эффективность снаряжения. Это можно сделать с помощью **Машины Хаоса (Chaos Machine)**, мистического устройства, которое является ключом к поднятию предметов на новые вершины.
 
-## Ingredients
+## Ингредиенты
 
-To embark on the journey of upgrading items to **+15**, players must first gather the necessary materials. The primary ingredients are the [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) and the [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) - precious gems that fuel the enchantment process. Players must have a sufficient amount of these jewels when upgrading. Additionally, they will need Zen, the in-game currency, as a cost for each upgrade attempt. And lastly the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos).
+Чтобы начать путь повышения уровня предметов до **+15**, игроки должны сначала собрать необходимые материалы. Основными ингредиентами являются [Самоцвет Благословения (Jewel of Bless)](/items/jewels/regular-jewels/jewel-of-bless) и [Самоцвет Души (Jewel of Soul)](/items/jewels/regular-jewels/jewel-of-soul) - драгоценные самоцветы, которые сжигаются в процессе улучшения. Игрокам необходимо иметь достаточное количество этих самоцветов при повышении уровня предмета. Кроме того, им потребуется Zen, внутриигровая валюта, в качестве стоимости каждой попытки улучшения. И, наконец, [Самоцвет Хаоса (Jewel of Chaos)](/items/jewels/regular-jewels/jewel-of-chaos).
 
-Depending on the **level of your item** you will need **different amount** of resource in order to trigger the **Chaos Combination**. For example if your **Item Level is +9**, you will need the required materials from **Row 1 (+10)** of the following table:
+В зависимости от **уровня вашего предмета** вам понадобится **разное количество** ресурсов, чтобы запустить **Сочетание Хаоса (Chaos Combination)**. Например, если **Уровень Предмета +9**, вам потребуются необходимые материалы из **Строки 1 (+10)** из следующей таблицы:
 
-| Item Level Mix | [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) |    Zen     | Success Rate (+ Luck) |
-| :------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :--------: | :-------------------: |
-|      +10       |                               1                               |                              1                              | 2,000,000  |       50% (70%)       |
-|      +11       |                               2                               |                              2                              | 4,000,000  |       50% (70%)       |
-|      +12       |                               3                               |                              3                              | 6,000,000  |       45% (65%)       |
-|      +13       |                               4                               |                              4                              | 7,000,000  |       45% (65%)       |
-|      +14       |                               5                               |                              5                              | 10,000,000 |       40% (60%)       |
-|      +15       |                               6                               |                              6                              | 12,000,000 |       40% (60%)       |
+| Уровень Предмета | [Самоцвет Благословения (Jewel of Bless)](/items/jewels/regular-jewels/jewel-of-bless) | [Самоцвет Души (Jewel of Soul)](/items/jewels/regular-jewels/jewel-of-soul) |    Zen     | Шанс Успеха (+ Удача) |
+| :--------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------: | :-------------------: |
+|       +10        |                                           1                                            |                                      1                                      | 2,000,000  |       50% (70%)       |
+|       +11        |                                           2                                            |                                      2                                      | 4,000,000  |       50% (70%)       |
+|       +12        |                                           3                                            |                                      3                                      | 6,000,000  |       45% (65%)       |
+|       +13        |                                           4                                            |                                      4                                      | 7,000,000  |       45% (65%)       |
+|       +14        |                                           5                                            |                                      5                                      | 10,000,000 |       40% (60%)       |
+|       +15        |                                           6                                            |                                      6                                      | 12,000,000 |       40% (60%)       |
 
 :::caution
 
-If the combination fails the item will be gone forever.
+Если комбинация проваливается, предмет исчезнет навсегда.
 
 :::
 
-## The Chaos Machine
+## Машина Хаоса (Chaos Machine)
 
-Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Когда материалы в наличии, игроки могут начать процесс улучшения. Они должны найти **Машину Хаоса (Chaos Machine)**, которую можно найти в [Нории (Noria)](/maps/noria) и [Йоскрет (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином (Chaos Goblin)** и следуйте инструкциям, чтобы продолжить с вашей комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин (Chaos Goblin)](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин (Chaos Goblin)_

@@ -2,71 +2,71 @@
 sidebar_position: 1
 ---
 
-# Ghost Horse
+# Призрачный Конь (Ghost Horse)
 
-In the vast and enchanting world of Mu Online, players have the opportunity to embark on thrilling adventures and conquer formidable challenges. Alongside their relentless battles, they can also forge bonds with mystical creatures known as pets, which provide valuable assistance and companionship on their journey.
+В обширном и завораживающем мире Mu Online игроки имеют возможность отправиться в захватывающие приключения и справиться с могущественными испытаниями. Параллельно своим бескомпромиссным битвам они могут также завести связь с мистическими существами, известными как питомцы, которые предоставляют ценную помощь и спутничество на их пути.
 
-One such extraordinary companion is the **Ghost Horse**, a Tier 2 pet that captivates players with its ethereal beauty and powerful abilities.
+Одним из таких необыкновенных спутников является **Призрачный Конь**, питомец второго уровня, который захватывает игроков своей эфирной красотой и мощными способностями.
 
-The **Ghost Horse** is an evolution of the Tier 1 pet, **Dark Horse**, and is renowned for its exceptional speed and agility. As it glides through the mystical realm of Mu, its transparent form leaves a trail of wispy, ghostly echoes behind, adding an aura of mystery and enchantment to its presence.
+**Призрачный Конь** - это эволюция питомца первого уровня, **Темный Конь**, и славится своей исключительной скоростью и ловкостью. Пока он скользит сквозь мистическое царство Mu, его прозрачная форма оставляет след из легких, призрачных отголосков, придавая его присутствию ауру таинственности и волшебства.
 
-![Ghost Horse](/img/items/pets/ghost-horse.jpg)
+![Призрачный Конь](/img/items/pets/ghost-horse.jpg)
 
-_Ghost Horse_
+_Призрачный Конь_
 
-## Ingredients
+## Ингредиенты
 
-In order to get your hands on the **Ghost Horse** you need to acquire the followings items:
+Чтобы получить **Призрачного Коня**, вам нужно получить следующие предметы:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life)
-- [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
-- [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
-- **Horn of Uniria** x10
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Жемчуг Создания](/items/jewels/regular-jewels/jewel-of-creation)
+- [Жемчуг Жизни](/items/jewels/regular-jewels/jewel-of-life)
+- [10 пучков Жемчугов Благословения](/items/jewels/regular-jewels/jewel-of-bless)
+- [10 пучков Жемчугов Души](/items/jewels/regular-jewels/jewel-of-soul)
+- **Рог Унирии (Horn of Uniria)** x10
 - 50,000,000 Zen
 
-![Ghost Horse Mix](/img/crafting/ghost-horse-mix.png)
+![Смешивание Призрачного Коня](/img/crafting/ghost-horse-mix.png)
 
-_Ghost Horse Mix_
+_Смешивание Призрачного Коня_
 
 :::info
 
-The success rate for this Chaos Combination is **60%**.
+Шанс успеха для этой комбинации Хаоса составляет **60%**.
 
 :::
 
-## Stats
+## Характеристики
 
-One of the standout features of the **Ghost Horse** is its ability to provide various buffs and bonuses to its master. When summoned, the pet bestows a significant increase in movement speed, allowing players to navigate the treacherous landscapes of Mu with unparalleled swiftness. This and the raw stats buffs give the **Ghost Horse's** wearer advantageous position in both PvP battles and intense dungeon raids where every second counts.
+Одной из выдающихся особенностей **Призрачного Коня** является его способность предоставлять различные баффы и бонусы своему владельцу. При вызове питомец дарит значительное увеличение скорости передвижения, позволяя игрокам навигировать по коварным пейзажам Mu с непревзойденной проворностью. Эти баффы и бонусы на статистику дают владельцу **Призрачного Коня** преимущество как в PvP-сражениях, так и в интенсивных рейдах в подземельях, где каждая секунда имеет значение.
 
 :::tip
 
-No matter how hard you fight, the **Ghost Horse** will stay healthy forever.
+Независимо от того, насколько вы сражаетесь, **Призрачный Конь** всегда остается здоровым.
 
 :::
 
-Hero equiped with the **Ghost Horse** gets the following bonuses:
+Герой, наделенный **Призрачным Конем**, получает следующие бонусы:
 
-- Increased Damage & Wizardry Damage by **30%**
-- **50%** of Damage Absorb
-- Increased maximum HP by **+6000**
-- **Earth Shake Skill**
+- Увеличение Урона и Урона Магии на **30%**
+- **50%** Поглощения Урона
+- Увеличение максимального HP на **+6000**
+- Навык **Землетрясения (Earth Shake)**
 
 :::note
 
-The Ghost Horse can be only tamed by the **Dark Lord**.
+Призрачного Коня можно приручить только **Темному Лорду**.
 
 :::
 
-## Cosmetics
+## Косметика
 
-The **Ghost Horse** not only serves as a formidable ally but also adds a touch of personalization to each player's journey. They can customize their **Ghost Horse's** appearance through a variety of skins, allowing them to create a unique and distinguished presence on the battlefield.
+**Призрачный Конь** не только служит в качестве могучего союзника, но и добавляет элемент персонализации в путешествие каждого игрока. Игроки могут настроить внешний вид своего **Призрачного Коня** с помощью различных скинов, что позволяет им создать уникальное и отличительное присутствие на поле боя.
 
-This level of customization fosters a sense of pride and ownership among players, making their **Ghost Horse** more than just a companion but an extension of their own identity within the game.
+Этот уровень персонализации способствует чувству гордости и принадлежности среди игроков, делая их **Призрачного Коня** более чем просто спутником, а расширением их собственной личности в игре.
 
 :::tip
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+Вы можете узнать больше о **Системе Уникальных Скинов Lotus Mu**, перейдя в наш раздел [Система Скинов](/skin-system).
 
 :::

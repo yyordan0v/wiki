@@ -2,26 +2,26 @@
 sidebar_position: 10
 ---
 
-# Minimap
+# Миникарта
 
-**Lotus Mu** boasts an incredibly versatile **minimap** feature, primarily designed to provide players with precise information about their character's **location** on the map.
+**Lotus Mu** предлагает невероятно универсальную функцию **миникарты**, в первую очередь предназначенную для предоставления игрокам точной информации о **местоположении** их персонажа на карте.
 
-Additionally, the minimap interface offers the functionality to initiate or halt the **3D Camera** feature, adding further flexibility to the gameplay experience.
+Кроме того, интерфейс миникарты предоставляет функциональность для активации или остановки функции **3D-камеры**, добавляя дополнительную гибкость в игровой опыт.
 
-Furthermore, the **minimap** offers additional interactive features, allowing you to **zoom in and out** for a closer or broader view, adjust the **transparency** level according to your preference, and **relocate the minimap** on your screen by clicking and dragging its corner to your desired position.
+Более того, **миникарта** предлагает дополнительные интерактивные функции, позволяющие вам **увеличивать и уменьшать масштаб** для более близкого или широкого обзора, настраивать уровень **прозрачности** в соответствии с вашими предпочтениями и **перемещать миникарту** на вашем экране, щелкнув и перетащив ее угол в желаемое место.
 
-This grants you full control over the minimap's appearance and placement, enhancing your overall gaming experience.
+Это дает вам полный контроль над внешним видом и расположением миникарты, улучшая ваш общий игровой опыт.
 
-![Minimap](/img/client-features/minimap.jpg)
+![Миникарта](/img/client-features/minimap.jpg)
 
-_Minimap_
+_Миникарта_
 
-## Full Screen Minimap
+## Миникарта на весь экран
 
-Pressing the `TAB` key will activate the **Full Screen Minimap**, which provides a comprehensive view of the map you are currently on.
+Нажатие клавиши `TAB` активирует **Миникарту на весь экран**, которая предоставляет всесторонний обзор карты, на которой вы находитесь в данный момент.
 
-Within this expanded view, you can easily locate your **character's position** and, more notably, observe all **monster spawns** present on the current map.
+В этом расширенном виде вы легко можете найти **положение вашего персонажа** и, что более важно, наблюдать за всеми **монстрами**, находящимися на текущей карте.
 
-![Full Screen Minimap](/img/client-features/minimap-tab.jpg)
+![Миникарта на весь экран](/img/client-features/minimap-tab.jpg)
 
-_Full Screen Minimap_
+_Миникарта на весь экран_

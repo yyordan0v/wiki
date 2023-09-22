@@ -2,26 +2,26 @@
 sidebar_position: 4
 ---
 
-# Especial Buttons
+# Специальные Кнопки
 
-The **Especial Buttons**, located at the top center of the screen, grant users convenient access to a range of noteworthy features, including:
+**Специальные Кнопки**, расположенные в верхней части центрального экрана, предоставляют пользователям удобный доступ к ряду выдающихся функций, включая:
 
-- [Quest Pavilion](/gameplay-systems/quest-pavilion)
-- Active Invasions
-- [Daily Reward](/gameplay-systems/daily-reward)
+- [Павильон Квестов](/gameplay-systems/quest-pavilion)
+- Активные Нашествия
+- [Ежедневная награда](/gameplay-systems/daily-reward)
 
-![Especial Buttons](/img/client-features/buttons.jpg)
+![Специальные Кнопки](/img/client-features/buttons.jpg)
 
-_Especial Buttons_
+_Специальные Кнопки_
 
-## Active Invasion
+## Активное Нашествие
 
-During periods when an invasion is ongoing in the server, the `Active Invasions` Button becomes accessible.
+В периоды, когда на сервере происходит нашествие, кнопка `Активные Нашествия` становится доступной.
 
-Upon clicking this button, a window will appear on the screen, displaying comprehensive information about the currently active invasion.
+По нажатию этой кнопки на экране появится окно, отображающее всестороннюю информацию о текущем активном нашествии.
 
-In cases where multiple invasions are transpiring simultaneously, you will have the ability to navigate through all of them, gaining insights and updates for each specific invasion.
+В случаях, когда одновременно происходит несколько нашествий, у вас будет возможность переключаться между ними, получая информацию и обновления для каждого конкретного нашествия.
 
-![Active Invasions Window](/img/client-features/active-invasions.jpg)
+![Окно Активных Нашествий](/img/client-features/active-invasions.jpg)
 
-_Active Invasions Window_
+_Окно Активных Нашествий_

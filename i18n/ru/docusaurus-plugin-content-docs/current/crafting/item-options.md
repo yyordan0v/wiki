@@ -2,89 +2,89 @@
 sidebar_position: 2
 ---
 
-# Item Options
+# Параметры Предметов (Item Options)
 
-The **Item Options** are the options which in Mu Online are normally exclusive to the so called 380 Level Items. Due to the nature of our server - characters having multiple resets and a lot of stats, we decided to make these options available to all items.
+**Параметры Предметов (Item Options)** - это параметры, которые в Mu Online обычно эксклюзивны для так называемых предметов 380 уровня. Из-за особенности нашего сервера - персонажи имеют множество перерождений и большое количество статистики, мы решили сделать эти параметры доступными для всех предметов.
 
-The **Item Options** can be added through a **Chaos Combination**. We will further delve into the process in the following sections of the artcle.
+**Параметры Предметов (Item Options)** могут быть добавлены через **Сочетание Хаоса (Chaos Combination)**. Мы подробнее рассмотрим этот процесс в следующих разделах статьи.
 
-## Ingredients
+## Ингредиенты
 
-Before you add an **Item Option** to your item, you need to ensure that you have the necessary ingredients:
+Прежде чем добавить **Параметр Предмета (Item Option)** к вашему предмету, убедитесь, что у вас есть необходимые ингредиенты:
 
-- [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian)
-- [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony)
-- [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless)
-- [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul)
-- [Jewel of Creation Bundle](/items/jewels/regular-jewels/jewel-of-creation)
-- **Excellent item** that has been upgraded to a **minimum of +4**
+- [Самоцвет Стража (Jewel of Guardian)](/items/jewels/regular-jewels/jewel-of-guardian)
+- [Самоцвет Гармонии (Jewel of Harmony)](/items/jewels/regular-jewels/jewel-of-harmony)
+- [Упакованные Самоцветы Благословения (Jewel of Bless Bundle)](/items/jewels/regular-jewels/jewel-of-bless)
+- [Упакованные Самоцветы Души (Jewel of Soul Bundle)](/items/jewels/regular-jewels/jewel-of-soul)
+- [Упакованные Самоцветы Творения (Jewel of Creation Bundle)](/items/jewels/regular-jewels/jewel-of-creation)
+- **Отличный предмет**, который был улучшен как минимум до **+4**
 - 10,000,000 Zen
 
-![Item Options](/img/crafting/item-options.png)
+![Параметры Предметов (Item Options)](/img/crafting/item-options.png)
 
-_Item Options_
+_Параметры Предметов (Item Options)_
 
 :::note
 
-The success rate for this combination is **70%**.
+Шанс успеха для этой комбинации составляет **70%**.
 
-If the combination **fails** you will lose the jewels used but **not the item**.
+Если комбинация **проваливается**, вы потеряете использованные самоцветы, но **не потеряете предмет**.
 
 :::
 
-## Pink Options
+## Розовые Параметры (Pink Options)
 
-Each part of the character's equipment will gain a different pink options.
+Каждая часть снаряжения персонажа получит разные розовые параметры.
 
 :::caution
 
-You cannot **add**, **remove** or **change** the pink options.
+Вы не можете **добавить**, **удалить** или **изменить** розовые параметры.
 
-If you succeeded in putting an **Item Option** in your item, the pink options will be **permanent**.
+Если вам удалось добавить **Параметр Предмета (Item Option)** к вашему предмету, розовые параметры будут **постоянными**.
 
 :::
 
-### Helms
+### Шлемы
 
-- SD Recovery Rate increase +20
-- Defense Success Rate increase +10
+- Увеличение скорости восстановления SD +20
+- Увеличение успешности защиты +10
 
-### Armors
+### Доспехи
 
-- SD Auto Recovery
-- Defense Success Rate increase +10
+- Автоматическое восстановление SD
+- Увеличение успешности защиты +10
 
-### Pants
+### Штаны
 
-- Defensive Skill +200
-- Defense Success Rate increase +10
+- Навык защиты +200
+- Увеличение успешности защиты +10
 
-### Gloves
+### Перчатки
 
-- Max HP increase +200
-- Defense Success Rate increase +10
+- Увеличение максимального HP +200
+- Увеличение успешности защиты +10
 
-### Boots
+### Сапоги
 
-- Max SD increase +700
-- Defense Success Rate increase +10
+- Увеличение максимального SD +700
+- Увеличение успешности защиты +10
 
-### Weapons
+### Оружие
 
-- Additional Damage +200
-- Attack Success Rate increase +10
+- Дополнительный урон +200
+- Увеличение успешности атаки +10
 
-### Shields
+### Щиты
 
-- Max SD increase +700
-- SD Auto Recovery
+- Увеличение максимального SD +700
+- Автоматическое восстановление SD
 
-## The Chaos Machine
+## Машина Хаоса (Chaos Machine)
 
-Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Когда материалы в наличии, игроки могут начать процесс улучшения. Они должны найти **Машину Хаоса (Chaos Machine)**, которую можно найти в [Нории (Noria)](/maps/noria) и [Йоскрет (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином (Chaos Goblin)** и следуйте инструкциям, чтобы продолжить с вашей комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин (Chaos Goblin)](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин (Chaos Goblin)_

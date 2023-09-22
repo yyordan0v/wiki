@@ -2,30 +2,30 @@
 sidebar_position: 6
 ---
 
-# Item Bank
+# Хранилище Предметов
 
-The Lotus Mu **Item Bank** serves as a secure repository where you can safeguard and manage your valuable collection of harvested jewels and other precious resources.
+**Хранилище Предметов** в Lotus Mu служит безопасным хранилищем, в котором вы можете сохранить и управлять вашей ценной коллекцией собранных драгоценных камней и других драгоценных ресурсов.
 
-This innovative feature empowers you with the freedom to access and utilize your stored items effortlessly, regardless of your location or situation. Whether you're in the midst of an epic quest or exploring uncharted territories, the **Item Bank** ensures that your hard-earned treasures are readily available at your disposal, enhancing your adventures and enabling you to make the most of your gaming experience.
+Эта инновационная функция дарит вам свободу получать доступ и использовать ваши сохраненные предметы легко, независимо от вашего местоположения или ситуации. Независимо от того, находитесь ли вы в самом разгаре эпического квеста или исследуете неизведанные территории, **Хранилище Предметов** обеспечивает наличие ваших заслуженных сокровищ под рукой, улучшая ваши приключения и позволяя вам максимально использовать свой игровой опыт.
 
-![Item Bank](/img/client-features/item-bank.jpg)
+![Хранилище Предметов](/img/client-features/item-bank.jpg)
 
-_Item Bank_
+_Хранилище Предметов_
 
 :::tip
 
-To access the **Item Bank** you can either utilize the [Especial Menu](/client-features/especial-menu) or by simply pressing the `J` key.
+Для доступа к **Хранилищу Предметов** вы можете использовать [Специальное Меню](/client-features/especial-menu) или просто нажать клавишу `J`.
 
 :::
 
-When you open the **Item Bank**, you gain the ability to browse through various types of jewels and view the **quantity** you have stored. By clicking on a specific jewel, you'll be directed to a section where you can **deposit or withdraw** as many as you desire. Whether you wish to withdraw them individually or in a bundle, the choice is yours.
+Когда вы открываете **Хранилище Предметов**, у вас появляется возможность просматривать различные типы драгоценных камней и видеть **количество**, которое вы сохраняете. Нажав на конкретный драгоценный камень, вы будете перенаправлены на страницу, где вы сможете **внести или извлечь** столько, сколько вам угодно. Независимо от того, хотите ли вы извлечь их индивидуально или пачкой, выбор за вами.
 
-![Item Bank Deposit/Withdraw](/img/client-features/item-bank-deposit.jpg)
+![Хранилище Предметов Внесение/Извлечение](/img/client-features/item-bank-deposit.jpg)
 
-_Item Bank Deposit/Withdraw_
+_Хранилище Предметов Внесение/Извлечение_
 
 :::caution
 
-Please be aware that the **Item Bank** only allows the deposit of **unbundled** jewels.
+Обратите внимание, что **Хранилище Предметов** позволяет вносить только **неупакованные** драгоценные камни.
 
 :::

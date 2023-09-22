@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
+# Введение
 
 Добро пожаловать в **Lotus Mu** Вики!
 

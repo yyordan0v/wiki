@@ -2,58 +2,58 @@
 sidebar_position: 2
 ---
 
-# 1st Level Wings
+# Крылья 1-го Уровня (1st Level Wings)
 
-In Mu Online, the wings serve as powerful equipment that enhances a character's abilities and appearance. As you progress through the game, you have the opportunity to combine **wings** and create even more formidable versions. This guide will walk you through the process of combining **1st Level Wings** to unlock great power.
+В Mu Online крылья служат мощным снаряжением, усиливающим способности персонажа и его внешний вид. По мере продвижения в игре у вас есть возможность объединять **крылья** и создавать еще более могущественные версии. Это руководство поможет вам разобраться в процессе объединения **крыльев 1-го уровня**, чтобы разблокировать великую силу.
 
 :::tip
 
-These wings are also **main ingredient** in the [2nd Level Wings](/crafting/wings/second-level-wings) Chaos Combination.
+Эти крылья также являются **основным ингредиентом** в [Смешивании крыльев 2-го уровня (2nd Level Wings)](/crafting/wings/second-level-wings).
 
 :::
 
-## Ingredients
+## Ингредиенты
 
-Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
+Прежде чем вы сможете объединить **крылья**, убедитесь, что у вас есть необходимые ингредиенты:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- [Chaos Weapon](/crafting/wings/chaos-weapon) upgraded to **minimum level of +4** and **minimum of +4 additional damage**
-- **Non excellent** item that has been upgraded to a **minimum of +11** with an **option of +4 or higher**
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Жемчуг Творения](/items/jewels/regular-jewels/jewel-of-creation)
+- [Хаос Оружие (Chaos Weapon)](/crafting/wings/chaos-weapon) улучшенное как минимум до **+4** и имеющее как минимум **+4 дополнительного урона**
+- **Не отличное** (Non excellent) предмет, который был улучшен как минимум до **+11** с **опцией +4 или выше**
 - 30,000,000 Zen
 
-The Jewel of Chaos serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of the **wings**.
+Жемчуг Хаоса служит катализатором для процесса объединения, а улучшенные предметы обеспечивают основу для создания **крыльев**.
 
-![First Level Wings Mix](/img/crafting/first-level-wings.png)
+![Смешивание Крыльев 1-го Уровня (First Level Wings Mix)](/img/crafting/first-level-wings.png)
 
-_First Level Wings Mix_
+_Смешивание Крыльев 1-го Уровня_
 
 :::info
 
-The success rate for this Chaos Combination is **100%**.
+Шанс успеха для этой комбинации Хаоса составляет **100%**.
 
 :::
 
-## The Chaos Machine
+## Хаос Машина
 
-Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того, как вы получили Жемчуг Хаоса и необходимые предметы, найдите **Хаос Машину** в игровом мире. Вы можете найти его в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином** и следуйте инструкциям, чтобы продолжить с комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин_
 
-## Reward
+## Награда
 
-A successful combination will reward you with **1st Level Wings**. You will get the **Wings of Satan, the Wings of Heaven** or the **Wings of Elf**, each possessing unique attributes and abilities that can greatly enhance your character's combat effectiveness.
+Успешное соединение наградит вас **крыльями 1-го уровня**. Вы получите **Крылья Сатаны (Wings of Satan), Крылья Рая (Wings of Heaven)** или **Крылья Эльфа (Wings of Elf)**, каждые из которых обладают уникальными характеристиками и способностями, которые могут значительно усилить боевые возможности вашего персонажа.
 
-|                     Wings of Satan                     |                     Wings of Heaven                      |                    Wings of Elf                    |
-| :----------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: |
-| ![Wings of Satan](/img/items/wings/wings-of-satan.png) | ![Wings of Heaven](/img/items/wings/wings-of-heaven.png) | ![Wings of Elf](/img/items/wings/wings-of-elf.png) |
+|                     Крылья Сатаны                     |                     Крылья Рая                      |                    Крылья Эльфа                    |
+| :---------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: |
+| ![Крылья Сатаны](/img/items/wings/wings-of-satan.png) | ![Крылья Рая](/img/items/wings/wings-of-heaven.png) | ![Крылья Эльфа](/img/items/wings/wings-of-elf.png) |
 
 :::caution
 
-It's important to note that the type of **Wings** obtained does not rely on the type of the used [Chaos Weapon](/crafting/wings/chaos-weapon).
+Важно отметить, что тип полученных **крыльев** не зависит от типа использованного [Хаос Оружия (Chaos Weapon)](/crafting/wings/chaos-weapon).
 
 :::

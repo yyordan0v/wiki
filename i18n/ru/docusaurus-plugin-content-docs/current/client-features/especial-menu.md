@@ -2,24 +2,24 @@
 sidebar_position: 3
 ---
 
-# Especial Menu
+# Специальное Меню
 
-The **Especial Menu** is an exclusive feature that offers players a multitude of valuable resources and information related to the game.
+**Специальное Меню** - это эксклюзивная функция, предлагающая игрокам множество ценных ресурсов и информации, связанной с игрой.
 
-Within this menu, players can conveniently access and monitor their credit resources, keep track of event and invasion timers, explore event rankings, and discover an array of other useful features.
+В этом меню игроки могут удобно получать доступ и отслеживать свои кредитные ресурсы, следить за таймерами событий и нашествий, изучать рейтинги событий и открывать множество других полезных функций.
 
-The Especial Menu serves as a centralized hub, providing players with a comprehensive overview of essential aspects of the game, empowering them to stay informed and make strategic decisions.
+Специальное Меню служит централизованным хабом, предоставляя игрокам всесторонний обзор ключевых аспектов игры, давая им возможность быть информированными и принимать стратегические решения.
 
-![Especial Menu](/img/client-features/especial-menu.jpg)
+![Специальное Меню](/img/client-features/especial-menu.jpg)
 
-_Especial Menu_
+_Специальное Меню_
 
-## Open Especial Menu
+## Открыть Специальное Меню
 
-To access the **Especial Menu**, simply click on the `M-button` situated at the top left corner of the screen, conveniently positioned next to the **Mu Helper Play button**.
+Чтобы получить доступ к **Специальному Меню**, просто нажмите на `M-кнопку`, расположенную в верхнем левом углу экрана, удобно расположенную рядом с кнопкой **Mu Helper Play**.
 
-Another way to use its functionality is by hitting the `Menu` button in the bottom right part of screen. You call also press the `"U"` key to achieve the same result.
+Другой способ использовать его функциональность - это нажать кнопку `Меню` в нижней правой части экрана. Вы также можете нажать клавишу `"U"` для достижения того же результата.
 
-![Especial Menu Buttons](/img/client-features/especial-menu-buttons.jpg)
+![Кнопки Специального Меню](/img/client-features/especial-menu-buttons.jpg)
 
-_Especial Menu Buttons_
+_Кнопки Специального Меню_

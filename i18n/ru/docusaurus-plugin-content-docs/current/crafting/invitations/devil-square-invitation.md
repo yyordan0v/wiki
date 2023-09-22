@@ -2,46 +2,46 @@
 sidebar_position: 2
 ---
 
-# Devil Square Invitation
+# Приглашение в Адский Квадрат (Devil Square Invitation)
 
-Players that want to participate in the [Devil Square](/events/devil-square) will need to craft a **Devil Square Invitation** prior joining the event. This article covers the process of this **Chaos Mix**.
+Игроки, желающие участвовать в [Адском Квадрате (Devil Square)](/events/devil-square), должны создать **Приглашение в Адский Квадрат (Devil Square Invitation)** перед участием в мероприятии. В этой статье рассматривается процесс **Смешивания Хаоса (Chaos Mix)** для его создания.
 
-## Ingredients
+## Ингредиенты
 
-To craft the **Devil Square Invitation Mix**, you'll need two essential components:
+Для создания **Приглашения в Адский Квадрат (Devil Square Invitation Mix)** вам понадобятся два неотъемлемых компонента:
 
-|                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       |                 Jewel of Chaos                 |                                         |                          Devil Square Invitation                           |
-| :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :--------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
-| ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) | ![Jewel of Chaos](/img/items/jewels/chaos.png) | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |
+|                      Ключ Дьявола                      |                                       |                      Глаз Дьявола                      |                                       |                 Жемчуг Хаоса                 |                                        |                         Приглашение в Адский Квадрат                          |
+| :----------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------: | :-----------------------------------: | :------------------------------------------: | :------------------------------------: | :---------------------------------------------------------------------------: |
+| ![Ключ Дьявола](/img/items/invitations/devils-key.png) | ![Плюс](/img/items/invitations/+.png) | ![Глаз Дьявола](/img/items/invitations/devils-eye.png) | ![Плюс](/img/items/invitations/+.png) | ![Жемчуг Хаоса](/img/items/jewels/chaos.png) | ![Равно](/img/items/invitations/=.png) | ![Приглашение в Адский Квадрат](/img/items/invitations/devils-invitation.png) |
 
-_Devil Square Invitation Crafting_
+_Создание Приглашения в Адский Квадрат (Devil Square Invitation)_
 
-The [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of the **Devil Square Invitation**.
+[Жемчуг Хаоса (Jewel of Chaos)](/items/jewels/regular-jewels/jewel-of-chaos) служит катализатором для процесса слияния, в то время как улучшенные предметы обеспечивают основу для создания **Приглашения в Адский Квадрат (Devil Square Invitation)**.
 
-The following table provides information on how much Zen the respective **Chaos Mix** will cost:
+В следующей таблице приведена информация о том, сколько Zen будет стоить соответствующее **Смешивание Хаоса (Chaos Mix)**:
 
-| Devil Square Invitation | Required Zen |
-| :---------------------: | :----------: |
-|           +1            |  1,000,000   |
-|           +2            |  2,000,000   |
-|           +3            |  3,000,000   |
-|           +4            |  4,000,000   |
-|           +5            |  5,000,000   |
-|           +6            |  7,000,000   |
-|           +7            |  15,000,000  |
+| Приглашение в Адский Квадрат | Требуемый Zen |
+| :--------------------------: | :-----------: |
+|              +1              |   1,000,000   |
+|              +2              |   2,000,000   |
+|              +3              |   3,000,000   |
+|              +4              |   4,000,000   |
+|              +5              |   5,000,000   |
+|              +6              |   7,000,000   |
+|              +7              |  15,000,000   |
 
 :::info
 
-The success rate for this Chaos Combination is **80%**.
+Шанс успеха для этой комбинации Хаоса составляет **80%**.
 
 :::
 
-## The Chaos Machine
+## Машина Хаоса (Chaos Machine)
 
-Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того как вы получили [Жемчуг Хаоса (Jewel of Chaos)](/items/jewels/regular-jewels/jewel-of-chaos) и необходимые предметы, найдите **Машину Хаоса (Chaos Machine)** в игровом мире. Вы можете найти **Гоблина** в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином (Chaos Goblin)** и следуйте инструкциям, чтобы продолжить с вашей комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин (Chaos Goblin)](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин (Chaos Goblin)_

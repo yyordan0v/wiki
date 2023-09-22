@@ -2,68 +2,68 @@
 sidebar_position: 6
 ---
 
-# Quest System
+# Система заданий
 
-**Lotus Mu** offers a captivating array of consecutive **quests** that not only add variety to the gameplay but also **reward** players with a plethora of prizes upon successful completion.
+**Lotus Mu** предлагает захватывающий набор последовательных **заданий**, которые не только придают разнообразие геймплею, но также **награждают** игроков множеством призов при успешном выполнении.
 
-Our **Primary Quests** have been meticulously crafted to align with the growth and advancement of your hero. This means that you'll start off by slaying **Spiders**, then progress to **Budge Dragons**, and so forth, until you find yourself facing off against the most formidable creatures in the realm.
+Наши **Основные задания** были тщательно созданы для соответствия росту и развитию вашего героя. Это означает, что вы начнете с уничтожения **Пауков**, затем перейдете к **Драконам Бадж** и так далее, пока не окажетесь лицом к лицу с самыми могущественными существами в мире.
 
 :::tip
 
-We strongly advise all players to begin their quest immediately after creating their first character.
+Мы настоятельно советуем всем игрокам начать свое задание немедленно после создания своего первого персонажа.
 
 :::
 
-Each completed quest bestows upon the player a **reward**, ensuring that they are well-equipped for their journey ahead. These **valuable rewards** will undoubtedly prove to be invaluable assets in the long run, bolstering the player's capabilities and enhancing their chances of success.
+Каждое выполненное задание дарит игроку **награду**, обеспечивая их хорошей экипировкой для предстоящего путешествия. Эти **ценные награды** несомненно окажутся бесценными активами в долгосрочной перспективе, усиливая способности игрока и повышая их шансы на успех.
 
-## Quest Window
+## Окно заданий
 
-As you join in the **Lotus Mu** realm you will see a **white arrow** in the middle right of your screen. When you press this arrow, the **Quest Window** will pop.
+Как только вы присоединитесь к миру **Lotus Mu**, вы увидите **белую стрелку** посередине справа на вашем экране. Когда вы нажмете на эту стрелку, появится **Окно заданий**.
 
-![Open/Close Quest Window](/img/client-features/open-quest-window.jpg)
+![Открыть/Закрыть окно заданий](/img/client-features/open-quest-window.jpg)
 
-_Open/Close Quest Window_
+_Открыть/Закрыть окно заданий_
 
-Once the **Quest Window** is opened you will be able to see what are the **Requisites** needed to complete your quest. If you want to check what your **reward** will be after completing the quest, just click on the **Reward** button.
+После открытия **Окна заданий** вы сможете узнать, какие **Требования** нужно выполнить для завершения вашего задания. Если вы хотите проверить, какая **награда** вас ожидает после выполнения задания, просто нажмите кнопку **Награда**.
 
 :::caution
 
-Beware that you need to manually finish your quest.
+Обратите внимание, что вам нужно завершить задание вручную.
 
-To accomplish this, all you need to do is click on the **Get Reward** button.
+Для этого достаточно нажать кнопку **Получить награду**.
 
 :::
 
-![Quest Window](/img/client-features/quest-window.jpg)
+![Окно заданий](/img/client-features/quest-window.jpg)
 
-_Quest Window_
+_Окно заданий_
 
-## Primary Quests
+## Основные задания
 
-The **Primary Quests** adapt to your progress, gradually increasing the strength and quantity of monsters you face, while simultaneously improving the quality of the rewards you receive.
+**Основные задания** адаптируются под ваш прогресс, постепенно увеличивая силу и количество монстров, с которыми вы сталкиваетесь, одновременно улучшая качество получаемых наград.
 
-In the **Primary Quests** you will be killing monsters 99% of the time in order to complete them.
+В **Основных заданиях** вы будете убивать монстров в 99% случаев, чтобы их выполнить.
 
-## Secondary Quests
+## Вторичные задания
 
-In order to start your **Secondary Quest**, you need to talk with **Benet d'Eamon**.
+Для начала **Вторичного задания** вам нужно поговорить с **Бенетом д'Эамоном**.
 
-![Benet d'Eamon](/img/npc/benet-d-eamon.jpg)
+![Бенет д'Эамон](/img/npc/benet-d-eamon.jpg)
 
-_Benet d'Eamon_
+_Бенет д'Эамон_
 
 :::tip
 
-**Benet d'Eamon** can be found somewhere in [Yoskreth](/maps/yoskreth).
+**Бенет д'Эамон** можно найти где-то в [Йоскрете](/maps/yoskreth).
 
 :::
 
-The **Secondary Quest** requires a lot of work in order to reward the player. However the reward is really appealing and we advice every player to put the effort and please **Benet d'Eamon**.
+**Вторичное задание** требует много работы, чтобы наградить игрока. Однако награда действительно привлекательна, и мы советуем каждому игроку приложить усилия и угодить **Бенету д'Эамону**.
 
-Keep on mind that **Secondary Quest** will be only **1** and will be available only for **one week** and change afterwards with another one.
+Имейте в виду, что **Вторичное задание** будет только **1** и будет доступно только **одну неделю**, а затем заменится другим.
 
-## Quest Pavilion
+## Павильон заданий
 
-Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion) - a rewarding feature in **Lotus Mu** that recognizes your quest achievements by granting **`stars`**
+Представляем вам [Павильон заданий](/gameplay-systems/quest-pavilion) - вознаграждающую особенность в **Lotus Mu**, которая признает ваши достижения в выполнении заданий, предоставляя **`звезды`**
 
-These **stars** can be exchanged for valuable rewards, enhancing your gameplay experience. Dive into **quests**, earn **stars**, and unlock exciting possibilities in the [Quest Pavilion](/gameplay-systems/quest-pavilion).
+Эти **звезды** можно обменять на ценные награды, улучшая ваш опыт игры. Погрузитесь в **задания**, заработайте **звезды** и откройте увлекательные возможности в [Павильоне заданий](/gameplay-systems/quest-pavilion).

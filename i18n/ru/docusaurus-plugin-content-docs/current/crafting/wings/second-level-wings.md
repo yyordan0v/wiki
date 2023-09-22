@@ -2,70 +2,70 @@
 sidebar_position: 3
 ---
 
-# 2nd Level Wings
+# Крылья 2-го Уровня (2nd Level Wings)
 
-In the vast realm of Mu Online, **wings** serve as exceptional assets that augment a character's abilities and lend a captivating aura to their appearance. As adventurers traverse the game's vast landscapes, they encounter opportunities to transcend their current prowess by embarking on the path of combining wings. This comprehensive guide aims to illuminate the process of combining **2nd Level Wings** and unravel the untapped potential for even greater power that awaits those who dare to venture further.
+В обширном мире Mu Online **крылья** служат исключительными средствами, которые усиливают способности персонажа и придают его облику завораживающую ауру. Путешествуя по обширным пейзажам игры, игроки сталкиваются с возможностью превзойти свои текущие навыки, начав путь объединения крыльев. Это подробное руководство призвано прояснить процесс объединения **крыльев 2-го уровня** и раскроет неиспользованный потенциал для еще большей мощности тем, кто осмелится отправиться дальше.
 
-Depending on the desired result you will either need to use **Loch's Feather** or **Crest of Monarch** - more on that later in the guide.
+В зависимости от желаемого результата вам потребуется использовать **Перо Лоха (Loch's Feather)** или **Герб Монарха (Crest of Monarch)** - подробнее об этом далее в руководстве.
 
-![Loch's Feather](/img/items/others/lochs-feather.png)
-![Crest of Monarch](/img/items/others/crest-of-monarch.png)
+![Перо Лоха (Loch's Feather)](/img/items/others/lochs-feather.png)
+![Герб Монарха (Crest of Monarch)](/img/items/others/crest-of-monarch.png)
 
-_Loch's Feather and Crest of Monarch_
+_Перо Лоха и Герб Монарха_
 
 :::tip
 
-These wings are also **main ingredient** in the [Condor Feather](/crafting/wings/condor-feather) Chaos Combination.
+Эти крылья также являются **основным ингредиентом** в [Смешивании Пера Кондора (Condor Feather)](/crafting/wings/condor-feather).
 
 :::
 
-## Ingredients
+## Ингредиенты
 
-Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
+Прежде чем вы сможете объединить **крылья**, убедитесь, что у вас есть необходимые ингредиенты:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- **Loch's Feather** or **Crest of Monarch**
-- [1st Level Wings](/crafting/wings/first-level-wings) upgraded to **minimum level of +7** and **minimum of +4 additional damage / +1% hp Recovery**
-- **Excellent** item that has been upgraded to a **minimum of +7** with an **option of +4 or higher**
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Жемчуг Творения](/items/jewels/regular-jewels/jewel-of-creation)
+- **Перо Лоха (Loch's Feather)** или **Герб Монарха (Crest of Monarch)**
+- [Крылья 1-го Уровня (1st Level Wings)](/crafting/wings/first-level-wings) улучшенные как минимум до **+7** и имеющие как минимум **+4 дополнительного урона / +1% восстановление HP**
+- **Превосходный** (Excellent) предмет, который был улучшен как минимум до **+7** с **опцией +4 или выше**
 - 100,000,000 Zen
 
-![Second Level Wings Mix](/img/crafting/second-level-wings.png)
-![Cape of Lord Mix](/img/crafting/second-level-wings-dl.png)
+![Смешивание Крыльев 2-го Уровня (Second Level Wings Mix)](/img/crafting/second-level-wings.png)
+![Смешивание Мантии Господина (Cape of Lord Mix)](/img/crafting/second-level-wings-dl.png)
 
-_Second Level Wings / Cape of Lord Mix_
+_Смешивание Крыльев 2-го Уровня / Мантии Господина_
 
 :::info
 
-The success rate for this Chaos Combination is **90%**.
+Шанс успеха для этой комбинации Хаоса составляет **90%**.
 
 :::
 
-## The Chaos Machine
+## Хаос Машина
 
-Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того, как вы получили Жемчуг Хаоса и необходимые предметы, найдите **Хаос Машину** в игровом мире. Вы можете найти его в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином** и следуйте инструкциям, чтобы продолжить с комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин_
 
-## Reward
+## Награда
 
-A successful combination will reward you with **2nd Level Wings**. You will get **Wings of Dragon, Wings of Soul, Wings of Spirits, Wings of Darkness** or the **Cape of Lord** depending on the used ingredients.
+Успешное соединение наградит вас **крыльями 2-го уровня**. Вы получите **Крылья Дракона (Wings of Dragon), Крылья Души (Wings of Soul), Крылья Духов (Wings of Spirits), Крылья Тьмы (Wings of Darkness)** или **Мантию Господина (Cape of Lord)** в зависимости от использованных ингредиентов.
 
-- To receive the **Cape of Lord** you must use **Crest of Monarch** in your combination.
-- To receive either of the other **wings** you must use **Loch's Feather**.
+- Чтобы получить **Мантию Господина**, вы должны использовать **Герб Монарха** в своей комбинации.
+- Чтобы получить любые другие **крылья**, вы должны использовать **Перо Лоха**.
 
-|                       Wings of Dragon                        |                    Wings of Soul                     |                     Wings of Spirits                      |
-| :----------------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------------: |
-|   ![Wings of Dragon](/img/items/wings/wings-of-dragon.png)   | ![Wings of Soul](/img/items/wings/wings-of-soul.png) | ![Wings of Spirits](/img/items/wings/wings-of-spirit.png) |
-|                      Wings of Darkness                       |                     Cape of Lord                     |
-| ![Wings of Darkness](/img/items/wings/wings-of-darkness.png) |  ![Cape of Lord](/img/items/wings/cape-of-lord.png)  |
+|                     Крылья Дракона                      |                      Крылья Души                       |                     Крылья Духов                      |
+| :-----------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
+| ![Крылья Дракона](/img/items/wings/wings-of-dragon.png) |   ![Крылья Души](/img/items/wings/wings-of-soul.png)   | ![Крылья Духов](/img/items/wings/wings-of-spirit.png) |
+|                       Крылья Тьмы                       |                    Мантия Господина                    |
+| ![Крылья Тьмы](/img/items/wings/wings-of-darkness.png)  | ![Мантия Господина](/img/items/wings/cape-of-lord.png) |
 
 :::caution
 
-It is worth mentioning that the type of **2nd Level Wings** obtained is not dependent on the type of your initial [1st Level Wings](/crafting/wings/first-level-wings).
+Следует отметить, что тип полученных **крыльев 2-го уровня** не зависит от типа ваших исходных [крыльев 1-го уровня (1st Level Wings)](/crafting/wings/first-level-wings).
 
 :::

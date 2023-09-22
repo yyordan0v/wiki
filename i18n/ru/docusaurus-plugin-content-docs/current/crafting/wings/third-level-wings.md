@@ -2,55 +2,55 @@
 sidebar_position: 4
 ---
 
-# 3rd Level Wings
+# 3-е Уровень Крыльев (3rd Level Wings)
 
-Within the expansive dominion of Mu Online, the awe-inspiring **wings** reign as extraordinary treasures, imbuing characters with unparalleled might while exuding a mesmerizing presence. As valiant explorers navigate the boundless landscapes of this virtual world, they are bestowed with chances to transcend their existing capabilities by embarking upon the remarkable journey of fusing together the illustrious **3rd Level Wings**. In this guide, our aim is to shed light upon the intricate process of combining these celestial wings, unveiling the untapped potential that lies dormant, eagerly waiting to bestow even greater power upon those who dare to venture deeper into this realm of limitless possibilities.
+В обширном мире Mu Online вдохновляющие **крылья** царствуют как исключительные сокровища, наделяя персонажей непревзойденной мощью и излучая завораживающее влияние. Когда отважные исследователи навигируют по безграничным пейзажам этого виртуального мира, они наделяются шансами превзойти свои существующие способности, отправляясь в удивительное путешествие объединения прославленных **крыльев 3-го уровня**. В этом руководстве наша цель - пролить свет на сложный процесс объединения этих небесных крыльев, раскрывая неиспользованный потенциал, который пылает желанием даровать еще большую мощь тем, кто осмеливается отправиться глубже в этот мир безграничных возможностей.
 
-## Ingredients
+## Ингредиенты
 
-Before you can combine the **Wings**, you need to ensure that you have the necessary ingredients:
+Прежде чем вы сможете объединить **крылья**, убедитесь, что у вас есть необходимые ингредиенты:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [20 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
-- [20 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
-- [20 Bundled Jewels of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- **Condor Flame**
-- [Condor Feather](/crafting/wings/condor-feather)
-- **Excellent** item that has been upgraded to a **minimum of +13** with an **option of +4 or higher**
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [20 Пучков Жемчуга Благословения](/items/jewels/regular-jewels/jewel-of-bless)
+- [20 Пучков Жемчуга Души](/items/jewels/regular-jewels/jewel-of-soul)
+- [20 Пучков Жемчуга Творения](/items/jewels/regular-jewels/jewel-of-creation)
+- **Пламя Кондора (Condor Flame)**
+- [Перо Кондора (Condor Feather)](/crafting/wings/condor-feather)
+- **Превосходный (Excellent)** предмет, который был улучшен как минимум до **+13** с **опцией +4 или выше**
 - 1,000,000,000 Zen
 
-![Third Level Wings Mix](/img/crafting/third-level-wings.png)
+![Смешивание Крыльев 3-го Уровня (Third Level Wings Mix)](/img/crafting/third-level-wings.png)
 
-_Third Level Wings Mix_
+_Смешивание Крыльев 3-го Уровня_
 
 :::info
 
-The success rate for this Chaos Combination is **40%**.
+Шанс успеха для этой комбинации Хаоса составляет **40%**.
 
 :::
 
-## The Chaos Machine
+## Хаос Машина
 
-Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того, как вы получили Жемчуг Хаоса и необходимые предметы, найдите **Хаос Машину** в игровом мире. Вы можете найти его в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином** и следуйте инструкциям, чтобы продолжить с комбинации.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин_
 
-## Reward
+## Награда
 
-A successful combination will reward you with **3rd Level Wings**. You will get **Wings of Storm, Wings of Eternal, Wings of Illusion, Wings of Ruin** or the **Cape of Emperor**.
+Успешное соединение наградит вас **крыльями 3-го уровня**. Вы получите **Крылья Шторма (Wings of Storm), Крылья Вечности (Wings of Eternal), Крылья Иллюзии (Wings of Illusion), Крылья Разрушения (Wings of Ruin)** или **Мантию Императора (Cape of Emperor)**.
 
-|                     Wings of Storm                     |                      Wings of Eternal                      |                      Wings of Illusion                       |
-| :----------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Wings of Storm](/img/items/wings/wings-of-storm.png) | ![Wings of Eternal](/img/items/wings/wings-of-eternal.png) | ![Wings of Illusion](/img/items/wings/wings-of-illusion.png) |
-|                     Wings of Ruin                      |                      Cape of Emperor                       |
-|  ![Wings of Ruin](/img/items/wings/wings-of-ruin.png)  |  ![Cape of Emperor](/img/items/wings/cape-of-emperor.png)  |
+|                      Крылья Шторма                       |                      Крылья Вечности                       |                      Крылья Иллюзии                       |
+| :------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: |
+|  ![Крылья Шторма](/img/items/wings/wings-of-storm.png)   | ![Крылья Вечности](/img/items/wings/wings-of-eternal.png)  | ![Крылья Иллюзии](/img/items/wings/wings-of-illusion.png) |
+|                    Крылья Разрушения                     |                     Мантия Императора                      |
+| ![Крылья Разрушения](/img/items/wings/wings-of-ruin.png) | ![Мантия Императора](/img/items/wings/cape-of-emperor.png) |
 
 :::caution
 
-It is worth mentioning that the type of **3rd Level Wings** obtained is random.
+Следует отметить, что тип полученных **крыльев 3-го уровня** случаен.
 
 :::

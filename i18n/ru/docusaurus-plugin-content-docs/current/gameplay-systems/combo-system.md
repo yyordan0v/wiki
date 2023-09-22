@@ -5,28 +5,28 @@ sidebar_position: 4
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Combo System
+# Система Комбо (Combo System)
 
-In the realm of **Lotus Mu**, every class has the opportunity to harness the potent capabilities of the **Combo Skill**, allowing all adventurers to unleash their true potential.
+В мире **Lotus Mu**, каждому классу предоставляется возможность использовать мощные способности **Системы Комбо**, что позволяет всем искателям приключений раскрыть свой истинный потенциал.
 
-:::note Notes
+:::note Заметки
 
-- To utilize the **Combo**, it is essential to successfully accomplish the **Marlon Quest** applicable to the _Knights, Wizards, and Elves_ classes.
+- Для использования **Комбо** необходимо успешно завершить **Квест Марлона**, который применим к классам _Рыцарей, Магов и Эльфам_.
 
-- To successfully trigger the **Combo**, it's essential to **execute specific skill combinations** in precise sequences.
+- Чтобы успешно активировать **Комбо**, необходимо **использовать определенные комбинации навыков** в точной последовательности.
 
 :::
 
-Successfully executing a Combo significantly **enhances your character's damage** potential, and you can even **chain Combos** for immense damage output.
+Успешное выполнение комбо значительно **увеличивает урон вашего персонажа**, и вы можете даже **сочетать комбо** для огромного уронного вывода.
 
-In the subsequent segments of the article, we will present you with comprehensive lists of potential combinations tailored for each distinct class.
+В следующих разделах статьи мы представим вам подробные списки потенциальных комбинаций, разработанных для каждого отдельного класса.
 
 ```mdx-code-block
 <Tabs lazy>
-  <TabItem value="knights" label="Knights">
+  <TabItem value="knights" label="Рыцари">
 ```
 
-#### Activation Skills
+#### Навыки Активации
 
 - Cresent Moon Slash ([Castle Siege](/events/castle-siege#cresent-moon-slash) only);
 - Falling Slash;
@@ -35,7 +35,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 - Cyclone;
 - Slash;
 
-#### Additional Skills
+#### Дополнительные Навыки
 
 - Twisting Slash;
 - Rageful Blow;
@@ -44,17 +44,17 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="wizards" label="Wizards">
+  <TabItem value="wizards" label="Маги">
 ```
 
-#### Activation Skills
+#### Навыки Активации
 
 - Wind Blades ([Castle Siege](/events/castle-siege#wind-blades) only);
 - Poison;
 - Lightning;
 - Ice;
 
-#### Additional Skills
+#### Дополнительные Навыки
 
 - Blast;
 - Decay;
@@ -63,15 +63,15 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="elves" label="Elves">
+  <TabItem value="elves" label="Эльфы">
 ```
 
-#### Activation Skills
+#### Навыки Активации
 
 - Heaven Arrow ([Castle Siege](/events/castle-siege#heaven-arrow) only);
 - Ice Age;
 
-#### Additional Skills
+#### Дополнительные Навыки
 
 - Triple Shot;
 - Multi Shot;
@@ -79,10 +79,10 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="gladiators" label="Gladiators">
+  <TabItem value="gladiators" label="Гладиаторы">
 ```
 
-#### Activation Skills
+#### Навыки Активации
 
 - Mana Rays ([Castle Siege](/events/castle-siege#mana-rays) only);
 - Spiral Slash ([Castle Siege](/events/castle-siege#spiral-slash) only);
@@ -96,7 +96,7 @@ In the subsequent segments of the article, we will present you with comprehensiv
 - Lightning;
 - Ice;
 
-#### Additional Skills
+#### Дополнительные Навыки
 
 - Twisting Slash;
 - Fire Slash;
@@ -109,17 +109,17 @@ In the subsequent segments of the article, we will present you with comprehensiv
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="lords" label="Lords">
+  <TabItem value="lords" label="Лорды">
 ```
 
-#### Activation Skills
+#### Навыки Активации
 
 - Fire Spines ([Castle Siege](/events/castle-siege#fire-spines) only);
 - Fire Burst;
 - Electric Spark;
 - Earthquake;
 
-#### Additional Skills
+#### Дополнительные Навыки
 
 - Fire Scream;
 - Chaotic Diseier;
@@ -132,6 +132,6 @@ In the subsequent segments of the article, we will present you with comprehensiv
 
 :::tip
 
-In order to effectively initiate the **Combo**, it's necessary to commence your skill sequence with **an activating skill** and then proceed with **two additional skills**.
+Чтобы эффективно инициировать **Комбо**, необходимо начать последовательность навыков с **активирующего навыка**, а затем продолжить двумя **дополнительными навыками**.
 
 :::

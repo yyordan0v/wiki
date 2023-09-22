@@ -2,47 +2,47 @@
 sidebar_position: 1
 ---
 
-# Invisibility Cloak
+# Плащ Невидимости (Invisibility Cloak)
 
-Players that want to participate in the [Blood Castle](/events/blood-castle) will need to craft an **Invisibility Cloak** prior joining the event. This article covers the process of this **Chaos Mix**.
+Игроки, желающие участвовать в [Кровавом Замке (Blood Castle)](/events/blood-castle), должны создать **Плащ Невидимости (Invisibility Cloak)** перед участием в мероприятии. В этой статье рассматривается процесс **Смешивания Хаоса (Chaos Mix)** для его создания.
 
-## Ingredients
+## Ингредиенты
 
-To craft the **Invisibility Cloak Mix**, you'll need two essential components:
+Для создания **Плаща Невидимости (Invisibility Cloak Mix)** вам понадобятся два неотъемлемых компонента:
 
-|                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |                          Invisibility Cloak                          |
-| :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
-| ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
+|                      Клык Крови                      |                                       |                          Свиток Архангела                           |                                       | [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) |                                        |                          Плащ Невидимости                          |
+| :--------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------------: | :------------------------------------: | :----------------------------------------------------------------: |
+| ![Клык Крови](/img/items/invitations/blood-bone.png) | ![Плюс](/img/items/invitations/+.png) | ![Свиток Архангела](/img/items/invitations/scroll-of-archangel.png) | ![Плюс](/img/items/invitations/+.png) |        ![Жемчуг Хаоса](/img/items/jewels/chaos.png)         | ![Равно](/img/items/invitations/=.png) | ![Плащ Невидимости](/img/items/invitations/invisibility-cloak.png) |
 
-_Invisibility Cloak Crafting_
+_Создание Плаща Невидимости (Invisibility Cloak)_
 
-The [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) serves as the catalyst for the fusion process, while the items provide the foundation for the creation of the **Invisibility Cloak**.
+[Жемчуг Хаоса (Jewel of Chaos)](/items/jewels/regular-jewels/jewel-of-chaos) служит катализатором для процесса слияния, в то время как предметы обеспечивают основу для создания **Плаща Невидимости (Invisibility Cloak)**.
 
-The following table provides information on how much Zen the respective **Chaos Mix** will cost:
+В следующей таблице приведена информация о том, сколько Zen будет стоить соответствующее **Смешивание Хаоса (Chaos Mix)**:
 
-| Invisibility Cloak | Required Zen |
-| :----------------: | :----------: |
-|         +1         |   500,000    |
-|         +2         |  1,000,000   |
-|         +3         |  2,000,000   |
-|         +4         |  3,000,000   |
-|         +5         |  4,000,000   |
-|         +6         |  5,000,000   |
-|         +7         |  7,000,000   |
-|         +8         |  15,000,000  |
+| Плащ Невидимости | Требуемый Zen |
+| :--------------: | :-----------: |
+|        +1        |    500,000    |
+|        +2        |   1,000,000   |
+|        +3        |   2,000,000   |
+|        +4        |   3,000,000   |
+|        +5        |   4,000,000   |
+|        +6        |   5,000,000   |
+|        +7        |   7,000,000   |
+|        +8        |  15,000,000   |
 
 :::info
 
-The success rate for this Chaos Combination is **80%**.
+Шанс успеха для этой комбинации Хаоса составляет **80%**.
 
 :::
 
-## The Chaos Machine
+## Машина Хаоса (Chaos Machine)
 
-Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того как вы получили [Жемчуг Хаоса (Jewel of Chaos)](/items/jewels/regular-jewels/jewel-of-chaos) и необходимые предметы, найдите **Машину Хаоса (Chaos Machine)** в игровом мире. Вы можете найти **Гоблина** в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином (Chaos Goblin)** и следуйте инструкциям, чтобы продолжить с вашей комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин (Chaos Goblin)](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин (Chaos Goblin)_

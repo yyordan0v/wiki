@@ -2,48 +2,48 @@
 sidebar_position: 3
 ---
 
-# Senior Mix
+# Старший Микс (Senior Mix)
 
-In the world of Mu Online, only the mightiest warriors get to the point of controlling the **Castle**. This comes with great benefits, all of which you can check on the article about [Castle Siege](/events/castle-siege).
+В мире Mu Online только самые могущественные воины достигают уровня, когда они контролируют **Замок**. Это приносит большие преимущества, о которых вы можете узнать в статье о [Осаде Замка](/events/castle-siege).
 
-One of those benefits is the **Senior Mix**. In exchange for precious jewels found in the cruel world the **Senior** offers something extraordinary - the [Golden Box](/items/item-bags/misc/golden-box) which hides unimaginable treasures.
+Одним из таких преимуществ является **Старший Микс (Senior Mix)**. В обмен на драгоценные драгоценности, найденные в жестоком мире, **Старший (Senior)** предлагает нечто невероятное - [Золотая Шкатулка (Golden Box)](/items/item-bags/misc/golden-box), скрывающая невообразимые сокровища.
 
 :::note
 
-The Senior Mix can be held only **once a day**, only by the **Castle Lord**.
+Старший Микс может быть проведен только **раз в день**, только **Лордом Замка**.
 
 :::
 
-## Ingredients
+## Ингредиенты
 
-To utilize the **Senior Mix**, players must first gather the necessary components.
+Чтобы воспользоваться **Старшим Миксом**, игроки должны сначала собрать необходимые компоненты.
 
-| [30 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [30 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Jewels of Guardian - x30](/items/jewels/regular-jewels/jewel-of-guardian) |                                         |   [Golden Box](/items/item-bags/misc/golden-box)   |
-| :-----------------------------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------: |
-|         ![Jewel of Bless Bundle](/img/items/jewels/bless-30.png)          | ![Plus](/img/items/invitations/+.png) |         ![Jewel of Soul Bundle](/img/items/jewels/soul-30.png)          | ![Plus](/img/items/invitations/+.png) |            ![Jewel of Guardian](/img/items/jewels/guardian.png)            | ![Equals](/img/items/invitations/=.png) | ![Golden Box](/img/items/item-bags/golden-box.png) |
+| [30 Упакованных Самоцветов Благословения](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [30 Упакованных Самоцветов Души](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Самоцветы Стража - x30](/items/jewels/regular-jewels/jewel-of-guardian) |                                        |   [Золотая Шкатулка](/items/item-bags/misc/golden-box)   |
+| :------------------------------------------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------: | :------------------------------------: | :------------------------------------------------------: |
+|         ![Упакованный Самоцвет Благословения](/img/items/jewels/bless-30.png)          | ![Плюс](/img/items/invitations/+.png) |         ![Упакованный Самоцвет Души](/img/items/jewels/soul-30.png)          | ![Плюс](/img/items/invitations/+.png) |            ![Самоцвет Стража](/img/items/jewels/guardian.png)            | ![Равно](/img/items/invitations/=.png) | ![Золотая Шкатулка](/img/items/item-bags/golden-box.png) |
 
-_Senior Mix Ingredients_
+_Ингредиенты Старшего Микса_
 
-In addition to all the ingredients, the **Castle Lord** will need to have **1,000,000,000 Zen** in order to initiate the **Senior Mix**.
+Помимо всех ингредиентов, **Лорд Замка** должен иметь **1,000,000,000 Zen** для инициирования **Старшего Микса**.
 
-![Senior Mix](/img/crafting/senior-mix.png)
+![Старший Микс](/img/crafting/senior-mix.png)
 
-_Senior Mix_
+_Старший Микс_
 
 :::info
 
-The success rate for the Senior Mix is **100%**.
+Шанс успеха для Старшего Микса составляет **100%**.
 
 :::
 
-Detailed information on what items you can yield by using the **Senior Mix** you can find in the [Golden Box](/items/item-bags/misc/golden-box) article.
+Подробную информацию о предметах, которые вы можете получить, используя **Старший Микс**, вы можете найти в статье [Золотая Шкатулка (Golden Box)](/items/item-bags/misc/golden-box).
 
-## The Senior
+## Старший (Senior)
 
-The Senior is NPC located in the **Throne Room** of the Castle of [Valley of Loren](/maps/valley-of-loren) at coordinates (179, 214).
+Старший (Senior) - это NPC, находящийся в **Тронной Зале** Замка в [Долине Лорен](/maps/valley-of-loren) по координатам (179, 214).
 
-Interact with the **Senior** to proceed with your combination.
+Взаимодействуйте с **Старшим (Senior)**, чтобы продолжить процесс комбинации.
 
-![Senior](/img/npc/senior.jpg)
+![Старший (Senior)](/img/npc/senior.jpg)
 
-_Senior_
+_Старший (Senior)_

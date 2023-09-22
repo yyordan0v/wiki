@@ -2,18 +2,18 @@
 sidebar_position: 9
 ---
 
-# Sell Items
+# Продажа Предметов
 
-Promoting your items for sale has never been easier! No more typing global messages manually. With the **Sell Items** function, all you need to do is hold the `Shift Key` and `Right Click` on your item to effortlessly send a global message that stands out from regular post messages.
+Продвигать ваши предметы на продажу теперь стало проще! Забудьте о ручном вводе глобальных сообщений. С функцией **Продажи Предметов** вам просто нужно удерживать клавишу `Shift` и щелкнуть правой кнопкой мыши на вашем предмете, чтобы без труда отправить глобальное сообщение, которое выделяется среди обычных сообщений.
 
-![Sell Items Function](/img/client-features/sell-items.jpg)
+![Функция Продажи Предметов](/img/client-features/sell-items.jpg)
 
-_Sell Items Function_
+_Функция Продажи Предметов_
 
-To maintain a clutter-free chat environment, we've implemented a cooldown on this function, allowing you to utilize it **once** every **5 minutes**.
+Чтобы поддерживать чат в порядке и не создавать спам, мы внедрили ограничение на использование этой функции, позволяя вам использовать ее **один раз** каждые **5 минут**.
 
-By pressing the `Shift Key` you will toggle the so called Trade Window, allowing you to view all the items posted for sale in one convenient location.
+Нажав клавишу `Shift`, вы включите так называемое Торговое Окно, которое позволит вам просматривать все предметы, выставленные на продажу, в одном удобном месте.
 
-![Trade Window](/img/client-features/trade-window.jpg)
+![Торговое Окно](/img/client-features/trade-window.jpg)
 
-_Trade Window_
+_Торговое Окно_

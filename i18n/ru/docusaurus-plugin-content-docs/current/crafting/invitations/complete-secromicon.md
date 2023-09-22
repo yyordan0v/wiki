@@ -2,44 +2,44 @@
 sidebar_position: 4
 ---
 
-# Complete Secromicon
+# Полное Секромикон (Complete Secromicon)
 
-Players that want to participate in the Sunday [Imperial Guardian](/events/imperial-guardian) will need to craft the **Complete Secromicon** prior joining the event. This article covers the process of this **Chaos Mix**.
+Игроки, желающие участвовать в воскресном [Имперском Страже (Imperial Guardian)](/events/imperial-guardian), должны создать **Полный Секромикон (Complete Secromicon)** перед участием в мероприятии. В этой статье рассматривается процесс **Смешивания Хаоса (Chaos Mix)** для его создания.
 
-![Complete Secromicon](/img/items/invitations/complete-secromicon.png)
+![Полный Секромикон (Complete Secromicon)](/img/items/invitations/complete-secromicon.png)
 
-_Complete Secromicon_
+_Полный Секромикон (Complete Secromicon)_
 
-## Ingredients
+## Ингредиенты
 
-To craft the **Scroll of Blood**, you'll need six components:
+Для создания **Свитка Крови (Scroll of Blood)** вам потребуется шесть компонентов:
 
-- First Secromicon Fragment
-- Second Secromicon Fragment
-- Third Secromicon Fragment
-- Fourth Secromicon Fragment
-- Fifth Secromicon Fragment
-- Sixth Secromicon Fragment
+- Первый Фрагмент Секромикона (First Secromicon Fragment)
+- Второй Фрагмент Секромикона (Second Secromicon Fragment)
+- Третий Фрагмент Секромикона (Third Secromicon Fragment)
+- Четвертый Фрагмент Секромикона (Fourth Secromicon Fragment)
+- Пятый Фрагмент Секромикона (Fifth Secromicon Fragment)
+- Шестой Фрагмент Секромикона (Sixth Secromicon Fragment)
 - 50,000,000 Zen
 
-![Secromicon Fragment](/img/items/invitations/secromicon-fragment.png)
+![Фрагмент Секромикона (Secromicon Fragment)](/img/items/invitations/secromicon-fragment.png)
 
-_Secromicon Fragment_
+_Фрагмент Секромикона (Secromicon Fragment)_
 
-Detailed information on how to obtain each fragment you can find by reading the [Imperial Guardian](/events/imperial-guardian) article.
+Подробную информацию о том, как получить каждый фрагмент, вы можете найти, прочитав статью [Имперский Страж (Imperial Guardian)](/events/imperial-guardian).
 
 :::info
 
-The success rate for this Chaos Combination is **100%**.
+Шанс успеха для этой комбинации Хаоса составляет **100%**.
 
 :::
 
-## The Chaos Machine
+## Машина Хаоса (Chaos Machine)
 
-Once you have acquired the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того как вы получили необходимые предметы, найдите **Машину Хаоса (Chaos Machine)** в игровом мире. Вы можете найти **Гоблина** в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином (Chaos Goblin)** и следуйте инструкциям, чтобы продолжить с вашей комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин (Chaos Goblin)](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин (Chaos Goblin)_

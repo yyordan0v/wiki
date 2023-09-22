@@ -2,40 +2,40 @@
 sidebar_position: 1
 ---
 
-# In-game Commands
+# Игровые Команды
 
-In this article We will list all the available **in-game commands** in Lotus Mu.
+В этой статье мы перечислим все доступные **игровые команды** в Lotus Mu.
 
-Please explore the following table for details.
+Пожалуйста, ознакомьтесь с таблицей ниже для получения подробной информации.
 
 :::tip
 
-You can also check this list of commands while playing through the [Especial Menu](/client-features/especial-menu).
+Вы также можете проверить этот список команд во время игры через [Специальное Меню](/client-features/especial-menu).
 
 :::
 
-| Command                 | Description                                                                               |
-| ----------------------- | ----------------------------------------------------------------------------------------- |
-| `/move <map name>`      | Moves your character to a certain map.                                                    |
-| `/post <message>`       | Post a global message to the server.                                                      |
-| `/str <value>`          | Add points in Strength.                                                                   |
-| `/agi <value>`          | Add points in Agility.                                                                    |
-| `/vit <value>`          | Add points in Vitality.                                                                   |
-| `/ene <value>`          | Add points in Energy.                                                                     |
-| `/cmd <value>`          | Add points in Command.                                                                    |
-| `/re on`                | Turn on all requests.                                                                     |
-| `/re off`               | Turn off all requests.                                                                    |
-| `/setparty <password>`  | Create a party that can be joined with a password.                                        |
-| `/joinparty <password>` | Join a party which has a password.                                                        |
-| `/quest`                | Shows the necessary requisites for the current quest.                                     |
-| `/lock <password>`      | Locks your items for trade/sale.                                                          |
-| `/unlock <password>`    | Unlocks your items for trade/sale.                                                        |
-| `/pack <type> <qty>`    | Bundles your jewels (Bless, Soul, Life etc.).                                             |
-| `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                                   |
-| `/war <guild name>`     | Challenge another guild to a Guild War.                                                   |
-| `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                               |
-| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                                  |
-| `/mayhem`               | Join the [Mayhem](/events/combat-events/mayhem) Event.                                    |
-| `/king`                 | Seize the throne in the [King of Yoskreth](/events/combat-events/king-of-yoskreth) Event. |
-| `/join`                 | Join in an Event.                                                                         |
-| `/go`                   | Join Events.                                                                              |
+| Команда                      | Описание                                                                           |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| `/move <название карты>`     | Перемещает вашего персонажа на определенную карту.                                 |
+| `/post <сообщение>`          | Отправляет глобальное сообщение на сервер.                                         |
+| `/str <значение>`            | Добавляет очки в Силу.                                                             |
+| `/agi <значение>`            | Добавляет очки в Ловкость.                                                         |
+| `/vit <значение>`            | Добавляет очки в Живучесть.                                                        |
+| `/ene <значение>`            | Добавляет очки в Энергию.                                                          |
+| `/cmd <значение>`            | Добавляет очки в Команду.                                                          |
+| `/re on`                     | Включает все запросы.                                                              |
+| `/re off`                    | Выключает все запросы.                                                             |
+| `/setparty <пароль>`         | Создает группу, в которую можно вступить с паролем.                                |
+| `/joinparty <пароль>`        | Присоединяется к группе, у которой есть пароль.                                    |
+| `/quest`                     | Показывает необходимые требования для текущего задания.                            |
+| `/lock <пароль>`             | Блокирует ваши предметы для торговли/продажи.                                      |
+| `/unlock <пароль>`           | Разблокирует ваши предметы для торговли/продажи.                                   |
+| `/pack <тип> <кол-во>`       | Упаковывает ваши драгоценности (Благословение, Душа, Жизнь и т. д.).               |
+| `/unpack <тип> <кол-во>`     | Распаковывает ваши упакованные драгоценности (Благословение, Душа, Жизнь и т. д.). |
+| `/war <название гильдии>`    | Вызывает другую гильдию на Гильдейскую Войну.                                      |
+| `/soccer <название гильдии>` | Вызывает другую гильдию на Боевой Футбол.                                          |
+| `/resp <ответ>`              | Отвечает на [Викторину](/events/others/quiz-event).                                |
+| `/mayhem`                    | Присоединяется к [Безумию](/events/combat-events/mayhem).                          |
+| `/king`                      | Захватывает трон в [Короле Йоскрета](/events/combat-events/king-of-yoskreth).      |
+| `/join`                      | Присоединяется к Событию.                                                          |
+| `/go`                        | Присоединяется к Событиям.                                                         |

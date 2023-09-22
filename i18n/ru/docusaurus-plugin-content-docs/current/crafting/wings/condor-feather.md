@@ -2,52 +2,52 @@
 sidebar_position: 5
 ---
 
-# Condor Feather
+# Перо Кондора (Condor Feather)
 
-Deep within the mystical realm of Mu Online, among the pivotal elements required to fashion the resplendent 3rd Level Wings, lies the illustrious **Condor Feather**. Revered as a sacred artifact, this extraordinary plume possesses a profound significance, serving as a crucial ingredient that infuses the wings with unparalleled strength and grace. Within this immersive guide, we shall illuminate the essence of this mystical plume, unveiling its hidden enchantments and the transformative potential it holds, as it weaves its ethereal essence into the very fabric of these mighty wings, elevating both their aesthetic allure and empowering those who wield them with extraordinary abilities beyond imagination.
+Глубоко в мистическом мире Mu Online, среди ключевых элементов, необходимых для создания великолепных 3-го уровня крыльев, находится знаменитое **Перо Кондора (Condor Feather)**. Почитаемое как священный артефакт, это необычное перо обладает глубоким значением, служа ключевым ингредиентом, придающим крыльям непревзойденную силу и изящество. В этом исчерпывающем руководстве мы расскажем об истинной сущности этого мистического пера, раскроем его скрытые заклинания и трансформационный потенциал, который оно несет, вплетая свою эфирную сущность в саму ткань этих могучих крыльев, придавая им эстетическое очарование и наделяя тех, кто владеет ими, невероятными способностями, выходящими за рамки воображения.
 
 :::tip
 
-This item is one of the **main ingredients** in the [3rd Level Wings](/crafting/wings/third-level-wings) Chaos Combination.
+Этот предмет является одним из **основных ингредиентов** в [Смешивании крыльев 3-го уровня (3rd Level Wings)](/crafting/wings/third-level-wings).
 
 :::
 
-## Ingredients
+## Ингредиенты
 
-Before you can combine the **Feather**, you need to ensure that you have the necessary ingredients:
+Прежде чем вы сможете объединить **Перо (Feather)**, убедитесь, что у вас есть необходимые ингредиенты:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
-- [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
-- [10 Bundled Jewels of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- [2nd Level Wings](/crafting/wings/second-level-wings) upgraded to **minimum level of +13** and **minimum of +4 additional damage / +1% hp Recovery**
-- **Ancient** item that has been upgraded to a **minimum of +9** with an **option of +4 or higher**
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [10 связанных Жемчужин Благословения (Bundled Jewels of Bless)](/items/jewels/regular-jewels/jewel-of-bless)
+- [10 связанных Жемчужин Души (Bundled Jewels of Soul)](/items/jewels/regular-jewels/jewel-of-soul)
+- [10 связанных Жемчужин Творения (Bundled Jewels of Creation)](/items/jewels/regular-jewels/jewel-of-creation)
+- [Крылья 2-го уровня (2nd Level Wings)](/crafting/wings/second-level-wings) улучшенные как минимум до **+13** и имеющие как минимум **+4 дополнительного урона / +1% восстановления HP**
+- **Древний (Ancient)** предмет, который был улучшен как минимум до **+9** с **опцией +4 или выше**
 - 300,000,000 Zen
 
-![Condor Feather Mix](/img/crafting/condor-feather.png)
+![Смешивание Пера Кондора (Condor Feather Mix)](/img/crafting/condor-feather.png)
 
-_Condor Feather Mix_
+_Смешивание Пера Кондора_
 
 :::info
 
-The success rate for this Chaos Combination is **60%**.
+Шанс успеха для этой комбинации Хаоса составляет **60%**.
 
 :::
 
-## The Chaos Machine
+## Хаос Машина
 
-Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+После того, как вы получили Жемчуг Хаоса и необходимые предметы, найдите **Хаос Машину** в игровом мире. Вы можете найти его в [Нории (Noria)](/maps/noria) и [Йоскрете (Yoskreth)](/maps/yoskreth).
 
-Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
+Взаимодействуйте с **Хаос Гоблином** и следуйте инструкциям, чтобы продолжить с комбинацией.
 
-![Chaos Goblin](/img/crafting/chaos-goblin.png)
+![Хаос Гоблин](/img/crafting/chaos-goblin.png)
 
-_The Chaos Goblin_
+_Хаос Гоблин_
 
-## Reward
+## Награда
 
-After a successful combination the player will be granted the **Condor Feather**.
+После успешного объединения игрок получит **Перо Кондора (Condor Feather)**.
 
-![Condor Feather](/img/items/others/condor-feather.png)
+![Перо Кондора (Condor Feather)](/img/items/others/condor-feather.png)
 
-_Condor Feather_
+_Перо Кондора (Condor Feather)_

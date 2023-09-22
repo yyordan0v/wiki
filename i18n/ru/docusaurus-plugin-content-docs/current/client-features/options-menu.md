@@ -2,20 +2,20 @@
 sidebar_position: 11
 ---
 
-# Options Menu
+# Меню Настроек
 
-The **Options Menu** offers a diverse range of settings to customize your game client according to your preferences. Within this menu, you can configure the following aspects:
+**Меню Настроек** предлагает разнообразные настройки для настройки вашего игрового клиента в соответствии с вашими предпочтениями. В этом меню вы можете настроить следующие аспекты:
 
-- Game Client Resolution
-- Font Size
-- Health Bars (show/hide)
-- AntiLag Features
-- Others
+- Разрешение игрового клиента
+- Размер шрифта
+- Полосы здоровья (показать/скрыть)
+- АнтиЛаг функции
+- Другие
 
-![Options Menu](/img/client-features/options-menu.jpg)
+![Меню Настроек](/img/client-features/options-menu.jpg)
 
-_Options Menu_
+_Меню Настроек_
 
 :::tip
-To open the **Options Menu**, simply hit the `ESC` button and then click on **Options**.
+Чтобы открыть **Меню Настроек**, просто нажмите кнопку `ESC`, а затем нажмите **Настройки**.
 :::

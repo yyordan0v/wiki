@@ -56,9 +56,9 @@ To promote a guild member, the **Guild Master** simply needs to click on their n
 
 Just as creating a guild is a straightforward process, leaving or disbanding a guild is equally simple.
 
-To leave a guild, one can press the "G" key to open the guild interface and navigate to the "Guild" tab located in the left corner. From there, selecting the "Withdraw" option at the bottom of the "Guild" tab will initiate the process of leaving the guild.
+To leave a guild, one can press the **`G key`** to open the guild interface and navigate to the "Guild" tab located in the left corner. From there, selecting the "Withdraw" option at the bottom of the "Guild" tab will initiate the process of leaving the guild.
 
-Similarly, to disband a guild, pressing the "G" key opens the guild interface, and selecting the "Guild" tab is the next step. At the bottom of the "Guild" tab, there is an option to choose "Disband," which will commence the process of dissolving the guild.
+Similarly, to disband a guild, pressing the **`G key`** opens the guild interface, and selecting the "Guild" tab is the next step. At the bottom of the "Guild" tab, there is an option to choose "Disband," which will commence the process of dissolving the guild.
 
 ## Guild's Alliance
 
@@ -78,10 +78,8 @@ Engaging and defeating members of hostile guilds **will not** result in you bein
 
 :::
 
-## Guild's Competition
+## Guild's War
 
-### Guild's War
-
-Guild Masters in **Lotus Mu** have the authority to initiate guild duels by using the command "**/war**" followed by the name of the target guild. Once the challenged guild accepts the duel, members from both guilds can engage in immediate combat against each other.
+Guild Masters in **Lotus Mu** have the authority to initiate guild duels by using the command **`/war`** followed by the name of the target guild. Once the challenged guild accepts the duel, members from both guilds can engage in immediate combat against each other.
 
 If your guild is challenged to a duel by another guild master, a notification screen will appear. If you prefer not to participate in the duel, you can reject the proposal by selecting "Cancel". It is possible to receive multiple guild duel challenges while playing the game. In such cases, you can block incoming requests by enabling the "Request Off" option. Enabling "Request Off" will block all trade, party play, and guild duel requests.

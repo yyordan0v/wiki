@@ -2,130 +2,132 @@
 sidebar_position: 9
 ---
 
-# Skin System
+# Систему Скинов
 
-We have embraced the concept of player self-expression by introducing the revolutionary **Skin System** - unique feature which can be encountered only in the realm of **Lotus Mu**.
+Мы воплотили концепцию самовыражения игрока, представив революционную **Систему Скинов** - уникальную функцию, которую можно встретить только в мире **Lotus Mu**.
 
-This opens up the opportunity for you to modify the appearance of your [Tier 2 pets](/category/pets).
+Это открывает перед вами возможность изменять внешний вид ваших [питомцев второго уровня](/category/pets).
 
-The only benefit you will get from infusing your [Tier 2 pet](/category/pets) will be the **Plasma Storm Skill**. This skill **will be added** to all infused [Necromancer](/crafting/pets/necromancer) and [Spirit of Nature](/crafting/pets/spirit-of-nature) pets.
+Единственным преимуществом, которое вы получите от насыщения вашего [питомца второго уровня](/category/pets), будет **Умение Плазменного Шторма**. Это умение **будет добавлено** ко всем питомцам [Некроманта](/crafting/pets/necromancer) и [Духа Природы](/crafting/pets/spirit-of-nature), которые были насыщены.
 
 :::note
 
-Please be aware that this functionality solely alters the pet's **appearance** while preserving its original stats.
+Пожалуйста, имейте в виду, что эта функция изменяет только **внешний вид** питомца, сохраняя его оригинальные характеристики.
 
 :::
 
-To alter the appearance of your [Tier 2 pet](/category/pets), you must infuse it with a Prismatic Gem.
+Чтобы изменить внешний вид вашего [питомца второго уровня](/category/pets), вы должны насытить его Призматическим Камнем.
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Призматический Камень](/img/items/jewels/prismatic-gem.png)
 
-_Prismatic Gem_
+_Призматический Камень_
 
-## Infusion Process
+## Процесс Насыщения
 
-One such example of infusion is as follows:
+Один из примеров насыщения выглядит следующим образом:
 
-|    [Necromancer](/crafting/pets/necromancer)    |                                       | [Green Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems) |                                         |                   Green Fenrir                    |
-| :---------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------: | :-----------------------------------------------: |
-| ![Necromancer](/img/items/pets/necromancer.png) | ![Plus](/img/items/invitations/+.png) |   ![Green Fenrir Prismatic Gem](/img/items/jewels/prismatic-gem.png)   | ![Equals](/img/items/invitations/=.png) | ![Green Fenrir](/img/items/pets/green-fenrir.jpg) |
+|    [Некромант](/crafting/pets/necromancer)    |                                       | [Призматический Камень Зеленого Фенрира](/items/jewels/prismatic-gems/fenrir-gems) |                                        |                   Зеленый Фенрир                    |
+| :-------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------: | :-------------------------------------------------: |
+| ![Некромант](/img/items/pets/necromancer.png) | ![Плюс](/img/items/invitations/+.png) |   ![Призматический Камень Зеленого Фенрира](/img/items/jewels/prismatic-gem.png)   | ![Равно](/img/items/invitations/=.png) | ![Зеленый Фенрир](/img/items/pets/green-fenrir.jpg) |
 
-The final result, **The Green Fenrir**, will retain identical stats to those of the [Necromancer](/crafting/pets/necromancer).
+Финальный результат, **Зеленый Фенрир**, сохранит идентичные характеристики [Некроманта](/crafting/pets/necromancer).
 
 :::tip
 
-You can infuse any of the three [Tier 2 pets](/category/pets) with any Prismatic Gem.
+Вы можете насытить любого из трех [питомцев второго уровня](/category/pets) любым Призматическим Камнем.
 
 :::
 
-## How to obtain a Prismatic Gem
+## Как получить Призматический Камень
 
-There are several distinct methods to acquire prismatic gems.
+Существует несколько различных способов получения призматических камней.
 
 :::info
 
-All of the following **NPCs** are located in [Yoskreth](/maps/yoskreth).
+Все следующие **NPC** находятся в [Йоскрете](/maps/yoskreth).
 
 :::
 
-### Silvia
+### Сильвия
 
-You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia** in exchange for **Zen**.
+У вас есть возможность получить [Призматические Камни](/category/prismatic-gems) у **Сильвии** в обмен на **Зен**.
 
-![Silvia](/img/npc/silvia.jpg)
+![Сильвия](/img/npc/silvia.jpg)
 
-_Silvia_
+_Сильвия_
 
-The Prismatic Gems available for purchase with **Zen** include:
+Призматические Камни, доступные для покупки за **Зен**, включают:
 
-- [Red Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
-- [Red Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
+- [Призматический Камень Красного Фенрира](/items/jewels/prismatic-gems/fenrir-gems)
+- [Призматический Камень Красной Призрачной Лошади](/items/jewels/prismatic-gems/ghost-horse-gems)
 
-### Rhea
+### Рея
 
-You have the chance to obtain [Prismatic Gems](/category/prismatic-gems) from **Rhea** in exchange for **Goblin Points**.
+У вас есть шанс получить [Призматические Камни](/category/prismatic-gems) у **Реи** в обмен на **Очки Гоблина**.
 
-![Rhea](/img/npc/rhea.jpg)
+![Рея](/img/npc/rhea.jpg)
 
-_Rhea_
+_Рея_
 
-The Prismatic Gems available for purchase with **Goblin Points** include:
+Призматические Камни, доступные для покупки за **Очки Гоблина**, включают:
 
-- [Ice Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
-- [White Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
-- [Blue Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
-- [Black Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
+- [Призматический Камень Ледяной Призрачной Лошади](/items/jewels/prismatic-gems/ghost-horse-gems)
+- [Призматический Камень Белой Призрачной Лошади](/items/jewels/prismatic-gems/ghost-horse-gems)
+- [Призматический Камень Синего Фенрира](/items/jewels/prismatic-gems/fenrir-gems)
+- [Призматический Камень Черного Фенрира](/items/jewels/prismatic-gems/fenrir-gems)
 
-### Jagod Di
+### Джагод Ди
 
-Within The **Lotus Mu Collector's Caches** are hidden the **rarest** prismatic gems.
+В **Коллекционных Кейсах Лотус Mu** скрыты **самые редкие** призматические камни.
 
-You can obtain these caches from **Jagod Di** in exchange for **Coins** .
+Вы можете получить эти кейсы у **Джагод Ди** в обмен на **Монеты**.
 
-![Jagod Di](/img/npc/jagod-di.jpg)
+![Джагод Ди](/img/npc/jagod-di.jpg)
 
-_Jagod Di_
+_Джагод Ди_
 
-Currently, there are two types of collector's caches available:
+В настоящее время доступны два типа коллекционных кейсов:
 
-#### The Fenrir Collector's Cache
+#### Коллекционный Кейс Фенрира
 
-Inside this particular **Collector's Cache**, are hidden the [Fenrir Prismatic Gems](/items/jewels/prismatic-gems/fenrir-gems).
+Внутри этого **Коллекционного Кейса** скрыты [Призматические Камни Фенрира](/items/jewels/prismatic-gems/fenrir-gems).
 
-![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
+![Коллекционный Кейс Фенрира](/img/items/item-bags/fenrir-cache.png)
 
-_Fenrir Collector's Cache_
+_Коллекционный Кейс Фенрира_
 
 :::note
 
-The Red, Blue, and Black Fenrir Prismatic Gems are **not included** in this specific Cache.
+Призматические Камни Красного
+
+, Синего и Черного Фенрира **не включены** в этот конкретный Кейс.
 
 :::
 
-#### The Darkhorse Collector's Cache
+#### Коллекционный Кейс Темной Лошади
 
-From this specific **Collector's Cache**, you have the chance to acquire [Darkhorse Prismatic Gems](/items/jewels/prismatic-gems/darkhorse-gems).
+Из этого **Коллекционного Кейса** у вас есть шанс получить [Призматические Камни Темной Лошади](/items/jewels/prismatic-gems/darkhorse-gems).
 
-![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
+![Коллекционный Кейс Темной Лошади](/img/items/item-bags/darkhorse-cache.png)
 
-_Darkhorse Collector's Cache_
+_Коллекционный Кейс Темной Лошади_
 
-## Rarity
+## Редкость
 
-The skins are divided into different **Rarity Tiers** based on the chance to aquire each of them.
+Скины разделены на разные **Уровни Редкости** на основе вероятности их получения.
 
 :::note
 
-The **lower** the chance of aquiring a skin, the **higher** its **Rarity** will be.
+Чем **ниже** вероятность получения скина, тем выше его **Редкость**.
 
 :::
 
-The following table offers an overview of the various tiers of rarity.
+В следующей таблице представлен обзор разных уровней редкости.
 
-| Skin Rarity                                           | Description                                                                         |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| <span className="tier-common">**Common**</span>       | Skins that are commonly found and easily accessible.                                |
-| <span className="tier-uncommon">**Uncommon**</span>   | Skins that are less common than usual and offer a bit of uniqueness.                |
-| <span className="tier-rare">**Rare**</span>           | Skins that are harder to come by, making them more sought after.                    |
-| <span className="tier-mythical">**Mythical**</span>   | Skins that are extremely rare and often have special features or effects.           |
-| <span className="tier-legendary">**Legendary**</span> | Skins of the highest rarity, known for their exceptional and distinctive qualities. |
+| Редкость Скина                                          | Описание                                                                                     |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <span className="tier-common">**Обычный**</span>        | Скины, которые обычно находятся и легко доступны.                                            |
+| <span className="tier-uncommon">**Необычный**</span>    | Скины, которые менее обычны, чем обычно, и предлагают немного уникальности.                  |
+| <span className="tier-rare">**Редкий**</span>           | Скины, которые сложнее получить, что делает их более востребованными.                        |
+| <span className="tier-mythical">**Мифический**</span>   | Скины, которые крайне редки и часто имеют специальные особенности или эффекты.               |
+| <span className="tier-legendary">**Легендарный**</span> | Скины самой высокой редкости, известные своими исключительными и характерными особенностями. |

@@ -2,62 +2,62 @@
 sidebar_position: 2
 ---
 
-# Spirit of Nature
+# Дух Природы (Spirit of Nature)
 
-In the enchanting realm of Mu Online, where fantastical landscapes and wondrous creatures abound, players have the opportunity to form profound connections with mystical pets, each possessing their own unique abilities and allure. Among these extraordinary companions, the **Spirit of Nature** stands out as a pet of exceptional beauty and power. With its deep connection to the natural world and its harmonious presence, the **Spirit of Nature** is a prized companion for adventurers in Mu.
+В волшебной вселенной Mu Online, где вас окружают фантастические пейзажи и чудесные существа, игрокам предоставляется возможность налаживать глубокие связи с мистическими питомцами, каждый из которых обладает собственными уникальными способностями и очарованием. Среди этих необыкновенных спутников **Дух Природы (Spirit of Nature)** выделяется как питомец исключительной красоты и силы. Обладая глубокой связью с природным миром и своим гармоничным присутствием, **Дух Природы** является ценным спутником для искателей приключений в Mu.
 
-The **Spirit of Nature** is a Tier 2 pet, evolving from its Tier 1 counterpart, the **Guardian Angel**. The magical fairy embodies the essence of the natural world, radiating a serene aura that captivates all who behold it. Resplendent with vibrant hues and adorned with floral embellishments, this ethereal creature exemplifies the delicate balance and raw power found in nature. Its appearance alone evokes a sense of tranquility and reverence, making the **Spirit of Nature** a highly coveted pet among players.
+**Дух Природы** - это питомец второго уровня, эволюционирующий из своего предшественника первого уровня, **Ангел-Хранитель (Guardian Angel)**. Магическая фея воплощает сущность природного мира, излучая спокойную ауру, которая пленяет всех, кто видит ее. Украшенная яркими оттенками и цветочными украшениями, эта этерическая сущность воплощает в себе хрупкое равновесие и силу, присущие природе. Ее внешний вид один по себе вызывает чувство спокойствия и благоговения, что делает **Духа Природы** высоко ценным питомцем среди игроков.
 
-![Spirit of Nature](/img/items/pets/spirit-of-nature.jpg)
+![Дух Природы](/img/items/pets/spirit-of-nature.jpg)
 
-_Spirit of Nature_
+_Дух Природы_
 
-## Ingredients
+## Ингредиенты
 
-In order to get your hands on the **Spirit of Nature** you need to acquire the followings items:
+Чтобы получить **Духа Природы**, вам нужно получить следующие предметы:
 
-- [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
-- [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life)
-- [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
-- [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
-- **Guardian Angel** x10
+- [Жемчуг Хаоса](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Жемчуг Создания](/items/jewels/regular-jewels/jewel-of-creation)
+- [Жемчуг Жизни](/items/jewels/regular-jewels/jewel-of-life)
+- [10 пучков Жемчугов Благословения](/items/jewels/regular-jewels/jewel-of-bless)
+- [10 пучков Жемчугов Души](/items/jewels/regular-jewels/jewel-of-soul)
+- **Ангел-Хранитель (Guardian Angel)** x10
 - 50,000,000 Zen
 
-![Spirit of Nature Mix](/img/crafting/spirit-of-nature-mix.png)
+![Смешивание Духа Природы](/img/crafting/spirit-of-nature-mix.png)
 
-_Spirit of Nature Mix_
+_Смешивание Духа Природы_
 
 :::info
 
-The success rate for this Chaos Combination is **60%**.
+Шанс успеха для этой комбинации Хаоса составляет **60%**.
 
 :::
 
-## Stats
+## Характеристики
 
-One of the most remarkable aspects of the **Spirit of Nature** is its ability to harness the forces of nature to aid its master. With a simple gesture or a gentle touch, the Spirit of Nature is ensuring that their master can endure even the most grueling of challenges.
+Одной из наиболее замечательных особенностей **Духа Природы** является его способность использовать силы природы, чтобы помочь своему хозяину. Простым жестом или нежным прикосновением Дух Природы обеспечивает, что его хозяин может вынести даже самые тяжелые испытания.
 
 :::tip
 
-No matter how hard you fight, the **Spirit of Nature** will stay healthy forever.
+Независимо от того, насколько вы сражаетесь, **Дух Природы** всегда остается здоровым.
 
 :::
 
-Hero equiped with the **Spirit of Nature** gets the following bonuses:
+Герой, наделенный **Духом Природы**, получает следующие бонусы:
 
-- Increased Damage & Wizardry Damage by **30%**
-- **40%** of Damage Absorb
-- Increased maximum HP by **+6500**
+- Увеличение урона и магического урона на **30%**
+- **40%** поглощения урона
+- Увеличение максимального здоровья на **+6500**
 
-## Cosmetics
+## Косметические опции
 
-Beyond its exceptional abilities, the **Spirit of Nature** also allows players to express their creativity and individuality. With a range of cosmetic options available, players can adorn their pet with vibrant colors, intricate patterns, and natural adornments, reflecting their own connection to the beauty of nature.
+Помимо своих исключительных способностей, **Дух Природы** также позволяет игрокам выразить свою креативность и индивидуальность. С разнообразием доступных косметических опций игроки могут украсить своего питомца яркими цветами, сложными узорами и природными украшениями, отражая свою собственную связь с природой.
 
-This customization feature adds a personal touch and allows players to create a **Spirit of Nature** that is as unique and awe-inspiring as the world it inhabits.
+Эта функция настройки добавляет персональное прикосновение и позволяет игрокам создать **Духа Природы**, уникального и вдохновляющего, как мир, в котором он существует.
 
 :::tip
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+Вы можете узнать больше о **Системе Уникальных Скинов Lotus Mu**, перейдя в наш раздел [Система Скинов](/skin-system).
 
 :::

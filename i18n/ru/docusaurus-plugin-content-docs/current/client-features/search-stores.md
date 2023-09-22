@@ -2,38 +2,38 @@
 sidebar_position: 8
 ---
 
-# Search Stores
+# Поиск Магазинов
 
-The **Search Store** functionality in Lotus Mu is closely connected with the **Personal Store**, creating a seamless experience for players seeking to sell their items. This feature enables you to list items for sale in exchange for zen but also opens up exciting opportunities to trade them for precious jewels and coins.
+Функциональность **Поиска Магазинов** в Lotus Mu тесно связана с **Личным Магазином**, создавая беспроблемный опыт для игроков, желающих продавать свои предметы. Эта функция позволяет вам выставлять предметы на продажу в обмен на зен, а также открывает увлекательные возможности для обмена их на драгоценные драгоценные камни и монеты.
 
-To list an item for sale in the **Search Stores** Module you need to open your **Personal Store**.
+Для того чтобы выставить предмет на продажу в **Модуле Поиска Магазинов**, вам нужно открыть свой **Личный Магазин**.
 
-Please be aware that while adding an item to your Personal Store, you'll be prompted to set a price. The value you enter will be applied universally for all available options, including Zen, Bless, Coins, and more.
+Обратите внимание, что при добавлении предмета в ваш Личный Магазин вам будет предложено установить цену. Введенное вами значение будет применяться универсально для всех доступных вариантов, включая зен, благословение, монеты и многое другое.
 
-![Personal Store](/img/client-features/personal-store.jpg)
+![Личный Магазин](/img/client-features/personal-store.jpg)
 
-_Personal Store_
+_Личный Магазин_
 
-After setting the price for your items, you can open the store by selecting your preferred trading resource from the buttons located in the lower section of the store interface.
+После установки цены на ваши предметы вы можете открыть магазин, выбрав предпочтительный торговый ресурс из кнопок, расположенных в нижней части интерфейса магазина.
 
 :::note
 
-For selling your items in exchange for Zen, utilize the default "Open Store" button.
+Для продажи ваших предметов в обмен на Зен, используйте кнопку "Открыть Магазин" по умолчанию.
 
 :::
 
-Once you have opened your store, your items will be promptly listed in the **Search Store** Module.
+После открытия вашего магазина ваши предметы будут немедленно перечислены в **Модуле Поиска Магазинов**.
 
-![Search Store](/img/client-features/search-store.jpg)
+![Поиск Магазинов](/img/client-features/search-store.jpg)
 
-_Search Store_
+_Поиск Магазинов_
 
-Within the **Search Store** Module, you'll find convenient Filtering Options that allow you to sort items either based on the resource they are listed for sale or by their name, utilizing the first letter of the item.
+В Модуле **Поиска Магазинов** вы найдете удобные опции фильтрации, которые позволяют сортировать предметы либо по ресурсу, на который они выставлены на продажу, либо по их имени, используя первую букву имени предмета.
 
-To purchase an item listed in the store, all you need to do is click on the `Buy It` button next to your desired item.
+Для покупки предмета, выставленного в магазине, вам нужно всего лишь нажать на кнопку `Купить`, находящуюся рядом с выбранным предметом.
 
 :::tip
 
-You can access the **Search Store** Module via the [Especial Menu](/client-features/especial-menu).
+Вы можете получить доступ к Модулю **Поиска Магазинов** через [Меню Особенностей](/client-features/especial-menu).
 
 :::

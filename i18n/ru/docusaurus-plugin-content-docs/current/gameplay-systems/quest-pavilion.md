@@ -2,40 +2,40 @@
 sidebar_position: 8
 ---
 
-# Quest Pavilion
+# Павильон Квестов
 
-The **Quest Pavilion** system introduces an exciting way for dedicated players in **Lotus Mu** to gain additional rewards by embarking on [quests](/gameplay-systems/quest-system) and achieving milestones within the game.
+Система **Павильон Квестов** представляет собой увлекательный способ для преданных игроков в **Lotus Mu** получать дополнительные награды, выполняя [квесты](/gameplay-systems/quest-system) и достигая важных моментов в игре.
 
-As you immerse yourself in the realm of **Lotus Mu** and successfully complete [quests](/gameplay-systems/quest-system), you'll have the opportunity to earn **`stars`**, which can be exchanged for **valuable assets**. Let's delve into the details of this innovative system.
+Погрузившись в мир **Lotus Mu** и успешно завершив [квесты](/gameplay-systems/quest-system), вы получите возможность заработать **`звёзды`**, которые можно обменять на **ценные ресурсы**. Давайте подробнее разберёмся с этой инновационной системой.
 
-## Earning Stars and Rewards
+## Заработок Звёзд и Наград
 
-By completing [quests](/gameplay-systems/quest-system), players can earn stars that represent their progress and dedication.
+Завершая [квесты](/gameplay-systems/quest-system), игроки могут зарабатывать звёзды, которые отражают их прогресс и преданность.
 
 :::info
 
-The process is simple:
+Процесс прост:
 
-Every time you complete a **[primary quest](/gameplay-systems/quest-system#primary-quests)**, you'll be granted **`1 star`**.
+Каждый раз, когда вы выполняете **[первичный квест](/gameplay-systems/quest-system#primary-quests)**, вы получаете **`1 звезду`**.
 
-Completing a **[secondary quest](/gameplay-systems/quest-system#secondary-quests)** will reward players with **`5 stars`**.
+Завершение **[вторичного квеста](/gameplay-systems/quest-system#secondary-quests)** награждает игроков **`5 звёздами`**.
 
 :::
 
-## Unlocking Valuable Assets
+## Разблокировка Ценных Ресурсов
 
-The stars you earn through your quest accomplishments aren't just a measure of your achievements—they can be **traded for precious rewards**. These **rewards** encompass a wide range of assets that can enhance your gameplay experience.
+Звёзды, которые вы зарабатываете, выполняя квесты, не просто измерение ваших достижений - их можно **обменять на ценные награды**. Эти **награды** включают в себя широкий спектр активов, которые могут улучшить ваш опыт игры.
 
-![Quest Pavilion](/img/client-features/quest-pavilion.jpg)
+![Павильон Квестов](/img/client-features/quest-pavilion.jpg)
 
-_Quest Pavilion_
+_Павильон Квестов_
 
-## Accessing the Quest Pavilion
+## Доступ к Павильон Квестов
 
-To make use of the **Quest Pavilion**, all you need to do is have **20 resets** on your character. This ensures that seasoned players who have reached a certain level of progression can benefit from the rewards offered in the Pavilion.
+Для использования **Павильон Квестов** вам просто нужно иметь **20 ресетов** на своем персонаже. Это гарантирует, что игроки, достигшие определенного уровня развития, могут воспользоваться вознаграждением, предлагаемым Pavilion.
 
-The **Quest Pavilion** can be conveniently accessed through a dedicated button located in the game's interface - the [Quest Pavilion Especial Button](/client-features/especial-buttons), providing a seamless experience for players to manage their earned stars and claim their rewards.
+**Павильон Квестов** может быть удобно доступен через специальную кнопку, расположенную в интерфейсе игры - [Специальные кнопку Павильон Квестов](/client-features/especial-buttons), обеспечивая беспрепятственный доступ игроков к управлению заработанными звёздами и получению наград.
 
-## Embrace the Quest Pavilion
+## Обратитесь к Павильон Квестов
 
-The **Quest Pavilion** is designed to reward players who consistently engage in [quests](/gameplay-systems/quest-system) and seek to enhance their characters. With the ability to earn stars and trade them for valuable assets, this system adds an extra layer of excitement and motivation to your **Lotus Mu** journey.
+**Павильон Квестов** разработан для награждения игроков, которые последовательно участвуют в [квестах](/gameplay-systems/quest-system) и стремятся улучшить своих персонажей. С возможностью зарабатывать звёзды и обменивать их на ценные активы, эта система добавляет дополнительный уровень волнения и мотивации к вашему путешествию в **Lotus Mu**.

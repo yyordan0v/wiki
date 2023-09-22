@@ -2,70 +2,72 @@
 sidebar_position: 1
 ---
 
-# Party System
+# Система группировки
 
-A **Party** refers to a compact gathering of players who unite their efforts to efficiently vanquish monsters. By banding together, **party members** not only accelerate the process of eliminating foes but also share in the **experience points** earned and the **loot** obtained from fallen adversaries.
+Понятие **Группа** описывает компактное собрание игроков, объединяющих свои усилия для эффективного уничтожения монстров. Объединяясь в **группы**, **члены группы** не только ускоряют процесс уничтожения противников, но и делятся полученным **опытом** и **добычей**, полученной от поверженных противников.
 
-- A Party can have up to **5** characters in it.
-- Party Members within a certain distance of each other will share **Experience Points**.
-- Party Members also share **item drops**.
-- Any two players can join a Party together via **Character Command**.
-- The player that sends the initial Party Request will become the **Party Leader**.
-- To join an existing Party, only the Party Leader can accept a **Party Request**.
-- If a Party Member **disconnects** from the game, the character will remain in the Party.
+- В группе может быть **до 5** персонажей.
+- Члены группы, находящиеся на определенном расстоянии друг от друга, будут делить **очки опыта**.
+- Члены группы также делятся **предметами**, выпавшими с монстров.
+- В группу могут присоединиться два игрока с помощью **команды персонажа**.
+- Игрок, который отправляет запрос на создание группы, становится **лидером группы**.
+- Для присоединения к существующей группе запрос на создание группы может принять только **лидер группы**.
+- Если участник группы **отключается** от игры, его персонаж остается в группе.
 
-## Party Window
+## Окно группы
 
-- When you join a Party, the Party Window will appear. The window shows the real-time status of each character, including their HP, Buff or Debuff.
-- To remove a Party Member, the Party Leader can click the "X" next to their name.
-- The Party Leader is identified by a small flag icon next to their name.
+- При присоединении к группе появляется окно группы. Окно показывает текущий статус каждого персонажа в реальном времени, включая их HP, баффы или дебаффы.
+- Для удаления члена группы, **лидер группы** может нажать "X" рядом с его именем.
+- Лидер группы идентифицируется маленькой иконкой флага рядом с его именем.
 
-## Party EXP Sharing
+## Распределение опыта в группе
 
-**Experience Points** (EXP) are distributed among the members of a Party. The distribution is determined by various factors, and in order to receive shared EXP, you need to be in close proximity to other Party Members.
+**Очки опыта** (EXP) распределяются между членами группы. Распределение определяется различными факторами, и чтобы получить общий опыт, вам нужно находиться недалеко от других членов группы.
 
-EXP sharing within the Party is based on the Character Level of each member, following a specific ratio. The calculation of shared EXP takes into account the Base EXP obtained by the Party Member who has the highest Character Level.
+Распределение опыта внутри группы зависит от уровня каждого участника, согласно определенному соотношению. Расчет общего опыта учитывает базовый опыт, полученный членом группы, уровень которого самый высокий.
 
-## Party EXP Bonus
+## Бонус опыта в группе
 
-While actively participating in a Party, characters can receive a **Party EXP Bonus**. The bonus amount increases as **more** characters join the Party!
+Находясь активно в группе, персонажи могут получать **бонус опыта в группе**. Сумма бонуса увеличивается, когда в группе **больше** персонажей!
 
-The Party Bonus EXP gained is determined based on the personal Base EXP of each character.
+Бонус опыта в группе определяется на основе базового опыта каждого персонажа.
 
-There are two types of Party Bonuses: the **General Party Bonus**, which is obtained when **any combination** of Character Classes are in a party, and the **Character Set Party Bonus**, which is acquired when a **specific combination** of Character Classes are present in a party.
+Существует два типа бонусов в группе: **Общий бонус группы**, который получается, когда в группе находятся **любые комбинации** классов персонажей, и **Бонус группы набора персонажей**, который получается, когда в группе присутствуют **определенные комбинации** классов персонажей.
 
-|     Party Bonus     | Two Members  | Three Members | Four Members | Five Members |
-| :-----------------: | :----------: | :-----------: | :----------: | :----------: |
-|    General Party    | **-25%** EXP | **-20%** EXP  | **-15%** EXP | **-10%** EXP |
-| Character Set Party | **-25%** EXP | **+10%** EXP  | **+15%** EXP | **+20%** EXP |
+|          Бонус Группы          | Два Участника | Три Участника | Четыре Участника | Пять Участников |
+| :----------------------------: | :-----------: | :-----------: | :--------------: | :-------------: |
+|       Общий бонус группы       | **-25%** EXP  | **-20%** EXP  |   **-15%** EXP   |  **-10%** EXP   |
+| Бонус группы набора персонажей | **-25%** EXP  | **+10%** EXP  |   **+15%** EXP   |  **+20%** EXP   |
 
 :::tip
 
-To form a **Character Set Party**, your party must consist from **at least** three different classes.
+Чтобы сформировать **Группу с набором персонажей**, ваша группа должна состоять **как минимум** из трех различ
+
+ных классов.
 
 :::
 
-## Search Party
+## Поиск группы
 
-The **Search Party** Module is a convenient feature that allows you to easily discover and join a suitable party.
+Модуль **Поиск группы** - это удобная функция, позволяющая вам легко находить и присоединяться к подходящей группе.
 
 :::info
 
-You can find more information on how utilize this feature in the [Search Party](/client-features/search-party) article.
+Вы можете найти более подробную информацию о том, как использовать эту функцию, в статье [Поиск группы](/client-features/search-party).
 
 :::
 
-## Set Party
+## Группа с набором персонажей
 
-You also have the possibility to create a **password-protected party** which you can share with your fellow players so they can **join the party anytime, anywhere** by just typing the password, **without the need** of your confirmation.
+У вас также есть возможность создать **группу с паролем**, который вы можете поделиться со своими товарищами, чтобы они могли **присоединиться к группе в любое время и в любом месте**, просто введя пароль, **без необходимости** вашего подтверждения.
 
 :::tip
 
-To create a password-protected party type:
+Чтобы создать **группу с паролем**, введите:
 
 `/setparty <password>`
 
-To join a password-protected party type:
+Чтобы присоединиться к **группе с паролем**, введите:
 
 `/joinparty <password>`
 
