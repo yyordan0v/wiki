@@ -2,19 +2,19 @@
 sidebar_position: 15
 ---
 
-# Karutan
+# Карутан
 
-Located in the southwestern region of MU, **Karutan** is a modest village where creatures freely wander beyond its protective walls. Predominantly a desert terrain, it also boasts patches of lush grassy areas.
+Расположенная в юго-западной части МУ, **Карутан** - это скромная деревушка, где существа свободно бродят за пределами её защитных стен. Преимущественно пустынный ландшафт также имеет пятна зеленых травянистых участков.
 
-With [Kundun's](/special-monsters/bosses/kundun) revival, the dynamics of the MU continent underwent a profound transformation, giving rise to the creation and establishment of **Karutan**. This once humble settlement grew and thrived in the aftermath of [Kundun's](/special-monsters/bosses/kundun) return, becoming a hub of activity and a vital outpost for adventurers seeking to navigate the treacherous realms of MU.
+С возрождением [Кундуна](/special-monsters/bosses/kundun) динамика континента МУ претерпела глубокие изменения, что привело к возникновению и установлению **Карутана**. Этот когда-то скромный поселок стал процветать после возвращения [Кундуна](/special-monsters/bosses/kundun), превратившись в центр активности и важную станцию для искателей приключений, стремящихся пройти через опасные области МУ.
 
-![Karutan](/img/maps/karutan.webp)
+![Карутан](/img/maps/karutan.webp)
 
-_Karutan_
+_Карутан_
 
-## Monsters in Karutan
+## Монстры в Карутане
 
-### Regular Monsters
+### Обычные монстры
 
 |                            Venomous Chain Scorpion                            |                       Bone Scorpion                       |                    Orcus                    |                      Gollock                      |
 | :---------------------------------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------: |
@@ -22,7 +22,7 @@ _Karutan_
 |                                    Crypta                                     |                          Crypos                           |                   Condra                    |                     Narcondra                     |
 |                  ![Crypta](/img/monsters/karutan/crypta.jpg)                  |        ![Crypos](/img/monsters/karutan/crypos.jpg)        | ![Condra](/img/monsters/karutan/condra.jpg) | ![Narcondra](/img/monsters/karutan/narcondra.jpg) |
 
-### Boss
+### Босс
 
 |     [Minotaur](/special-monsters/bosses/minotaur)      |
 | :----------------------------------------------------: |

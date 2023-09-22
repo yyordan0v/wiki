@@ -2,15 +2,15 @@
 sidebar_position: 6
 ---
 
-# Dungeon 2
+# Подземелье 2
 
-**Dungeon 2**, emerges as an imposing cavern. Stretching over three hazardous tiers, this dangerous maze is home to the terrifying [Mummy](/special-monsters/mini-bosses/the-mummy), patiently waiting in its deepest depths.
+**Подземелье 2**, возникает как внушительная пещера. Простираясь на протяжении трех опасных уровней, этот опасный лабиринт является домом для ужасного [Мумии](/special-monsters/mini-bosses/the-mummy), терпеливо ожидающей в своих самых глубоких глубинах.
 
-Motivated by the promise of countless riches concealed within these dim underground passages, numerous brave explorers have embarked on their journey into **Dungeon 2**. However, only a few have managed to survive and share their terrifying tales. To tread forward, you must summon the courage and proceed with utmost caution, as the horrors lurking within are perilously close to the very edge of Hell.
+Мотивированные обещанием бесчисленных богатств, скрытых в этих темных подземных ходах, многочисленные отважные исследователи отправились в свое путешествие в **Подземелье 2**. Однако только немногие смогли выжить и поделиться своими ужасными рассказами. Чтобы идти вперед, вам придется вызвать мужество и действовать с самой большой осторожностью, так как ужасы, скрывающиеся внутри, опасно близки к самому аду.
 
-## Monsters in Dungeon 2
+## Монстры в Подземелье 2
 
-### Regular Monsters
+### Обычные монстры
 
 |                        N'aix                        |                        Scorpicore                         |                      Vexseeker                      |
 | :-------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
@@ -20,13 +20,13 @@ Motivated by the promise of countless riches concealed within these dim undergro
 |                        Pudge                        |                        Black Widow                        |                      Cerberus                       |
 |     ![Pudge](/img/monsters/dungeon-2/pudge.jpg)     |  ![Black Widow](/img/monsters/dungeon-2/black-widow.jpg)  |  ![Cerberus](/img/monsters/dungeon-2/cerberus.jpg)  |
 
-### Boss
+### Босс
 
 | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
 | ---------------------------------------------------- |
 | ![The Mummy](/img/monsters/special/others/mummy.jpg) |
 
-### Special Monsters
+### Специальные монстры
 
 |     [Bali](/special-monsters/others/bali)      |     [Soldier](/special-monsters/others/soldier)      |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
 | :--------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |

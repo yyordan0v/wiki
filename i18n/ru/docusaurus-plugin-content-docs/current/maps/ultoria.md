@@ -2,15 +2,15 @@
 sidebar_position: 24
 ---
 
-# Ultoria
+# Ультория
 
-Welcome to the mysterious and exclusive **Ultoria**, a hidden gem within the vast world of **Lotus Mu**. This **unique** terrain is a captivating marshy expanse teeming with both formidable and extraordinary creatures.
+Добро пожаловать в таинственную и эксклюзивную **Ульторию**, скрытый камень в обширном мире **Лотус Му**. Этот **уникальный** участок земли – увлекательное болотное пространство, полное как сильных, так и необычных существ.
 
-As players venture into this treacherous realm, they will encounter fierce monsters and discover a plethora of [special beings](/category/others) whose defeat holds the key to valuable rewards. Brace yourself for an unforgettable journey through this murky and perilous landscape, where bravery and skill will be rewarded with unimaginable treasures.
+Как только игроки отправятся в это опасное царство, они столкнутся с жестокими монстрами и обнаружат множество [особых существ](/category/others), победа над которыми открывает доступ к ценным наградам. Приготовьтесь к незабываемому путешествию сквозь этот мутный и опасный ландшафт, где смелость и умение будут вознаграждены невообразимыми сокровищами.
 
-## Monsters in Ultoria
+## Монстры в Ультории
 
-### Regular Monsters
+### Обычные монстры
 
 |                         Juggernaut                          |                        Blazefiend                         |                      Spite Mouth                      |                     Razorfang                     |
 | :---------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: |
@@ -18,7 +18,7 @@ As players venture into this treacherous realm, they will encounter fierce monst
 |                       Shadow Watcher                        |                       Croco Fighter                       |                      Rhedosaurus                      |                      Macaah                       |
 | ![Shadow Watcher](/img/monsters/ultoria/shadow-watcher.jpg) | ![Croco Fighter](/img/monsters/ultoria/croco-fighter.jpg) | ![Rhedosaurus](/img/monsters/ultoria/rhedosaurus.jpg) |    ![Macaah](/img/monsters/ultoria/macaah.jpg)    |
 
-### Special Monsters
+### Особые монстры
 
 |              [Bali](/special-monsters/others/bali)               |      [Soldier](/special-monsters/others/soldier)       |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |       [Golden Rabbit](/special-monsters/others/golden-rabbit)       |
 | :--------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------: |

@@ -2,21 +2,21 @@
 sidebar_position: 10
 ---
 
-# Icarus
+# Икар
 
-Prepare for an epic aerial odyssey as you ascend to the ethereal realm of **Icarus**, a treacherous and awe-inspiring map that pushes adventurers to their limits.
+Готовьтесь к эпическому воздушному путешествию, поднимаясь в эфирное царство **Икар**, хитроумную и вдохновляющую карту, которая вынуждает искателей приключений идти до пределов своих возможностей.
 
-To access this lofty domain, you must possess either majestic wings or a trusty flying mount, for the ground is left far below. Throughout this challenging journey, the mighty [Haven Archangel](/special-monsters/mini-bosses/haven-archangel) stands as a formidable guardian, testing the mettle of even the most seasoned warriors.
+Для доступа к этому возвышенному миру вам придется обладать как великолепными крыльями, так и надежной летающей маунтой, ибо земля остается далеко внизу. На протяжении этого сложного путешествия могучий [Архангел Убежища](/special-monsters/mini-bosses/haven-archangel) стоит как могучий страж, проверяя мужество даже самых опытных воинов.
 
-Only the most resilient and skilled teams have a glimmer of hope to conquer the trials and triumphantly emerge at the journey's end. Dare you take flight and embark on this perilous quest through the path in the sky?
+Только самые устойчивые и искусные команды имеют маленькую надежду покорить испытания и торжественно выйти в конце пути. Смеете ли вы взлететь и отправиться в этот опасный квест по небесной тропе?
 
-![Icarus](/img/maps/icarus.webp)
+![Икар](/img/maps/icarus.webp)
 
-_Icarus_
+_Икар_
 
-## Monsters in Icarus
+## Монстры в Икаре
 
-### Regular Monsters
+### Обычные монстры
 
 |                       Alquamos                       |                         Mega Crust                         |                      Queen Rainer                      |                                Drakan                                |
 | :--------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------------: |
@@ -24,7 +24,7 @@ _Icarus_
 |                     Alpha Crust                      |                       Phantom Knight                       |                      Great Drakan                      |                         Phoenix of Darkness                          |
 | ![Alpha Crust](/img/monsters/icarus/alpha-crust.jpg) | ![Phantom Knight](/img/monsters/icarus/phantom-knight.jpg) | ![Great Drakan](/img/monsters/icarus/great-drakan.jpg) | ![Phoenix of Darkness](/img/monsters/icarus/phoenix-of-darkness.jpg) |
 
-### Boss
+### Босс
 
 |     [Haven Archangel](/special-monsters/mini-bosses/haven-archangel)     |
 | :----------------------------------------------------------------------: |

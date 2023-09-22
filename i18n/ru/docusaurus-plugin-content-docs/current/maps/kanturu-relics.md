@@ -2,23 +2,22 @@
 sidebar_position: 14
 ---
 
-# Kanturu Relics
+# Артефакты Кантуру
 
-During the era of the Kantur People, they embarked on a quest to harness the power of the [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony) in order to create novel life forms. Through their advanced biotechnological skills, they discovered that the essence of generating these life forms resided within the [Jewel of Harmony's](/items/jewels/regular-jewels/jewel-of-harmony) potency. However, obtaining a pure [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony) from nature proved to be an exceedingly difficult task.
+Во времена Кантуру, их жажда власти [Драгоценного Камня Гармонии](/items/jewels/regular-jewels/jewel-of-harmony) побудила их к созданию новых форм жизни. С использованием своих продвинутых биотехнологических навыков они открыли, что сущность создания этих форм жизни скрыта в мощи [Драгоценного Камня Гармонии](/items/jewels/regular-jewels/jewel-of-harmony). Однако получение чистого [Драгоценного Камня Гармонии](/items/jewels/regular-jewels/jewel-of-harmony) из природы оказалось чрезвычайно сложной задачей.
 
-Consequently, the Kantur People dedicated numerous years to perfecting a method for purifying raw [Gemstones](/items/jewels/regular-jewels/gemstone). Their tireless efforts resulted in the creation of the formidable **Refinery Tower**, where they successfully developed the science of [Gemstone](/items/jewels/regular-jewels/gemstone) purification.
+В результате Кантуру потратили множество лет на совершенствование метода очистки сырых [Самоцветов](/items/jewels/regular-jewels/gemstone). Их неутомимые усилия привели к созданию могучей **Башни Переработки**, где им удалось разработать науку очистки [Самоцветов](/items/jewels/regular-jewels/gemstone).
 
-Tragically, their experiments eventually led to the downfall of their civilization. In the year 1870 of Lugard, the Kantur People were already grappling with internal conflicts when the resurrection of [Kundun](/special-monsters/bosses/kundun) brought about an attack on their realm. Despite their swift defeat, the **Refinery Tower** remains intact and fully operational to this day.
+Трагически, их эксперименты в конечном итоге привели к краху их цивилизации. В 1870 году Лугарда, Кантуру уже столкнулись с внутренними конфликтами, когда воскрешение [Кундуна](/special-monsters/bosses/kundun) вызвало атаку на их царство. Несмотря на их быстрое поражение, **Башня Переработки** остается невредимой и полностью функциональной и по сей день.
 
-![Kanturu Relics](/img/maps/kanturu-relics.webp)
+![Артефакты Кантуру](/img/maps/kanturu-relics.webp)
 
-_Kanturu Relics_
+_Артефакты Кантуру_
 
-## Monsters in Kanturu Relics
+## Монстры в Артефактах Кантуру
 
-### Regular Monsters
+### Обычные монстры
 
 |                    Persona                    |                     Twin Tale                     |                     Dreadfear                     |
 | :-------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 | ![Persona](/img/monsters/kanturu/persona.jpg) | ![Twin Tale](/img/monsters/kanturu/twin-tale.jpg) | ![Dreadfear](/img/monsters/kanturu/dreadfear.jpg) |
-

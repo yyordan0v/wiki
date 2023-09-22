@@ -2,23 +2,23 @@
 sidebar_position: 4
 ---
 
-# Devias
+# Девиас
 
-**Devias** is a snow-covered field situated north of the kingdom of Lorencia. Perpetual snow covers **Devias**, giving it a wintry appearance at all times.
+**Девиас** - это снежное поле, расположенное к северу от королевства Лоренсия. Постоянный снег покрывает **Девиас**, придавая ему всегда зимний вид.
 
-Monsters inhabiting **Devias** are more formidable than those found in neighboring Lorencia or Noria. Only adventurers of level 15 and above are equipped to brave the monsters roaming **Devias**.
+Монстры, населяющие **Девиас**, более формидабельны, чем те, которых можно найти в соседних Лоренсии или Нории. Только приключенцы уровнем 15 и выше оснащены для того, чтобы сразиться с монстрами, бродящими по **Девиас**.
 
-The guildmaster who creates and manages guilds also resides within **Devias**. This suggests **Devias** is an important location for adventurers, serving as a base for high-level guilds.
+Мастер гильдии, создающий и управляющий гильдиями, также проживает в **Девиас**. Это свидетельствует о том, что **Девиас** - важное местоположение для приключенцев, служащее базой для гильдий высокого уровня.
 
-The cold, snowbound environment of **Devias** and its powerful monsters make it a challenging destination for only the most experienced adventurers. However,those who are up to the task are rewarded with the services of the guildmaster and likely other resources to aid their adventures.
+Холодная, снежная окружающая среда **Девиас** и его мощные монстры делают его сложным местом назначения только для самых опытных приключенцев. Тем не менее, те, кто готовы к задаче, получают возможность пользоваться услугами мастера гильдии и, возможно, другими ресурсами, чтобы помочь им в приключениях.
 
-![Devias](/img/maps/devias.webp)
+![Девиас](/img/maps/devias.webp)
 
-_Devias_
+_Девиас_
 
-## Monsters in Devias
+## Монстры в Девиас
 
-### Regular Monsters
+### Обычные монстры
 
 |                      Worm                      |                     Ice Monster                      |                      Hommerd                       |
 | :--------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
@@ -26,14 +26,14 @@ _Devias_
 |                    Assassin                    |                         Yeti                         |                     Elite Yeti                     |
 | ![Assassin](/img/monsters/devias/assassin.jpg) |        ![Yeti](/img/monsters/devias/yeti.jpg)        | ![Elite Yeti](/img/monsters/devias/elite-yeti.jpg) |
 
-### Boss
+### Босс
 
 | [Ice Queen](/special-monsters/mini-bosses/ice-queen) |
 | :--------------------------------------------------: |
 |   ![Ice Queen](/img/monsters/devias/ice-queen.jpg)   |
 
-### Special Monsters
+### Специальные монстры
 
-|     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
-| :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
+|     [Мешок Благословений](/special-monsters/others/pouch-of-blessing)      |  [Золотой Дракончик](/special-monsters/others/golden-budge-dragon)  |
+| :------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| ![Мешок Благословений](/img/monsters/special/others/pouch-of-blessing.jpg) | ![Золотой Дракончик](/img/monsters/special/golden/budge-dragon.jpg) |

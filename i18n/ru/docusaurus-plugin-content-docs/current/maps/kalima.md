@@ -2,39 +2,39 @@
 sidebar_position: 21
 ---
 
-# Kalima
+# Калима
 
-**Kalima** is the forsaken realm where the formidable lord [Kundun](/special-monsters/bosses/kundun) has been exiled, accompanied by his unwavering loyal followers.
+**Калима** - это забытое место, куда был изгнан могущественный лорд [Кундун](/special-monsters/bosses/kundun), вместе с его верными последователями.
 
-![Kalima](/img/maps/kalima.png)
+![Калима](/img/maps/kalima.png)
 
-_Kalima_
+_Калима_
 
-Entry into **Kalima** is not granted to just anyone, as stringent measures have been implemented to seal off the area and prevent any escape of its menacing inhabitants. The exclusive passage to this domain is through a specialized portal, reawakened by the elusive **Lost Map**.
+Вход в **Калиму** не предоставляется каждому, так как были введены строгие меры по запечатыванию этой области и предотвращению побега ее зловещих обитателей. Единственный путь в это царство - через специализированный портал, оживленный неуловимой **Утерянной Картой**.
 
-![Lost Map](/img/items/invitations/lost-map.png)
+![Утерянная Карта](/img/items/invitations/lost-map.png)
 
-_Lost Map_
+_Утерянная Карта_
 
-Crafting a **Lost Map** requires the combination of (x5) **Symbols of Kundun**. **Kalima** comprises seven distinct difficulty levels, each tailored to warriors of specific Character Levels. It is only within the deepest recesses of the **7th floor** in Kalima that intrepid adventurers will encounter the majestic presence of lord [Kundun](/special-monsters/bosses/kundun) himself.
+Для создания **Утерянной Карты** необходимо объединить (x5) **Символов Кундуна**. **Калима** состоит из семи уровней сложности, каждый из которых предназначен для воинов определенных уровней персонажа. Только в самых глубоких уголках **7-го этажа** в Калиме смельчаки встретят величественное присутствие лорда [Кундуна](/special-monsters/bosses/kundun) лично.
 
-![Symbol of Kundun](/img/items/invitations/symbol-of-kundun.png)
+![Символ Кундуна](/img/items/invitations/symbol-of-kundun.png)
 
-_Symbol of Kundun_
+_Символ Кундуна_
 
 :::tip
 
-For a **guaranteed** drop of **Symbol of Kundun** you can kill the [Dead Porter](//special-monsters/others/dead-porter) in either [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
+Для **гарантированного** выпадения **Символа Кундуна** вы можете убить [Мертвого Носильщика](//special-monsters/others/dead-porter) в [Ашкаворе](/maps/ashkavor) или [Земле Испытаний](/maps/land-of-trials).
 
-![Dead Porter](/img/monsters/special/others/dead-porter.jpg)
+![Мертвый Носильщик](/img/monsters/special/others/dead-porter.jpg)
 
-_Dead Porter_
+_Мертвый Носильщик_
 
 :::
 
-## Monsters in Kalima
+## Монстры в Калиме
 
-### Regular Monsters
+### Обычные монстры
 
 |                   Aegis                    |                       Rogue Centurion                        |                      Blood Soldier                       |                     Death Angel                      |
 | :----------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------: |
@@ -44,11 +44,11 @@ _Dead Porter_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
+Особенностью _Обычных Монстров_ в **Калиме 7** является возможность получить [Серебряный Ящик](/items/item-bags/non-exc/silver-box), внутри которого находятся **самые мощные** [Древние Предметы](/items/ancient-items).
 
 :::
 
-### Bosses
+### Боссы
 
 | [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun) |     [Kundun](/special-monsters/bosses/kundun)      |
 | :--------------------------------------------------------------------: | :------------------------------------------------: |

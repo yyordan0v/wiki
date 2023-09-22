@@ -2,19 +2,19 @@
 sidebar_position: 13
 ---
 
-# Kanturu Ruins
+# Руины Кантуру
 
-In the past, **Kanturu Ruins** flourished as a prosperous land abundant in natural riches, nurtured by its inhabitants, the Kantur People. Within the depths of this island, the Kantur People established a kingdom, later recognized as [Kanturu Relics](/maps/kanturu-relics).
+В прошлом **Руины Кантуру** процветали как процветающая земля, богатая природными богатствами, выращиваемая её жителями - народом Кантуру. В глубинах этого острова народ Кантуру учредил королевство, позднее признанное как [Артефакты Кантуру](/maps/kanturu-relics).
 
-However, in the year 1870 of Lugard, the resurrection of [Kundun](/special-monsters/bosses/kundun) disrupted the peace, leading to the invasion and looting of this serene place and its cherished [Kanturu Relics](/maps/kanturu-relics). Despite the adversities faced, the **Refinery Tower** perseveres as a resilient structure within the [Kanturu Relics](/maps/kanturu-relics), with **Elpis** dutifully overseeing its historical significance.
+Однако в 1870 году Лугарда воскрешение [Кундуна](/special-monsters/bosses/kundun) нарушило мир, приведя к вторжению и разграблению этого спокойного места и его дорогих [Артефактов Кантуру](/maps/kanturu-relics). Несмотря на столкновения, **Башня Переработки** остается стойкой структурой в [Артефактах Кантуру](/maps/kanturu-relics), с **Эльпис**, преданно охраняющей его историческое значение.
 
-![Kanturu Ruins](/img/maps/kanturu-ruins.webp)
+![Руины Кантуру](/img/maps/kanturu-ruins.webp)
 
-_Kanturu Ruins_
+_Руины Кантуру_
 
-## Monsters in Kanturu Ruins
+## Монстры в Руинах Кантуру
 
-### Regular Monsters
+### Обычные монстры
 
 |                           Blade Hunter                            |                           Splinter Wolf                           |                           Iron Rider                            |                              Satyros                              |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------------------------------------------: |

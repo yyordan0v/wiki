@@ -2,19 +2,19 @@
 sidebar_position: 20
 ---
 
-# Land of Trials
+# Земля Испытаний
 
-The **Land of Trials** is a prestigious realm **exclusively** granted to the victorious **Guild** of the [Castle Siege](/events/castle-siege).
+**Земля Испытаний** - это престижное пространство, **исключительно** предоставленное победившей **Гильдии** [Осады Замка](/events/castle-siege).
 
-Access to these hunting grounds are restricted from regular players unless the **Castle Lord** holding the Castle allows it. Within its boundaries, a diverse array of unique monsters roam, offering rare item drops such as the Jewel of Guardian, Ancient Items and some of the most powerful Excellent items available.
+Доступ к этим охотничьим угодьям ограничен для обычных игроков, пока **Владелец Замка**, удерживающий Замок, не разрешит это. Внутри его границ обитает разнообразие уникальных монстров, предлагающих редкие дропы, такие как Драгоценный Камень Хранителя, Древние Предметы и некоторые из самых мощных отличных предметов.
 
-![Land of Trials](/img/maps/land-of-trials.webp)
+![Земля Испытаний](/img/maps/land-of-trials.webp)
 
-_Land of Trials_
+_Земля Испытаний_
 
-## Monsters in Land of Trials
+## Монстры в Земле Испытаний
 
-### Regular Monsters
+### Обычные монстры
 
 |                         Ax Warrior                         |                           Lizard Warrior                           |                          Poison Golem                          |                        Queen Bee                         |                         Fire Golem                         |
 | :--------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
@@ -22,11 +22,11 @@ _Land of Trials_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
+The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
 
 :::
 
-### Special Monsters
+### Специальные монстры
 
 |     [Golden Rabbit](/special-monsters/others/golden-rabbit)      |  [Golden Dark Knight](/special-monsters/others/golden-dark-knight)  |    [Golden Devil](/special-monsters/others/golden-devil)     |        [Golden Satyros](/special-monsters/others/golden-satyros)         |
 | :--------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------: |
@@ -36,9 +36,8 @@ The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies 
 |       [Dead Digger](/special-monsters/others/dead-digger)        |       [Dead Showbell](/special-monsters/others/dead-showbell)       |     [Dead Porter](/special-monsters/others/dead-porter)      |          [Mine Driller](/special-monsters/others/mine-driller)           |
 |   ![Dead Digger](/img/monsters/special/others/dead-digger.jpg)   |  ![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)   | ![Dead Porter](/img/monsters/special/others/dead-porter.jpg) |      ![Mine Driller](/img/monsters/special/others/mine-driller.jpg)      |
 
-### Bosses
+### Боссы
 
 |     [Death King](/special-monsters/invasions/death-king)      |     [Erohim](/special-monsters/bosses/erohim)      |     [Kundun](/special-monsters/bosses/kundun)      |
 | :-----------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
 | ![Death King](/img/monsters/special/invasions/death-king.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) | ![Kundun](/img/monsters/special/bosses/kundun.jpg) |
-

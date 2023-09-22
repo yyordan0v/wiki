@@ -2,19 +2,19 @@
 sidebar_position: 9
 ---
 
-# Tarkan
+# Таркан
 
-Nestled within the scorching expanse of **Tarkan**, the Desert of MU unveils a formidable realm where only the bravest dare to tread. This arid landscape serves as a battleground for fierce encounters with the mightiest of monsters. Amidst this unforgiving terrain, the elusive [Zaikan](/special-monsters/invasions/zaikan) and the fearsome **Death Beam Knight** stand as guardians of coveted treasures, luring intrepid adventurers to test their mettle.
+Спрятанный среди раскалённых просторов **Таркана**, Пустыня MU раскрывает перед нами суровое царство, в которое смело смельчаки смеют ступать. Этот засушливый пейзаж служит полем битвы для жестоких сражений с могучими монстрами. Среди этой непримиримой местности таится укромное убежище для умелого [Зайкана](/special-monsters/invasions/zaikan) и страшного **Рыцаря Смертельного Луча**, которые стоят стражей заветных сокровищ, искушая смельчаков-путешественников испытать свою удачу.
 
-As you traverse the desolate dunes, remnants of past warriors who dared venture into **Tarkan** serve as haunting reminders of the perils that await. Their fallen forms silently bear witness to the unforgiving nature of this merciless desert, urging caution to those who dare to follow in their footsteps.
+Проходя сквозь пустынные дюны, останки прошлых воинов, смевших осмелиться отправиться в **Таркан**, служат жутким напоминанием о том, какие опасности поджидают. Их упавшие тела молча свидетельствуют о беспощадной природе этой беспощадной пустыни и настоятельно призывают к осторожности тех, кто осмелится идти по их стопам.
 
-![Tarkan](/img/maps/tarkan.webp)
+![Таркан](/img/maps/tarkan.webp)
 
-_Tarkan_
+_Таркан_
 
-## Monsters in Tarkan
+## Монстры в Таркане
 
-### Regular Monsters
+### Обычные монстры
 
 |                     Mutant                     |                     Bloody Wolf                      |                            Iron Wheel                            |
 | :--------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------: |

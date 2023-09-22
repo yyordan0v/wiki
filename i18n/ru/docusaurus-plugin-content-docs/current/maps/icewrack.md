@@ -2,15 +2,15 @@
 sidebar_position: 22
 ---
 
-# Icewrack
+# Ледяная Корка
 
-Welcome to the frigid and exclusive realm of **Icewrack** in **Lotus Mu**. This **unique** map, found solely within the world of **Lotus Mu**, is a frozen wonderland teeming with extraordinary creatures.
+Добро пожаловать в холодное и эксклюзивное царство **Ледяной Корки** в **Лотус Му**. Эта **уникальная** карта, доступная исключительно в мире **Лотус Му**, является морозным волшебством, буквально переполненным необычными существами.
 
-Brave adventurers who dare to venture into its icy depths are met with [Special Monsters](/category/others) that, when defeated, bestow invaluable rewards upon the victorious players. Get ready to embark on a thrilling journey through this deep-frozen domain, where both danger and treasure await at every turn.
+Смелые искатели приключений, смеющиеся отправиться в ее ледяные глубины, встречают [Специальных Монстров](/category/others), которые, когда их победили, щедро награждают победителей бесценными дарами. Приготовьтесь отправиться в захватывающее путешествие через это глубоко замороженное царство, где опасность и сокровища поджидают на каждом шагу.
 
-## Monsters in Icewrack
+## Монстры в Ледяной Корке
 
-### Regular Monsters
+### Обычные монстры
 
 |                       Water Monster                        |                    Paraka                    |                       Vasuki                       |
 | :--------------------------------------------------------: | :------------------------------------------: | :------------------------------------------------: |
@@ -18,7 +18,7 @@ Brave adventurers who dare to venture into its icy depths are met with [Special 
 |                            Bass                            |                    Chenoo                    |                     Ice Golem                      |
 |          ![Bass](/img/monsters/icewrack/bass.jpg)          | ![Chenoo](/img/monsters/icewrack/chenoo.jpg) | ![Ice Golem](/img/monsters/icewrack/ice-golem.jpg) |
 
-### Special Monsters
+### Специальные монстры
 
 |            [Bali](/special-monsters/others/bali)             |      [Soldier](/special-monsters/others/soldier)       |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |       [Golden Rabbit](/special-monsters/others/golden-rabbit)       |
 | :----------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------: |

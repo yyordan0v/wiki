@@ -2,34 +2,34 @@
 sidebar_position: 19
 ---
 
-# Valley of Loren
+# Долина Лорен
 
-Within the expanse of the **Valley of Loren** lies the majestic **Castle**, serving as the grand nucleus of the empire and its inhabitants. This fortress stands as a testament to the empire's might, overseen by its formidable forces and the collective power of its people.
+В просторах **Долины Лорен** расположен величественный **Замок**, служащий грандиозным ядром империи и ее обитателей. Эта крепость является свидетельством мощи империи, контролируемой ее формидабельными силами и объединенной мощью ее народа.
 
-In this realm, **Guilds** engage in fierce competition, vying to showcase their strength and prowess in the [Castle Siege](/events/castle-siege) Event. At the culmination of the competition, the **Guild Master** of the strongest Guild ascends to the esteemed position of **Castle Lord**, assuming exclusive responsibilities and wielding significant influence across the continent for a designated period of time.
+В этом царстве **Гильдии** участвуют в ожесточенной конкуренции, стремясь проявить свою силу и мастерство в событии [Осада Замка](/events/castle-siege). По завершении соревнования **Мастер Гильдии** самой сильной гильдии занимает почетное положение **Лордом Замка**, предполагая на себя исключительные обязанности и имея значительное влияние на континент в течение определенного периода времени.
 
-![Valley of Loren](/img/maps/valley-of-loren.jpg)
+![Долина Лорен](/img/maps/valley-of-loren.jpg)
 
-_Valley of Loren_
+_Долина Лорен_
 
-## NPC List
+## Список НИПов
 
-Provided here is an inclusive compilation of all Non-Player Characters (NPCs) found within this specific map:
+Здесь представлено полное собрание всех неигровых персонажей (НИПов), найденных на этой конкретной карте:
 
-- **Guardsman** - You can register for Castle Seige by speaking with the Guardsman. He is located in the Valley of Loren, but can also be found in [Crywolf](/maps/crywolf) if the server successfully defended the [Balgass'](/special-monsters/bosses/balgass) attack.
+- **Стражник** - Вы можете зарегистрироваться на Осаду Замка, поговорив со Стражником. Он находится в Долине Лорен, но также может быть найден в [Крайвульфе](/maps/crywolf), если сервер успешно отразил атаку [Балгасса](/special-monsters/bosses/balgass).
 
-![Guardsman](/img/npc/guardsman.jpg)
+![Стражник](/img/npc/guardsman.jpg)
 
-_Guardsman_
+_Стражник_
 
-- **Land of Trials Guard** - Guarding the entrance to the hunting grounds in [Land of Trials](/maps/land-of-trials), this NPC ensures the security of the gate. If the castle owner has granted access to other characters, you will need to speak to this guard and pay the required fee for entry.
+- **Сторож ворот Земли Испытаний** - Охраняя вход на охотничьи угодья в [Земле Испытаний](/maps/land-of-trials), этот НИП обеспечивает безопасность ворот. Если владелец замка предоставил доступ другим персонажам, вам придется поговорить с этим стражем и заплатить необходимую плату за вход.
 
-![Land of Trials Guard](/img/npc/gatekeeper-guard.jpg)
+![Сторож ворот Земли Испытаний](/img/npc/gatekeeper-guard.jpg)
 
-_Land of Trials Guard_
+_Сторож ворот Земли Испытаний_
 
-- **Senior** - This NPC serves as a means for the castle owner to effectively govern their stronghold, enabling them to establish tax rates and supervise the maintenance, repair, and enhancement of gates and statues. You can also complete the [Senior Mix](/crafting/senior-mix) by talking with this NPC.
+- **Старший** - Этот НИП служит средством для владельца замка для эффективного управления своей крепостью, позволяя устанавливать налоговые ставки и контролировать обслуживание, ремонт и улучшение ворот и статуй. Вы также можете завершить [Микс Старшего](/crafting/senior-mix), поговорив с этим НИПом.
 
-![Senior](/img/npc/senior.jpg)
+![Старший](/img/npc/senior.jpg)
 
-_Senior_
+_Старший_

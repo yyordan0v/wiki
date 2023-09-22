@@ -2,19 +2,19 @@
 sidebar_position: 16
 ---
 
-# Swamp of Peace
+# Болото мира
 
-Nestled within the heart of the realm lies the foreboding **Swamp of Peace**, a treacherous wetland teeming with monstrous inhabitants that pose a constant threat to unwary travelers.
+У в самом сердце царства находится мрачное **Болото мира** - коварное болото, населенное монстрами, которые постоянно угрожают неосторожным путешественникам.
 
-This perilous swamp, shrouded in an eerie atmosphere, harbors an array of dangerous creatures that lurk beneath its murky waters and amidst its tangled vegetation. Brave adventurers must exercise caution and fortitude when venturing into this unforgiving expanse, as the **Swamp of Peace** presents formidable challenges and hidden perils at every turn.
+Это опасное болото, окутанное мистической атмосферой, убежище для разнообразных опасных существ, скрывающихся под его мутными водами и среди запутанной растительности. Храбрым искателям приключений следует проявлять осторожность и стойкость, отправляясь в это беспощадное пространство, так как **Болото мира** представляет собой серьезное испытание и скрытые опасности на каждом шагу.
 
-![Swamp of Peace](/img/maps/swamp-of-peace.webp)
+![Болото мира](/img/maps/swamp-of-peace.webp)
 
-_Swamp of Peace_
+_Болото мира_
 
-## Monsters in Crywolf
+## Монстры в Болото мира
 
-### Regular Monsters
+### Обычные монстры
 
 |                            Sapi-Unos                             |                             Sapi-Duo                             |                          Sapi-Tres                           |                            Sapi Queen                            |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------------: |
@@ -24,7 +24,7 @@ _Swamp of Peace_
 |                           Shadow Pawn                            |                          Shadow Knight                           |                         Shadow Look                          |                          Shadow Master                           |
 |   ![Shadow Pawn](/img/monsters/swamp-of-peace/shadow-pawn.jpg)   | ![Shadow Knight](/img/monsters/swamp-of-peace/shadow-knight.jpg) | ![Shadow Look](/img/monsters/swamp-of-peace/shadow-look.jpg) | ![Shadow Master](/img/monsters/swamp-of-peace/shadow-master.jpg) |
 
-### Boss
+### Босс
 
 |     [Medusa](/special-monsters/bosses/medusa)      |
 | :------------------------------------------------: |

@@ -2,23 +2,23 @@
 sidebar_position: 18
 ---
 
-# La Cleon
+# Ла Клеон
 
-Nestled within the perilous expanse of **La Cleon** lies [Selupan's](/special-monsters/bosses/selupan) Hatchery, an ancient ice cavern of immense danger. This frozen breeding ground serves as the domain of [Selupan](/special-monsters/bosses/selupan), a formidable boss monster known for hoarding the precious spoils of fallen warriors.
+Утопая в опасных просторах **Ла Клеон**, находится **Питомник Селупана**, древняя ледяная пещера огромной опасности. Это место, замерзшее насиживания, служит доменом [Селупана](/special-monsters/bosses/selupan), могучего босс-монстра, известного своей склонностью к накоплению драгоценных добыч мертвых воинов.
 
-Many brave souls will venture forth to challenge [Selupan](/special-monsters/bosses/selupan), seeking both honor and riches, but only a select few will emerge victorious from this grueling encounter.
+Многие смельчаки отправляются на схватку с [Селупаном](/special-monsters/bosses/selupan), ища как честь, так и богатства, но только немногие выбираются победителями из этой изнурительной битвы.
 
-Located in the southwestern region of the ice plains, the **Hatchery** occasionally reveals [Selupan's](/special-monsters/bosses/selupan) eggs within its depths. Those daring enough to attack these eggs will unleash the mighty [Selupan](/special-monsters/bosses/selupan) herself.
+Расположенный в юго-западной части ледяных равнин, **Питомник** время от времени раскрывает [яйца Селупана](/special-monsters/bosses/selupan) в своих глубинах. Те, кто осмеливается напасть на эти яйца, вызывают могучую [Селупана](/special-monsters/bosses/selupan) лично.
 
-Rally your companions and fellow adventurers, pooling your strength to vanquish this formidable foe, and in doing so, you may be granted bountiful rewards beyond your wildest dreams.
+Соберите своих спутников и товарищей-путешественников, объедините усилия, чтобы победить этого могучего противника, и, таким образом, вам могут быть даны щедрые награды, выше ваших самых смелых мечтаний.
 
-![La Cleon](/img/maps/la-cleon.webp)
+![Ла Клеон](/img/maps/la-cleon.webp)
 
-_La Cleon_
+_Ла Клеон_
 
-## Monsters in La Cleon
+## Монстры в Ла Клеоне
 
-### Regular Monsters
+### Обычные монстры
 
 |                       Giant Mammoth                        |                        Ice Giant                         |                          Coolutin                          |                           Iron Knight                            |
 | :--------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: |
@@ -28,7 +28,7 @@ _La Cleon_
 |                         Ice Walker                         |                       Spider Eggs                        |                        Spider Eggs                         |                           Spider Eggs                            |
 |    ![Ice Walker](/img/monsters/la-cleon/ice-walker.jpg)    | ![Spider Eggs](/img/monsters/la-cleon/spider-eggs-1.jpg) |  ![Spider Eggs](/img/monsters/la-cleon/spider-eggs-2.jpg)  |     ![Spider Eggs](/img/monsters/la-cleon/spider-eggs-3.jpg)     |
 
-### Boss
+### Босс
 
 |  [Selupan](/special-monsters/bosses/selupan)   |
 | :--------------------------------------------: |

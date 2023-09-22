@@ -2,15 +2,15 @@
 sidebar_position: 23
 ---
 
-# El'Harath
+# Эль-Харат
 
-Step into the realm of **El'Harath**, an **exclusive** map found only in the expansive world of **Lotus Mu**. Within this **unique** domain, players will encounter not only fierce monsters but also a multitude of [special creatures](/category/others) that hold the key to valuable rewards.
+Шагните в мир **Эль-Харат**, **уникальной** карты, доступной лишь в обширном мире **Лотус Му**. В пределах этой **особенной** области игроки встретят не только свирепых монстров, но и множество [особых существ](/category/others), которые держат ключи к ценным наградам.
 
-As adventurers navigate through this treacherous landscape, they must face formidable foes and seize every opportunity to claim the riches that await those brave enough to conquer the challenges of **El'Harath**. Prepare yourself for an epic quest unlike any other, where danger and fortune collide in this extraordinary corner of **Lotus Mu**.
+Пока искатели приключений навигируют по этому опасному ландшафту, им придется столкнуться с могучими противниками и использовать каждую возможность, чтобы завоевать богатства, которые ждут тех, кто достаточно смел, чтобы преодолеть вызовы **Эль-Харат**. Подготовьтесь к эпическому квесту, несхожему ни с чем другим, где опасность и богатство сталкиваются в этом необычном уголке **Лотус Му**.
 
-## Monsters in El'Harath
+## Монстры в Эль-Харат
 
-### Regular Monsters
+### Обычные монстры
 
 |                        The Barren Hag                         |                       Sorrowcreep                       |                         The Mad Critter                         |                      Duststep                      |                        The Blind Glob                         |
 | :-----------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------------------: |
@@ -18,7 +18,7 @@ As adventurers navigate through this treacherous landscape, they must face formi
 |                          Night Wump                           |                         Darion                          |                           Orc Slayer                            |                      Decedant                      |                                                               |
 |     ![Night Wump](/img/monsters/el-harath/night-wump.jpg)     |      ![Darion](/img/monsters/el-harath/darion.jpg)      |      ![Orc Slayer](/img/monsters/el-harath/orc-slayer.jpg)      | ![Decedant](/img/monsters/el-harath/decendant.jpg) |                                                               |
 
-### Special Monsters
+### Особые монстры
 
 |             [Bali](/special-monsters/others/bali)              |      [Soldier](/special-monsters/others/soldier)       |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |       [Golden Rabbit](/special-monsters/others/golden-rabbit)       |
 | :------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------: |

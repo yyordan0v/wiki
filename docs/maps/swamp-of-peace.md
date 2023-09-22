@@ -12,7 +12,7 @@ This perilous swamp, shrouded in an eerie atmosphere, harbors an array of danger
 
 _Swamp of Peace_
 
-## Monsters in Crywolf
+## Monsters in Swamp of Peace
 
 ### Regular Monsters
 

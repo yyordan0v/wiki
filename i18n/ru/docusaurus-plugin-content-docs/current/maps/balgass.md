@@ -2,47 +2,47 @@
 sidebar_position: 17
 ---
 
-# Balgass' Baracks
+# Бараки Балгасса
 
-Under the direct orders of [Kundun](/special-monsters/bosses/kundun), the malevolent ruler, Lemuria, the potent sorceress, was tasked with mobilizing forces to besiege [Crywolf](/maps/crywolf) and overthrow its guardians.
+По прямым приказам [Кундуна](/special-monsters/bosses/kundun), зловещего правителя, Лемурия, могущественная волшебница, получила задание собрать силы для осады [Крайвольфа](/maps/crywolf) и свергнуть его защитников.
 
-To fulfill this sinister objective, Lemuria appointed [Balgass](/special-monsters/bosses/balgass), a formidable warlord, as the commander responsible for constructing an unstoppable army and launching relentless assaults on the city. In swift response, [Balgass](/special-monsters/bosses/balgass) established a training ground known as **Balgass' Barracks**, ingeniously situated within the eastern caves of [Crywolf](/maps/crywolf).
+Для выполнения этой зловещей цели Лемурия назначила [Balgass](/special-monsters/bosses/balgass), могучего военачальника, командиром, ответственным за создание непобедимой армии и беспрестанные атаки на город. В ответ на это [Balgass](/special-monsters/bosses/balgass) создал место для тренировок, известное как **Бараки Балгасса**, искусно расположенное в восточных пещерах [Крайвольфа](/maps/crywolf).
 
-It is within this training ground that his formidable army undergoes rigorous preparations, honing their skills and strategies for their forthcoming campaigns against the city's defenders.
+Именно на этой тренировочной площадке его могучая армия готовится, оттачивая свои навыки и стратегии для предстоящих кампаний против защитников города.
 
 :::tip
 
-The completion of the 3rd Character Class Quest requires eliminating all monsters on this map to succeed.
+Для успешного завершения квеста 3-й профессии необходимо уничтожить всех монстров на этой карте.
 
 :::
 
-![Balgass Barracks](/img/maps/barracks.webp)
+![Бараки Балгасса](/img/maps/barracks.webp)
 
-_Balgass' Barracks_
+_Бараки Балгасса_
 
-To successfully undertake your 3rd Character Class Quest and locate the elusive **Dark Elf (Trainee)**, a formidable journey awaits within the depths of the **Balgass Barracks**.
+Чтобы успешно начать квест на 3-ю профессию и найти ускользающую **Темного Эльфа (Ученик)**, вас ждет серьезное испытание в глубинах **Бараков Балгасса**.
 
-Within this challenging domain, you must navigate through various obstacles until you reach the final destination, where the **Gatekeeper** NPC awaits.
+В пределах этой сложной области вам предстоит пройти через различные препятствия, пока вы не достигнете конечной цели, где ждет NPC **Gatekeeper**.
 
 ![Gatekeeper](/img/npc/gatekeeper.jpg)
 
 _Gatekeeper_
 
-Engage in conversation with the **Gatekeeper** to initiate a teleportation process, transporting your character to the **Refuge of Balgass**, the designated realm where the **Dark Elf (Trainee)** eagerly awaits your arrival.
+Вступите в разговор с **Привратником**, чтобы начать процесс телепортации, переносящей вашего персонажа в **Прибежище Балгасса**, предназначенное место, где **Темный Эльф (Ученик)** с нетерпением ожидает вашего прибытия.
 
-![Refuge of Balgass](/img/maps/refuge-of-balgass.jpg)
+![Прибежище Балгасса](/img/maps/refuge-of-balgass.jpg)
 
-_Refuge of Balgass_
+_Прибежище Балгасса_
 
-## Monsters in Balgass' Barracks
+## Монстры в Бараках Балгасса
 
-### Regular Monsters
+### Обычные монстры
 
 |                        Balram (Trainee Soldier)                        |                           Death Spirit (Trainee Soldier)                           |                       Soram (Trainee Soldier)                        |
 | :--------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
 | ![Balram (Trainee Soldier)](/img/monsters/barracks/balram-trainee.jpg) | ![Death Spirit (Trainee Soldier)](/img/monsters/barracks/death-spirit-trainee.jpg) | ![Soram (Trainee Soldier)](/img/monsters/barracks/soram-trainee.jpg) |
 
-### Boss
+### Босс
 
 |                         Dark Elf (Trainee Soldier)                         |
 | :------------------------------------------------------------------------: |

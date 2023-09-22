@@ -2,23 +2,23 @@
 sidebar_position: 2
 ---
 
-# Lorencia
+# Лоренсия
 
-**Lorencia**, a vast and flat map situated at the center of MU, marks the starting point for all characters in **Lotus Mu**.
+**Лоренсия**, обширная и плоская карта, расположенная в центре MU, является стартовой точкой для всех персонажей в **Lotus Mu**.
 
-Within this realm, one will encounter the game's least formidable creatures, alongside essential items crucial for overcoming lower levels, rendering it an ideal destination for adventurers at early stages (levels 1-20).
+В этом мире вы встретите наименее формидабильных существ игры, а также необходимые предметы, важные для преодоления низких уровней, что делает его идеальным местом для приключенцев на начальных этапах (уровни 1-20).
 
-This dimension houses a fortified city boasting drawbridges, wall-mounted cannons, and an abundance of vigilant guards, all safeguarded by surrounding rivers, lending an air of exotic allure.
+Это измерение дом для укрепленного города с подвесными мостами, стенными пушками и изобилием бдительных стражей, защищенных окружающими реками, придавая ему ауру экзотического очарования.
 
-Please note that accessing **Lorencia** through the portal requires a minimum level of 10. Furthermore, utilizing the teleportation list (activated by pressing the "M" key) mandates both a minimum level of 10.
+Обратите внимание, что доступ в **Лоренсию** через портал требует минимального уровня 10. Кроме того, использование списка телепортации (активируется нажатием клавиши "M") также требует минимального уровня 10.
 
-![Lorencia](/img/maps/lorencia.webp)
+![Лоренсия](/img/maps/lorencia.webp)
 
-_Lorencia_
+_Лоренсия_
 
-## Monsters in Lorencia
+## Монстры в Лоренсии
 
-### Regular Monsters
+### Обычные монстры
 
 |                                Spider                                |                       Budge Dragon                       |                       Bull Fighter                       |                   Hound                    |
 | :------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: | :----------------------------------------: |
@@ -26,13 +26,13 @@ _Lorencia_
 |                          Elite Bull Fighter                          |                           Lich                           |                         Skeleton                         |                                            |
 | ![Elite Bull Fighter](/img/monsters/lorencia/elite-bull-fighter.jpg) |         ![Lich](/img/monsters/lorencia/lich.jpg)         |     ![Skeleton](/img/monsters/dungeon/skeleton.jpg)      |                                            |
 
-### Boss
+### Босс
 
 | [Giant](/special-monsters/mini-bosses/giant) |
 | :------------------------------------------: |
 |  ![Giant](/img/monsters/lorencia/giant.jpg)  |
 
-### Special Monsters
+### Специальные монстры
 
 |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |  [Golden Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
 | :----------------------------------------------------------------------: | :-------------------------------------------------------------------: |

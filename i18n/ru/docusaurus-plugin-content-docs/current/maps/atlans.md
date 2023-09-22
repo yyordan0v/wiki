@@ -2,17 +2,17 @@
 sidebar_position: 7
 ---
 
-# Atlans
+# Атланс
 
-Venture into the breathtaking expanse of **Atlans**, an oceanic realm teeming with some of Kundun's mightiest adversaries, with the [Hydra](/special-monsters/mini-bosses/hydra) reigning supreme among them. This mystical domain plays host to a legion of formidable sea creatures who have been summoned by the Hydra to safeguard the treacherous path leading to Tarkan. Standing proudly atop [Noria](/maps/noria), **Atlans** harbors colossal monstrosities far surpassing their counterparts in the verdant lands of [Devias](/maps/devias). Within **Atlans** lie coveted treasures, vigilantly protected by the watchful gaze of the [Hydra](/special-monsters/mini-bosses/hydra).
+Отправляйтесь в захватывающие просторы **Атланса**, океанической области, населенной некоторыми из могущественных противников Кундуна, среди которых **Гидра** царит величественно. Это мистическое царство является домом для легиона формидабельных морских существ, вызванных Гидрой для охраны коварного пути, ведущего в Таркан. Возвышаясь над [Норией](/maps/noria), **Атланс** укрыл в себе гигантских чудовищ, превосходящих своих собратьев в зеленых землях [Девиаса](/maps/devias). Внутри **Атланса** находятся заветные сокровища, бдительно охраняемые бдительным взором [Гидры](/special-monsters/mini-bosses/hydra).
 
-![Atlans](/img/maps/atlans.webp)
+![Атланс](/img/maps/atlans.webp)
 
-_Atlans_
+_Атланс_
 
-## Monsters in Lorencia
+## Монстры в Атлансе
 
-### Regular Monsters
+### Обычные монстры
 
 |                         Bahamut                          |                            Vepar                             |                       Valkyrie                       |                      Siren                       |
 | :------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
@@ -20,7 +20,7 @@ _Atlans_
 |                      Great Bahamut                       |                       Silver Valkyrie                        |                     Lizard King                      |                    Sealithan                     |
 | ![Great Bahamut](/img/monsters/atlans/great-bahamut.jpg) | ![Silver Valkyrie](/img/monsters/atlans/silver-valkyrie.jpg) | ![Lizard King](/img/monsters/atlans/lizard-king.jpg) | ![Sealithan](/img/monsters/atlans/sealithan.jpg) |
 
-### Boss
+### Босс
 
 | [Hydra](/special-monsters/mini-bosses/hydra) |
 | :------------------------------------------: |

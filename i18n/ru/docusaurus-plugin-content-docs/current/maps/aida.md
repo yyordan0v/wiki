@@ -2,23 +2,23 @@
 sidebar_position: 11
 ---
 
-# Aida
+# Аида
 
-Prepare to navigate the enigmatic realm of **Aida**, a mystifying and perilous map that demands unwavering determination and skill.
+Готовьтесь к плаванию в загадочном мире **Аида**, таинственной и опасной карте, которая требует непоколебимой решимости и мастерства.
 
-Steeped in ancient lore and shrouded in darkness, **Aida** poses a formidable challenge to all who dare to venture within its boundaries. To tread upon its treacherous terrain, you must possess the resilience and fortitude of a true warrior.
+Пропитанная древней легендой и окутанная тьмой, **Аида** представляет собой серьезное испытание для всех, кто смеет войти в ее пределы. Чтобы ступить на ее коварную территорию, вам придется обладать упорством и стойкостью истинного воина.
 
-Beware of the menacing guardians that inhabit this realm, for their strength and cunning are unmatched. Only the most intrepid adventurers can hope to overcome the trials that await, as they strive to unravel the secrets concealed within **Aida's** depths.
+Остерегайтесь зловещих стражей, населяющих этот мир, ибо их сила и хитрость бесподобны. Только самые отважные искатели приключений могут надеяться преодолеть испытания, ожидающие их, стремясь раскроить тайны, скрытые в глубинах **Аиды**.
 
-Embark on this extraordinary journey, and let the echoes of forgotten legends guide your path as you navigate the mysterious realm of **Aida** in Mu Online.
+Отправьтесь в это необыкновенное путешествие, и пусть эхо забытых легенд направит ваш путь, пока вы исследуете таинственный мир **Аиды** в Mu Online.
 
-![Aida](/img/maps/aida.webp)
+![Аида](/img/maps/aida.webp)
 
-_Aida_
+_Аида_
 
-## Monsters in Aida
+## Монстры в Аиде
 
-### Regular Monsters
+### Обычные монстры
 
 |                    Death Tree                    |                            Forest Orc                            |                     Death Rider                      |                            Blue Golem                            |                    Witch Queen                     |
 | :----------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------------: | :------------------------------------------------: |
@@ -26,7 +26,7 @@ _Aida_
 |                    Bloody Orc                    |                        Bloody Death Rider                        |                     Bloody Golem                     |                        Bloody Witch Queen                        |                     Hell Maine                     |
 | ![Bloody Orc](/img/monsters/aida/bloody-orc.jpg) | ![Bloody Death Rider](/img/monsters/aida/bloody-death-rider.jpg) | ![Bloody Golem](/img/monsters/aida/bloody-golem.jpg) | ![Bloody Witch Queen](/img/monsters/aida/bloody-witch-queen.jpg) |  ![Hell Maine](/img/monsters/aida/hell-maine.jpg)  |
 
-### Boss
+### Босс
 
 |     [Erohim](/special-monsters/bosses/erohim)      |
 | :------------------------------------------------: |

@@ -2,21 +2,21 @@
 sidebar_position: 8
 ---
 
-# Lost Tower
+# Потерянная Башня
 
-The towering edifice known as the **Lost Tower** stands proudly in the northern reaches of the MU continent. Once revered as a sacred shrine, its sanctity was desecrated following the merciless invasion by Kundun, rendering it a desolate wasteland.
+Высокое здание, известное как **Потерянная Башня**, гордо возвышается на северных просторах континента MU. Когда-то это место считалось священным храмом, но его святыни были осквернены после беспощадного вторжения Кундуна, превратив его в пустынную землю.
 
-[Kundun](/special-monsters/bosses/kundun), in his malevolence, has dispatched an assortment of horrifying creatures to occupy each floor of this foreboding tower.
+[Кундун](/special-monsters/bosses/kundun), в своей злобе, послал разнообразных ужасных существ, чтобы занять каждый этаж этой мрачной башни.
 
-At its summit awaits [Balrog](/special-monsters/mini-bosses/balrog), a sinister beast brandishing a menacing scythe, eagerly anticipating unsuspecting prey. Only a select few warriors within the realm of MU possess the strength and skill to rival his formidable might.
+На ее вершине ожидает [Балрог](/special-monsters/mini-bosses/balrog), зловещее существо с мрачным косой, нетерпеливо ожидающее ничего не подозревающей добычи. Только избранные воины в мире MU обладают силой и мастерством, способными сравниться с его грозной мощью.
 
-![Lost Tower](/img/maps/losttower.webp)
+![Потерянная Башня](/img/maps/losttower.webp)
 
-_Lost Tower_
+_Потерянная Башня_
 
-## Monsters in Lost Tower
+## Монстры в Потерянной Башне
 
-### Regular Monsters
+### Обычные монстры
 
 |                    Shadow                     |                        Poison Shadow                        |                        Cursed Wizard                        |                      Death Cow                      |
 | :-------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------: |
@@ -24,7 +24,7 @@ _Lost Tower_
 |                     Devil                     |                        Death Knight                         |                        Death Gorgon                         |                                                     |
 |  ![Devil](/img/monsters/losttower/devil.jpg)  |  ![Death Knight](/img/monsters/losttower/death-knight.jpg)  |  ![Death Gorgon](/img/monsters/losttower/death-gorgon.jpg)  |                                                     |
 
-### Boss
+### Босс
 
 | [Balrog](/special-monsters/mini-bosses/balrog) |
 | :--------------------------------------------: |
