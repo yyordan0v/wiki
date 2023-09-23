@@ -4,17 +4,17 @@ sidebar_position: 6
 
 # Blue Chocolate Box
 
-The **Blue Chocolate Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent rings and pendants** to collect.
+**Синяя Коробка Шоколада** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные кольца и подвески** для сбора.
 
-![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
+![Синяя Коробка Шоколада](/img/items/item-bags/blue-chocolate-box.png)
 
-_Blue Chocolate Box_
+_Синяя Коробка Шоколада_
 
-## Item Drops
+## Дроп предметов
 
-The **Blue Chocolate Box** can drop one of the following items:
+**Синяя Коробка Шоколада** может выпасть один из следующих предметов:
 
-### Rings
+### Кольца
 
 |                         Ring of Ice                         |                         Ring of Poison                          |                         Ring of Earth                         |
 | :---------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -22,7 +22,7 @@ The **Blue Chocolate Box** can drop one of the following items:
 |                        Ring of Fire                         |                          Ring of Wind                           |                         Ring of Magic                         |
 | ![Ring of Fire](/img/items/rings-pendants/ring-of-fire.png) |   ![Ring of Wind](/img/items/rings-pendants/ring-of-wind.png)   | ![Ring of Magic](/img/items/rings-pendants/ring-of-magic.png) |
 
-### Pendants
+### Подвески
 
 |                          Pendant of Fire                          |                            Pendant of Lighting                            |                             Pendant of Ice                              |
 | :---------------------------------------------------------------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: |
@@ -32,19 +32,19 @@ The **Blue Chocolate Box** can drop one of the following items:
 
 :::tip
 
-Please note that you can collect most of these items only from the **Blue Chocolate Box**.
+Обратите внимание, что большинство из этих предметов можно собрать только из **Синей Коробки Шоколада**.
 
 :::
 
-## Obtaining the Blue Chocolate Box
+## Получение Синей Коробки Шоколада
 
-To obtain the **Blue Chocolate Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Синюю Коробку Шоколада**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 |     [Minotaur](/special-monsters/bosses/minotaur)      |     [Erohim](/special-monsters/bosses/erohim)      |
 | :----------------------------------------------------: | :------------------------------------------------: |
 | ![Minotaur](/img/monsters/special/bosses/minotaur.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) |
 
-You can also obtain a **Blue Chocolate Box** by winning in the following events:
+Вы также можете получить **Синюю Коробку Шоколада**, победив в следующих событиях:
 
 - [My Mayhem](/events/combat-events/mayhem)
 - [Specialists' Combat](/events/combat-events/specialists-combat)

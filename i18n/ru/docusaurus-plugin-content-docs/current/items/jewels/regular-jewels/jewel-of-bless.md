@@ -4,24 +4,24 @@ sidebar_position: 2
 
 # Jewel of Bless
 
-**Jewel of Bless** enhances the level of an item from **+0** to **+6**, providing a significant boost in its power and capabilities. This versatile jewel can be used on various equipment pieces such as weapons, shields, armor, or wings, allowing players to strengthen their arsenal to take on even greater challenges in the game.
+**Драгоценность Благословения** повышает уровень предмета с **+0** до **+6**, обеспечивая значительное увеличение его мощности и возможностей. Этот универсальный драгоценный камень можно использовать на различных предметах экипировки, таких как оружие, щиты, доспехи или крылья, что позволяет игрокам усилить свой арсенал для более серьезных вызовов в игре.
 
-![Jewel of Bless](/img/items/jewels/bless.png)
+![Драгоценность Благословения](/img/items/jewels/bless.png)
 
-_Jewel of Bless_
+_Драгоценность Благословения_
 
-It's important to note that the **Jewel of Bless** is effective only on items up to **+6**, as higher enhancements require the presence of a [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul).
+Важно отметить, что **Драгоценность Благословения** эффективна только на предметах до **+6**, так как более высокие улучшения требуют наличия [Драгоценности Души](/items/jewels/regular-jewels/jewel-of-soul).
 
-To apply this jewel, simply hover the cursor over it and confidently click it onto the desired item, witnessing the item's level increase by one with an impressive 100% success rate.
+Чтобы применить этот драгоценный камень, просто наведите курсор на него и уверенно щелкните его на выбранный предмет, видя, как уровень предмета увеличивается на один с впечатляющей степенью успеха в 100%.
 
-Embark on your journey to masterful item enhancement, and unleash the full potential of your equipment with the mighty **Jewel of Bless**.
+Отправляйтесь в свое путешествие к мастерству улучшения предметов и раскройте полный потенциал своей экипировки с могучим **Драгоценным камнем Благословения**.
 
 :::tip
 
-Alternatively, in the realm of Lotus Mu, the game administration has introduced the option to acquire the **Jewel of Bless** or **Jewel of Bless Bundles** by completing [quests](/gameplay-systems/quest-system).
+Кроме того, в мире Lotus Mu администрация игры предоставила возможность получать **Драгоценность Благословения** или **Наборы Драгоценности Благословения**, выполняя [квесты](/gameplay-systems/quest-system).
 
 :::
 
-![Jewel of Bless Bundle 10](/img/items/jewels/bless-10.png) ![Jewel of Bless Bundle 20](/img/items/jewels/bless-20.png) ![Jewel of Bless Bundle 30](/img/items/jewels/bless-30.png)
+![Набор Драгоценности Благословения 10](/img/items/jewels/bless-10.png) ![Набор Драгоценности Благословения 20](/img/items/jewels/bless-20.png) ![Набор Драгоценности Благословения 30](/img/items/jewels/bless-30.png)
 
-_Jewel of Bless Bundles_
+_Наборы Драгоценности Благословения_

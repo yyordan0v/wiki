@@ -4,27 +4,27 @@ sidebar_position: 1
 
 # Slaughterer
 
-During the [Doppelganger Event](/events/doppelganger), the imposing **Slaughterers** rise to prominence as some of the most formidable adversaries encountered.
+Во время [События Доппельгангера](/events/doppelganger) возвышенные **Резчики** восходят на передний план как одни из самых страшных противников.
 
-These fearsome creatures present a formidable challenge, testing the mettle of even the most skilled adventurers. However, those who dare to face these mighty foes will find that the arduous battle is accompanied by the promise of substantial rewards and coveted treasures, making the struggle all the more worthwhile. Prepare yourself for an epic clash against these indomitable **Slaughterers**, for triumph holds the key to unimaginable riches and glory.
+Эти страшные существа представляют собой серьезное испытание, проверяя мужество даже самых опытных приключенцев. Однако те, кто осмелится встать на пути этих могучих врагов, узнают, что тяжелая битва сопровождается обещанием существенных наград и заветных сокровищ, что делает борьбу еще более ценной. Готовьтесь к эпическому столкновению с этими непоколебимыми **Резчиками**, ибо победа откроет перед вами путь к невообразимому богатству и славе.
 
-![Slaughterer](/img/monsters/special/others/slaughterer.jpg)
+![Резчик](/img/monsters/special/others/slaughterer.jpg)
 
-_Slaughterer_
+_Резчик_
 
-## Details
+## Детали
 
-These creatures can be encountered only during the [Doppelganger Event](/events/doppelganger).
+Эти существа могут быть встречены только во время [События Доппельгангера](/events/doppelganger).
 
 :::tip
 
-You can find more information on the appearance of the Slaughterers in the [Doppelganger Event](/events/doppelganger) article.
+Более подробную информацию о появлении Резчиков можно найти в статье [События Доппельгангера](/events/doppelganger).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Slaughterer**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Резчика**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

@@ -4,133 +4,130 @@ sidebar_position: 9
 
 # Crywolf Event
 
-[Fortress of Crywolf](/maps/crywolf) is located at the southeastern area of [Valley of Loren](/maps/valley-of-loren).
-It's a front line fortress where the allied forces of humans and elves fight against the forces of [Kundun](/special-monsters/bosses/kundun). The rough geographical features of the fortress made it a fortress blessed with natural barriers for defense and a key area for strategy.
+[Крепость Краивольф](/maps/crywolf) находится на юго-восточной территории [Долины Лорен](/maps/valley-of-loren). Это форт, расположенный на передовой линии, где союзные силы людей и эльфов сражаются против сил [Кундуна](/special-monsters/bosses/kundun). Грубые географические особенности крепости сделали ее неприступной для обороны и ключевой областью для стратегии.
 
-[Kundun's](/special-monsters/bosses/kundun) forces haven't been able to head north and now the frontline is in a deadlock.
-Therefore [Kundun](/special-monsters/bosses/kundun) has commanded his troops to the [Fortress of Crywolf](/maps/crywolf) to overcome a situation.
+Силы [Кундуна](/special-monsters/bosses/kundun) не смогли двигаться на север, и теперь передовая линия находится в тупике. Поэтому [Кундун](/special-monsters/bosses/kundun) приказал своим войскам напасть на [Крепость Краивольф](/maps/crywolf), чтобы изменить ситуацию.
 
-## How to Participate
+## Как участвовать
 
-A system notice will be sent to all players in the server when the **Crywolf Invasion** is about to begin.
+Системное уведомление будет отправлено всем игрокам на сервере, когда начнется **Вторжение в Краивольф**.
 
-In order to go in the Crywolf map you can either use the **Move Menu** in game or warp through the portal in [Valley of Loren](/maps/valley-of-loren) (164,35)
+Для входа на карту Краивольфа вы можете воспользоваться **Меню Перемещения** в игре или войти через портал в [Долине Лорен](/maps/valley-of-loren) (164,35).
 
-![Valley of Loren Portal](/img/events/crywolf/crywolf-portal.jpg)
+![Портал в Долине Лорен](/img/events/crywolf/crywolf-portal.jpg)
 
-_Valley of Loren Portal_
+_Портал в Долине Лорен_
 
-## Objective of the Crywolf Event
+## Цель события Краивольф
 
-Your task involves safeguarding the **Wolf Statue** from [Balgass](/special-monsters/bosses/balgass) and his formidable legion.
+Вашей задачей является защита **Статуи Волка** от [Балгасса](/special-monsters/bosses/balgass) и его могучей легиони.
 
-The Elves establish a connection with the altars to erect a protective HP shield around the statue.
+Эльфы устанавливают связь с алтарями, чтобы создать защитный щит HP вокруг статуи.
 
-![Wolf Statue](/img/events/crywolf/crywolf-defense.jpg)
+![Статуя Волка](/img/events/crywolf/crywolf-defense.jpg)
 
-_Wolf Statue_
+_Статуя Волка_
 
-Meanwhile, other players are entrusted with fending off the creatures hailing from [Balgass’](/special-monsters/bosses/balgass) forces, including [Balgass](/special-monsters/bosses/balgass) himself. The triumph of the event hinges on the successful retention of connected Elves at the altars and the ultimate defeat of [Balgass](/special-monsters/bosses/balgass).
+Тем временем другим игрокам поручено отражать атаки существ, приходящих из сил [Балгасса](/special-monsters/bosses/balgass), включая самого [Балгасса](/special-monsters/bosses/balgass). Победа в событии зависит от успешного удержания связанных эльфов у алтарей и окончательного поражения [Балгасса](/special-monsters/bosses/balgass).
 
-![Balgass Invasion](/img/events/crywolf/balgass-invasion.jpg)
+![Вторжение Балгасса](/img/events/crywolf/balgass-invasion.jpg)
 
-_Balgass Invasion_
+_Вторжение Балгасса_
 
-## Event's Timeline
+## Хронология события
 
-- A System Notice is displayed for **5 minutes** prior the event.
-- Preparation time will last for **5 minutes** - during this period the monsters which are about to attack will spawn but will remain immune to player attacks.
-- Altar Contracts - During this period which lasts **5 minutes**, Elves will be able to make a contract with the Wolf Statue.
-- Crywolf Invasion - this period will last for **15 minutes**. In the last **5 minutes** [Blagass](/special-monsters/bosses/balgass) will march forward.
+- Системное уведомление отображается за **5 минут** до начала события.
+- Время подготовки длится **5 минут** - в течение этого периода монстры, которые собираются атаковать, появляются, но остаются невосприимчивыми к атакам игроков.
+- Контракты с алтарями - в течение этого периода, который длится **5 минут**, эльфы смогут заключить контракт со Статуей Волка.
+- Вторжение в Краивольф - это время, которое длится **15 минут**. В последние **5 минут** [Благасс](/special-monsters/bosses/balgass) выйдет вперед.
 
-## Gameplay Details
+## Детали игрового процесса
 
-During the Crywolf Event a special HUD will appear on all participating players. On this HUD players are able to see the following things:
+Во время события Краивольф на всех участвующих игроков появится специальный HUD. На этом HUD игроки могут видеть следующие вещи:
 
-- Alters status
-- Wolf Statue Defensive HP Shield
-- [Dark Elves](/special-monsters/event-exclusive/dark-elf) kill count
-- Balgass HP bar
+- Статус алтарей
+- Защитный HP-щит Статуи Волка
+- Счетчик убийств [Темных эльфов](/special-monsters/event-exclusive/dark-elf)
+- Полоса HP [Балгасса](/special-monsters/bosses/balgass)
 
 ![Crywolf Hud](/img/events/crywolf/crywolf-hud.jpg)
 
-_Crywolf Hud_
+_Панель HUD Краивольфа_
 
 :::info
 
-The **Wolf Statue** is situated at the center of [Crywolf](/maps/crywolf) Stronghold.
+**Статуя Волка** находится посередине крепости [Краивольф](/maps/crywolf).
 
-The **Stronghold** boasts three access points through which marauding monsters will infiltrate:
+В крепости есть три точки доступа, через которые проникают бродячие монстры:
 
-- North gate
-- East gate
-- South gate
+- Северные ворота
+- Восточные ворота
+- Южные ворота
 
-![Crywolf Gates](/img/events/crywolf/crywolf-gates.webp)
+![Ворота Краивольфа](/img/events/crywolf/crywolf-gates.webp)
 
-_Crywolf Gates_
+_Ворота Краивольфа_
 
 :::
 
-### Altar Contracts
+### Контракты с алтарями
 
-Before the monster assault begins only the elves are able to make a contract with the **Wolf Statue**. This grants an augmented HP shield to the **Wolf Statue**, wherein the magnitude of the shield is proportionate to the number of contracts established.
+Перед началом атаки монстров только эльфы могут заключить контракт со **Статуей Волка**. Это дает усиленный HP-щит **Статуе Волка**, причем мощность щита пропорциональна количеству заключенных контрактов.
 
-Positioned strategically around the **Wolf Statue** are a total of five altars.
+Стратегически расположены вокруг **Статуи Волка** пять алтарей.
 
-![Wolf Statue Formation](/img/events/crywolf/wolf-formation.jpg)
+![Формация Статуи Волка](/img/events/crywolf/wolf-formation.jpg)
 
-_Wolf Statue Formation_
+_Формация Статуи Волка_
 
-### Crywolf Invasion
+### Вторжение в Краивольф
 
-Collaborative efforts of participating players are essential to stop the monsters' advance and safeguard the **Wolf Statue** and **Wolf Alters** from devastation. The monsters strive to swiftly converge upon the **Wolf Statue**.
+Совместные усилия участвующих игроков необходимы для остановки наступления монстров и защит
 
-The objective is to neutralize the entire legion, including the formidable [Balgass](/special-monsters/bosses/balgass) - a boss monster, which will emerge into the battle when a mere **5 minutes** remain.
+ы **Статуи Волка** и **Алтарей Волка** от разрушения. Монстры стремятся быстро сойтись к **Статуе Волка**.
 
-Triumph in the **Crywolf Event** is achieved upon the demise of [Balgass](/special-monsters/bosses/balgass).
+Цель заключается в уничтожении всего легиона, включая могучего [Балгасса](/special-monsters/bosses/balgass) - босса, который появится в битве, когда останется всего **5 минут**.
 
-#### First Wave
+#### Первая волна
 
-During the First Wave of attack players need to first defeat all [Dark Elves](/special-monsters/event-exclusive/dark-elf).
+Во время первой волны атаки игрокам нужно сначала победить всех [Темных эльфов](/special-monsters/event-exclusive/dark-elf).
 
-![Dark Elf](/img/monsters/special/others/dark-elf.jpg)
+![Темный эльф](/img/monsters/special/others/dark-elf.jpg)
 
-_Dark Elf_
+_Темный эльф_
 
-#### Second Wave
+#### Вторая волна
 
-In the last **5 minutes** of the Crywolf Invasion player will have to defeat [Balgass](/special-monsters/bosses/balgass) in order to successfully triumph the Event.
+В последние **5 минут** Вторжения в Краивольф игрокам придется победить [Балгасса](/special-monsters/bosses/balgass), чтобы успешно завершить событие.
 
-![Balgass](/img/monsters/special/bosses/balgass.jpg)
+![Балгасс](/img/monsters/special/bosses/balgass.jpg)
 
-_Balgass_
+_Балгасс_
 
 :::caution
 
-There is a **15 minutes** time limit to defeat all the monsters.
+Есть временное ограничение в **15 минут** на уничтожение всех монстров.
 
 :::
 
-## Victory
+## Победа
 
-Emerging victorious in the **Crywolf Event** entails enduring the invasion and vanquishing the opposing forces.
-To secure victory, it is imperative that the **Wolf Statue** remains unscathed throughout the duration of the Event.
+Победа в **Событии Краивольф** подразумевает противодействие вторжению и победу над противоборствующими силами. Для обеспечения победы императивно, чтобы **Статуя Волка** оставалась нетронутой в течение всего события.
 
 :::tip
 
-Please be aware that while the personal rewards for defeating the [Dark Elves](/special-monsters/event-exclusive/dark-elf) and [Balgass](/special-monsters/bosses/balgass) are noteworthy, the paramount achievement lies in safeguarding **Crywolf**.
+Обратите внимание, что хотя личные награды за уничтожение [Темных эльфов](/special-monsters/event-exclusive/dark-elf) и [Балгасса](/special-monsters/bosses/balgass) заслуживают внимания, главное достижение заключается в защите **Краивольфа**.
 
-Protecting **Crywolf** will earn the whole realm the following extra passive benefits for one week:
+Защита **Краивольфа** принесет всей империи следующие дополнительные пассивные бонусы на одну неделю:
 
-- Strength of monsters in all maps except [Land of Trial](/maps/land-of-trials) will **decrease 20%**.
-- Chaos Combination Success Rate will **increase 10%**.
+- Сила монстров во всех картах, кроме [Земли Испытаний](/maps/land-of-trials), уменьшится на **20%**.
+- Шанс успешного Сочетания Хаоса увеличится на **10%**.
 
 :::
 
-## Defeat
+## Поражение
 
-In the case of a failed **Crywolf Defense**, the entire Realm will experience the following consequences:
+В случае неудачной **Защиты Краивольфа** вся империя столкнется со следующими последствиями:
 
-- The Jewels Drop Rate will **decrease with 30%**.
-- **30% EXP Punishment** will be placed to all players in the server.
+- Уровень выпадения драгоценных камней уменьшится на **30%**.
+- **30% штраф опыта** будет наложен на всех игроков на сервере.

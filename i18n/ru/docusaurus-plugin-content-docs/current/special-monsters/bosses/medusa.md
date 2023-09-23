@@ -4,37 +4,37 @@ sidebar_position: 3
 
 # Medusa
 
-**Medusa** reigns as one of the most formidable bosses within the realms of **Lotus Mu**, with her lair nestled deep within the treacherous [Swamp of Peace](/maps/swamp-of-peace), an eerie and marshy terrain.
+**Медуза** правит как один из самых страшных боссов в мирах **Лотус Му**, её логово уютно располагается глубоко в коварном [Болоте Покоя](/maps/swamp-of-peace), мрачной и болотистой местности.
 
-![Medusa](/img/monsters/special/bosses/medusa.jpg)
+![Медуза](/img/monsters/special/bosses/medusa.jpg)
 
-_Medusa_
+_Медуза_
 
-## Details
+## Детали
 
-Embark on a thrilling journey through the treacherous [Swamp of Peace](/maps/swamp-of-peace) and brace yourself for an encounter with the **Medusa**, a formidable creature whose presence is bound to leave you spellbound.
+Отправьтесь в захватывающее путешествие сквозь опасное [Болото Покоя](/maps/swamp-of-peace) и готовьтесь к встрече с **Медузой**, внушительным существом, присутствие которого обязательно вас очарует.
 
-|                Location                |   Time   | Frequency |
-| :------------------------------------: | :------: | :-------: |
-| [Swamp of Peace](/maps/swamp-of-peace) | 05:50:00 | Every 24h |
+|            Местоположение            |  Время   |    Частота     |
+| :----------------------------------: | :------: | :------------: |
+| [Болото Покоя](/maps/swamp-of-peace) | 05:50:00 | Каждые 24 часа |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать как [внутриигровое расписание](/client-features/schedule), так и [расписание на веб-сайте](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Учтите, что таймер нашествия работает по серверному времени.
 
 :::
 
 :::tip
 
-A Global message will appear to all players when the **Medusa** spawns.
+Глобальное сообщение появится перед всеми игроками, когда появится **Медуза**.
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing the **Medusa**, players will be rewarded with:
+После успешного убийства **Медузы**, игроки будут награждены:
 
 |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
 | :----------------------------------------------------------: |

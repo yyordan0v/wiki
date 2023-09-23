@@ -4,39 +4,39 @@ sidebar_position: 1
 
 # Minotaur
 
-Unveiling the secrets of the formidable **Minotaur**, a fearsome **boss** residing within the realm of Lotus Mu.
+Раскроем секреты страшного **Минотавра**, страшного **босса**, обитающего в мире Лотус Му.
 
-Discover the precise location where the **Minotaur** lurks, and delve into the alluring treasures and the rewards that await triumphant adventurers who emerge victorious from their harrowing encounter with this formidable foe.
+Откройте точное местоположение, где **Минотавр** скрывается, и погрузитесь в увлекательные сокровища и награды, которые ждут триумфирующих приключенцев, вышедших победителями из своей трудной встречи с этим страшным врагом.
 
-![Minotaur](/img/monsters/special/bosses/minotaur.jpg)
+![Минотавр](/img/monsters/special/bosses/minotaur.jpg)
 
-_Minotaur_
+_Минотавр_
 
-## Details
+## Детали
 
-Experience the breathtaking presence of the **Minotaur** as you traverse [Karutan 2](/maps/karutan), embarking on a quest to confront this formidable creature.
+Почувствуйте дыхание страшного **Минотавра**, когда вы путешествуете по [Карутану 2](/maps/karutan), отправляясь в поисках этого страшного существа.
 
-|          Location          |   Time   | Frequency |
-| :------------------------: | :------: | :-------: |
-| [Karutan 2](/maps/karutan) | 11:50:00 | Every 24h |
+|       Местоположение       |  Время   |    Частота     |
+| :------------------------: | :------: | :------------: |
+| [Карутан 2](/maps/karutan) | 11:50:00 | Каждые 24 часа |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать как [внутриигровое расписание](/client-features/schedule), так и [расписание на веб-сайте](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Учтите, что таймер нашествия работает по серверному времени.
 
 :::
 
 :::tip
 
-A Global message will appear to all players when the mighty **Minotaur** spawns.
+Глобальное сообщение появится перед всеми игроками, когда появится могучий **Минотавр**.
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing the **Minotaur**, players will be rewarded with:
+После успешного убийства **Минотавра**, игроки будут награждены:
 
 |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
 | :----------------------------------------------------------------: |

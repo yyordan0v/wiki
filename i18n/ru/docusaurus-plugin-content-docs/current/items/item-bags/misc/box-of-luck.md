@@ -4,15 +4,15 @@ sidebar_position: 6
 
 # Box of Luck
 
-The **Box of Luck** is a highly sought-after item that grants you access to a variety of valuable items that can enhance your gameplay experience.
+**Коробка Удачи** - это высоко ценный предмет, который предоставляет доступ к разнообразным ценным предметам, способным улучшить ваш опыт игры.
 
-![Box of Luck](/img/items/item-bags/box-of-luck.png)
+![Коробка Удачи](/img/items/item-bags/box-of-luck.png)
 
-_Box of Luck_
+_Коробка Удачи_
 
-## Box of Luck - Drops
+## Коробка Удачи - Дроп предметов
 
-The **Box of Luck** can drop one of the following items:
+**Коробка Удачи** может выпасть один из следующих предметов:
 
 ### Box of Kundun
 
@@ -24,15 +24,15 @@ The **Box of Luck** can drop one of the following items:
 
 - 7,777,777 Zen
 
-## Obtaining the Box of Luck
+## Получение Коробки Удачи
 
-To obtain the **Box of Luck**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following creatures:
+Чтобы получить **Коробку Удачи**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими существами:
 
 |  [Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
 | :------------------------------------------------------------: |
 | ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
 
-There is also chance that you get **Box of Luck** dropped by the following item bag:
+Также есть шанс получить **Коробку Удачи** как дроп из следующей сумки с предметами:
 
 |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
 | :----------------------------------------------------------: |

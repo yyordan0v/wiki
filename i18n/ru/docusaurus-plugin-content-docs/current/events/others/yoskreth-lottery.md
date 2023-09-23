@@ -4,26 +4,26 @@ sidebar_position: 3
 
 # Yoskreth Lottery
 
-The **Yoskreth Lottery** is a special occurrence in **Lotus Mu** that offers players the chance to win exciting rewards through a random selection process. This event is designed to add an element of surprise and excitement to the gameplay experience, providing players with an opportunity to receive valuable items.
+**Лотерея Йоскрета** - это особое событие в **Lotus Mu**, которое предоставляет игрокам шанс выиграть захватывающие награды через случайный процесс выбора. Это событие разработано для добавления элемента сюрприза и волнения в игровой опыт, предоставляя игрокам возможность получить ценные предметы.
 
-## Event Mechanism
+## Механизм события
 
-During the **Yoskreth Lottery** a **random online character** is chosen to be the lucky recipient of rewards.
+Во время **Лотереи Йоскрета** выбирается **случайный онлайн-персонаж**, который становится счастливым обладателем наград.
 
-The selection process is **entirely random**, ensuring fairness and unpredictability. The **selected character** will be rewarded with a [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box) and **5 Event Points** as a token of their good fortune.
+Процесс выбора полностью случаен, обеспечивая справедливость и непредсказуемость. **Выбранный персонаж** будет вознагражден [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box) и **5 Event Points** в знак своей удачи.
 
 ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png)
 
 _Red Ribbon Box_
 
-## Participating in the Event
+## Участие в событии
 
-Participating in the **Yoskreth Lottery** requires no specific actions from players. As long as you are online and staying in [Yoskreth](/maps/yoskreth) during the event's occurrence, you have a chance to be selected as the fortunate character who will receive the rewards.
+Для участия в **Лотерее Йоскрета** не требуется никаких конкретных действий со стороны игроков. Пока вы находитесь в сети и находитесь в [Йоскрете](/maps/yoskreth) во время события, у вас есть шанс быть выбранным счастливым персонажем, который получит награды.
 
-Keep an eye on the system notices and announcements that may appear, as they will inform you if you have been selected as the recipient of the lottery rewards.
+Следите за системными уведомлениями и объявлениями, которые могут появиться, так как они сообщат вам, если вы были выбраны в качестве получателя призов лотереи.
 
-## Embrace the Element of Surprise
+## Примите элемент сюрприза
 
-The **Yoskreth Lottery** adds an exciting element of randomness to the Lotus Mu experience. It offers players the opportunity to receive rewards they might not have anticipated, making each login an anticipation of the possibility of being chosen as the lucky winner. Whether you're an experienced player or new to the realm, this event adds an extra layer of excitement and variety to your journey.
+**Лотерея Йоскрета** добавляет в Lotus Mu захватывающий элемент случайности. Она предоставляет игрокам возможность получить награды, которые они могли не ожидать, делая каждый вход в ожидание возможности быть выбранным счастливым победителем. Независимо от того, являетесь ли вы опытным игроком или новичком в мире, это событие добавляет дополнительный элемент волнения и разнообразия в ваше путешествие.
 
-Stay engaged and active in the world of Lotus Mu to maximize your chances of being selected for the Yoskreth Lottery. Who knows? The next time the system notice appears, it might be you who gets to enjoy the rewards of this thrilling event!
+Оставайтесь активными в мире Lotus Mu, чтобы максимизировать свои шансы быть выбранным в Лотерее Йоскрета. Кто знает? В следующий раз, когда появится системное уведомление, это может быть именно вы, кто получит награды этого захватывающего события!

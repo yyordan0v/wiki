@@ -4,72 +4,72 @@ sidebar_position: 3
 
 # Mayhem
 
-## Unleash the Mayhem in Lotus Mu!
+## Разворачивайте Хаос в Lotus Mu!
 
-Welcome to the heart-pounding world of the **Mayhem** Event in **Lotus Mu**. This is where warriors from all corners of the realm gather to engage in a relentless clash of strength, strategy, and skill.
+Добро пожаловать в захватывающий мир события **Хаос** в **Lotus Mu**. Здесь воины из всех уголков царства собираются, чтобы участвовать в безжалостном столкновении сил, стратегии и мастерства.
 
-The **Mayhem** is not for the faint of heart—it's a fast-paced battle where every move counts, every kill matters, and only the strongest will survive.
+**Хаос** не для слабых духом - это быстрая битва, где каждое движение имеет значение, каждое убийство важно, и только самые сильные выживут.
 
-![Mayhem Arena](/img/events/mayhem-arena.jpg)
+![Арена Хаоса](/img/events/mayhem-arena.jpg)
 
-_Mayhem Arena_
+_Арена Хаоса_
 
-## How to Participate
+## Как участвовать
 
-As the **Mayhem** is about to commence, a **system notice** will be sent to all active players.
+Как только **Хаос** собирается начаться, **системное уведомление** будет отправлено всем активным игрокам.
 
 :::tip
 
-To participate in the Mayhem, simply enter the command: **`/mayhem`**.
+Чтобы участвовать в Хаосе, просто введите команду: **`/mayhem`**.
 
 :::
 
-## Requirements
+## Требования
 
-- A Minimum of **2 Players** are required for the event to commence.
-- A Maximum of **50 Players** can participate in one instance of **Mayhem**.
-- Required Level[Resets] - **300[35]**.
+- Минимум **2 игрока** необходимо для начала события.
+- Максимум **50 игроков** может участвовать в одном экземпляре **Хаоса**.
+- Требуемый уровень[Ресеты] - **300[35]**.
 
-## The Mayhem Format
+## Формат Хаоса
 
-In the **Mayhem**, players enter a furious **free-for-all showdown**, where the goal is simple: **gain as many points as possible** within a **5-minute** time frame.
+В **Хаосе** игроки вступают в яростное **свободное сражение**, где цель проста: **набрать как можно больше очков** в **5-минутный** временной интервал.
 
-You **gain** points by **delivering crushing blows** to your opponents and, equally importantly, by **avoiding defeat yourself**. It's a test of both aggression and survival, a challenge that separates the champions from the rest.
+Вы **получаете** очки, **нанося разгромные удары** своим оппонентам и, что не менее важно, **избегая поражения сами**. Это проверка как на агрессию, так и на способность выживать, вызов, который отделяет чемпионов от остальных.
 
 :::info
 
-- **Taking down** an opponent **awards** you with **100 points**.
+- **Убийство** оппонента **приносит** вам **100 очков**.
 
-- A **defeat** results in a **deduction** of **50 points** from your score.
+- Поражение ведет к **снижению** вашего счета на **50 очков**.
 
 :::
 
-## Variety of Mayhem Events
+## Многообразие событий Хаоса
 
-The **Mayhem** Event offers a diverse array of competitions tailored to **different classes**, highlighting their unique attributes. Explore various **Mayhems**, such as:
+Событие **Хаос** предлагает разнообразные виды соревнований, адаптированные к **разным классам**, подчеркивающие их уникальные качества. Исследуйте различные **Хаосы**, такие как:
 
-- **Knights Mayhem:** A showcase of raw power and resilience, where **knights** prove their mettle.
-- **Wizards Mayhem:** A dazzling spectacle of arcane prowess, featuring **spellcasters** at their prime.
-- **Elves Mayhem:** A ballet of precision and agility, as swift **elves** dominate the battlefield.
-- **Gladiators Mayhem:** A display of fierce combat skills, where **gladiators** wield their weapons with precision.
-- **Lords Mayhem:** A realm of strategic mastery, where **lords** demonstrate their tactical brilliance.
-- **Mu Mayhem:** For those who embrace diversity, there's the grand **Mu Mayhem**, where **all classes** unite to engage in **the ultimate showdown**.
+- **Рыцарский Хаос:** демонстрация силы и устойчивости, где **рыцари** доказывают свою стойкость.
+- **Волшебники Хаоса:** ослепительное зрелище волшебных способностей, с участием **колдунов** на пике своих сил.
+- **Эльфийский Хаос:** балет из прецизионности и ловкости, где быстрые **эльфы** доминируют на поле боя.
+- **Гладиаторский Хаос:** демонстрация яростных боевых навыков, где **гладиаторы** управляют своими орудиями с точностью.
+- **Хаос Лордов:** царство стратегического мастерства, где **лорды** продемонстрируют свою тактическую гениальность.
+- **Mu Хаос:** для тех, кто приветствует разнообразие, есть великий **Mu Хаос**, где **все классы** объединяются, чтобы участвовать в **финальном противостоянии**.
 
-Regardless of your class, each **Mayhem** promises a unique experience and challenges your ability to **adapt and conquer**.
+Независимо от вашего класса, каждый **Хаос** обещает уникальный опыт и испытывает вашу способность **адаптироваться и завоевывать**.
 
-## The Taste of Victory
+## Вкус Победы
 
-As the dust settles and the timer expires, the player with the **highest score** emerges victorious. The spoils of war are not only the thrill of triumph but also a substantial reward.
+Когда пыль оседает и истекает время, игрок с **наивысшим счетом** восходит к победе. Плодами победы становятся не только волнение от триумфа, но и существенная награда.
 
 :::info
 
-- The winner of each **Mayhem** is granted a substantial bounty of **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
+- Победитель каждого **Хаоса** получает существенную награду - **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
   ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
   _Purple Chaos Box_
 
-- The winner of the **Mu Mayhem** will receve a **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
+- Победитель **Mu Хаоса** получит **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
 
   ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
@@ -77,4 +77,4 @@ As the dust settles and the timer expires, the player with the **highest score**
 
 :::
 
-So, are you ready to prove your worth, crush your enemies, and rise as a true champion in the **Mayhem**?
+Итак, вы готовы доказать свою ценность, раздавить своих врагов и восстать как настоящий чемпион в **Хаосе**?

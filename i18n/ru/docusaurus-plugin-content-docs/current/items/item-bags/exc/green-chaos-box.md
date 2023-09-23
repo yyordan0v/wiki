@@ -4,17 +4,17 @@ sidebar_position: 5
 
 # Green Chaos Box
 
-The **Green Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
+**Зеленая Хаос Коробка** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные** предметы для сбора.
 
-![Green Chaos Box](/img/items/item-bags/green-chaos-box.png)
+![Зеленая Хаос Коробка](/img/items/item-bags/green-chaos-box.png)
 
-_Green Chaos Box_
+_Зеленая Хаос Коробка_
 
-## Item Drops
+## Дроп предметов
 
-The **Green Chaos Box** can drop one of the following items:
+**Зеленая Хаос Коробка** может выпасть один из следующих предметов:
 
-### Weapons
+### Оружие
 
 |                         Sword Breaker                         |                        Flemeberge                         |                           Bone Blade                            |
 | :-----------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------: |
@@ -27,21 +27,22 @@ The **Green Chaos Box** can drop one of the following items:
 |      ![Sword Dancer](/img/items/swords/sword-dancer.png)      | ![Explosion Blade](/img/items/swords/explosion-blade.png) | ![Rune Bastard Sword](/img/items/swords/rune-bastard-sword.png) |
 |                       Absolute Scepter                        |                      Soleil Scepter                       |                         Striker Scepter                         |
 | ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) |   ![Striker Scepter](/img/items/scepters/striker-scepter.png)   |
+
 :::note
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **превосходными**.
 
 :::
 
-## Obtaining the Green Chaos Box
+## Получение Зеленой Хаос Коробки
 
-To obtain the **Green Chaos Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Зеленую Хаос Коробку**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 |     [Medusa](/special-monsters/bosses/medusa)      |     [Balgass](/special-monsters/bosses/balgass)      | [Kundun](/special-monsters/bosses/kundun)  |     [Selupan](/special-monsters/bosses/selupan)      |
 | :------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------: | :--------------------------------------------------: |
 | ![Medusa](/img/monsters/special/bosses/medusa.jpg) | ![Balgass](/img/monsters/special/bosses/balgass.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |
 
-There is also chance that you get **Green Chaos Box** dropped by one of the following item bags:
+Также есть шанс получить **Зеленую Хаос Коробку** как дроп из одной из следующих сумок с предметами:
 
 |   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
 | :------------------------------------------------: | :------------------------------------------------------------: |

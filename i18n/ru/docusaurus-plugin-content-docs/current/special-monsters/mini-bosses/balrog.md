@@ -4,39 +4,39 @@ sidebar_position: 5
 
 # Balrog
 
-Prepare to embark on an exhilarating quest, where your courage and skills will face their ultimate trial, as the awe-inspiring might of the **Balrog** takes center stage, commanding your unwavering focus and unleashing chaos within the mystical realm of the [Lost Tower](/maps/losttower).
+Приготовьтесь отправиться в захватывающий квест, где ваша храбрость и навыки столкнутся с их самым великим испытанием, так как внушительная мощь **Балрога** занимает центральное место, приказывая вашему несокрушимому вниманию и развязывая хаос в мистическом мире [Забытой башни](/maps/losttower).
 
-Brace yourself for an adrenaline-fueled adventure, where emerging victorious over this formidable foe will unlock exhilarating realms of excitement and glory, propelling you towards untold triumph and unparalleled achievements.
+Приготовьтесь к адреналиновому приключению, где победа над этим могучим противником откроет перед вами захватывающие области волнения и славы, толкая вас к невероятным триумфам и беспрецедентным достижениям.
 
-![Balrog](/img/monsters/special/others/balrog.jpg)
+![Балрог](/img/monsters/special/others/balrog.jpg)
 
-_Balrog_
+_Балрог_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-Gear up to explore the haunting depths of the [Lost Tower](/maps/losttower), a realm cloaked in mystery and despair, where only the brave dare to set foot.
+Готовьтесь исследовать мрачные глубины [Забытой башни](/maps/losttower), царство, окутанное тайной и отчаянием, где только смельчаки смеют ступить.
 
-As you embark on this captivating odyssey, brace yourself to confront the enigmatic and fearsome being known as the **Balrog**, a formidable entity deeply entrenched within the shadows of this ominous domain.
+Когда вы отправляетесь в этот завораживающий путь, готовьтесь столкнуться с загадочным и страшным существом, известным как **Балрог**, могучее существо, глубоко укоренившееся в тени этого зловещего мира.
 
 :::tip
 
-You can find **Balrogs** near the following coordinates in [Lost Tower](/maps/losttower) - **30, 200**.
+Вы можете найти **Балрогов** близ координат в [Забытой башне](/maps/losttower) - **30, 200**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Balrogs**.
+В следующей таблице предоставлена подробная информация о времени и количестве доступных **Балрогов**.
 
-| Quantity |       Respawn Time       |
-| :------: | :----------------------: |
-|    5     | 3.5 minutes after killed |
+| Количество |     Время воскрешения     |
+| :--------: | :-----------------------: |
+|     5      | 3,5 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Balrog**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного уничтожения **Балрога**, игроки будут вознаграждены с [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

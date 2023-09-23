@@ -4,27 +4,27 @@ sidebar_position: 13
 
 # Jerint
 
-Amidst the epic spectacle of the [Imperial Guardian Event](/events/imperial-guardian), the formidability of the **Jerint** strikes fear into the hearts of players who dare to face this fearsome adversary.
+Среди эпического зрелища [События Имперского Стража](/events/imperial-guardian) мощь **Джеринта** наводит страх на тех игроков, кто осмеливается противостоять этому страшному сопернику.
 
-With its indomitable strength and relentless tenacity, the **Jerint** presents a formidable challenge that demands exceptional skill and unwavering determination to overcome. Slaying this legendary creature is no small feat, but the rewards that await those who emerge victorious from this arduous battle are nothing short of extraordinary.
+С его непоколебимой силой и бескомпромиссной упорностью **Джеринт** представляет собой серьезное испытание, требующее исключительного мастерства и непоколебимой решимости, чтобы его победить. Уничтожение этого легендарного существа — это нелегкая задача, но награды, которые ждут тех, кто выходит победителем из этой сложной битвы, не менее чем великолепны.
 
-![Jerint](/img/monsters/special/others/jerint.jpg)
+![Джеринт](/img/monsters/special/others/jerint.jpg)
 
-_Jerint_
+_Джеринт_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Jerint in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Джеринта можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Jerint**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Джеринта**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

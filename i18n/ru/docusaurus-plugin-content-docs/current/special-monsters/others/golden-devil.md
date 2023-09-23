@@ -4,25 +4,25 @@ sidebar_position: 15
 
 # Golden Devil
 
-This article explores the **Golden Devil** - a special monster in the **Lotus Mu** realm.
+Эта статья исследует **Golden Devil** - специального монстра в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who manage to kill it.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, сумевшим убить его.
 
 ![Golden Devil](/img/monsters/special/golden/devil.jpg)
 
 _Golden Devil_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Devil** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Golden Devil** по всему миру.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-| [Land of Trials](/maps/land-of-trials) |    2     | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Воскрешения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+| [Земля Испытаний](/maps/land-of-trials) |     2      | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Golden Devil**, players will be rewarded with:
+После успешного убийства **Golden Devil**, игроки будут вознаграждены следующим:
 
 | [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |
 | :-----------------------------------------------------------------: |

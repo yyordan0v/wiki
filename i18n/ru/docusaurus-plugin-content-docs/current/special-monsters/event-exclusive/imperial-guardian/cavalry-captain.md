@@ -4,27 +4,27 @@ sidebar_position: 1
 
 # Cavalry Captain
 
-Amidst the grandeur of the [Imperial Guardian Event](/events/imperial-guardian), the commanding presence of the formidable **Cavalry Captains** asserts itself as one of the most formidable adversaries encountered.
+Среди великолепия [События Имперского Стража](/events/imperial-guardian) властное присутствие страшных **Капитанов Кавалерии** проявляется как один из самых могущественных противников.
 
-These monstrous creatures embody unrivaled strength and prowess, presenting a formidable challenge that requires unwavering skill and determination to overcome. Yet, beneath the daunting battle lies the allure of a magnificent reward, beckoning valiant adventurers to rise to the occasion and face these mighty foes head-on.
+Эти чудовищные создания воплощают беспрецедентную силу и мастерство, представляя серьезное испытание, требующее несгибаемого мастерства и решимости для преодоления. Но под угрожающей битвой скрывается магия великолепной награды, зовущей отважных приключенцев подняться на высоты и встретить этих могучих врагов лицом к лицу.
 
-![Cavalry Captain](/img/monsters/special/others/cavalry-captain.jpg)
+![Капитан Кавалерии](/img/monsters/special/others/cavalry-captain.jpg)
 
-_Cavalry Captain_
+_Капитан Кавалерии_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Cavalry Captains in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Вы можете найти более подробную информацию о появлении Капитанов Кавалерии в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Cavalry Captain**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Капитана Кавалерии**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

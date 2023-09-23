@@ -4,108 +4,110 @@ sidebar_position: 5
 
 # Doppelganger
 
-Step into a realm of strategic challenges and **teamwork** with the **Doppelganger Event** in Lotus Mu.
+Вступите в мир стратегических вызовов и **командной работы** с событием **Двойник** в Lotus Mu.
 
-This unique event introduces players to a captivating "**tower defence**" style event that demands quick thinking, coordination, and combat prowess. Dive into the **Doppelganger arena** to test your skills and **protect your base** from relentless waves of monsters.
+Это уникальное событие представляет игрокам увлекательное событие в стиле "**обороны башни**", которое требует быстрого мышления, координации и боевых навыков. Окунитесь в арену **Двойника**, чтобы проверить свои навыки и **защитить свою базу** от бесконечных волн монстров.
 
-The **Doppelganger Event** transports players to a distinctive dimensional arena, where the objective is to fend off swarms of monsters aiming to breach your **Magical Barrier**.
+Событие **Двойник** переносит игроков в уникальную измерительную арену, где задача - отбивать набеги монстров, стремящихся нарушить ваш **Магический барьер**.
 
-## How to Enter
+## Как войти
 
-To enter this exciting dimension, you must craft a **Dimensional Mirror**.
+Чтобы войти в это захватывающее измерение, вам нужно создать **Измерительное зеркало**.
 
-![Dimensional Mirror](/img/items/invitations/mirror-of-dimensions.png)
+![Измерительное зеркало](/img/items/invitations/mirror-of-dimensions.png)
 
-_Dimensional Mirror_
+_Измерительное зеркало_
 
-In order to craft the **Dimensional Mirror** you need to collect **Dimensional Signs - x5**, dropped by a variety of monsters, and stack them into the **Dimensional Mirror**.
+Для создания **Измерительного зеркала** вам нужно собрать **Измерительные знаки - x5**, выпадающие из различных монстров, и объединить их в **Измерительное зеркало**.
 
-|                       Dimensional Signs - x5                        |                                         |                           Dimensional Mirror                           |
-| :-----------------------------------------------------------------: | :-------------------------------------: | :--------------------------------------------------------------------: |
-| ![Dimensional Signs](/img/items/invitations/sign-of-dimensions.png) | ![Equals](/img/items/invitations/=.png) | ![Dimensional Mirror](/img/items/invitations/mirror-of-dimensions.png) |
+|                       Измерительные знаки - x5                        |                                        |                           Измерительное зеркало                           |
+| :-------------------------------------------------------------------: | :------------------------------------: | :-----------------------------------------------------------------------: |
+| ![Измерительные знаки](/img/items/invitations/sign-of-dimensions.png) | ![Равно](/img/items/invitations/=.png) | ![Измерительное зеркало](/img/items/invitations/mirror-of-dimensions.png) |
 
-After obtaining the **Dimensional Mirror**, you can proceed to [Yoskreth](/maps/yoskreth) and engage with **Lugard**. Upon interaction, **Lugard** will transport you to a random **Doppelganger Arena**.
+Получив **Измерительное зеркало**, вы можете отправиться в [Йоскрет](/maps/yoskreth) и взаимодействовать с **Лугардом**. После взаимодействия **Лугард** перенесет вас на случайную арену **Двойника**.
 
-![Lugard](/img/npc/lugard.jpg)
+![Лугард](/img/npc/lugard.jpg)
 
-_Lugard_
+_Лугард_
 
 :::caution
 
-Please be aware that if **other players** are **currently engaged** in the **Doppelganger** event, you'll need to **wait** for them to **complete** it before you can enter.
+Пожалуйста, обратите внимание, что если **другие игроки** в данный момент участвуют в событии **Двойник**, вам придется подождать, пока они его **завершат**, прежде чем вы сможете войти.
 
 :::
 
-## Gameplay
+## Геймплей
 
-As the **Doppelganger** Event **commences**, players are tasked with the critical mission of **protecting** their **Magical Barrier** from monster onslaughts.
+Как только начинается событие **Двойник**, игрокам предстоит критическая миссия - **защита** своего **Магического барьера** от набегов монстров.
 
-> PLACE IMAGE (DEFENDING BARRIER)
+> ВСТАВИТЬ ИЗОБРАЖЕНИЕ (ЗАЩИТА БАРЬЕРА)
 
-Monsters emerge from their respective barriers and gradually advance toward yours. The event is structured around multiple waves, with each wave presenting escalating challenges, including the appearance of formidable Boss Monsters.
+Монстры появляются из своих барьеров и постепенно приближаются к вашему. Событие разделено на несколько волн, и каждая волна представляет собой нарастающие вызовы, включая появление мощных босс-монстров.
 
-> PLACE IMAGE (MONSTER SPAWN)
+> ВСТАВИТЬ ИЗОБРАЖЕНИЕ (ПОЯВЛЕНИЕ МОНСТРОВ)
 
-> SHOULD WE MOVE BOSSES WITH DROPS HERE?
+> ДОЛЖНЫ МЫ ПЕРЕМЕСТИТЬ БОССОВ С НАГРАДАМИ СЮДА?
 
-## The Doppelganger Arena
+## Арена Двойника
 
-The **Doppelganger arena** encompasses **four distinct** maps, randomly selected for each event session:
+**Арена Двойника** включает в себя **четыре отдельные** карты, случайно выбираемые для каждой игровой сессии:
 
-- Blazezone
-- Icezone
-- Underwater
-- Crystalcave
+- Зона Пламени
+- Ледяная зона
+- Подводный мир
+- Пещера Кристаллов
 
-![Doppelganger Arenas](/img/events/doppelganger/maps.jpg)
+![Арены Двойника](/img/events/doppelganger/maps.jpg)
 
-_Doppelganger Arenas_
+_Арены Двойника_
 
-The arena takes the shape of a lengthy, narrow trail adorned with Magical Barriers on both sides. Players are grouped with their party members at one end of the arena, poised for battle.
+Арена представляет собой длинную узкую дорожку, увенчанную Магическими барьерами с обеих сторон. Игроки группируются со своими товарищами в одном конце арены, готовясь к битве.
 
-## Triumph Through Strategy
+## Победа через стратегию
 
-Your **success** hinges on your ability to work **collaboratively** and **effectively**. Monsters will spawn in clusters from their Magical Barriers, prompting you to counter their advance and protect your own barrier.
+Ваш **успех** зависит от вашей способности работать **совместно** и **эффективно**. Монстры появляются кластерами из своих Магических барьеров, подталкивая вас к тому, чтобы противостоять их наступлению и защитить свой барьер.
 
-An exclusive client **interface** is accessible within the **Doppelganger**, offering vital event-related information including:
+Внутри **Двойника** доступен эксклюзивный **интерфейс клиента**, предоставляющий важную информацию о событии, включая:
 
-- Remaining Time
-- Current monster breaches
-- Blue indicator: character advancement
-- Yellow indicator: monster advancement
-- Red indicator: boss monster advancement
+- Оставшееся время
+- Текущие прорывы монстров
+- Синий индикатор: движение персонажа
+- Желтый индикатор: движение монстров
+- Красный индикатор: движение босс-монстров
 
-![Doppelganger Interface](/img/events/doppelganger/interface.jpg)
+![Интерфейс Двойника](/img/events/doppelganger/interface.jpg)
 
-_Doppelganger Interface_
+_Интерфейс Двойника_
 
-**Coordinate** with your **team** to thwart the monsters' efforts and prevent them from breaching your barrier.
+**Сотрудничайте** с вашей **командой**, чтобы сорвать попытки монстров и предотвратить проникновение ваших барьер
 
-## The Finale and Rewards
+ов.
 
-**Successfully** kill all three waves of monsters and their [Boss counterparts](/category/doppelganger) to unlock rewards — the **Silver and Golden Chests**.
+## Финал и награды
 
-> PLACE IMAGE (GOLDEN SILVER CHEST)
+**Успешно** убейте все три волны монстров и их [боссовых противников](/category/doppelganger), чтобы разблокировать награды - **Серебряные и Золотые сундуки**.
 
-### First Wave
+> ВСТАВИТЬ ИЗОБРАЖЕНИЕ (ЗОЛОТОЙ СЕРЕБРЯНЫЙ СУНДУК)
 
-After killing successfully the [Slaughterer](/special-monsters/event-exclusive/doppelganger/slaughterer) a **Silver Chest** will appear with its rewards.
+### Первая волна
+
+После успешного уничтожения [Slaughterer](/special-monsters/event-exclusive/doppelganger/slaughterer) появится **Серебряный сундук** с наградами.
 
 ![Slaughterer](/img/monsters/special/others/slaughterer.jpg)
 
 _Slaughterer_
 
-### Second Wave
+### Вторая волна
 
-After killing successfully the [Furious Slaughterer](/special-monsters/event-exclusive/doppelganger/furious-slaughterer) a **Silver Chest** will appear with its rewards.
+После успешного уничтожения [Furios Slaughterer](/special-monsters/event-exclusive/doppelganger/furious-slaughterer) появится **Серебряный сундук** с наградами.
 
 ![Furious Slaughterer](/img/monsters/special/others/furious-slaughterer.jpg)
 
 _Furious Slaughterer_
 
-### Third Wave
+### Третья волна
 
-The third and final wave will have the [Ice Walker](/special-monsters/event-exclusive/doppelganger/ice-walker).
+В третьей и последней волне будет [Ice Walker](/special-monsters/event-exclusive/doppelganger/ice-walker).
 
 ![Ice Walker](/img/monsters/special/others/ice-walker.jpg)
 
@@ -113,8 +115,12 @@ _Ice Walker_
 
 :::info
 
-After successfuly completing the **Doppelganger** a **Golden Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
+После успешного завершения события **Двойник** появится **Золотой сундук**, внутри которого находится [Orange Candy Box](/items/item-bags/misc/orange-candy-box/), и его награды будут доступны участникам.
+
+![Orange Candy Box](/img/items/item-bags/orange-candy-box.png)
+
+_Orange Candy Box_
 
 :::
 
-Prepare to engage in an exhilarating test of skill and coordination as you defend against relentless waves of monsters. The **Doppelganger** Event is not only a chance to showcase your **combat prowess** but also a platform to demonstrate the **power of teamwork** in the realm of **Lotus Mu**.
+Приготовьтесь принять увлекательное испытание навыков и координации, защищаясь от нескончаемых волн монстров. Событие **Двойник** - это не только шанс продемонстрировать вашу **боевую мастерство**, но и платформа для демонстрации **силы командной работы** в мире **Lotus Mu**.

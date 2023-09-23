@@ -4,147 +4,148 @@ sidebar_position: 3
 
 # Chaos Castle
 
-**Chaos Castle** is the place where Mu Warriors fight for prestige or prize,but there can be only **one winner**.
+**Замок Хаоса** - это место, где воины Mu сражаются за престиж или приз, но может быть только **один победитель**.
 
-To join the event you must buy **Armor of Guardsman** from **Silvia** in [Yoskreth](/maps/yoskreth) and right click on it.
+Чтобы присоединиться к событию, вы должны купить **Броню стражника** у **Сильвии** в [Yoskreth](/maps/yoskreth) и щелкнуть по ней правой кнопкой мыши.
 
-![Silvia](/img/npc/silvia.jpg)
+![Сильвия](/img/npc/silvia.jpg)
 
-_Silvia_
-
-:::note
-
-During the **Chaos Castle Event** you are **disguised** to look like your enemies, where no one will be able to tell who’s who.
-
-:::
-
-## Entry Requirements
-
-As the **Chaos Castle** is about to commence, a **system notice** will be sent to all active players.
-
-### Required Item
-
-- There is a Zen fee to enter **Chaos Castle**.
-- All participant's **Zen fee** is put into a pool and the winner of the minigame will win **80%** of the total amount.
-- When you enter your character will have the **Guardsman** skin applied.
-- The monsters that spawn also have a **Guardsman** skin so its hard to see the differences between players and monsters.
-- **Chaos Castle** Entry item - the **Armor of Guardsman** is sold by **Silvia** in [Yoskreth](/maps/yoskreth).
-
-![Armor of Guardsman](/img/items/invitations/armor-of-guardsman.png)
-
-_Armor of Guardsman_
-
-### Required Level
-
-- **Knights, Wizards and Elves:**
-
-  | Chaos Castle Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Chaos Castle 1   |       15 - 49        |
-  |   Chaos Castle 2   |       50 - 119       |
-  |   Chaos Castle 3   |      120 - 179       |
-  |   Chaos Castle 4   |      180 - 239       |
-  |   Chaos Castle 5   |      240 - 299       |
-  |   Chaos Castle 6   |      300 - 400       |
-  |   Chaos Castle 7   | 3rd Quest Completed  |
-
-- **Gladiators and Lords:**
-
-  | Chaos Castle Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Chaos Castle 1   |       15 - 29        |
-  |   Chaos Castle 2   |       30 - 99        |
-  |   Chaos Castle 3   |      100 - 159       |
-  |   Chaos Castle 4   |      160 - 219       |
-  |   Chaos Castle 5   |      220 - 279       |
-  |   Chaos Castle 6   |      280 - 400       |
-  |   Chaos Castle 7   | 3rd Quest Completed  |
-
-## Chaos Castle Rules
-
-- Characters **cannot** cast any Buff Skill **onto another player**, during the **Chaos Castle**.
-- Transformation Rings cannot be used in the **Chaos Castle** map.
-- Any character in a Party cannot enter the **Chaos Castle** map.
-- Any character with a PK Status cannot enter the **Chaos Castle** map.
-- Combat adjustments:
-  - All PVP DMG is reduced by **50%**.
-  - No penalty upon character death.
-- Other adjustments:
-  - Character Commands are disabled.
-  - The Chat Box is disabled once the **Chaos Castle** starts.
-
-## Game-play
-
-### Preparation
-
-The **Chaos Castle** arena is square shaped with sections of the floor missing. A character can **fall off** the edge of the arena. If a character falls off the edge of the arena, they are **disqualified**.
+_Сильвия_
 
 :::note
 
-Once the Entry Period has passed, there is a **1 minute** delay before the event starts.
+Во время события **Замок Хаоса** вы будете **замаскированы**, чтобы выглядеть как ваши враги, и никто не сможет определить, кто есть кто.
 
 :::
 
-![Chaos Castle](/img/events/cc/cc.jpg)
-![Chaos Castle Event Map](/img/events/cc/cc-map.jpg)
+## Требования к входу
 
-_Chaos Castle Event Map_
+По мере того как **Замок Хаоса** готовится начаться, системное уведомление будет отправлено всем активным игрокам.
 
-### Chaos Castle Quest
+### Требуемый предмет
 
-When then event starts, monster will instantly spawn throughout the arena. Including other characters, there will be a total of **100 enemies** in the arena. As enemies are killed, the **Character Counter** will **decrease**.
+- Есть **зеновая плата** за вход в **Замок Хаоса**.
+- Вся **зеновая плата участников** помещается в общий фонд, и победитель мини-игры получит **80%** от общей суммы.
+- Когда вы входите, на вашего персонажа накладывается скин **стражника**.
+- Монстры, которые появляются, также имеют скин **стражника**, поэтому сложно различить игроков и монстров.
+- Входной предмет **Замка Хаоса** - это **Броня стражника**, которую продает **Сильвия** в [Yoskreth](/maps/yoskreth).
 
-![Chaos Castle Characters](/img/events/cc/cc-monsters.jpg)
+![Броня стражника](/img/items/invitations/armor-of-guardsman.png)
 
-_Chaos Castle Characters_
+_Броня стражника_
 
-Once the **Character Counter** reaches **50**, sections of the outer floor will **crumble**. If a character is standing where the floor crumbles, the character will **fall off** the arena and will be **disqualified**.
+### Требуемый уровень
+
+- **Рыцари, Волшебники и Эльфы:**
+
+  | Уровень Замка Хаоса | Требуемый уровень персонажа |
+  | :-----------------: | :-------------------------: |
+  |    Замок Хаоса 1    |           15 - 49           |
+  |    Замок Хаоса 2    |          50 - 119           |
+  |    Замок Хаоса 3    |          120 - 179          |
+  |    Замок Хаоса 4    |          180 - 239          |
+  |    Замок Хаоса 5    |          240 - 299          |
+  |    Замок Хаоса 6    |          300 - 400          |
+  |    Замок Хаоса 7    |    Завершена 3-я задача     |
+
+- **Гладиаторы и Лорды:**
+
+  | Уровень Замка Хаоса | Требуемый уровень персонажа |
+  | :-----------------: | :-------------------------: |
+  |    Замок Хаоса 1    |           15 - 29           |
+  |    Замок Хаоса 2    |           30 - 99           |
+  |    Замок Хаоса 3    |          100 - 159          |
+  |    Замок Хаоса 4    |          160 - 219          |
+  |    Замок Хаоса 5    |          220 - 279          |
+  |    Замок Хаоса 6    |          280 - 400          |
+  |    Замок Хаоса 7    |    Завершена 3-я задача     |
+
+## Правила Замка Хаоса
+
+- Персонажи **не могут** накладывать навыки **баффа** на другого игрока во время **Замка Хаоса**.
+
+- Кольца трансформации нельзя использовать на карте **Замка Хаоса**.
+- Ни один персонаж в группе не может войти на карту **Замка Хаоса**.
+- Персонаж с статусом **PK** не может войти на карту **Замка Хаоса**.
+- Корректировки в бою:
+  - Урон **PVP** уменьшен на **50%**.
+  - Нет штрафов при смерти персонажа.
+- Другие настройки:
+  - Команды персонажа отключены.
+  - Чат отключается, как только начинается **Замок Хаоса**.
+
+## Игровой процесс
+
+### Подготовка
+
+Арена **Замка Хаоса** имеет квадратную форму с отсутствующими участками пола. Персонаж может **сорваться** с края арены. Если персонаж упадет с края арены, он будет **дисквалифицирован**.
+
+:::note
+
+После окончания периода входа следует **1-минутная** задержка перед началом события.
+
+:::
+
+![Замок Хаоса](/img/events/cc/cc.jpg)
+![Карта события Замка Хаоса](/img/events/cc/cc-map.jpg)
+
+_Карта события Замка Хаоса_
+
+### Задание Замка Хаоса
+
+Когда событие начинается, монстры мгновенно появляются по всей арене. Включая других персонажей, всего будет **100 врагов** на арене. По мере убийства врагов, **счетчик персонажей** будет **уменьшаться**.
+
+![Персонажи Замка Хаоса](/img/events/cc/cc-monsters.jpg)
+
+_Персонажи Замка Хаоса_
+
+Как только **счетчик персонажей** достигнет **50**, части внешнего пола **разрушатся**. Если персонаж находится там, где пол разрушается, персонаж **сорвется** с арены и будет **дисквалифицирован**.
 
 :::info
 
-The **Chaos Castle** will last for **10 minutes**, until only **one player** is alive or until **all players die**.
+**Замок Хаоса** продлится **10 минут**, пока не останется **один игрок** в живых или пока не умрут **все игроки**.
 
 :::
 
-Some of the monsters in **Chaos Castle** have a special Skill called **Explosion**, which causes strong **Knock-back**. Explosion (Range: 2) is only casted after the monster dies. The **Knock-back** effect of the Skill can cause characters to fall off the stage.
+Некоторые монстры в **Замке Хаоса** имеют специальный навык **Взрыв**, который вызывает сильное **отталкивание**. Навык **Взрыв** (Диапазон: 2) активируется только после смерти монстра. Эффект **отталкивания** этого навыка может заставить персонажей сорваться с арены.
 
 :::tip
 
-Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of the Explosion Knock-back (Elemental Fire Resistance). Using AOE Skills can also help avoid Explosion Knock-back.
+Надев **Кольцо Огня** или **Подвеску Огня**, вы можете уменьшить шансы на отталкивание от Взрыва (Элементальное сопротивление Огню). Использование навыков области действия также может помочь избежать отталкивания от Взрыва.
 
 :::
 
-## Reward
+## Награда
 
-By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/items/ancient-items). The **strength** of the items you receive in **Chaos Castle** depends on **which instance** of the event you are participating in.
+Победители **Замка Хаоса** будут награждены [Древним предметом](/items/ancient-items). **Сила** предметов, которые вы получите в **Замке Хаоса**, зависит от **какого уровня** события вы участвуете.
 
-For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the table below.
+Для подробного разбора **наград Замка Хаоса** обратитесь к таблице ниже.
 
-| Chaos Castle Level |                                                                                                                                  Items                                                                                                                                   | Event Points |
-| :----------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
-|   Chaos Castle 1   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
-|   Chaos Castle 2   |                                                               [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                |     5 EP     |
-|   Chaos Castle 3   |                                                                [Bronze](/items/ancient-items#hyperion-bronze-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                |    10 EP     |
-|   Chaos Castle 4   |                                                                  [Scale](/items/ancient-items#eplate-scale-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                  |    15 EP     |
-|   Chaos Castle 5   |                                                               [Brass](/items/ancient-items#garuda-brass-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Wind](/items/ancient-items#odin-wind-set)                                                                |    20 EP     |
-|   Chaos Castle 6   |                                                             [Plate](/items/ancient-items#kantata-plate-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Spirit](/items/ancient-items#argo-spirit-set)                                                             |    30 EP     |
+| Chaos Castle Level | Items                                                                                                                                                                                                                                                                    | Event Points |
+| :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------: |
+|   Chaos Castle 1   | [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                                                                              |     5 EP     |
+|   Chaos Castle 2   | [Leather](/items/ancient-items#warrior-leather-set), [Pad](/items/ancient-items#apollo-pad-set), [Vine](/items/ancient-items#ceto-vine-set)                                                                                                                              |     5 EP     |
+|   Chaos Castle 3   | [Bronze](/items/ancient-items#hyperion-bronze-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                                                                               |    10 EP     |
+|   Chaos Castle 4   | [Scale](/items/ancient-items#eplate-scale-set), [Bone](/items/ancient-items#evis-bone-set), [Silk](/items/ancient-items#gaia-silk-set)                                                                                                                                   |    15 EP     |
+|   Chaos Castle 5   | [Brass](/items/ancient-items#garuda-brass-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Wind](/items/ancient-items#odin-wind-set)                                                                                                                              |    20 EP     |
+|   Chaos Castle 6   | [Plate](/items/ancient-items#kantata-plate-set), [Sphinx](/items/ancient-items#heras-sphinx-set), [Spirit](/items/ancient-items#argo-spirit-set)                                                                                                                         |    30 EP     |
 |   Chaos Castle 7   | [Dragon](/items/ancient-items#hyon-dragon-set), [Legendary](/items/ancient-items#hyon-dragon-set), [Guardian](/items/ancient-items#gywen-guardian-set), [Storm Crow](/items/ancient-items#gaion-storm-crow-set), [Adamantine](/items/ancient-items#agnis-adamantine-set) |    60 EP     |
 
-## Monthly Reward
+## Ежемесячная награда
 
-For our **most dedicated** players, we have the **Monthly Rewards System**.
+Для наших **самых преданных** игроков у нас есть **Система ежемесячных наград**.
 
-At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+В **конце** **каждого месяца** мы будем оценивать **рейтинги** события, и **Топ-15** игроков получат **награды**. Затем рейтинги сбросятся для **нового месяца**, и процесс повторится.
 
-The **Top 15** Player will be rewarded as follows:
+**Топ-15** игроков будет награжден следующим образом:
 
-- The player ranked **1st** will receive **40 Coins**
-- The player ranked **2nd** will receive **38 Coins**
-- The player ranked **3rd** will receive **36 Coins**
-- And so on ...
+- Игрок, занявший **1-е место**, получит **40 Coins**
+- Игрок, занявший **2-е место**, получит **38 Coins**
+- Игрок, занявший **3-е место**, получит **36 Coins**
+- И так далее...
 
 :::tip
 
-This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+Это один из **нескольких способов**, которые вы можете использовать, чтобы получить **Coins бесплатно** в **Lotus Mu**.
 
 :::

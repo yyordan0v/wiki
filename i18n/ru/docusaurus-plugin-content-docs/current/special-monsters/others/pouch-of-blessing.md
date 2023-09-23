@@ -4,32 +4,32 @@ sidebar_position: 3
 
 # Pouch of Blessing
 
-In this article, we delve into the depths of the enigmatic **Pouch of Blessing**, unraveling its bountiful rewards that await daring adventurers who dare to encounter this formidable creature.
+В этой статье мы погружаемся в глубины таинственной **Сумки Благословения**, раскрывая богатые награды, которые ожидают смелых искателей приключений, осмелившихся столкнуться с этим внушительным существом.
 
-![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg)
+![Сумка Благословения](/img/monsters/special/others/pouch-of-blessing.jpg)
 
-_Pouch of Blessing_
+_Сумка Благословения_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Pouch of Blessing** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени возрождения и количестве доступных **Сумка Благословения** во всем мире.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-|       [Lorencia](/maps/lorencia)       |    10    | **10 minutes** after being killed |
-|          [Noria](/maps/noria)          |    10    | **10 minutes** after being killed |
-|         [Devias](/maps/devias)         |    10    | **10 minutes** after being killed |
-|        [Dungeon](/maps/dungeon)        |    10    | **10 minutes** after being killed |
-|      [Dungeon 2](/maps/dungeon-2)      |    10    | **10 minutes** after being killed |
-|       [Icewrack](/maps/icewrack)       |    15    | **10 minutes** after being killed |
-|      [El'Harath](/maps/el-harath)      |    15    | **10 minutes** after being killed |
-|        [Ultoria](/maps/ultoria)        |    15    | **10 minutes** after being killed |
-|       [Ashkavor](/maps/ashkavor)       |    15    | **10 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    15    | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Возрождения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|       [Лоренсия](/maps/lorencia)        |     10     | **10 минут** после убийства |
+|          [Нория](/maps/noria)           |     10     | **10 минут** после убийства |
+|         [Девиас](/maps/devias)          |     10     | **10 минут** после убийства |
+|       [Подземелье](/maps/dungeon)       |     10     | **10 минут** после убийства |
+|     [Подземелье 2](/maps/dungeon-2)     |     10     | **10 минут** после убийства |
+|     [Ледяной Треск](/maps/icewrack)     |     15     | **10 минут** после убийства |
+|      [Эль-Харат](/maps/el-harath)       |     15     | **10 минут** после убийства |
+|        [Ультория](/maps/ultoria)        |     15     | **10 минут** после убийства |
+|        [Ашкавор](/maps/ashkavor)        |     15     | **10 минут** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     15     | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Pouch of Blessing**, players will be rewarded with one of the following:
+После успешного убийства **Сумка Благословения**, игроки будут вознаграждены одним из следующих:
 
 |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |      Zen      |
 | :-----------------------------------------------------------: | :-----------: |

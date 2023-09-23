@@ -4,25 +4,25 @@ sidebar_position: 8
 
 # Castle Deep
 
-The **Castle Deep** event takes place in the [Valley of Loren](/maps/valley-of-loren). You are required to eliminate all the spawned creatures.
+**Событие "Замок Глубин"** происходит в [Долине Лорен](/maps/valley-of-loren). Вам необходимо уничтожить всех появившихся существ.
 
 :::info
 
-The overall **Castle Deep** duration is **30 minutes**.
+Общая продолжительность события **"Замок Глубин"** составляет **30 минут**.
 
 :::
 
-## How to Participate
+## Как участвовать
 
-A system notice will be sent to all players in the server when the **Castle Deep Event** is about to begin.
+Системное уведомление будет отправлено всем игрокам на сервере, когда событие **"Замок Глубин"** собирается начаться.
 
-You need to move your character in [Valley of Loren](/maps/valley-of-loren) and fight the [Kundun's](/special-monsters/bosses/kundun) forces.
+Вам нужно переместить своего персонажа в [Долину Лорен](/maps/valley-of-loren) и сразиться с силами [Кундуна](/special-monsters/bosses/kundun).
 
-![Castle Deep](/img/events/cs/castle-deep.jpg)
+![Замок Глубин](/img/events/cs/castle-deep.jpg)
 
-_Castle Deep_
+_Замок Глубин_
 
-In the final minutes of the **Castle Deep Event** [Erohim](/special-monsters/bosses/erohim) will materialize onto the battlefield.
+В последние минуты события **"Замок Глубин"** [Erohim](/special-monsters/bosses/erohim) появится на поле боя.
 
 ![Erohim](/img/monsters/special/bosses/erohim.jpg)
 

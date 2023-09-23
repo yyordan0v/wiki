@@ -4,59 +4,59 @@ sidebar_position: 7
 
 # Russian Roulette
 
-Experience an electrifying game of chance and nerve in the heart of the gaming realm with the **Russian Roulette** Event in Lotus Mu.
+Почувствуйте азарт и напряжение в самом сердце мира игры с **Событием Русская Рулетка** в Lotus Mu.
 
-This **GM-triggered** event offers players an intense and unpredictable challenge that keeps everyone on the edge of their seats. Here's everything you need to know about this daring event:
+Это **инициированное ГМ** событие предлагает игрокам интенсивный и непредсказуемый вызов, который держит всех в напряжении. Вот все, что вам нужно знать об этом смелом событии:
 
-## How to Join the Action
+## Как присоединиться к действию
 
-When a **GM initiates** the **Russian Roulette** Event, a global notice will be sent to all players, inviting them to participate.
+Когда **ГМ начинает** **Событие Русская Рулетка**, ко всем игрокам отправляется глобальное уведомление, приглашающее их участвовать.
 
 :::tip
 
-By typing the command **`/go`**, interested players can opt into the event.
+Набрав команду **`/go`**, заинтересованные игроки могут присоединиться к событию.
 
 :::
 
-Once committed, they will be teleported next to the GM, ready to face the exhilarating gamble.
+После подтверждения они будут телепортированы рядом с ГМ, готовыми к захватывающей азартной игре.
 
-![Russian Roulette](/img/events/roulette/roulette-start.jpg)
+![Русская Рулетка](/img/events/roulette/roulette-start.jpg)
 
-_Russian Roulette_
+_Русская Рулетка_
 
-## The Setup
+## Подготовка
 
-The **Russian Roulette** Event unfolds in the safety of a designated safezone, ensuring that participants can enjoy the excitement without compromising their safety.
+**Событие Русская Рулетка** разворачивается в безопасной зоне, обеспечивая, что участники могут наслаждаться волнением, не подвергая свою безопасность опасности.
 
-As the event begins, the **GM** starts **interacting** with players **one by one**.
+По мере начала события **ГМ** начинает **взаимодействовать** с игроками **по одному**.
 
-With each interaction, a **virtual shot** is fired toward the player. If the gun's chamber is empty, the player remains in the competition.
+С каждым взаимодействием к игроку направляется **виртуальный выстрел**. Если в патронной коробке пистолета нет патрона, игрок остается в соревновании.
 
-![Empty Shot](/img/events/roulette/roulette-empty.jpg)
+![Пустой выстрел](/img/events/roulette/roulette-empty.jpg)
 
-_Empty Shot_
+_Пустой выстрел_
 
-However, if the bullet is present, the unfortunate player takes a virtual headshot and is disqualified from the event.
+Однако если пуля присутствует, несчастный игрок получает виртуальное попадание в голову и выбывает из события.
 
-![Headshot](/img/events/roulette/roulette-headshot.jpg)
+![Попадание в голову](/img/events/roulette/roulette-headshot.jpg)
 
-_Headshot_
+_Попадание в голову_
 
-## Last Player Standing
+## Последний выживший игрок
 
-The **Russian Roulette** Event is a test of nerves and chance. The tension escalates as the number of players decreases, and the element of unpredictability keeps the adrenaline pumping.
+**Событие Русская Рулетка** - это проверка нервов и удачи. Напряжение растет по мере уменьшения числа игроков, а элемент непредсказуемости поддерживает адреналин на высоком уровне.
 
 :::info
 
-As the interactions continue and shots are fired, only the **luckiest player** will remain **standing** when the smoke clears.
+По мере продолжения взаимодействия и выстрелов только **самый удачливый игрок** останется **стоять**, когда дым рассеется.
 
 :::
 
-Participate in the **Russian Roulette** Event in Lotus Mu for a heart-pounding thrill that combines daring, luck, and strategy. Will you be the last player left standing, or will fate test your luck in this exhilarating showdown?
+Участвуйте в **Событии Русская Рулетка** в Lotus Mu и получите захватывающий опыт, который объединяет смелость, удачу и стратегию. Будете ли вы последним оставшимся игроком, или судьба испытает вашу удачу в этом захватывающем схватке?
 
-## Reward
+## Награда
 
-The winner will be granted with a [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box/).
+Победителю будет вручена [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box/).
 
 ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
 

@@ -4,27 +4,27 @@ sidebar_position: 3
 
 # Grand Wizard
 
-Amidst the intensity of the [Imperial Guardian Event](/events/imperial-guardian), the formidable presence of the **Grand Wizard** looms large, instilling a sense of awe and trepidation among players.
+Среди интенсивности [События Имперского Стража](/events/imperial-guardian) внушительное присутствие **Гранд Визарда** велико и вызывает у игроков чувство благоговения и трепета.
 
-This legendary creature, renowned for its immense power and cunning, poses a significant challenge to those who dare to face it. Slaying the Grand Wizard requires not only exceptional skill and strategic prowess, but also unwavering determination and a fearless spirit. Yet, within the heart of this formidable encounter lies the promise of an extraordinary reward, one that is befitting of the immense effort and valor displayed in the battle against this legendary adversary.
+Это легендарное существо, известное своей огромной мощью и хитростью, представляет собой значительное испытание для тех, кто осмеливается его противостоять. Уничтожение Гранд Визарда требует не только исключительного мастерства и стратегического умения, но и непоколебимой решимости и бесстрашного духа. Однако в самом сердце этой сильной встречи скрыто обещание награды, достойной огромных усилий и доблести, продемонстрированных в битве против этого легендарного соперника.
 
-![Grand Wizard](/img/monsters/special/others/grand-wizard.jpg)
+![Гранд Визард](/img/monsters/special/others/grand-wizard.jpg)
 
-_Grand Wizard_
+_Гранд Визард_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Grand Wizards in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Вы можете найти более подробную информацию о появлении Гранд Визардов в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Grand Wizard**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Гранд Визарда**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

@@ -4,26 +4,26 @@ sidebar_position: 1
 
 # Hands of Maya
 
-Within the vicinity surrounding the Maya Statue during the [Kanturu Event](/events/kanturu), both the **Left and Right Hands of Maya** materialize. These mystical beings serve as harbingers, issuing a foreboding message that the formidable [Nightmare](/special-monsters/bosses/nightmare) is on the verge of making its presence known.
+В окрестностях статуи Майи во время [События Кантуро](/events/kanturu) материализуются как **Левая, так и Правая Рука Майи**. Эти мистические существа служат предвестниками, издают предостерегающее сообщение о том, что страшный [Найтмэр](/special-monsters/bosses/nightmare) собирается проявить себя.
 
-![Left Hand of Maya](/img/monsters/special/others/maya-left.jpg)
-![Right Hand of Maya](/img/monsters/special/others/maya-right.jpg)
+![Левая Рука Майи](/img/monsters/special/others/maya-left.jpg)
+![Правая Рука Майи](/img/monsters/special/others/maya-right.jpg)
 
-_Left Hand of Maya / Right Hand of Maya_
+_Левая Рука Майи / Правая Рука Майи_
 
-## Details
+## Детали
 
-These creatures can be encountered only during the [Kanturu Event](/events/kanturu).
+Эти существа могут быть встречены только во время [События Кантуро](/events/kanturu).
 
 :::tip
 
-Each of them appears twice during the event. You can find more information in the [Kanturu Event](/events/kanturu) article.
+Каждое из них появляется дважды во время события. Более подробную информацию можно найти в статье [События Кантуро](/events/kanturu).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Hand of Maya**, players will be rewarded with a [Gemstone](/items/jewels/regular-jewels/gemstone).
+После успешного убийства **Руки Майи**, игроки будут награждены [Gemstone](/items/jewels/regular-jewels/gemstone).
 
 ![Gemstone](/img/items/jewels/gemstone.png)
 

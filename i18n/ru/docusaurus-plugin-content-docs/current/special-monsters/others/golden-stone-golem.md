@@ -4,28 +4,28 @@ sidebar_position: 13
 
 # Golden Stone Golem
 
-This article explores the **Golden Stone Golem** - a special monster in the **Lotus Mu** realm.
+В этой статье рассматривается **Golden Stone Golem** - специальный монстр в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who manage to kill it.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, сумевшим убить его.
 
 ![Golden Stone Golem](/img/monsters/special/golden/stone-golem.jpg)
 
 _Golden Stone Golem_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Stone Golem** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Golden Stone Golem** по всему миру.
 
-|           Location           | Quantity |           Respawn Time            |
-| :--------------------------: | :------: | :-------------------------------: |
-|  [Icewrack](/maps/icewrack)  |    1     | **30 minutes** after being killed |
-| [El'Harath](/maps/el-harath) |    1     | **30 minutes** after being killed |
-|   [Ultoria](/maps/ultoria)   |    1     | **30 minutes** after being killed |
-|  [Ashkavor](/maps/ashkavor)  |    1     | **30 minutes** after being killed |
+|        Местоположение         | Количество |      Время Воскрешения      |
+| :---------------------------: | :--------: | :-------------------------: |
+| [Ледяной Мир](/maps/icewrack) |     1      | **30 минут** после убийства |
+| [Эль-Харат](/maps/el-harath)  |     1      | **30 минут** после убийства |
+|   [Ультория](/maps/ultoria)   |     1      | **30 минут** после убийства |
+|   [Ашкавор](/maps/ashkavor)   |     1      | **30 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Golden Stone Golem**, players will be rewarded with:
+После успешного убийства **Golden Stone Golem**, игроки будут вознаграждены следующим:
 
 | [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |
 | :-----------------------------------------------------------------: |

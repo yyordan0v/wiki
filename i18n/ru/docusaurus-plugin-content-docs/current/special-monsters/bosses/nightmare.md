@@ -4,25 +4,25 @@ sidebar_position: 2
 
 # Nightmare
 
-Embark on a perilous journey into the depths of [Kanturu Relics](/maps/kanturu-relics) as we unveil the harrowing tale of the dreaded **Nightmare**.
+Отправьтесь в опасное путешествие в глубины [Кантуру Реликс](/maps/kanturu-relics), где мы раскроем страшную историю ужасного **Кошмара**.
 
-Once a serene sanctuary, now plagued by the relentless attacks of this ancient warlord and his monstrous horde, [Kanturu Relics](/maps/kanturu-relics) hides the coveted **Refinery Tower** where impure [Gemstones](/items/jewels/regular-jewels/gemstone) are transformed into exquisite [Jewels of Harmony](/items/jewels/regular-jewels/jewel-of-harmony).
+Когда-то это было мирным убежищем, но теперь [Кантуру Реликс](/maps/kanturu-relics) страдает от неослабевающих атак этого древнего военачальника и его монструозной орды. Здесь скрывается заветная **Башня Переработки**, где нечистые [Самоцветы](/items/jewels/regular-jewels/gemstone) преобразуются в изысканные [Драгоценные Камни Гармонии](/items/jewels/regular-jewels/jewel-of-harmony).
 
-Join us as we delve into the treacherous path that leads adventurers to confront the formidable **Nightmare** and reclaim the sanctuary's tranquillity.
+Присоединяйтесь к нам, когда мы погрузимся в коварный путь, ведущий приключенцев к схватке с могучим **Кошмаром** и восстановлению покоя в убежище.
 
 :::info
 
-The **Nightmare** can only be defeated by participating in the [Kanturu Event](/events/kanturu).
+**Кошмар** может быть побежден только участием в [Событии Кантуру](/events/kanturu).
 
 :::
 
-![Nightmare](/img/monsters/special/bosses/nightmare.jpg)
+![Кошмар](/img/monsters/special/bosses/nightmare.jpg)
 
-_Nightmare_
+_Кошмар_
 
-## Reward
+## Награда
 
-Upon successfully killing the **Nightmare**, players will be rewarded with:
+После успешного убийства **Кошмара**, игроки будут награждены:
 
 |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
 | :-------------------------------------------------------------: |

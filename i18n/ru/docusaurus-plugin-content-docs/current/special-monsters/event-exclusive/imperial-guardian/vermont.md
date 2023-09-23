@@ -4,27 +4,27 @@ sidebar_position: 9
 
 # Vermont
 
-During the [Imperial Guardian Event](/events/imperial-guardian), participants may cross paths with the formidable **Vermont**, a creature of unparalleled strength and dread.
+Во время [События Имперского Стража](/events/imperial-guardian) участники могут пересечь свой путь с бесстрашным **Вермонтом**, существом невиданной силы и ужаса.
 
-Renowned for his formidable prowess and unyielding tenacity, this monstrous adversary poses a formidable challenge to any intrepid soul. Toppling **Vermont** demands unwavering skill, relentless determination, and unwavering unity among comrades. Yet, those who emerge triumphant from this epic encounter shall be richly rewarded, for within the clutches of **Vermont's** defeat lie bountiful spoils and priceless treasures.
+По достоинству оцененный за свои великолепные навыки и непоколебимую стойкость, этот чудовищный противник представляет собой огромное испытание для любого отважного духа. Подвиг над **Вермонтом** требует неуклонного мастерства, неугасающей решимости и нерушимого единства среди товарищей. Однако те, кто выходят победителями из этой эпической встречи, будут щедро вознаграждены, ибо в поражении **Вермонта** скрыты богатые добычи и бесценные сокровища.
 
-![Vermont](/img/monsters/special/others/vermont.jpg)
+![Вермонт](/img/monsters/special/others/vermont.jpg)
 
-_Vermont_
+_Вермонт_
 
-## Details
+## Подробности
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Vermont in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Вермонта можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Vermont**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Вермонта**, игроки будут вознаграждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

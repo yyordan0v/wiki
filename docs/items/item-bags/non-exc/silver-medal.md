@@ -38,7 +38,9 @@ The **Silver Medal** can drop one of the following items:
 | :-----------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: |
 |        ![Jewel of Bless](/img/items/jewels/bless.png)         |        ![Jewel of Soul](/img/items/jewels/soul.png)         |        ![Jewel of Life](/img/items/jewels/life.png)         |        ![Jewel of Creation](/img/items/jewels/creation.png)         |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         |
 
+:::note
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
+:::
 
 ## Obtaining the Silver Medal
 

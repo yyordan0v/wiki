@@ -4,35 +4,35 @@ sidebar_position: 1
 
 # Giant
 
-Prepare to face an exhilarating test of skill and courage as the colossal **Giant**, commands attention and unleashes chaos in the immersive realm of **Lotus Mu**.
+Приготовьтесь к захватывающему испытанию навыков и храбрости, поскольку колоссальный **Гигант** приказывает привлечь внимание и развязать хаос в захватывающем мире **Лотус Му**.
 
-![Giant](/img/monsters/special/others/giant.jpg)
+![Гигант](/img/monsters/special/others/giant.jpg)
 
-_Giant_
+_Гигант_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-Encounter the awe-inspiring presence of the **Giant** as you navigate through the captivating landscape of [Lorencia](/maps/lorencia) in search of this formidable entity.
+Ощутите внушительное присутствие **Гиганта**, когда вы прокладываете путь сквозь завораживающий пейзаж [Лоренсии](/maps/lorencia), в поисках этой могучей сущности.
 
 :::tip
 
-You can find **Giants** near the following coordinates in [Lorencia](/maps/lorencia) - **20, 50**.
+Вы можете найти **Гигантов** рядом с координатами в [Лоренсии](/maps/lorencia) - **20, 50**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Giants**.
+В следующей таблице предоставлена подробная информация о времени и количестве доступных **Гигантов**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    10    | 2 minutes after killed |
+| Количество |    Время воскрешения    |
+| :--------: | :---------------------: |
+|     10     | 2 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Giant**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного убийства **Гиганта**, игроки будут вознаграждены с [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

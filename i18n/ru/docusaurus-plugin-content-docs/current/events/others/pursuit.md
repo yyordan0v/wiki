@@ -4,49 +4,49 @@ sidebar_position: 6
 
 # Pursuit Event
 
-The **Pursuit Event** in **Lotus Mu** offers an adrenaline-filled experience that challenges players' agility and strategic thinking.
+**Событие Погони** в **Lotus Mu** предлагает адреналином наполненный опыт, который проверяет ловкость и стратегическое мышление игроков.
 
-As a **GM-triggered** event, it brings a dynamic twist to the gaming realm, requiring participants to either escape or outwit the pursuing **GM**. Here's what you need to know about this exciting event:
+Как **событие, инициируемое GM**, оно приносит динамический поворот в мир игры, требуя от участников или сбежать, или обхитрить преследующего **GM**. Вот что вам нужно знать об этом захватывающем событии:
 
-![Pursuit Event](/img/events/pursuit/pursuit-open.jpg)
+![Событие Погони](/img/events/pursuit/pursuit-open.jpg)
 
-_Pursuit Event_
+_Событие Погони_
 
-## How to Participate
+## Как участвовать
 
-When a **GM** initiates the **Pursuit Event**, a global notice will be broadcast to all players.
+Когда **GM** инициирует **Событие Погони**, глобальное уведомление будет транслироваться всем игрокам.
 
 :::tip
 
-Those interested in joining can easily do so by typing the command **`/go`**.
+Те, кто хотят присоединиться, могут легко сделать это, набрав команду **`/go`**.
 
 :::
 
-Once confirmed, participants are instantly teleported next to the **GM**, signaling their readiness for the challenge.
+После подтверждения, участники мгновенно переносятся рядом с **GM**, сигнализируя о своей готовности к вызову.
 
-![Pursuit Event](/img/events/pursuit/pursuit-join.jpg)
+![Событие Погони](/img/events/pursuit/pursuit-join.jpg)
 
-## The Pursuit
+## Погоня
 
-Upon the event's commencement, the roles are set: the **pursuing GM** aims to **catch the players** while they strive to outmaneuver and evade the GM's pursuit.
+По началу события роли определены: **преследующий GM** стремится **поймать игроков**, в то время как они пытаются обходить и уклоняться от преследования **GM**.
 
-If the **GM** successfully **hits a player**, they're **eliminated** from the event. The tension escalates as players race against the clock and the GM's skills, each move potentially deciding their fate.
+Если **GM** успешно **попадает в игрока**, тот **уничтожается** из события. Напряжение возрастает, поскольку игроки соревнуются с течением времени и умениями GM, где каждое движение может решить их судьбу.
 
-## The Ultimate Survivor
+## Последний Выживший
 
-In the **Pursuit Event**, the ultimate goal is to be **the last player standing**. The player who successfully avoids being caught by the **GM** will claim **victory**.
+В **Событии Погони** конечная цель - быть **последним выжившим игроком**. Игрок, который успешно избегает пойман быть **GM**, забирает **победу**.
 
-![Pursuit Event](/img/events/pursuit/pursuit-end.jpg)
+![Событие Погони](/img/events/pursuit/pursuit-end.jpg)
 
-_Pursuit Event Winner_
+_Победитель События Погони_
 
-It's a test of wits, reflexes, and cunning strategy, where every decision can mean the difference between triumph and defeat.
+Это проверка ума, рефлексов и коварной стратегии, где каждое решение может означать разницу между победой и поражением.
 
-Experience the thrill of the **Pursuit Event** in Lotus Mu, where your ability to flee or outpace the pursuing GM determines your success. Stay sharp, strategize on your feet, and aim to be the ultimate survivor in this heart-pounding challenge.
+Почувствуйте азарт **События Погони** в Lotus Mu, где ваша способность бежать или опережать преследующего GM определяет ваш успех. Оставайтесь внимательными, стратегизируйте на ходу и стремитесь стать последним выжившим в этом захватывающем испытании.
 
-## Reward
+## Награда
 
-The winner will be granted with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box/).
+Победитель получит [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box/).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

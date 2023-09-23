@@ -4,57 +4,57 @@ sidebar_position: 5
 
 # Death King Invasion
 
-Prepare for a harrowing encounter as the **Death King** invasion descends upon the realms of Lotus Mu, shrouding the land in darkness and despair. In this formidable event, players must rise to the challenge and confront the malevolent forces that seek to unleash chaos and destruction. Brace yourself for epic battles and face the wrath of the **Death King** as you embark on a quest to defend the realm and restore peace.
+Готовьтесь к страшной встрече, так как вторжение **Короля Смерти** нисходит на земли Lotus Mu, погружая землю во тьму и отчаяние. В этом могущественном событии игрокам предстоит поднять вызов и столкнуться с зловещими силами, которые стремятся развязать хаос и разрушение. Приготовьтесь к эпическим сражениям и столкнитесь с гневом **Короля Смерти**, отправившись в поисках защиты королевства и восстановления мира.
 
-![Death King](/img/monsters/special/invasions/death-king.jpg)
+![Король Смерти](/img/monsters/special/invasions/death-king.jpg)
 
-_Death King_
+_Король Смерти_
 
-## Place of Invasion
+## Место Вторжения
 
-The area targeted by the **Death King** is the following map:
+Областью, целью атак **Короля Смерти**, является следующая карта:
 
-- [Dungeon 2](/maps/dungeon-2)
+- [Подземелье 2](/maps/dungeon-2)
 
 :::tip
 
-You can find the **Death King** at coordinates - **237, 234**.
+Вы можете найти **Короля Смерти** по координатам - **237, 234**.
 
 :::
 
-Amidst the invasion, the **Death King** has summoned **10** minions known as the **Death Bones** all across [Dungeon 2](/maps/dungeon-2).
+Во время вторжения **Король Смерти** вызывает **10** прислужников, известных как **Кости Смерти**, по всей карте [Подземелье 2](/maps/dungeon-2).
 
-![Death Bone](/img/monsters/special/invasions/death-bone.jpg)
+![Кость Смерти](/img/monsters/special/invasions/death-bone.jpg)
 
-_Death Bone_
+_Кость Смерти_
 
-## Schedule
+## Расписание
 
-The subsequent table provides detailed information about the time and the quantity of the **Death King** attacks that occur throughout the day. It offers a comprehensive overview of when the attacks take place and the number of the **Death King** involved in each assault.
+В следующей таблице предоставлена подробная информация о времени и количестве атак **Короля Смерти**, которые происходят в течение дня. Она предоставляет полный обзор времени событий и количества **Королей Смерти**, участвующих в каждой атаке.
 
-| First Invasion time |   Frequency   |
-| :-----------------: | :-----------: |
-|      03:50:00       | Every 12 hour |
+| Время первой атаки |     Частота     |
+| :----------------: | :-------------: |
+|      03:50:00      | Каждые 12 часов |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать [внутриигровое расписание](/client-features/schedule) или [веб-расписание](https://lotusmu.org/schedule), чтобы проверить оставшееся время до следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Обратите внимание, что таймер вторжения основан на серверном времени.
 
 :::
 
-### Land of Trials
+### Земля Испытаний
 
-One of the advantages bestowed upon the victorious guild in the [Castle Siege Event](/events/castle-siege) is the exclusive privilege of having a dedicated **Death King** solely accessible to members of their guild.
+Одним из преимуществ, предоставленных победившей гильдии в [Событии Осады Замка](/events/castle-siege), является эксклюзивное право доступа к **Королю Смерти**, доступному исключительно членам их гильдии.
 
-|                Location                |     Respawn Time     |
-| :------------------------------------: | :------------------: |
-| [Land of Trials](/maps/land-of-trials) | 5 hours after killed |
+|             Местоположение              |   Время возрождения    |
+| :-------------------------------------: | :--------------------: |
+| [Земля Испытаний](/maps/land-of-trials) | 5 часов после убийства |
 
-## Reward
+## Награда
 
-Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
+После успешного уничтожения **Короля Смерти** или **Кости Смерти**, игроки будут вознаграждены следующим:
 
 |                        Death King                        |                          Death Bone                          |
 | :------------------------------------------------------: | :----------------------------------------------------------: |

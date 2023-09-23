@@ -2,38 +2,38 @@
 sidebar_position: 1
 ---
 
-# Ghost Horse Prismatic Gems
+# Прозрачные камни для Призрачных лошадей (Ghost Horse Prismatic Gems)
 
-The alluring **Ghost Horse Prismatic Gems** bestow players with a unique opportunity to transform the appearance of their [Tier 2 Pets](/category/pets), whether they be the formidable [Necromancer](/crafting/pets/Necromancer), the ethereal [Spirit of Nature](/crafting/pets/spirit-of-nature), or the spectral [Ghost Horse](/crafting/pets/ghost-horse).
+Очаровательные **прозрачные камни для Призрачных лошадей** предоставляют игрокам уникальную возможность изменить внешний вид их [Питомцев 2-го уровня](/category/pets), будь то могущественный [Некромант](/crafting/pets/Necromancer), эфирный [Дух Природы](/crafting/pets/spirit-of-nature) или призрачная [Призрачная лошадь](/crafting/pets/ghost-horse).
 
 :::tip
 
-For further information about the Skin System, you can explore our comprehensive [Skin System](/skin-system) article.
+Для получения дополнительной информации о Системе скинов, вы можете изучить наш полный [Статью о Системе скинов](/skin-system).
 
 :::
 
-Embrace this mystical power to unleash your creativity and forge a bond with your faithful companions, as you embark on an adventure filled with boundless possibilities in the enchanting world of Lotus Mu.
+Воспользуйтесь этой мистической силой, чтобы раскрыть свою креативность и укрепить связь с вашими верными спутниками, отправившись в приключение, полное безграничных возможностей в волшебном мире Lotus Mu.
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Прозрачный камень](/img/items/jewels/prismatic-gem.png)
 
-_Prismatic Gem_
+_Прозрачный камень_
 
 :::info
 
-The Ghost Horse Prismatic Gems can be bought from either **Silvia** or **Rhea** in [Yoskreth](/maps/yoskreth).
+Прозрачные камни для Призрачных лошадей можно купить у **Сильвии** или **Реи** в [Йоскрет](/maps/yoskreth).
 
 :::
 
-## Variations
+## Варианты
 
-Through the infusion of one of the Ghost Horse Prismatic Gems into your [Tier 2 Pets](/category/pets), you can seamlessly alter their appearances, with each **Gem** providing a distinct transformation based on the specific **Prismatic Gem** used in the process.
+Путем инфузии одного из прозрачных камней для Призрачных лошадей в ваши [Питомцы 2-го уровня](/category/pets) вы можете без труда изменить их внешний вид, причем каждый **камень** обеспечивает уникальное преображение в зависимости от **конкретного** использованного прозрачного камня.
 
-| Red Ghost Horse [<span className="tier-common">**Common**</span>] | Ice Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] | White Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] |
-| :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|      ![Red Ghost Horse](/img/items/pets/red-ghost-horse.jpg)      |        ![Ice Ghost Horse](/img/items/pets/ice-ghost-horse.jpg)        |       ![White Ghost Horse](/img/items/pets/white-ghost-horse.jpg)       |
+| Красная Призрачная лошадь [<span className="tier-common">**Обычная**</span>] | Ледяная Призрачная лошадь [<span className="tier-uncommon">**Необычная**</span>] | Белая Призрачная лошадь [<span className="tier-uncommon">**Необычная**</span>] |
+| :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|      ![Красная Призрачная лошадь](/img/items/pets/red-ghost-horse.jpg)       |        ![Ледяная Призрачная лошадь](/img/items/pets/ice-ghost-horse.jpg)         |       ![Белая Призрачная лошадь](/img/items/pets/white-ghost-horse.jpg)        |
 
 :::note
 
-Please be aware that the infusion process only alters the pet's appearance while preserving its original stats.
+Обратите внимание, что процесс инфузии изменяет только внешний вид питомца, сохраняя его исходные характеристики.
 
 :::

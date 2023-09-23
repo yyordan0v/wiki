@@ -4,27 +4,27 @@ sidebar_position: 8
 
 # Kato
 
-Within the [Imperial Guardian Event](/events/imperial-guardian), the formidable presence of **Kato** looms over courageous players who dare to challenge this fearsome adversary.
+В рамках [События Имперского Стража](/events/imperial-guardian) устрашающее присутствие **Като** нависает над смелыми игроками, осмеливающимися бросить вызов этому страшному сопернику.
 
-Known for its relentless power and unmatched ferocity, **Kato** stands as a true test of strength and skill. Slaying this mighty beast demands unwavering determination and strategic prowess, but the spoils of victory are commensurate with the arduous battle.
+Известный своей неугомонной мощью и беспрецедентной жестокостью, **Като** является настоящим испытанием силы и мастерства. Убийство этого могучего зверя требует непоколебимой решимости и стратегического мастерства, но награды за победу соответствуют сложной битве.
 
-![Kato](/img/monsters/special/others/kato.jpg)
+![Като](/img/monsters/special/others/kato.jpg)
 
-_Kato_
+_Като_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Kato in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Като можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Kato**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Като**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

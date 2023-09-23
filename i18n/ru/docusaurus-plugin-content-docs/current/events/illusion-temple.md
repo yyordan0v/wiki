@@ -4,204 +4,206 @@ sidebar_position: 4
 
 # Illusion Temple
 
-The event consists out of **two teams** who will try to get as many items from the **Stone Pedestal** NPC as possible. Once a player has received the item he will be slowed. Returning the item to the **base camp** will get the team **1 point**.
+Событие состоит из **двух команд**, которые будут пытаться получить как можно больше предметов у NPC **Каменного Пьедестала**. Как только игрок получит предмет, его скорость будет снижена. Возврат предмета в **базовый лагерь** принесет команде **1 очко**.
 
-During the **Illusion Temple**, players will have applied a **skin** on their character in order to recognize the enemy team.
-
-:::tip
-
-The players will be granted [special skills](/events/illusion-temple#kill-points--skills) when killing adversaries.
-
-:::
-
-## Entry Requirements
-
-### Required Item
-
-- You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
-- [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
-- The crafting ingredients can be purchased in [Yoskreth](/maps/yoskreth).
-- You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
+Во время **Храма Иллюзий** игроки будут иметь на своем персонаже **скин**, чтобы узнать вражескую команду.
 
 :::tip
 
-For a **guaranteed** drop of the **Scroll of Blood Ingredients** you can kill the [Mine Driller](//special-monsters/others/mine-driller) in either [El'Harath](/maps/el-harath) or [Land of Trials](/maps/land-of-trials).
-
-![Mine Driller](/img/monsters/special/others/mine-driller.jpg)
-
-_Mine Driller_
+Игрокам будут предоставлены [особые навыки](/events/illusion-temple#kill-points--skills) при убийстве противников.
 
 :::
 
-|                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
-| :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
-| ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |
+## Требования к входу
 
-_Scroll of Blood Crafting_
+### Необходимый предмет
+
+- Вы должны создать [Свиток Крови](/crafting/invitations/scroll-of-blood), чтобы войти.
+- [Свиток Крови](/crafting/invitations/scroll-of-blood) создается через машину Chaos Goblin.
+- Ингредиенты для создания можно приобрести в [Йоскрете](/maps/yoskreth).
+- Также вам понадобится [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) для создания.
 
 :::tip
 
-Detailed information on the crafting process you can find in the [Scroll of Blood](/crafting/invitations/scroll-of-blood) article.
+Для **гарантированного** выпадения ингредиентов для **Свитка Крови** вы можете убивать [Майн Дриллера](//special-monsters/others/mine-driller) в [Эль-Харате](/maps/el-harath) или [Земля Испытаний](/maps/land-of-trials).
+
+![Майн Дриллер](/img/monsters/special/others/mine-driller.jpg)
+
+_Майн Дриллер_
 
 :::
 
-### Required Level
+|                      Старый Свиток                      |                                       |                              Союзник Иллюзионного Волшебника                              |                                       | [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) |                                        |    [Свиток Крови](/crafting/invitations/scroll-of-blood)    |
+| :-----------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :------------------------------------: | :---------------------------------------------------------: |
+| ![Старый Свиток](/img/items/invitations/old-scroll.png) | ![Плюс](/img/items/invitations/+.png) | ![Союзник Иллюзионного Волшебника](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Плюс](/img/items/invitations/+.png) |        ![Самоцвет Хаоса](/img/items/jewels/chaos.png)         | ![Равно](/img/items/invitations/=.png) | ![Свиток Крови](/img/items/invitations/scroll-of-blood.png) |
 
-- **Knights, Wizards and Elves:**
+_Создание Свитка Крови_
 
-  | Illusion Temple Level | Character Level Req. |
-  | :-------------------: | :------------------: |
-  |   Illusion Temple 1   |      220 - 270       |
-  |   Illusion Temple 2   |      271 - 320       |
-  |   Illusion Temple 3   |      321 - 350       |
-  |   Illusion Temple 4   |      351 - 380       |
-  |   Illusion Temple 5   |      381 - 400       |
-  |   Illusion Temple 6   | 3rd Quest Completed  |
+:::tip
 
-- **Gladiators and Lords:**
+Подробную информацию о процессе создания можно найти в статье [Свиток Крови](/crafting/invitations/scroll-of-blood).
 
-  | Illusion Temple Level | Character Level Req. |
-  | :-------------------: | :------------------: |
-  |   Illusion Temple 1   |      220 - 270       |
-  |   Illusion Temple 2   |      271 - 320       |
-  |   Illusion Temple 3   |      321 - 350       |
-  |   Illusion Temple 4   |      351 - 380       |
-  |   Illusion Temple 5   |      381 - 400       |
-  |   Illusion Temple 6   | 3rd Quest Completed  |
+:::
 
-## Illusion Temple Rules
+### Требуемый уровень
 
-- A minimum of **2** Players must enter, or it will not start.
-- A maximum of **10** Players can join in a single instance.
-- Any character with a **PK Status** cannot enter the **Illusion Temple** map.
-- Combat adjustments:
-  - PVP is allowed, once the Event starts.
-  - No penalty upon character death.
-- Other adjustments:
-  - Upon **death**, characters are moved to their **Party's respawn area**, which is inside their base.
+- **Рыцари, Волшебники и Эльфы:**
 
-## Game-play
+  | Уровень Храма Иллюзий | Требуемый уровень персонажа |
+  | :-------------------: | :-------------------------: |
+  |    Храм Иллюзий 1     |          220 - 270          |
+  |    Храм Иллюзий 2     |          271 - 320          |
+  |    Храм Иллюзий 3     |          321 - 350          |
+  |    Храм Иллюзий 4     |          351 - 380          |
+  |    Храм Иллюзий 5     |          381 - 400          |
+  |    Храм Иллюзий 6     |     3-й квест выполнен      |
 
-### Preparation
+- **Гладиаторы и Лорды:**
 
-Prior to the start of the **Illusion Temple**, the following messages appear in the Lotus Mu Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** - located in [Yoskreth](/maps/yoskreth). You need to have the **correct Scroll of Blood** corresponding to your **Character's level** in order to enter the Event.
+  | Уровень Храма Иллюзий | Требуемый уровень персонажа |
+  | :-------------------: | :-------------------------: |
+  |    Храм Иллюзий 1     |          220 - 270          |
+  |    Храм Иллюзий 2     |          271 - 320          |
+  |    Храм Иллюзий 3     |          321 - 350          |
+  |    Храм Иллюзий 4     |          351 - 380          |
+  |    Храм Иллюзий 5     |          381 - 400          |
+  |    Храм Иллюзий 6     |     3-й квест выполнен      |
 
-If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
+## Правила Храма Иллюзий
 
-![Illusion Temple NPC - Mirage](/img/events/it/it-npc.jpg)
+- Минимум **2** игрока должны войти, иначе событие не начнется.
+- Максимум **10** игроков могут присоединиться в одном экземпляре.
+- Ни один персонаж с **PK статусом** не может войти на карту **Храма Иллюзий**.
+- Регулировка боя:
+  - PVP разрешено после начала события.
+  - Наказаний за смерть персонажа нет.
+- Другие настройки:
+  - После **смерти** персонажи перемещаются на **территорию возрождения своей группы**, которая находится внутри их базы.
 
-_Illusion Temple NPC - Mirage_
+## Геймплей
 
-### Illusion Temple Quest
+### Подготовка
 
-The arena is large. Here's a look at the layout of the zone.
-You can see both teams starting positions on the **westernmost** and **easternmost** sides of the map.
+Перед началом **Храма Иллюзий** на сервере Lotus Mu появляются следующие сообщения: "Храм Иллюзий
 
-![Illusion Temple Event Map](/img/events/it/it-map.jpg)
+закроется через 5 (4,3,2,1) минуту (ы)". Как только вы увидите такое сообщение, возьмите с собой [Свиток Крови](/crafting/invitations/scroll-of-blood) к **Миражу** - находящемуся в [Йоскрете](/maps/yoskreth). Вам необходимо иметь **правильный Свиток Крови**, соответствующий **уровню вашего персонажа**, чтобы войти в событие.
 
-_Illusion Temple Event Map_
+Если вы все сделали правильно, вас перенесет на карту события **Храм Иллюзий**.
 
-**Red team** and **Blue team** spawn on opposite sides of the map.
+![NPC Храма Иллюзий - Мираж](/img/events/it/it-npc.jpg)
 
-![Red Team Skin](/img/events/it/it_team_red.jpg)
+_NPC Храма Иллюзий - Мираж_
 
-_Red Team Skin_
+### Квест Храма Иллюзий
 
-![Blue Team Skin](/img/events/it/it_team_blue.jpg)
+Арена большая. Взглянем на карту зоны.
+Вы можете увидеть стартовые позиции обеих команд на **западной** и **восточной** сторонах карты.
 
-_Blue Team Skin_
+![Карта события Храма Иллюзий](/img/events/it/it-map.jpg)
 
-The **Illusion Temple Ball** is located in either the **northern** or **southern** part of the map. Return the Ball to the **team's pedestal** to earn **one Game Point**.
+_Карта события Храма Иллюзий_
 
-When a ball is picked up, the character's Movement Speed will be **decreased** greatly so it's important for his or her teammates to work together to **protect the ball carrier** from the opposing team.
+**Красная команда** и **Синяя команда** появляются на противоположных сторонах карты.
+
+![Скин Красной Команды](/img/events/it/it_team_red.jpg)
+
+_Скин Красной Команды_
+
+![Скин Синей Команды](/img/events/it/it_team_blue.jpg)
+
+_Скин Синей Команды_
+
+**Шар Храма Иллюзий** находится либо в **северной**, либо в **южной** части карты. Верните Шар на **пьедестал команды**, чтобы заработать **одно игровое очко**.
+
+Когда Шар поднимается, скорость передвижения персонажа **сильно снижается**, поэтому важно, чтобы его товарищи **работали вместе**, чтобы **защитить носителя Шара** от противоположной команды.
 
 :::caution
 
-If the ball carrier is **killed**, **disconnects** or **leaves** the event, the ball will **fall** to the ground and will be able to be picked up by **any player** on **either team**.
+Если носитель Шара **убит**, **отключается** или **покидает** событие, Шар упадет на землю и сможет поднять **любой игрок** с **любой команды**.
 
 :::
 
-The Illusion Temple Ball spawns on the **Pedestal**.
+Шар Храма Иллюзий появляется на **пьедестале**.
 
-![Illusion Temple Pedestal](/img/events/it/it-pedestal.jpg)
+![Пьедестал Храма Иллюзий](/img/events/it/it-pedestal.jpg)
 
-_Illusion Temple Pedestal_
+_Пьедестал Храма Иллюзий_
 
-Each team's base also comes equipped with a **pedestal**, where players can bring back the event balls for points.
+В базе каждой команды также есть **пьедестал**, на котором игроки могут приносить Шары события для заработка очков.
 
-![Illusion Temple Team Pedestal](/img/events/it/it-team-pedestal.jpg)
+![Пьедестал команды Храма Иллюзий](/img/events/it/it-team-pedestal.jpg)
 
-_Illusion Temple Team Pedestal_
+_Пьедестал команды Храма Иллюзий_
 
 :::note
 
-Once a ball is taken from the **statue**, both of the statues will disappear. They will **reappear** again once a team **returns the ball** to their respective base.
+Как только Шар **взят со статуи**, обе статуи исчезнут. Они **появятся снова**, когда команда **вернет Шар** в свою базу.
 
 :::
 
-### Kill Points & Skills
+### Очки за убийства и навыки
 
-Players can kill each other or kill monster during the **Illusion Temple Event** to earn **Kill Points**. They can be used to buy **special skills** during the event.
+Игроки могут убивать друг друга или монстров во время события **Храма Иллюзий**, чтобы получать **очки за убийства**. Их можно использовать для приобретения **особых навыков** во время события.
 
-The following table is a comprehensive breakdown of the available **special skills** during the **Illusion Temple**.
+В следующей таблице представлена подробная информация об **особых навыках** во время **Храма Иллюзий**.
 
-| Skill Name               | Cost                  | Function                         |
-| ------------------------ | --------------------- | -------------------------------- |
-| **Spell of Protection**  | Kill Points (**x5**)  | Prevents 100% of DMG for 15 sec. |
-| **Spell of Restriction** | Kill Points (**x5**)  | Immobilize the enemy for 15 sec. |
-| **Shield Burn**          | Kill Points (**x5**)  | Damages 50% of target's SD       |
-| **Spell of Pursuit**     | Kill Points (**x10**) | Teleports the player to the ball |
+| Название навыка              | Стоимость                  | Функция                                |
+| ---------------------------- | -------------------------- | -------------------------------------- |
+| **Заклинание Защиты**        | Очки за убийство (**x5**)  | Предотвращает 100% урона на 15 секунд. |
+| **Заклинание Ограничения**   | Очки за убийство (**x5**)  | Обездвиживает врага на 15 секунд.      |
+| **Пожар Щита**               | Очки за убийство (**x5**)  | Наносит 50% урона Щиту цели.           |
+| **Заклинание Преследования** | Очки за убийство (**x10**) | Телепортирует игрока к Шару.           |
 
 :::tip
 
-To use a skill select the desired skill from the HUD and press `SHIFT` + `Right Click` a target (monster or player).
+Чтобы использовать навык, выберите желаемый навык в интерфейсе и нажмите `SHIFT` + `Правый клик` на цель (монстре или игроке).
 
 :::
 
-**Kill Points** are earned by:
+**Очки за убийства** можно получить, совершив:
 
-- **Player Kill**: Kill Points (**x5**)
-- **Monster Kill**: Kill Points (**x2**)
+- **Убийство игрока**: Очки за убийство (**x5**)
+- **Убийство монстра**: Очки за убийство (**x2**)
 
-### How to Win
+### Как выиграть
 
-The team which is able to return the ball **seven** times first will **win** the **Illusion Temple**.
+Команда, которая первой сможет вернуть Шар **семь раз**, выиграет **Храм Иллюзий**.
 
 :::info
 
-- **Time limit**: 15 minutes.
+- **Лимит времени**: 15 минут.
 
-- **Returning Ball**: Game Point (x1).
+- **Возврат Шара**: Игровое очко (x1).
 
-- **Game Points to win the event**: Earn **7 Game Points** to win.
+- **Игровые очки для победы в событии**: Заработайте **7 игровых очков**, чтобы победить.
 
 :::
 
 :::caution
 
-If both team have **equal Game Points** when the time expires the **Illusion Temple** will fail and no one will receive a reward.
+Если обе команды имеют **равное количество игровых очков** при истечении времени, **Храм Иллюзий** проваливается, и никто не получает награду.
 
 :::
 
-## Reward
+## Награда
 
-For a comprehensive breakdown of the **Illusion Temple rewards**, refer to the table below.
+Для подробного разбора **наград Храма Иллюзий** обратитесь к таблице ниже.
 
-| Illusion Temple Level |                            Item                            | Event Points |
+| Уровень Храма Иллюзий |                          Предмет                           | Очки события |
 | :-------------------: | :--------------------------------------------------------: | :----------: |
-|   Illusion Temple 1   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |     5 EP     |
-|   Illusion Temple 2   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    10 EP     |
-|   Illusion Temple 3   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    15 EP     |
-|   Illusion Temple 4   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    20 EP     |
-|   Illusion Temple 5   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    40 EP     |
-|   Illusion Temple 6   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    80 EP     |
+|    Храм Иллюзий 1     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |     5 EP     |
+|    Храм Иллюзий 2     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    10 EP     |
+|    Храм Иллюзий 3     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    15 EP     |
+|    Храм Иллюзий 4     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    20 EP     |
+|    Храм Иллюзий 5     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    40 EP     |
+|    Храм Иллюзий 6     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    80 EP     |
 
-![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Lilac Candy Box & Purple Chaos box Box_
+_Orange Candy Box и Purple Chaos Box_
 
 :::note
 
-**All players** from the **winning team** will receive the afore mentioned rewards.
+**Все игроки** из **победившей команды** получат вышеупомянутые награды.
 
 :::

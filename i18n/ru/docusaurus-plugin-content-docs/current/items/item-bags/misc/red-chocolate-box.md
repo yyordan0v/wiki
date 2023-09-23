@@ -4,15 +4,15 @@ sidebar_position: 2
 
 # Red Chocolate Box
 
-The **Red Chocolate Box** is a highly sought-after item that grants you access to a variety of valuable items that can enhance your gameplay experience.
+**Красная Коробка Шоколада** - это высоко ценный предмет, который предоставляет доступ к разнообразным ценным предметам, способным улучшить ваш опыт игры.
 
-![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+![Красная Коробка Шоколада](/img/items/item-bags/red-chocolate-box.png)
 
-_Red Chocolate Box_
+_Красная Коробка Шоколада_
 
-## Item Drops
+## Дроп предметов
 
-The **Red Chocolate Box** can drop one of the following items:
+**Красная Коробка Шоколада** может выпасть один из следующих предметов:
 
 |    [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless)     |    [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul)     | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation) |
 | :------------------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: |
@@ -20,14 +20,14 @@ The **Red Chocolate Box** can drop one of the following items:
 | [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless) | [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul) |      [Gemstone](/items/jewels/regular-jewels/gemstone)      |
 |       ![Jewel of Bless Bundle](/img/items/jewels/bless-10.png)       |       ![Jewel of Soul Bundle](/img/items/jewels/soul-10.png)       |         ![Gemstone](/img/items/jewels/gemstone.png)         |
 
-## Obtaining the Red Chocolate Box
+## Получение Красной Коробки Шоколада
 
-To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following [Event Exclusive](/category/events-exclusive-monsters) creatures:
+Чтобы получить **Красную Коробку Шоколада**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими [Эксклюзивными Событиями](/category/events-exclusive-monsters):
 
 - [Doppelganger Special Monsters](/category/doppelganger)
 - [Imeperial Guardian Special Monsters](/category/imperial-guardian)
 
-Another way to obtain the **Red Chocolate Box** is to win in one of the following Events:
+Другой способ получения **Красной Коробки Шоколада** - победить в одном из следующих Событий:
 
 - [Blood Castle 1 - 7](/events/blood-castle)
 - [Hide n' Seek](/events/others/hide-n-seek)

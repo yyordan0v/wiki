@@ -4,26 +4,26 @@ sidebar_position: 9
 
 # Dead Porter
 
-This article explores the **Dead Porter** - a special monster in the **Lotus Mu** realm.
+В этой статье рассматривается **Dead Porter** - специальный монстр в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, смеющим пересечь свой путь с этим могучим существом.
 
 ![Dead Porter](/img/monsters/special/others/dead-porter.jpg)
 
 _Dead Porter_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Dead Porter** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Dead Porter** по всему миру.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-|       [Ashkavor](/maps/ashkavor)       |    5     | **10 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    5     | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Воскрешения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|        [Ашкавор](/maps/ashkavor)        |     5      | **10 минут** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     5      | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Dead Porter**, players will be rewarded with:
+После успешного убийства **Dead Porter**, игроки будут вознаграждены следующим:
 
 |                         Symbol of Kundun + 7                         |
 | :------------------------------------------------------------------: |
@@ -31,6 +31,6 @@ Upon successfully killing a **Dead Porter**, players will be rewarded with:
 
 :::tip
 
-In order to move your hero to [Kalima 7](/maps/kalima) you need (x5) **Symbol of Kundun** to combine them into a **Lost Map**.
+Для перемещения вашего героя в [Калиму 7](/maps/kalima) вам понадобится (x5) **Символ Кундуна**, чтобы объединить их в **Потерянную карту**.
 
 :::

@@ -4,65 +4,67 @@ sidebar_position: 6
 
 # Team Clash
 
-The **Team Clash Event** brings an exhilarating opportunity for players to engage in thrilling **team-based combat** within the realm of **Lotus Mu**.
+## Событие "Столкновение Команд"
 
-This Combat Event revolves around two competing teams, **Team Red** and **Team Blue**, battling for supremacy. With **unique skins** distinguishing each team's members, the event promises intense and action-packed gameplay.
+**Событие "Столкновение Команд"** предоставляет захватывающую возможность игрокам вступить в захватывающие **командные сражения** в мире **Lotus Mu**.
 
-![Red Team Skin](/img/events/it/it_team_red.jpg)![Blue Team Skin](/img/events/it/it_team_blue.jpg)
+Это Событие Боя вращается вокруг двух конкурирующих команд, **Команда Красных** и **Команда Синих**, сражающихся за верховенство. С **уникальными скинами**, отличающими участников каждой команды, событие обещает интенсивное и динамичное геймплей.
 
-_Red Team Skin & Blue Team Skin_
+![Скин Команды Красных](/img/events/it/it_team_red.jpg)![Скин Команды Синих](/img/events/it/it_team_blue.jpg)
 
-## Event Overview
+_Скин Команды Красных & Скин Команды Синих_
 
-Once the event commences, players are **randomly divided** into two factions - **Team Red** and **Team Blue**. These factions will be instantly recognizable through the **special skins** they wear.
+## Обзор События
 
-The objective of the event is to engage in fierce battles against members of the opposing team. Every **successful kill** on the opposing team **contributes points** to your team's score.
+После начала события игроков **случайным образом делят** на две фракции - **Команду Красных** и **Команду Синих**. Эти фракции мгновенно узнаются по **особым скинам**, которые они носят.
+
+Целью события является участие в ожесточенных битвах против участников противоположной команды. **Каждое успешное убийство** на членах противоположной команды **приносит очки** вашей команде.
 
 :::info
 
-The event duration is set for **10 minutes**, during which players must strive to accumulate as many points as possible.
+Продолжительность события установлена в **10 минут**, в течение которых игроки должны стремиться набрать как можно больше очков.
 
-A Minimum of **2 Players** are required for the event to commence.
+Минимальное количество игроков для начала события - **2 игрока**.
 
-A Maximum of **20 Players** can participate in one instance of the **Team Clash Event**.
+Максимальное количество игроков, которые могут участвовать в одном экземпляре **События "Столкновение Команд"** - **20 игроков**.
 
-- Required Level[Resets] - **300[35]**.
+- Требуемый уровень [Ресеты] - **300[35]**.
 
 :::
 
-## How to Participate
+## Как участвовать
 
-Participation in the **Team Clash** Event is straightforward and offers an opportunity for every player to experience the excitement of **team-based combat**.
+Участие в событии **"Столкновение Команд"** просто и предоставляет возможность каждому игроку испытать волнение **командного боя**.
 
-Here's how to get involved:
+Вот как принять в нем участие:
 
-1. **System Notice**: A system-wide announcement will be broadcasted, notifying all active players about the upcoming event.
+1. **Системное Уведомление**: Будет отправлено системное объявление, уведомляющее всех активных игроков о предстоящем событии.
 
-2. **Acquire the Team Clash Ticket**: Players interested in joining the event need to acquire the **Team Clash Ticket**. This ticket can be obtained from **Silvia** in [Yoskreth](/maps/yoskreth), ensuring every player has equal access to participate.
+2. **Получите Билет "Столкновение Команд"**: Игроки, заинтересованные в участии в событии, должны получить **Билет "Столкновение Команд"**. Этот билет можно получить у **Сильвии** в [Yoskreth](/maps/yoskreth), обеспечивая каждому игроку равный доступ для участия.
 
-   ![Team Clash Ticket](/img/items/invitations/team-clash-ticket.png)
+   ![Билет "Столкновение Команд"](/img/items/invitations/team-clash-ticket.png)
 
-   _Team Clash Ticket_
+   _Билет "Столкновение Команд"_
 
-3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** in [Yoskreth](/maps/yoskreth) to officially join the event.
+3. **Присоединитесь к Событию**: После получения **Билета "Столкновение Команд"** игроки должны взаимодействовать с **Фрейр Ригаксом** в [Yoskreth](/maps/yoskreth), чтобы официально присоединиться к событию.
 
    ![Freyr Rygax](/img/npc/freyr-rygax.jpg)
 
    _Freyr Rygax_
 
-4. **Waiting Room**: After joining, participants will be instantly transported to a **waiting room**. This brief **1-minute** period allows players to gather and prepare for the impending clash.
+4. **Комната Ожидания**: После присоединения участники мгновенно транспортируются в **комнату ожидания**. Этот краткий **1-минутный** период позволяет игрокам собраться и подготовиться к предстоящему столкновению.
 
-5. **Battle Begins**: As the waiting room phase concludes, the **Team Clash** battle begins in earnest. Players from **Team Red** and **Team Blue** will be teleported to an arena where they'll engage in intense PvP battles to earn points for their respective teams.
+5. **Битва начинается**: По завершении фазы ожидания начинается сражение **"Столкновение Команд"**. Игроки из **Команды Красных** и **Команды Синих** будут телепортированы на арену, где они будут участвовать в интенсивных PvP-битвах, чтобы заработать очки для своих команд.
 
-> PLACE IMAGE (BATTLE ARENA)
+> ВСТАВЬТЕ КАРТИНУ (БОЕВАЯ АРЕНА)
 
-## Victory and Rewards
+## Победа и Награды
 
-The outcome of the **Team Clash** Event is determined by the **accumulated points** of both factions at the conclusion of the **10-minute duration**. The team with the **higher score** emerges as the **victor**, showcasing their teamwork and combat prowess.
+Итог **События "Столкновение Команд"** определяется **накопленными очками** обеих фракций по окончании **10-минутной длительности**. Команда с **большим количеством очков** выходит **победителем**, демонстрируя свою командную работу и боевую мастерство.
 
 :::tip
 
-**Each player** on the **winning team** will receive the following well-deserved **reward** for their contribution:
+**Каждый игрок** на **победившей команде** получит следующую **заслуженную награду** за свой вклад:
 
 - **50 Event Points (EP)**
 - **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
@@ -73,4 +75,4 @@ The outcome of the **Team Clash** Event is determined by the **accumulated point
 
 :::
 
-The **Team Clash** Event not only serves as a platform for fierce battles but also promotes team coordination, strategy, and camaraderie among the players.
+**Событие "Столкновение Команд"** служит не только платформой для ожесточенных битв, но и способствует координации команды, стратегии и дружелюбию среди игроков.

@@ -4,98 +4,100 @@ sidebar_position: 7
 
 # Kanturu Event
 
-Forged by the ingenuity of the Kantru inhabitants, the most recent amalgamation of life forms stands as the ultimate manifestation of terror. The overwhelming might of [Nightmare](/special-monsters/bosses/nightmare) proved to be uncontrollable, leading to its captivity within [Maya](/special-monsters/event-exclusive/maya-hands) from its very inception. As the foundations of Kantru crumbled and Maya's grip weakened, an opportune moment emerged for [Nightmare](/special-monsters/bosses/nightmare) to resurface within the realm once more.
+Воплощение ужаса, сотворенное благодаря изобретательности жителей Кантру, недавно стало последним объединением форм жизни. Первозданно невероятная мощь [Найтмэр](/special-monsters/bosses/nightmare) оказалась неуправляемой, что привело к его запиранию в [Майе](/special-monsters/event-exclusive/maya-hands) с самого начала. По мере разрушения основ Кантру и ослабления хвата Майи появился благоприятный момент для [Найтмэра](/special-monsters/bosses/nightmare) вернуться в мир снова.
 
-## How to participate
+## Как принять участие
 
-When a player finds themselves within [Kanturu Ruins](/maps/kanturu-ruins) or [Kanturu Relics](/maps/kanturu-relics), a **System Notice** will emerge, heralding the imminent opening of the **Refinery Tower**.
+Когда игрок оказывается в [Руины Кантру](/maps/kanturu-ruins) или [Реликвии Кантру](/maps/kanturu-relics), появляется **Системное уведомление**, предвещающее скорое открытие **Башни Обогащения**.
 
-The initiation time of the **Kanturu Event** varies according to the distinct status the server. If [Nightmare](/special-monsters/bosses/nightmare) remains undefeated, the **`Regular Schedule`** is in effect, shifting to the **`Opened Schedule`** upon [Nightmare's](/special-monsters/bosses/nightmare) defeat.
+Время начала **События Кантру** зависит от статуса сервера. Если [Найтмэр](/special-monsters/bosses/nightmare) остается непобежденным, действует **`Обычное Расписание`**, переходя на **`Открытое Расписание`** после победы над [Найтмэром](/special-monsters/bosses/nightmare).
 
-### Regular Schedule
+### Обычное Расписание
 
-- Occurs every 20 minutes
-- Within this timeframe, all individuals entering the **Refinery Tower** are obliged to confront [Nightmare](/special-monsters/bosses/nightmare).
-- Entry Period **3 minute** prior to the Event starts.
-- Entry Period closes one minute before the Event starts.
+- Происходит каждые 20 минут.
+- В этот промежуток времени все, кто входит в **Башню Обогащения**, обязаны столкнуться с [Найтмэром](/special-monsters/bosses/nightmare).
+- Период входа **3 минуты** до начала события.
+- Период входа закрывается за одну минуту до начала события.
 
-### Opened Schedule:
+### Открытое Расписание:
 
-- Persists for a duration of **23 hours**, commencing immediately following the demise of [Nightmare](/special-monsters/bosses/nightmare).
-- Throughout this span, those entering the **Refinery Tower** are exempt from contending with [Nightmare](/special-monsters/bosses/nightmare).
-- After the **23-hour interval** elapses, the **`Regular Schedule`** resumes its activity.
+- Длится **23 часа**, начиная сразу после уничтожения [Найтмэра](/special-monsters/bosses/nightmare).
+- В течение этого времени все, входящие в **Башню Обогащения**, освобождаются от сражения с [Найтмэром](/special-monsters/bosses/nightmare).
+- По истечении **23-часового перерыва** **`Обычное Расписание`** возобновляет свою активность.
 
-The entrance - the **Gateway Machine** is located in the [Kanturu Ruins](/maps/kanturu-ruins) (141, 186) and a player must possess the **Moonstone Pendant** to gain entry.
+Вход - **Машина Ворот** находится в [Руинах Кантру](/maps/kanturu-ruins) (141, 186), и игрок должен иметь **Подвеску Лунного Камня**, чтобы войти.
 
-![Gateway Machine](/img/npc/gateway-machine.jpg)
+![Машина Ворот](/img/npc/gateway-machine.jpg)
 
-_Gateway Machine_
+_Машина Ворот_
 
-The **Moonstone Pendant** (actually equipped in the **RING** section) can be found in the [Kanturu Relics](/maps/kanturu-relics) by slaying monsters there (you cannot trade the item but can drop it).
+**Подвеску Лунного Камня** (фактически экипируется в разделе **КОЛЬЦО**) можно найти в [Реликвиях Кантру](/maps/kanturu-relics), убивая там монстров (вы не можете передавать предмет, но можете уронить его).
 
-![Moonstone Pendant](/img/items/rings-pendants/moonstone-ring.png)
+![Подвеска Лунного Камня](/img/items/rings-pendants/moonstone-ring.png)
 
-_Moonstone Pendant_
+_Подвеска Лунного Камня_
 
-## Hands of Maya
+## Руки Майи
 
-### Maya's Left Hand
+### Левая Рука Майи
 
-Players are required to eliminate a total of **50 monsters** as a prerequisite for [Maya's Left Hand](/special-monsters/event-exclusive/maya-hands) to emerge. Subsequently, participants must defeat this hand within a **15-minute window**; failure to do so will result in the mandatory relocation of all players to **Kanturu Safe Zone**.
+Игрокам необходимо уничтожить в общей сложности **50 монстров** как предпосылка для появления [Левой Руки Майи](/special-monsters/event-exclusive/maya-hands). Затем участники должны победить эту руку в **15-минутное окно**; неудача приведет к обязательной пересадке всех игроков в **Безопасную Зону Кантру**.
 
-Whenever a player succumbs to defeat, their character is automatically transported to the aforementioned Safe Zone. Following the vanquishing of [Maya's Left Hand](/special-monsters/event-exclusive/maya-hands), a **2-minute standby** interval ensues.
+Когда игрок подвергается поражению, его персонаж автоматически транспортируется в вышеуказанную Безопасную Зону. После победы над [Левой Рукой Майи](/special-monsters/event-exclusive/maya-hands) начинается **2-минутный перерыв**.
 
-![Maya's Left Hand](/img/monsters/special/others/maya-left.jpg)
+![Левая Рука Майи](/img/monsters/special/others/maya-left.jpg)
 
-_Maya's Left Hand_
+_Левая Рука Майи_
 
 :::tip
 
-If the battle's participants decrease to fewer than 15 players, newcomers can join to restore the maximum limit.
+Если количество участников битвы уменьшится до менее 15 игроков, новички могут присоединиться, чтобы восстановить максимальный лимит.
 
 :::
 
-### Maya's Right Hand
+### Правая Рука Майи
 
-After the standby period concludes, an additional batch of **50 monsters** materializes, necessitating their eradication before [Maya's Right Hand](/special-monsters/event-exclusive/maya-hands) makes its appearance. Similar to the initial scenario, players must defeat this hand within **15 minutes** to avert relocation to **Kanturu's Safe Zone**.
+По завершении перерыва появляется еще одна группа из **50 монстров**, которых необходимо уничтожить до появления [Правой Руки Майи](/special-monsters/event-exclusive/maya-hands). Как и в первом случае, игроки должны победить эту руку в течение **15 минут**, чтобы избежать пересадки в **Безопасную Зону Кантру**.
 
-Upon the demise of [Maya's Right Hand](/special-monsters/event-exclusive/maya-hands), another **2-minute** standby interval is observed.
+После уничтожения [Правой Руки Майи](/special-monsters/event-exclusive/maya-hands) снова наблюдается **2-минутный перерыв**.
 
-Like before, if the player count dwindles below 15, new contenders can join to replenish the ranks.
+Как и ранее, если количество игроков уменьшится до менее 15, новые участники могут присоединиться, чтобы восполнить ряды.
 
-![Maya's Right Hand](/img/monsters/special/others/maya-right.jpg)
+![Правая Рука Май
 
-_Maya's Right Hand_
+и](/img/monsters/special/others/maya-right.jpg)
 
-### Both Maya's Hands
+_Правая Рука Майи_
 
-Upon the termination of the standby period, **50 new monsters** emerge, marking the simultaneous appearance and subsequent defeat of both of [Maya's Hands](/special-monsters/event-exclusive/maya-hands).
+### Обе Руки Майи
 
-Upon the triumphant overthrow of [Maya](/special-monsters/event-exclusive/maya-hands), players are seamlessly transported to the **second Event Map**, where the formidable [Nightmare](/special-monsters/bosses/nightmare) awaits their confrontation
+По завершении перерыва появляются **50 новых монстров**, одновременно появляются и последующее уничтожение обеих [Рук Майи](/special-monsters/event-exclusive/maya-hands).
 
-## Nightmare
+После триумфального свержения [Майи](/special-monsters/event-exclusive/maya-hands) игроки беспрепятственно переносятся на **вторую карту событий**, где их ждет схватка с могучим [Найтмэром](/special-monsters/bosses/nightmare).
 
-Within a **20-minute timeframe**, players are tasked with eliminating [Nightmare](/special-monsters/bosses/nightmare), who will summon waves of monsters thrice during the encounter and subsequently withdraw.
+## Найтмэр
 
-![Nightmare](/img/monsters/special/bosses/nightmare.jpg)
+В течение **20-минутного времени** игрокам поручено уничтожить [Найтмэра](/special-monsters/bosses/nightmare), который вызывает волны монстров трижды во время сражения и затем уходит.
 
-_Nightmare_
+![Найтмэр](/img/monsters/special/bosses/nightmare.jpg)
 
-## Refining Tower
+_Найтмэр_
 
-The **Refining Tower** becomes accessible for a duration of **23 hours** upon players' **successful** conquest of [Nightmare](/special-monsters/bosses/nightmare), allowing entry without the need for a **Moonstone Pendant**.
+## Башня Обогащения
 
-This availability extends to **any character** present in the server.
+**Башня Обогащения** становится доступной в течение **23 часов** после **успешного** покорения [Найтмэра](/special-monsters/bosses/nightmare), позволяя вход без необходимости **Подвески Лунного Камня**.
 
-Conversely, the **Refining Tower** remains inaccessible until [Nightmare](/special-monsters/bosses/nightmare) is vanquished. Its primary purpose entails refining [Gemstones](/items/jewels/regular-jewels/gemstone) into [Jewels of Harmony](/items/jewels/regular-jewels/jewel-of-harmony).
+Эта доступность распространяется на **любого персонажа**, находящегося на сервере.
 
-Usage Instructions:
+С другой стороны, **Башня Обогащения** остается недоступной до победы над [Найтмэром](/special-monsters/bosses/nightmare). Ее основная цель - это превращение [Самоцветов](/items/jewels/regular-jewels/gemstone) в [Самоцветы Гармонии](/items/jewels/regular-jewels/jewel-of-harmony).
 
-1. Engage in conversation with **Elpis**.
-2. Select the **"Refine Gemstone"** option.
-3. Insert the [Gemstone](/items/jewels/regular-jewels/gemstone) into the apparatus and press **"OK"** to initiate the refining process.
-4. A successful combination yields a [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony), while an unsuccessful one results in the [Gemstone's](/items/jewels/regular-jewels/gemstone) demise.
+Инструкции по использованию:
 
-![Elips](/img/npc/elpis.jpg)
+1. Начните разговор с **Элписом**.
+2. Выберите опцию **"Обогатить Самоцвет"**.
+3. Вставьте [Самоцвет](/items/jewels/regular-jewels/gemstone) в аппарат и нажмите **"ОК"**, чтобы начать процесс обогащения.
+4. Удачное сочетание приводит к появлению [Самоцвета Гармонии](/items/jewels/regular-jewels/jewel-of-harmony), а неудачное - к гибели [Самоцвета](/items/jewels/regular-jewels/gemstone).
 
-_Elips_
+![Элпис](/img/npc/elpis.jpg)
+
+_Элпис_

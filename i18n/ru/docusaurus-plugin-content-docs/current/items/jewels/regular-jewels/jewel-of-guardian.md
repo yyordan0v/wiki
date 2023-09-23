@@ -4,24 +4,24 @@ sidebar_position: 6
 
 # Jewel of Guardian
 
-The **Jewel of Guardian** serves multiple purposes, acting as a crucial component in enhancing the **fortification of the castle**, crafting **Life Stones** of great significance, and unlocking the exclusive **Item Options** option with its unique abilities.
+**Драгоценность Хранителя** выполняет несколько функций, действуя как ключевой компонент для усиления **укрепления замка**, создания **Камней Жизни** великой важности и разблокировки эксклюзивной опции **Параметры Предмета** своими уникальными способностями.
 
-![Jewel of Guardian](/img/items/jewels/guardian.png)
+![Драгоценность Хранителя](/img/items/jewels/guardian.png)
 
-_Jewel of Guardian_
+_Драгоценность Хранителя_
 
-## Item Options
+## Параметры Предмета
 
-The aforementioned **Item Options**, commonly referred to as **pink options** in the world of Mu Online, were originally restricted to **380 level** items. However, considering the distinct setup of **Lotus Mu**, our team has made the decision to extend the availability of these valuable Item Options to encompass **all items**. This expansion grants players the opportunity to enhance their equipment with these coveted enhancements, irrespective of their item's level.
+Упомянутые **Параметры Предмета**, обычно известные как **розовые параметры** в мире Mu Online, изначально ограничивались **предметами уровня 380**. Однако, учитывая уникальную настройку **Lotus Mu**, наша команда приняла решение расширить доступность этих ценных Параметров Предмета на **все предметы**. Это расширение дает игрокам возможность усовершенствовать свое снаряжение этими заветными усовершенствованиями, независимо от уровня их предметов.
 
 :::tip
 
-For a more comprehensive understanding of this procedure, We highly recommend delving into the informative and insightful [Item Options](/crafting/item-options) article.
+Для более полного понимания этой процедуры, мы настоятельно рекомендуем изучить информативную и содержательную статью [Параметры Предмета](/crafting/item-options).
 
 :::
 
-## Upgrade Castle Defences
+## Укрепление Защиты Замка
 
-The **Jewel of Guardian** also plays a vital role in fortifying the defending guild's castle, granting them the power needed to withstand the impending attack.
+**Драгоценность Хранителя** также играет важную роль в укреплении замка защищающей гильдии, предоставляя им необходимую силу для сопротивления грозящему нападению.
 
-If you seek further details regarding this crucial aspect, I highly recommend referring to the comprehensive information provided in the [Castle Siege](/events/castle-siege) article.Within its contents, you will discover a wealth of knowledge and insights specifically pertaining to the utilization of the **Jewel of Guardian** for bolstering castle defenses during these critical moments.
+Если вы ищете дополнительные детали по этому важному аспекту, я настоятельно рекомендую обратиться к полной информации, предоставленной в статье [Осада Замка](/events/castle-siege). Внутри ее содержания вы обнаружите множество знаний и идей, специально относящихся к использованию **Драгоценности Хранителя** для укрепления обороны замка в эти критические моменты.

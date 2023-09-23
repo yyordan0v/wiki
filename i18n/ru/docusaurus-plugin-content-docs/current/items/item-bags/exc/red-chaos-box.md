@@ -4,17 +4,17 @@ sidebar_position: 2
 
 # Red Chaos Box
 
-The **Red Chaos Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
+**Красная Хаос Коробка** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные** предметы для сбора.
 
-![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+![Красная Хаос Коробка](/img/items/item-bags/red-chaos-box.png)
 
-_Red Chaos Box_
+_Красная Хаос Коробка_
 
-## Item Drops
+## Дроп предметов
 
-The **Red Chaos Box** can drop one of the following items:
+**Красная Хаос Коробка** может выпасть один из следующих предметов:
 
-### Armor items
+### Предметы брони
 
 |                      Black Dragon Set                      |                      Dark Phoenix Set                      |                     Grand Soul Set                     |
 | :--------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: |
@@ -22,7 +22,7 @@ The **Red Chaos Box** can drop one of the following items:
 |                         Divine Set                         |                      Thunder Hawk Set                      |                      Glorious Set                      |
 |       ![Divine Set](/img/items/armors/fe/divine.png)       | ![Thunder Hawk Set](/img/items/armors/mg/thunder-hawk.png) |   ![Glorious Set](/img/items/armors/dl/glorious.png)   |
 
-### Weapons
+### Оружие
 
 |                        Sword of Destruction                         |                           Beuroba                           |                           Staff of Kundun                           |
 | :-----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: |
@@ -30,13 +30,13 @@ The **Red Chaos Box** can drop one of the following items:
 |                           Arrow Viper Bow                           |                      Dark Reign Blade                       |                        Gread Lord's Scepter                         |
 |       ![Arrow Viper Bow](/img/items/bows/arrow-viper-bow.png)       | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Gread Lord's Scepter](/img/items/scepters/great-lord-scepter.png) |
 
-### Shields
+### Щиты
 
 |                     Dragon Shield                      |                       Grand Soul Shield                        |                       Elemental Shield                       |
 | :----------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Dragon Shield](/img/items/shields/dragon-shield.png) | ![Grand Soul Shield](/img/items/shields/grand-soul-shield.png) | ![Elemental Shield](/img/items/shields/elemental-shield.png) |
 
-### Special Drops
+### Специальные дропы
 
 |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |
 | :---------------------------------------------------------------: |
@@ -44,19 +44,19 @@ The **Red Chaos Box** can drop one of the following items:
 
 :::note
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **превосходными**.
 
 :::
 
-## Obtaining the Red Chaos Box
+## Получение Красной Хаос Коробки
 
-To obtain the **Red Chaos Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Красную Хаос Коробку**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 |   [Golden Knight](/special-monsters/invasions/golden-great-dragon)    |     [Death King](/special-monsters/invasions/death-king)      | [Illusion of Kundun (Kalima 6)](/special-monsters/mini-bosses/illusion-of-kundun) |
 | :-------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | ![Golden Knight](/img/monsters/special/golden/golden-iron-knight.jpg) | ![Death King](/img/monsters/special/invasions/death-king.jpg) |   ![Illusion of Kundun (Kalima 6)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
-There is also chance that you get **Red Chaos Box** dropped by one of the following item bags:
+Также есть шанс получить **Красную Хаос Коробку** как дроп из одной из следующих сумок с предметами:
 
 |   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |
 | :------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |

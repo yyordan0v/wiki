@@ -4,24 +4,23 @@ sidebar_position: 1
 
 # Jewel of Level
 
-By utilizing the **Jewel of Level**, you can elevate the level of your **ring** or **pendant** by a single point, thereby increasing its power and effectiveness.
+С использованием **Jewel of Level** вы можете повысить уровень вашего **кольца** или **подвески** на одно значение, тем самым увеличив его мощность и эффективность.
 
 ![Jewel of Level](/img/items/jewels/custom-orange.png)
 
 _Jewel of Level_
 
+**Jewel of Level** предоставляет возможность повысить уровень **кольца** или **подвески**, переводя его из начального состояния с **одним уровнем**, до максимума **+13**.
 
-The **Jewel of Level** offers the ability to elevate the level of a **ring** or **pendant**, transforming it from its initial state with **one tier**, up to maximum of **+13**.
-
-It is worth noting that this enhancement process carries a **success rate of 50%**, signifying the likelihood of achieving the desired outcome.
+Следует отметить, что этот процесс усовершенствования имеет **шанс успеха в 50%**, что указывает на вероятность достижения желаемого результата.
 
 :::caution
 
-In the event of an **unsuccessful upgrade**, the item will **retain** its original level, unaffected by the application of the jewel.
+В случае **неудачного улучшения**, предмет **сохранит** свой исходный уровень, не затронутый применением данного камня.
 
 :::
 
-You can obtain the **Jewel of Level** from:
+Вы можете получить **Jewel of Level** из:
 
 |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
 | :----------------------------------------------------------: |

@@ -4,35 +4,35 @@ sidebar_position: 3
 
 # Green Ribbon Box
 
-The **Green Ribbon Box** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
+**Зеленая Коробка Ленты** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные** предметы для сбора.
 
-![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
+![Зеленая Коробка Ленты](/img/items/item-bags/box-of-green-ribbon.png)
 
-_Green Ribbon Box_
+_Зеленая Коробка Ленты_
 
-## Item Drops
+## Дроп предметов
 
-The **Green Ribbon Box** can drop one of the following items:
+**Зеленая Коробка Ленты** может выпасть один из следующих предметов:
 
-### Armor items
+### Предметы брони
 
 |                      Great Dragon Set                      |                    Dark Soul Set                     |                     Red Spirit Set                     |                    Hurricane Set                     |                     Dark Master Set                      |
 | :--------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: |
 | ![Great Dragon Set](/img/items/armors/dk/great-dragon.png) | ![Dark Soul Set](/img/items/armors/dw/dark-soul.png) | ![Red Spirit Set](/img/items/armors/fe/red-spirit.png) | ![Hurricane Set](/img/items/armors/mg/hurricane.png) | ![Dark Master Set](/img/items/armors/dl/dark-master.png) |
 
-### Weapons
+### Оружие
 
 |                    Knight's Blade                     |                     Platina Staff                     |                    Albatross Bow                    |                    Sword Dancer                     |                       Shining Scepter                       |
 | :---------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
 | ![Knight's Blade](/img/items/swords/knight-blade.png) | ![Platina Staff](/img/items/staffs/platina-staff.png) | ![Albatross Bow](/img/items/bows/albatross-bow.png) | ![Sword Dancer](/img/items/swords/sword-dancer.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
 
-### Shields
+### Щиты
 
 |                     Crimson Glory                      |                      Guardian Shield                       |                     Frost Barrier                      |                       Salamander Shield                        |                     Cross Shield                     |
 | :----------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------: |
 | ![Crimson Glory](/img/items/shields/crimson-glory.png) | ![Guardian Shield](/img/items/shields/guardian-shield.png) | ![Frost Barrier](/img/items/shields/frost-barrier.png) | ![Salamander Shield](/img/items/shields/salamander-shield.png) | ![Cross Shield](/img/items/shields/cross-shield.png) |
 
-### Special Drops
+### Специальные дропы
 
 |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
 | :-------------------------------------------------------------: |
@@ -40,19 +40,19 @@ The **Green Ribbon Box** can drop one of the following items:
 
 :::note
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **превосходными**.
 
 :::
 
-## Obtaining the Green Ribbon Box
+## Получение Зеленой Коробки Ленты
 
-To obtain the **Green Ribbon Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Зеленую Коробку Ленты**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 |  [Golden Twin Tail](/special-monsters/invasions/golden-great-dragon)   | [Kundun](/special-monsters/bosses/kundun)  |     [Selupan](/special-monsters/bosses/selupan)      |
 | :--------------------------------------------------------------------: | :----------------------------------------: | :--------------------------------------------------: |
 | ![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |
 
-There is also chance that you get **Green Ribbon Box** dropped by one of the following item bags:
+Также есть шанс получить **Зеленую Коробку Ленты** как дроп из одной из следующих сумок с предметами:
 
 |   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |
 | :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |

@@ -5,38 +5,38 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Ancient Items
+# Древние предметы
 
-**Ancient Items** comprises potent equipment sets that, when worn together, unveil an assortment of distinctive supplementary attributes referred to as '**+Set Option**'. These sets surpass their regular and sometimes even their excellent-grade equivalents, boasting significantly heightened offensive and defensive attributes.
+**Древние предметы** представляют собой мощные комплекты снаряжения, которые, когда надеты вместе, раскрывают ассортимент характерных дополнительных характеристик, называемых '**+Опции Комплекта**'. Эти комплекты превосходят своих обычных и даже превосходных аналогов, обладая значительно усиленными атакующими и защитными характеристиками.
 
-Among the pantheon of equipment, **Ancient Sets** stand as some of the most formidable and commanding choices, wielding remarkable power within the game world.
+Среди амуниции **Древних комплектов** находятся некоторые из самых могущественных и влиятельных выборов, обладающих замечательной мощью в игровом мире.
 
-:::info Quick Facts
+:::info Быстрые факты
 
-- **Ancient items** always have at least one '**+Ancient Option**'.
+- **Древние предметы** всегда имеют как минимум одну '**+Древнюю Опцию**'.
 
-- **Ancient items** have fixed `Set Names` and fixed '**+Set Options**' depending on the `Set Name`.
+- **Древние предметы** имеют фиксированные `Имена Комплектов` и фиксированные '**+Опции Комплекта**' в зависимости от `Имени Комплекта`.
 
-- '**+Set Options**' will be unlocked when you equip **at least two items** of the same `Ancient Set`.
+- '**+Опции Комплекта**' будут разблокированы, когда вы наденете **как минимум два предмета** из одного и того же `Древнего Комплекта`.
 
-- Additional '**+Set Options**' are unlocked for each additional item equipped of the same `Ancient Set`.
+- Дополнительные '**+Опции Комплекта**' разблокируются для каждого дополнительного надетого предмета из того же `Древнего Комплекта`.
 
-- You can mix and match different ancient `Ancient Sets` to be able to obtain multiple '**+Set Options**' from two different `Ancient Sets`.
+- Вы можете смешивать различные древние `Древние Комплекты`, чтобы получить несколько '**+Опций Комплекта**' из двух разных `Древних Комплектов`.
 
 :::
 
-## How to obtain an Ancient Item
+## Как получить Древний Предмет
 
-In order to obtain **Ancient Items**, adventurers must either:
+Для получения **Древних Предметов** искатели приключений должны либо:
 
-- Acquire a [Silver Box](/items/item-bags/non-exc/silver-box)
-- Triumph in the [Chaos Castle](/events/chaos-castle) Event
+- Получить [Серебряный Ящик](/items/item-bags/non-exc/silver-box)
+- Победить в событии [Замок Хаоса](/events/chaos-castle)
 
-## Ancient Sets
+## Древние Комплекты
 
 ```mdx-code-block
 <Tabs lazy>
-  <TabItem value="knights" label="Knight Sets">
+  <TabItem value="knights" label="Комплекты Рыцаря">
 ```
 
 #### Warrior Leather Set
@@ -177,7 +177,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="wizards" label="Wizard Sets">
+  <TabItem value="wizards" label="Комплекты Волшебника">
 ```
 
 #### Apollo Pad Set
@@ -275,7 +275,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="elves" label="Elf Sets">
+  <TabItem value="elves" label="Комплекты Эльфа">
 ```
 
 #### Ceto Vine Set
@@ -391,7 +391,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="gladiators" label="Gladiator Sets">
+  <TabItem value="gladiators" label="Комплекты Эльфа">
 ```
 
 #### Gaion Storm Crow Set
@@ -421,7 +421,7 @@ In order to obtain **Ancient Items**, adventurers must either:
 ```mdx-code-block
   </TabItem>
 
-  <TabItem value="lords" label="Lord Sets">
+  <TabItem value="lords" label="Комплекты Лорда">
 ```
 
 #### Agnis Adamantine Set

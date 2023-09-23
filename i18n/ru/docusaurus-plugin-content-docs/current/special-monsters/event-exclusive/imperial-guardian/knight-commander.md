@@ -4,27 +4,27 @@ sidebar_position: 4
 
 # Knight Commander
 
-Amidst the [Imperial Guardian Event](/events/imperial-guardian), the formidable figure of the **Knight Commander** emerges as a true embodiment of terror and challenge for daring players.
+Среди [События Имперского Стража](/events/imperial-guardian), величественный облик **Командующего Рыцарей** возвышается как истинное воплощение ужаса и вызова для смелых игроков.
 
-Renowned for his unwavering strength and unrivaled combat prowess, this mighty adversary stands as a pinnacle of formidable power. Confronting the **Knight Commander** demands exceptional skill, unwavering determination, and a steely resolve, but the spoils of victory promise an abundance of riches and glory that will forever solidify your legacy as a legendary hero.
+Известный своей непоколебимой силой и непревзойденным мастерством в бою, этот могучий соперник является вершиной величайшей мощи. Противостоять **Командующему Рыцарей** требует исключительного мастерства, непоколебимой решимости и стойкости, но награды за победу обещают изобилие богатств и славы, которые навсегда утвердят ваше наследие как легендарного героя.
 
-![Knight Commander](/img/monsters/special/others/knight-commander.jpg)
+![Командующий Рыцарей](/img/monsters/special/others/knight-commander.jpg)
 
-_Knight Commander_
+_Командующий Рыцарей_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Knight Commander in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Командующего Рыцарей можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Knight Commander**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Командующего Рыцарей**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

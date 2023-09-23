@@ -4,34 +4,34 @@ sidebar_position: 3
 
 # Jewel of Soul
 
-The **Jewel of Soul** enhances the level of an item from **+0** to **+9**, offering a substantial increase in its power and potential.
+**Драгоценность Души** увеличивает уровень предмета с **+0** до **+9**, предлагая значительное увеличение его мощности и потенциала.
 
-![Jewel of Soul](/img/items/jewels/soul.png)
+![Драгоценность Души](/img/items/jewels/soul.png)
 
-_Jewel of Soul_
+_Драгоценность Души_
 
-This versatile jewel can be utilized on equipment ranging from **+0** to **+9**.
+Эту универсальную драгоценность можно использовать на предметах с уровнем от **+0** до **+9**.
 
-Further enhancements to **+10**, **+11**, **+12**, and **+13** require the use of the Chaos Machine.
+Дополнительные улучшения до **+10**, **+11**, **+12** и **+13** требуют использования Хаос-машины.
 
-It can be applied to weapons, shields, armor, or wings, simply by selecting the jewel with the cursor and clicking it onto the desired item. Each application grants a one-level increase.
+Ее можно применять к оружию, щитам, броне или крыльям, просто выбрав драгоценность курсором и щелкнув ее на желаемом предмете. Каждое применение увеличивает уровень на один.
 
 :::info
 
-Upgrading an item with **Jewel of Soul** has a **???** chance of success.
+Обновление предмета с **Драгоценностью Души** имеет шанс успеха **???**.
 
-However, if the item possesses the **+Luck** option, the probability of successful enhancement rises to **???**.
+Однако, если предмет имеет опцию **+Удача**, вероятность успешного улучшения повышается до **???**.
 
 :::
 
-Beware that if your Item's Level is already **+7** or more a **failed upgrade** will cause your to go all the way down to Item Level of **+0**.
+Обратите внимание, что если уровень вашего предмета уже **+7** или выше, **неудачное улучшение** приведет к уменьшению уровня предмета до **+0**.
 
 :::tip
 
-Alternatively, in the realm of Lotus Mu, the game administration has introduced the option to acquire the **Jewel of Soul** or **Jewel of Soul Bundles** by completing [quests](/gameplay-systems/quest-system).
+Кроме того, в мире Lotus Mu администрация игры предоставила возможность получить **Драгоценность Души** или **Наборы Драгоценности Души**, выполнив [задания](/gameplay-systems/quest-system).
 
 :::
 
-![Jewel of Soul Bundle 10](/img/items/jewels/soul-10.png) ![Jewel of Soul Bundle 20](/img/items/jewels/soul-20.png) ![Jewel of Soul Bundle 30](/img/items/jewels/soul-30.png)
+![Набор Драгоценности Души 10](/img/items/jewels/soul-10.png) ![Набор Драгоценности Души 20](/img/items/jewels/soul-20.png) ![Набор Драгоценности Души 30](/img/items/jewels/soul-30.png)
 
-_Jewel of Soul Bundles_
+_Наборы Драгоценности Души_

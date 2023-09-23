@@ -4,37 +4,37 @@ sidebar_position: 3
 
 # Ice Queen
 
-Prepare yourself for an exhilarating expedition, where your abilities and courage will be pushed to their limits, as the majestic presence of the **Ice Queen** takes center stage, commanding your unwavering focus and plunging the frozen kingdom of [Devias](/maps/devias) into chaos.
+Приготовьтесь к захватывающей экспедиции, где ваши способности и храбрость будут протестированы до предела, поскольку величественное присутствие **Ледяной Королевы** занимает центральное место, приказывая вашему несокрушимому вниманию и погружая замерзшее королевство [Девиас](/maps/devias) в хаос.
 
-Brace for a heart-pounding quest filled with icy challenges, where conquering this formidable foe holds the key to unlocking thrilling realms of adventure, glory, and the sheer thrill of triumph.
+Готовьтесь к волнующему квесту, полному ледяных испытаний, где победа над этим могучим врагом откроет вам доступ к захватывающим областям приключений, славы и абсолютной радости от торжества.
 
-![Ice Queen](/img/monsters/devias/ice-queen.jpg)
+![Ледяная Королева](/img/monsters/devias/ice-queen.jpg)
 
-_Ice Queen_
+_Ледяная Королева_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-As you gracefully glide through the frost-laden kingdom of [Devias](/maps/devias), prepare to encounter the majestic presence of the **Ice Queen**, awaiting your arrival with an air of grandeur and mystery.
+Пока вы грациозно скользите по королевству [Девиас](/maps/devias), покрытому инеем, готовьтесь встретить величественное присутствие **Ледяной Королевы**, ожидающей вашего прибытия с величием и тайной.
 
 :::tip
 
-You can find **Ice Queens** near the following coordinates in [Devias](/maps/devias) - **40, 220**.
+Вы можете найти **Ледяных Королев** недалеко от следующих координат в [Девиасе](/maps/devias) - **40, 220**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Ice Queens**.
+В следующей таблице предоставлена подробная информация о времени и количестве доступных **Ледяных Королев**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    10    | 2 minutes after killed |
+| Количество |    Время воскрешения    |
+| :--------: | :---------------------: |
+|     10     | 2 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing an **Ice Queen**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного уничтожения **Ледяной Королевы**, игроки будут вознаграждены с [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

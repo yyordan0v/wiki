@@ -4,34 +4,34 @@ sidebar_position: 2
 
 # Yoskreth Drop
 
-The **Yoskreth Drop** Event is a recurring event in **Lotus Mu** that provides players with the opportunity to acquire valuable items.
+**Событие "Падение Йоскрета"** - это повторяющееся событие в **Lotus Mu**, которое предоставляет игрокам возможность получить ценные предметы.
 
-Taking place **twice a day**, this event occurs at **02:45** and **14:45** within the **capital city** of [Yoskreth](/maps/yoskreth). Prior to the event's commencement, a **system notice** will be broadcasted to all online players, informing them about the upcoming event.
+Это событие происходит **два раза в день**, а именно в **02:45** и **14:45** в **столичном городе** [Йоскрет](/maps/yoskreth). Перед началом события **всем онлайн-игрокам** будет отправлено **системное уведомление**, информирующее их о предстоящем событии.
 
-![Yoskreth Drop](/img/events/yoskreth-drop.jpg)
+![Падение Йоскрета](/img/events/yoskreth-drop.jpg)
 
-_Yoskreth Drop_
+_Падение Йоскрета_
 
-## Event Details
+## Детали события
 
-During the **Yoskreth Drop** Event, various valuable items are dispersed across the city for players to collect. These items can significantly enhance a player's progress and gameplay experience. During the event players need to be quick and vigilant in order to secure these valuable rewards.
+Во время **События "Падение Йоскрета"** различные ценные предметы распределяются по городу для сбора игроками. Эти предметы могут значительно улучшить прогресс игрока и игровой опыт. Во время события игроки должны быть быстрыми и бдительными, чтобы обеспечить себе эти ценные награды.
 
 :::info
 
-The event lasts for a total of **2 minutes**.
+Событие длится всего **2 минуты**.
 
 :::
 
-## Dropped Items
+## Сброшенные предметы
 
-Throughout the event, the following items will be available for players to pick up within the [Yoskreth](/maps/yoskreth) capital city:
+В течение события игроки могут подобрать следующие предметы в столичном городе [Йоскрет](/maps/yoskreth):
 
 |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |   [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
 | :-----------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) | ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |
 
-These items hold the potential for unique and exciting rewards that can aid players in their journey through the world of **Lotus Mu**.
+Эти предметы имеют потенциал для уникальных и захватывающих наград, которые могут помочь игрокам в их путешествии по миру **Lotus Mu**.
 
-Participating in the **Yoskreth Drop** Event provides an opportunity for players to acquire items that would otherwise require significant effort or resources. Whether you're a seasoned adventurer or a newcomer to the realm, this event offers a chance to enhance your inventory and progress in the game.
+Участие в событии **"Падение Йоскрета"** предоставляет игрокам возможность получить предметы, которые в противном случае потребовали бы значительных усилий или ресурсов. Независимо от того, являетесь ли вы опытным искателем приключений или новичком в мире, это событие предоставляет шанс улучшить свой инвентарь и продвигаться в игре.
 
-Stay alert, as the event's limited duration requires quick reactions to seize the rewards on offer!
+Оставайтесь на чеку, так как ограниченная продолжительность события требует быстрых реакций для захвата доступных наград!

@@ -453,10 +453,10 @@ The **Guardian Statues Upgrade** can be done in **2nd tab** when interacting wit
 
 #### Castle Gates Upgrade Cost
 
-| Level of Durability |                  II                  |                 III                 |                 IV                  |
-| :-----------------: | :----------------------------------: | :---------------------------------: | :---------------------------------: |
-|       **HP**        | 3 Jewel of Guardian + 1,000,000 Zen  | 5 Jewel of Guardian + 1,000,000 Zen | 7 Jewel of Guardian + 1,000,000 Zen |
-|     **Defense**     | 3 Jewel of Guardian + 3,000,000 Zen  | 5 Jewel of Guardian + 3,000,000 Zen | 7 Jewel of Guardian + 3,000,000 Zen |
+| Level of Durability |                 II                  |                 III                 |                 IV                  |
+| :-----------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|       **HP**        | 3 Jewel of Guardian + 1,000,000 Zen | 5 Jewel of Guardian + 1,000,000 Zen | 7 Jewel of Guardian + 1,000,000 Zen |
+|     **Defense**     | 3 Jewel of Guardian + 3,000,000 Zen | 5 Jewel of Guardian + 3,000,000 Zen | 7 Jewel of Guardian + 3,000,000 Zen |
 |    **Recovery**     | 3 Jewel of Guardian + 5,000,000 Zen | 5 Jewel of Guardian + 5,000,000 Zen | 7 Jewel of Guardian + 5,000,000 Zen |
 
 ### Senior Mix
@@ -661,6 +661,6 @@ Regular players who **do not belong** to the Castle Lord's guild **may be restri
 
 The Castle Lord can charge an **entrance fee** through the **Guard NPC** or restrict players from entering the Land of Trials.
 
-Price passage can vary from **0** to **2 billion Zen**.
+Price passage can vary from **0** to **1 billion Zen**.
 
 ![Land of Trials Entrance](/img/events/cs/lotenter.jpg)

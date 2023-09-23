@@ -4,15 +4,15 @@ sidebar_position: 4
 
 # Pink Chocolate Box
 
-The **Pink Chocolate Box** is a highly sought-after item that grants you access to a variety of valuable items that can enhance your gameplay experience.
+**Розовая Коробка Шоколада** - это высоко ценный предмет, который предоставляет доступ к разнообразным ценным предметам, способным улучшить ваш опыт игры.
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
+![Розовая Коробка Шоколада](/img/items/item-bags/pink-chocolate-box.png)
 
-_Pink Chocolate Box_
+_Розовая Коробка Шоколада_
 
-## Item Drops
+## Дроп предметов
 
-The **Pink Chocolate Box** can drop one of the following items:
+**Розовая Коробка Шоколада** может выпасть один из следующих предметов:
 
 |   [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless)    | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)  |
 | :----------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :------------------------------------------------------------: |
@@ -20,9 +20,9 @@ The **Pink Chocolate Box** can drop one of the following items:
 | [Jewel of Life Bundle](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Luck](/items/jewels/superb-jewels/jewel-of-luck)  |                           Condor Flame                            |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
 |       ![Jewel of Life Bundle](/img/items/jewels/life-10.png)       |    ![Jewel of Luck](/img/items/jewels/custom-green.png)     |        ![Condor Flame](/img/items/others/condor-flame.png)        | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |
 
-## Obtaining the Pink Chocolate Box
+## Получение Розовой Коробки Шоколада
 
-In order to obtain a **Pink Chocolate Box** you need to win in one of the following events:
+Для получения **Розовой Коробки Шоколада** вам необходимо победить в одном из следующих событий:
 
 - [Blood Castle 8](/events/blood-castle)
 - [Auction Event](/events/others/auction)

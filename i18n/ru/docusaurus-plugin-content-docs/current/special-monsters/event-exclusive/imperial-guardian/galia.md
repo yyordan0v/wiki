@@ -4,27 +4,27 @@ sidebar_position: 7
 
 # Galia
 
-Within the grandeur of the [Imperial Guardian Event](/events/imperial-guardian), the fearsome **Galia** emerges as one of the most formidable adversaries to grace the battlefield.
+Величественное событие [События Имперского Стража](/events/imperial-guardian) приносит внушительное явление — страшная **Галия**, являющаяся одним из самых могущественных противников на поле боя.
 
-These monstrous creatures exude raw power and resilience, presenting a daunting challenge that demands unwavering skill and unyielding determination to overcome. However, hidden amidst the arduous battle lies the allure of a magnificent reward.
+Эти чудовищные существа испускают силу и устойчивость, представляя пугающее испытание, требующее несгибаемого мастерства и непоколебимой решимости для преодоления. Однако скрытое среди упорной битвы искушение великолепной наградой.
 
-![Galia](/img/monsters/special/others/galia.jpg)
+![Галия](/img/monsters/special/others/galia.jpg)
 
-_Galia_
+_Галия_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Galias in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Вы можете найти более подробную информацию о появлении Галий в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Galia**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Галии**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

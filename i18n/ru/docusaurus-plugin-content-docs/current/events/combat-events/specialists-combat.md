@@ -4,74 +4,78 @@ sidebar_position: 5
 
 # Specialists' Combat
 
-The **Specialists' Combat Event** in Lotus Mu is an exciting opportunity for **warriors from all classes** to showcase their combat skills.
+## Событие Специалистов: Бой
 
-This event features intense **1v1 battles** where participants engage in **direct elimination matches**, testing their prowess against opponents from various classes.
+**Специалисты События Боя** в Lotus Mu - это захватывающая возможность для **воинов из всех классов** продемонстрировать свои боевые навыки.
+
+В этом событии проходят интенсивные **бои 1 на 1**, где участники участвуют в **прямых матчах на выбывание**, проверяя свои способности против оппонентов из разных классов.
 
 :::note
 
-The objective is to reach a score of **3 points on the opponent**, ultimately winning the round.
+Цель - набрать **3 очка у оппонента**, в конечном итоге выигрывая раунд.
 
 :::
 
-## Event Mechanics
+## Механика События
 
-1. **Participant Gathering:** Warriors from **different classes** gather together in a designated **waiting room**, preparing for the upcoming battles.
+1. **Сбор Участников:** Воины из **разных классов** собираются в **определенной комнате ожидания**, готовясь к предстоящим боям.
 
-2. **Battle Initiation:** When the event begins, **two random players** are selected from the waiting room. These two contenders are transported to the **battle arena** to face each other in a **1v1 battle**.
+2. **Инициация Боя:** Когда событие начинается, **два случайных игрока** выбираются из комнаты ожидания. Эти два соперника транспортируются на **боевую арену**, чтобы сразиться друг с другом в **бою 1 на 1**.
 
-3. **Match Rules:** The match is played in rounds, and the first player to reach a total of **3 score points** on their opponent emerges victorious in that round.
+3. **Правила Матча:** Матч играется раундами, и первый игрок, набравший в общей сложности **3 очка** у своего оппонента, выходит победителем в этом раунде.
 
-4. **Reward System:** The player who **wins a round** gains a small reward in the form of a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box). This reward acknowledges their triumph and provides an incentive to continue competing.
+4. **Система Наград:** Игрок, **победивший раунд**, получает небольшую награду в виде [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box). Эта награда признает его триумф и предоставляет стимул продолжать борьбу.
 
    ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 
    _Red Chocolate Box_
 
-5. **Advancement:** The **winner of a round** advances to **the next stage** of the event, competing against other victorious participants.
+5. **Продвижение:** **Победитель раунда** продвигается на **следующий этап** события, соревнуясь с другими победившими участниками.
 
-6. **Final Winner:** As the event progresses, participants continue to compete in rounds until **one warrior** emerges as the **final winner**. The ultimate champion receives a significant reward - the coveted [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box).
+6. **Последний Победитель:** По мере развития события участники продолжают соревноваться в раундах, пока **один воин** не выйдет **последним победителем**. Финальный чемпион получает значительную награду - заветную [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box).
 
    ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
    _Blue Chocolate Box_
 
-## How to Participate
+## Как участвовать
 
-To take part in the Specialists' Combat Event, follow these steps:
+Чтобы принять участие в Событии Специалистов: Бой, выполните следующие шаги:
 
-1. Stay vigilant for **system notices** indicating the commencement of the event.
+1. Будьте бдительными и ожидайте **системных уведомлений**, указывающих на начало события.
 
-2. Find the **Silvia** in [Yoskreth](/maps/yoskreth) and get yourself a **Specialists' Combat Ticket**.
+2. Найдите **Сильвию** в [Yoskreth](/maps/yoskreth) и получите **Билет на Событие Специалистов**.
 
-   ![Specialists' Combat Ticket](/img/items/invitations/specialists-combat-ticket.png)
+   ![Билет на Событие Специалистов](/img/items/invitations/specialists-combat-ticket.png)
 
-   _Specialists' Combat Ticket_
+   _Билет на Событие Специалистов_
 
-3. Engage with the **Brynjar Knollwood** in [Yoskreth](/maps/yoskreth) in order to be transported to the waiting room.
+3. Обратитесь к **Бриньяр Кноллвуду** в [Yoskreth](/maps/yoskreth), чтобы быть транспортированными в комнату ожидания.
 
    ![Brynjar Knollwood](/img/npc/brynjar-knollwood.jpg)
 
    _Brynjar Knollwood_
 
-4. Gather with fellow warriors in the **waiting room**, eagerly awaiting your chance to prove your combat skills.
+4. Соберитесь с собой воинов в **комнате ожидания**, с нетерпением ожидая своего шанса доказать сво
 
-   > PLACE IMAGE (waiting room)
+и боевые навыки.
 
-5. Once the event initiates, give your best in the **1v1 battles**, aiming to score **3 points** against your opponents.
+> ВСТАВЬТЕ КАРТИНУ (комната ожидания)
 
-   > PLACE IMAGE (battle arena)
+5. Как только событие начнется, отдайте лучшее в **боях 1 на 1**, стремясь набрать **3 очка** против своих оппонентов.
 
-6. Win rounds, claim rewards, and strive for the prestigious title of the event's **final winner**.
+   > ВСТАВЬТЕ КАРТИНУ (боевая арена)
+
+6. Выигрывайте раунды, получайте награды и стремитесь к престижному званию **последнего победителя** события.
 
 :::caution
 
-- A Minimum of **2 Players** are required for the event to commence.
-- A Maximum of **200 Players** can participate in one instance of the **Specialists' Combat Event**.
-- Required Level[Resets] - **300[35]**.
+- Минимальное количество игроков для начала события - **2 игрока**.
+- Максимальное количество игроков для участия в одном экземпляре **События Специалистов: Бой** - **200 игроков**.
+- Требуемый уровень [Ресеты] - **300[35]**.
 
 :::
 
-The **Specialists' Combat** Event is a thrilling opportunity to demonstrate your **individual combat prowess**, earn rewards, and stand out as a skilled fighter in the realm of **Lotus Mu**.
+**Событие Специалистов: Бой** - это захватывающая возможность продемонстрировать свои **индивидуальные боевые навыки**, заработать награды и выделиться как опытный боец в мире **Lotus Mu**.
 
-Don't miss out on this chance to prove your mettle and compete against the **best warriors** from various classes!
+Не упустите этот шанс доказать свою меткость и соревноваться с **лучшими воинами** из разных классов!

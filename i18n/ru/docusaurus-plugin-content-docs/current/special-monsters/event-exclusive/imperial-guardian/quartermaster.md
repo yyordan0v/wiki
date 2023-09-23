@@ -4,27 +4,27 @@ sidebar_position: 6
 
 # Quartermaster
 
-Amidst the thrilling spectacle of the [Imperial Guardian Event](/events/imperial-guardian), players may come face to face with the formidable **Quartermaster**, a towering force of malevolence and power.
+Среди захватывающего зрелища [События Имперского Стража](/events/imperial-guardian), игроки могут встретить непреклонного **Квартмейстера**, величественную силу зла и мощи.
 
-Renowned for his indomitable strength and strategic prowess, this imposing adversary poses a formidable challenge to all who dare to cross his path. The road to victory against the Quartermaster is treacherous and demanding, requiring unwavering determination, precise tactics, and unwavering teamwork. However, those who triumph over this fearsome foe will be rewarded with a bountiful spoils, ranging from coveted treasures to rare and powerful artifacts.
+Известный своей непобедимой силой и стратегическим мастерством, этот внушительный противник представляет собой серьезное испытание для всех, кто осмелится перейти ему дорогу. Путь к победе над Квартмейстером опасен и требует непоколебимой решимости, точной тактики и нерушимой командной работы. Однако те, кто одержит победу над этим страшным врагом, будут вознаграждены обильной добычей, начиная от заветных сокровищ и заканчивая редкими и мощными артефактами.
 
-![Quartermaster](/img/monsters/special/others/quartermaster.jpg)
+![Квартмейстер](/img/monsters/special/others/quartermaster.jpg)
 
-_Quartermaster_
+_Квартмейстер_
 
-## Details
+## Подробности
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Quartermaster in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Квартмейстера можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Quartermaster**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Квартмейстера**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

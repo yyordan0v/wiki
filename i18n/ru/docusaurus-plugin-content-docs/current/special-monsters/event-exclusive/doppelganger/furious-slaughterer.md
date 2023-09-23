@@ -4,27 +4,27 @@ sidebar_position: 2
 
 # Furious Slaughterer
 
-During the [Doppelganger Event](/events/doppelganger), the formidable presence of the **Furious Slaughterers** commands attention as some of the most formidable adversaries to emerge.
+Во время [События Доппельгангера](/events/doppelganger) внушительное присутствие **Яростных Резчиков** обращает на себя внимание, так как они являются одними из самых страшных противников, появляющихся на свет.
 
-These monstrous creatures embody sheer power and resilience, presenting a daunting challenge that demands unwavering determination and skill to overcome. Yet, amidst the arduous battle lies the allure of a magnificent reward, beckoning courageous adventurers to muster their strength and face these mighty foes head-on. Brace yourself for an epic clash against the indomitable **Furious Slaughterers**, for within their defeat lies the promise of extraordinary spoils and untold glory.
+Эти чудовищные существа воплощают в себе чистую мощь и стойкость, представляя собой страшное испытание, которое требует неуклонной решимости и умения, чтобы преодолеть его. Тем не менее, среди тяжелой битвы скрывается манящая награда, призывающая смелых приключенцев собрать свои силы и сразиться с этими могучими врагами лицом к лицу. Готовьтесь к эпическому столкновению с непоколебимыми **Яростными Резчиками**, ибо в их поражении кроется обещание чрезвычайных даров и несказанной славы.
 
-![Furious Slaughterer](/img/monsters/special/others/furious-slaughterer.jpg)
+![Яростный Резчик](/img/monsters/special/others/furious-slaughterer.jpg)
 
-_Furious Slaughterer_
+_Яростный Резчик_
 
-## Details
+## Детали
 
-These creatures can be encountered only during the [Doppelganger Event](/events/doppelganger).
+Эти существа могут быть встречены только во время [События Доппельгангера](/events/doppelganger).
 
 :::tip
 
-You can find more information on the appearance of the Furious Slaughterers in the [Doppelganger Event](/events/doppelganger) article.
+Более подробную информацию о появлении Яростных Резчиков можно найти в статье [События Доппельгангера](/events/doppelganger).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Furious Slaughterer**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Яростного Резчика**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

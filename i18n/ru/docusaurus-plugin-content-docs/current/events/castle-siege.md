@@ -4,622 +4,625 @@ sidebar_position: 10
 
 # Castle Siege
 
-Experience the eagerly anticipated **Castle Siege Event**, offering enticing rewards within the [Land of Trials](/maps/land-of-trials). We've provided a comprehensive guide below to help you fully immerse yourself in the **Castle Siege Event**.
+Познакомьтесь с долгожданным событием **Осада Замка**, предлагающим соблазнительные награды в [Земле Испытаний](/maps/land-of-trials). Мы предоставили подробное руководство ниже, чтобы помочь вам полностью погрузиться в **Осаду Замка**.
 
-Best of luck and enjoy the event, all participating guilds!
+Удачи и наслаждайтесь событием, все участвующие гильдии!
 
-## Siege Warfare Timeline
+## Хронология Осады
 
-The image provided below offers a concise overview of the **Castle Siege cycle**.
+На изображении ниже представлен краткий обзор **цикла Осады Замка**.
 
-![Castle Siege cycle](/img/events/cs/timeline.jpg)
+![Цикл Осады Замка](/img/events/cs/timeline.jpg)
 
-_Castle Siege cycle_
+_Цикл Осады Замка_
 
-## Siege Participant Requirements
+## Требования для участия в Осаде
 
-- A participating guild must have a Guild Master with **at least 200 levels** (regardless of class).
-- A participating guild must have at least **20 members** in their guild.
-- Other guilds and characters **can participate** in the siege as a neutral parties but they **cannot win** the castle.
-- If the guild that owns the castle **disbands**, they **will lose** ownership of the castle.
-- Only **3 Guilds** can join the siege.
+- Участвующая гильдия должна иметь Главу Гильдии с **не менее 200 уровнем** (независимо от класса).
+- Участвующая гильдия должна иметь **не менее 20 участников** в своей гильдии.
+- Другие гильдии и персонажи **могут участвовать** в осаде как нейтральные стороны, но они **не могут победить** в осаде.
+- Если гильдия, которой принадлежит замок, **распадется**, они **потеряют** владение замком.
+- В осаде могут участвовать только **3 гильдии**.
 
-## How to Register
+## Как зарегистрироваться
 
-- Qualified guilds must talk to the **Guardsman NPC** and press the **"Announce"** button and their registration will be accepted.
-- Only the guild master can announce intent to siege to the **Guardsman NPC**.
-- To register a guild it should be **20 or more players** and the level of the Guild Master should be equal to 200 or more.
-- **Any guild members** of the guilds that have announced intent to seige **can submit a Sign of Lord** during the registration period. The **greater the amount** of the Signs of Lord, **the better the chance** to take part in the siege.
-- When the **Guardsman NPC** is clicked, the guild name rankings will show on the registry.
-- When the **Guardsman NPC** is clicked Siege status information will be shown.
-- Only the **top 3 guilds** and their allies will be given a priority for the siege.
+- Квалифицированные гильдии должны поговорить с **Стражником NPC** и нажать кнопку **"Объявить"**, и их регистрация будет принята.
+- Объявить намерение начать осаду может только глава гильдии.
+- Для регистрации гильдии должно быть **20 или более игроков**, и уровень Главы Гильдии должен быть равен 200 или более.
+- **Любые члены гильдий**, объявивших намерение начать осаду, **могут предоставить Знак Лорда** в период регистрации. **Чем больше** Знаков Лорда, **тем больше шансов** принять участие в осаде.
+- При нажатии на **Стражника NPC** будут отображаться рейтинги названий гильдий.
+- При нажатии на **Стражника NPC** будет отображена информация о статусе осады.
+- Только **топ-3 гильдии** и их союзники получат приоритет в осаде.
 
-![Guardsman NPC](/img/events/cs/guardsman-npc.jpg)
+![Стражник NPC](/img/events/cs/guardsman-npc.jpg)
 
-_Guardsman NPC_
+_Стражник NPC_
 
-## Computation for Registration Rank
+## Расчет места в рейтинге регистрации
 
-During the Guild Registration Period, guilds can announce their intentions to attack the castle.
+В период регистрации гильдии могут объявить о своих намерениях атаковать замок.
 
-Registration Period is the time to bid for the **top 3 slots** for the siege by using **Sign of Lord** to enhance their ranking.
+Период регистрации - это время, чтобы побороться за **топ-3 слота** для осады, используя **Знак Лорда**, чтобы улучшить свой рейтинг.
 
-If more than **3 guilds** have been registered, then rank will be calculated with the following formula:
+Если зарегистрировано более **3 гильдий**, то рейтинг будет рассчитываться по следующей формуле:
 
-```python title="Registration Ranking Formula"
-Ranking = (Registered Sign of Lord * 5) + Guild Members Number + (Guild Master Level / 4)
+```python title="Формула рейтинга регистрации"
+Рейтинг = (Зарегистрированный Знак Лорда * 5) + Количество участников гильдии + (Уровень Главы Гильдии / 4)
 ```
 
-The **Announcement of Qualified Guilds** announces all the guilds that have been **accepted** into the Guild Siege.
+**Объявление о квалифицированных гильдиях** объявляет все гильдии, которые были **приняты** в осаду гильдии.
 
 :::tip
 
-**Sign of Lord** can be obtain while killing monsters.
+**Знак Лорда** можно получить, убивая монстров.
 
 :::
 
-## Siege Warfare basics
+## Основы Осадной Войны
 
 :::info
 
-Keep on mind the following things when participating the **Siege Warfare**:
+Имейте в виду следующее при участии в **Осадной Войне**:
 
-- PK penalty **do not apply** between the guilds of the invading and defending team.
-- PK penalty **will not be applied** to both invading team and defending teams but will be applicable to other characters who are not participants.
-- Guild registration/withdrawal during the battle **is not allowed**.
-- Neutral character **can attack** while pressing `CTRL`.
-- Neutral characters **will not be marked** as attackers or defenders.
+- Наказание за PK **не применяется** между гильдиями нападающей и защищающей команды.
+- Наказание за PK **не будет применяться** к нападающей и защищающей команде, но будет применимо к другим персонажам, не участвующим в битве.
+- Регистрация/отмена регистрации гильдии во время битвы **не разрешена**.
+- Нейтральные персонажи **могут атаковать**, нажимая клавишу `CTRL`.
+- Нейтральные персонажи **не будут отмечены** как нападающие или защищающиеся.
 
 :::
 
-The **invading team** will have a sword icon and the **defending team** will have a shield on top of their character.
+У нападающей команды будет значок меча, а у защищающейся команды будет щит над персонажем.
 
-The **Guild Master** will have a **crown icon** instead of sword or shield. (A blue crown for the defending team and a red one for invading team)
+У Главы Гильдии будет значок **короны** вместо меча или щита. (Синяя корона для защищающейся команды и красная для нападающей команды)
 
-### Invading Team
+### Нападающая Команда
 
-|                         Guild Member                         |                        Guild Master                        |
-| :----------------------------------------------------------: | :--------------------------------------------------------: |
-| ![Guild Member - Invading](/img/events/cs/memb-invading.jpg) | ![Guild Master - Invading](/img/events/cs/gm-invading.jpg) |
+| Участник Гильдии | Глава Гильдии |
+| :--------------: | :-----------: |
 
-### Defending Team
+| ![Участник Гильдии - Н
 
-|                          Guild Member                          |                         Guild Master                         |
-| :------------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Guild Member - Defensive](/img/events/cs/memb-defending.jpg) | ![Guild Master - Defensive](/img/events/cs/gm-defending.jpg) |
+ападающая](/img/events/cs/memb-invading.jpg) | ![Глава Гильдии - Нападающая](/img/events/cs/gm-invading.jpg) |
 
-## Basic Policy and Winning condition
+### Защищающая Команда
 
-To **win the Siege** the guild master's official seal should be registered in **the pedestal** located at the Dragon Tower and **if it succeeds** the Lord of a Castle **will be changed**.
+|                          Участник Гильдии                           |                         Глава Гильдии                          |
+| :-----------------------------------------------------------------: | :------------------------------------------------------------: |
+| ![Участник Гильдии - Защищающая](/img/events/cs/memb-defending.jpg) | ![Глава Гильдии - Защищающая](/img/events/cs/gm-defending.jpg) |
 
-![Pedestal](/img/events/cs/pedestal.jpg)
+## Основные положения и условия победы
 
-_Pedestal_
+Для **победы в Осаде** глава гильдии должна зарегистрировать официальную печать в **пьедестале**, расположенном в Драконовой Башне, и **если это удастся**, Лорд Замка **будет заменен**.
+
+![Пьедестал](/img/events/cs/pedestal.jpg)
+
+_Пьедестал_
 
 :::note
 
-Only the **guild master can stamp** the official seal in pedestal.
+Только **глава гильдии может поставить печать** в пьедестал.
 
 :::
 
-To stamp press it for **30 seconds**. If the 2 footholders (Crown Switches) that are needed for stamping **are cancelled** or the character **gets killed** the stamping **will fail**.
+Чтобы поставить печать, нажмите на нее **в течение 30 секунд**. Если 2 удерживающих флага (Переключатели Короны), необходимых для печати, **будут отменены** или персонаж **будет убит**, печать **провалится**.
 
-![Crown Switch](/img/events/cs/crown-switch.jpg)
+![Переключатель Короны](/img/events/cs/crown-switch.jpg)
 
-_Crown Switch_
+_Переключатель Короны_
 
-If there's a **remaining time** even if the stamping was successful, the battle **will continue** but the 2 camps of invading/defending team **will be exchanged**.
+Если остается **время**, даже если печать была успешной, битва **продолжится**, но 2 лагеря нападающей и защищающей команд **будут обменены**.
 
-:::tip TIPS
+:::tip ПОДСКАЗКИ
 
-- Warp command **cannot** be used during the Siege Warfare but the defending team **can warp in front of the castle** by using "Town portal scroll".
-- Attacking own troops is only possible by pressing `CTRL` key. Be careful!
+- Команда Warp **нельзя использовать** во время Осадной Войны, но защищающая команда **может использовать телепортацию перед замком**, используя "Свиток городского портала".
+- Атаковать свои войска можно только, нажимая клавишу `CTRL`. Будьте осторожны!
 
 :::
 
-The guild with their official seal stamped **at the end of the siege** will be pronounced as **Owner of the Castle**.
+Гильдия с официальной печатью **конце осады** будет признана **владельцем замка**.
 
-## Major Components
+## Основные компоненты
 
-![Main Components](/img/events/cs/castle-structure.jpg)
+![Основные компоненты](/img/events/cs/castle-structure.jpg)
 
-### Castle Gates
+### Ворота Замка
 
-The **Castle Gates** have defensive power/durability (HP) and can only be attacked during the siege.
+**Ворота Замка** обладают защитной силой/прочностью (HP) и могут быть атакованы только во время осады.
 
-![Castle Gates](/img/events/cs/castle-gates.jpg)
+![Ворота Замка](/img/events/cs/castle-gates.jpg)
 
-_Castle Gates_
+_Ворота Замка_
 
 :::info
 
-The **Castle Gates** can be upgraded up to a **maximum of 3 stages** of defensive power and durability.
+**Ворота Замка** можно улучшить до **максимума 3 уровней** защитной силы и прочности.
 
-Keep on mind that upgrading and restoring **is not possible** during the battle.
+Имейте в виду, что улучшение и восстановление **невозможны** во время битвы.
 
 :::
 
-When a guild **wins** the castle while the **Castle Gates** are destroyed, the gates **will not be restored** until the siege is over.
+Когда гильдия **завоевывает** замок, а **Ворота Замка** разрушены, ворота **не будут восстановлены** до завершения осады.
 
 :::tip
 
-**Weapons'** durability is greatly reduced when attacking the **Castle Gates**, therefore it is strongly advised to take a [Potion of Bless](/events/castle-siege#potion-of-bless) or [Potion of Soul](/events/castle-siege#potion-of-soul) before attacking.
+Прочность **оружия** значительно снижается при атаке **Ворот Замка**, поэтому настоятельно рекомендуется принимать [Зелье Благословения](/events/castle-siege#potion-of-bless) или [Зелье Души](/events/castle-siege#potion-of-soul) перед атакой.
 
 :::
 
-### Guardian Statues
+### Статуи Стражей
 
-Recover HP/MP/AG around the **Guardian Statue**.
+Восстанавливайте HP/MP/AG вокруг **Статуи Стража**.
 
-![Guardian Statue](/img/events/cs/statue1.jpg)
+![Статуя Стража](/img/events/cs/statue1.jpg)
 
-_Guardian Statue_
+_Статуя Стража_
 
 :::info
 
-- Guardian statues can be upgraded up to a maximum of **3 stages** of defensive power and durability.
+- Статуи Стражей можно улучшить до максимального уровня **3 уровней** защитной силы и прочности.
 
-- Recovery rate can be upgraded up to maximum of **3 stages**.
+- Скорость восстановления можно улучшить до максимального уровня **3 уровней**.
 
-Keep on mind that upgrading and restoring is **not possible** during the battle.
+Имейте в виду, что улучшение и восстановление **невозможны** во время битвы.
 
 :::
 
-![Guardian Statue](/img/events/cs/statue2.jpg)
+![Статуя Стража](/img/events/cs/statue2.jpg)
 
-The Guardian statues have defensive power/durability (HP) and can only be attacked **during the siege**.
+Статуи Стражей обладают защитной силой/прочностью (HP) и могут быть атакованы **только во время осады**.
 
 :::tip
 
-**Weapons'** durability is greatly reduced when attacking the **Guardian Statues**, therefore it is strongly advised to take a [Potion of Bless](/events/castle-siege#potion-of-bless) or [Potion of Soul](/events/castle-siege#potion-of-soul) before attacking.
+Прочность **оружия** значительно снижается при атаке **Статуй Стражей**, поэтому настоятельно рекомендуется принимать [Зелье Благословения](/events/castle-siege#potion-of-bless) или [Зелье Души](/events/castle-siege#potion-of-soul) перед атакой.
 
 :::
 
-When all 4 statues inside the castle **have been destroyed**, the shield of the Dragon Tower **will be destroyed** as well.
+Когда все 4 статуи внутри замка **будут уничтожены**, щит Драконовой Башни **будет разрушен** также.
 
-![Guardian Statue](/img/events/cs/statue3.jpg)
+![Статуя Стража](/img/events/cs/statue3.jpg)
 
 :::note
 
-Only the players of the defending team **can enter** through the **Shield of the Dragon Tower**.
+Только игроки защищающейся команды **могут войти** через **Щит Драконовой Башни**.
 
 :::
 
-### Guard Towers
+### Башни Стражей
 
-**Guard Towers** play a role in protecting the **Guardian Statues** once the battle starts.
+**Башни Стражей** играют роль в защите **Статуй Стражей**, как только начинается битва.
 
-![Guard Towers](/img/events/cs/tower1.jpg)
+![Башни Стражей](/img/events/cs/tower1.jpg)
 
-_Guard Tower_
+_Башня Стражей_
 
-**Guard Towers** attack invading parties around them.
+**Башни Стражей** атакуют вторгающиеся группы вокруг них.
 
-![Guard Towers Attacking](/img/events/cs/tower2.jpg) ![Guard Towers](/img/events/cs/tower3.jpg)
+![Башни Стражей в атаке](/img/events/cs/tower2.jpg) ![Башни Стражей](/img/events/cs/tower3.jpg)
 
-_Guard Towers Attacking_
+_Башни Стражей в атаке_
 
 :::tip
 
-**Guard Towers** can be attacked just like **Guardian Statues** or **Castle Gates**.
+**Башни Стражей** могут быть атакованы так же, как **Статуи Стражей** или **Ворота Замка**.
 
 :::
 
-### Siege Weapons
+### Осадное Орудие
 
-The **Siege Weapons** are placed at the respective fields of the invading and defending teams.
+**Осадные Орудия** размещаются на соответствующих полях вторгающейся и защищающейся команд.
 
-![Siege Wagon](/img/events/cs/siege-wagon-1.jpg) ![Siege Wagon](/img/events/cs/siege-wagon-2.jpg)
+![Осадная Колесница](/img/events/cs/siege-wagon-1.jpg) ![Осадная Колесница](/img/events/cs/siege-wagon-2.jpg)
 
-_Siege Weapons_
+_Осадные Орудия_
 
-Click onto the **Siege Weapons** to view the menu to select the attacking location.
+Щелкните по **Осадным Орудиям**, чтобы открыть меню выбора места для атаки.
 
 :::tip
 
-Players can view the location being attacked when using the **Siege Weapons**.
+Игроки могут видеть местоположение, которое атакуется, при использовании **Осадных Орудий**.
 
 :::
 
-### Dragon Tower
+### Драконова Башня
 
-The **Dragon Tower** is located at the last stop of the castle. The tower is divided into a shielded entrance and an upper floor which houses **the pedestal** with the official seal of the **Lord of the Castle**.
+**Драконова Башня** расположена на последней остановке замка. Башня разделена на защищенный вход и верхний этаж, на котором находится **пьедестал** с официальной печатью **Лорда Замка**.
 
-![Dragon Tower](/img/events/cs/dragon-tower.jpg)
+![Драконова Башня](/img/events/cs/dragon-tower.jpg)
 
-_Dragon Tower_
+_Драконова Башня_
 
-The entrance to the **Dragon Tower** is protected by the shield which **blocks the invading team's** forces.
+Вход в **Драконову Башню** защищен щитом, который **блокирует силы вторгающейся команды**.
 
 :::tip
 
-To penetrate the **Dragon Tower** all 4 Guardian Statues need to be **destroyed**.
+Для того чтобы проникнуть в **Драконову Башню**, необходимо уничтожить все 4 **Статуи Стражей**.
 
 :::
 
-### Pedestal
+### Пьедестал
 
-The upper floor of the **Dragon Tower** houses a **pedestal** with the official seal of the Lord of the Castle.
+На верхнем этаже **Драконовой Башни** находится **пьедестал** с официальной печатью Лорда Замка.
 
-![Pedestal](/img/events/cs/pedestal-2.jpg)
+![Пьедестал](/img/events/cs/pedestal-2.jpg)
 
-_Pedestal_
+_Пьедестал_
 
-When the **Guild Master** succeeds with stamping the official seal in the pedestal, their sword symbols will turn into shield and they will now have to defend the castle.
+Когда **Главе Гильдии** удается поставить официальную печать в пьедестал, их мечи превращаются в щит, и теперь им предстоит защищать замок.
 
-:::caution IMPORTANT
+:::caution ВАЖНО
 
-The Guild with their official seal **stamped at the end of the siege** will be pronounced as **Owner of the Castle**.
-
-:::
-
-### Potions
-
-Weapon durability rapidly **deteriorates** when attacking the **Castle Gates and Guardian Statues** without first taking a potion.
-
-Keep on mind that decreased Weapons' Durability will greatly **reduce** the weapon's attack power.
-
-:::tip TIPS
-
-- **Potion of Bless** and **Potion of Soul** can be used the same as regular potions by using the shortcut keys `Q/W/E`
-
-- Shortcut key setting can be assigned by pressing `CTRL` + `Q/W/E` while pointing the cursor over the corresponding item
+Гильдия с официальной печатью **в конце осады** будет признана **владельцем замка**.
 
 :::
 
-When the player uses the **Potion of Bless** and **Potion of Soul**, potions that are being used will be indicated at the top of the screen as a buff effect.
+### Зелья
 
-![Potions Effect](/img/events/cs/pot-effect.jpg)
+Прочность оружия быстро **ухудшается**, когда атакуются **Ворота Замка и Статуи Стражей**, без предварительного приема зелья.
 
-_Potions Effect_
+Имейте в виду, что уменьшение прочности оружия сильно **уменьшит** атакующую мощность оружия.
 
-#### Crafting
+:::tip СОВЕТЫ
 
-The Potion of Bless and Potion of Soul can be crafted via the following **Chaos Goblin Combination**:
+- **Зелье Благословения** и **Зелье Души** могут использоваться так же, как обычные зелья, с помощью сочетания клавиш `Q/W/E`.
 
-| [Jewels of Bless - x2](/items/jewels/regular-jewels/jewel-of-bless) |                                         |                    Potion of Bless                     |
-| :-----------------------------------------------------------------: | :-------------------------------------: | :----------------------------------------------------: |
-|           ![Jewel of Bless](/img/items/jewels/bless.png)            | ![Equals](/img/items/invitations/=.png) | ![Potion of Bless](/img/items/others/potion-bless.png) |
+- Настройка быстрой клавиши может быть назначена, нажав `CTRL` + `Q/W/E`, указав курсором соответствующий предмет.
 
-| [ Jewels of Soul - x2](/items/jewels/regular-jewels/jewel-of-soul) |                                         |                    Potion of Soul                    |
-| :----------------------------------------------------------------: | :-------------------------------------: | :--------------------------------------------------: |
-|            ![Jewel of Soul](/img/items/jewels/soul.png)            | ![Equals](/img/items/invitations/=.png) | ![Potion of Soul](/img/items/others/potion-soul.png) |
+:::
 
-#### Potion of Bless
+Когда игрок использует **Зелье Благословения** и **Зелье Души**, зелья, которые используются, будут указаны в верхней части экрана в виде эффекта усиления.
 
-The following benefits will be granted to a player that consumes a **Potion of Bless**:
+![Эффект Зелий](/img/events/cs/pot-effect.jpg)
 
-- **+20% damage increase** is applied when attacking the **Castle Gate and Guardian Statue** but it's **not applicable in PvP**.
+_Эффект Зелий_
 
-![Potion of Bless](/img/items/others/potion-bless.png)
+#### Создание
 
-_Potion of Bless_
+Зелье Благословения и Зелье Души можно создать с помощью следующей **Комбинации Хаоса Гоблина**:
+
+| [Jewel of Bless - x2](/items/jewels/regular-jewels/jewel-of-bless) |                                        |                    Зелье Благословения                     |
+| :----------------------------------------------------------------: | :------------------------------------: | :--------------------------------------------------------: |
+|        ![Камень Благословения](/img/items/jewels/bless.png)        | ![Равно](/img/items/invitations/=.png) | ![Зелье Благословения](/img/items/others/potion-bless.png) |
+
+| [Jewel of Soul - x2](/items/jewels/regular-jewels/jewel-of-soul) |                                        |                    Зелье Души                    |
+| :--------------------------------------------------------------: | :------------------------------------: | :----------------------------------------------: |
+|            ![Камень Души](/img/items/jewels/soul.png)            | ![Равно](/img/items/invitations/=.png) | ![Зелье Души](/img/items/others/potion-soul.png) |
+
+#### Зелье Благословения
+
+Игрок, употребляющий **Зелье Благословения**, получит следующие бонусы:
+
+- **+20% увеличение урона** применяется при атаке **Ворот Замка и Статуй Стражей**, но **не применяется в PvP**.
+
+![Зелье Благословения](/img/items/others/potion-bless.png)
+
+_Зелье Благословения_
 
 :::info
 
-The duration of the effect of this potion will last for **60 seconds**.
+Длительность действия этого зелья составляет **60 секунд**.
 
 :::
 
-#### Potion of Soul
+#### Зелье Души
 
-The following benefits will be granted to a player that consumes a **Potion of Soul**:
+Игрок, употребляющий **Зелье Души**, получит следующие бонусы:
 
-- Restore AG **+8**.
-- Increase defensive power from lightning and ice by **50%**.
-- Increase attack speed **+20**.
+- Восстановление AG **+8**.
+- Увеличение защитной силы от молнии и льда на **50%**.
+- Увеличение скорости атаки **+20**.
 
-![Potion of Soul](/img/items/others/potion-soul.png)
+![Зелье Души](/img/items/others/potion-soul.png)
 
-_Potion of Soul_
+_Зелье Души_
 
 :::info
 
-The duration of the effect of this potion will last for **30 minutes**.
+Длительность действия этого зелья составляет **30 минут**.
 
 :::
 
-### Soldiers
+### Солдаты
 
-Since the invading team is bigger than the defending team with 3 united guilds, the defending team has the option to use **Soldier NPCs**.
+Поскольку вторгающаяся команда больше защищающейся команды с 3 объединенными гильдиями, защищающаяся команда имеет возможность использовать **Солдат NPC**.
 
-The defending team can purchase the **Soldier NPCs** in the Castle. They can choose between an **archer-type soldier** or a **spearman**.
+Защищающаяся команда может приобрести **Солдат NPC** в Замке. Они могут выбирать между **солдатами-лучниками** и **копейщиками**.
 
-![Soldier NPCs](/img/events/cs/archer.jpg) ![Soldier NPCs](/img/events/cs/spearman.jpg)
+![Солдаты NPC](/img/events/cs/archer.jpg) ![Солдаты NPC](/img/events/cs/spearman.jpg)
 
-_Soldier NPCs_
+_Солдаты NPC_
 
 :::note
 
-Only the **Guild Master** and **Assistant Guild Master** can place Soldier NPCs.
+Только **Глава Гильдии** и **Помощник Главы Гильдии** могут размещать Солдат NPC.
 
 :::
 
-A maximum of **100 soldiers** can be deployed at any time. Drop the soldiers at the desired location and they will be summoned **as soon as the siege starts**.
+Максимум **100 солдат** может быть развернуто в любое время. Бросьте солдат на желаемое место, и они будут вызваны **сразу после начала осады**.
 
-They will **start attacking** the invading team as soon as they are summoned.
+Они начнут **атаковать** вторгающуюся команду сразу после вызова.
 
-![Soldiers Army](/img/events/cs/mob-archer.jpg) ![Soldiers Army](/img/events/cs/mob-spearman.jpg)
+![Армия Солдат](/img/events/cs/mob-archer.jpg) ![Армия Солдат](/img/events/cs/mob-spearman.jpg)
 
-_Soldiers Army_
+_Армия Солдат_
 
-## Castle Operations
+## Операции Замка
 
-The **Lord of the Castle** can collect the taxes from all players using the stores and other systems like the **Chaos Goblin** in the server. Adjusting tax rate and settings for castle operations is done through the **Senior** NPC located in the Dragon Tower.
+**Лорд Замка** может собирать налоги с всех игроков, используя магазины и другие системы, такие как **Хаос Гоблин**, на сервере. Настройка налоговой ставки и параметров для операций замка выполняется через **Старший** NPC, находящегося в Драконовой Башне.
 
-![Senior NPC](/img/npc/senior.jpg)
+![Старший NPC](/img/npc/senior.jpg)
 
-_Senior NPC_
+_Старший NPC_
 
-Maintenance and Upgrading of **6 Castle Gates**, **4 Guardian Statues** and **Tax Adjustment** are done through the **Senior NPC**.
+Обслуживание и модернизация **6 Ворот Замка**, **4 Статуй Стражей** и **Настройка налогов** выполняются через **Старшего NPC**.
 
 :::info
 
-- Repairing or Upgrading is **not possible** during the siege.
+- Ремонт или модернизация **невозможны** во время осады.
 
-- Tax adjustment is applicable starting from **2 hours** after the siege till the next siege.
+- Налоговая настройка применяется, начиная с **2 часов** после осады и до следующей осады.
 
-- Tax will not apply during **2 hours** of the siege.
+- Налог не будет применяться в течение **2 часов** осады.
 
 :::
 
-### Tax Adjustments
+### Налоговая настройка
 
-![Tax Adjustments](/img/events/cs/taxes.jpg)
+![Налоговая настройка](/img/events/cs/taxes.jpg)
 
-_Tax Adjustments_
+_Налоговая настройка_
 
-- The **Lord of a Castle** can collect tax from all the merchant NPCs.
-- Tax adjustment can only be changed **2 hours** after the siege till the next siege.
-- Tax adjustment is divided into **Chaos Goblin's** tax rate and **NPC's** tax rate.
-- Only the **Lord of the Castle** can adjust the tax rate.
-- The tax rate will be applied when the `Apply` button is clicked and new tax rates will be added to existing item prices.
-- NPC who are not affected by taxes are: Sebina, Marlon, Guild Master, Charon, Messenger of Archangel.
-- Collected taxes will be displayed as a Remaining Zen of the **Senior NPC**.
-- Allowed withdrawal per transactions is set at **15,000,000** Zen.
-- The cost of maintenance/upgrades will be deducted from the **Castle Lord's inventory**.
+- **Лорд Замка** может собирать налоги с всех торговцев NPC.
+- Налоговая настройка может быть изменена только через **2 часа** после осады и до следующей осады.
+- Налоговая настройка делится на ставку налога **Хаос Гоблина** и ставку налога **NPC**.
+- Только **Лорд Замка** может настраивать ставку налога.
+- Ставка налога будет применена, когда будет нажата кнопка `Применить`, и новые налоговые ставки будут добавлены к существующим ценам на предметы.
+- NPC, на которых не влияют налоги: Себина, Марлон, Глава Гильдии, Харон, Посланник Архангела.
+- Собранные налоги будут отображаться как остаток Zen у **Старшего NPC**.
+- Разрешенная сумма снятия за одну транзакцию установлена в **15,000,000** Zen.
+- Стоимость обслуживания/улучшения будет вычитаться из **инвентаря Лорда Замка**.
 
 :::info
 
-The **Tax Adjustments** can be set in **3rd tab** when interacting with the **Senior** NPC.
+**Настройка налогов** может быть выполнена в **3-й вкладке**, взаимодействуя с **Старшим** NPC.
 
 :::
 
-### Maintenance/Upgrading of Castle Gates
+### Обслуживание/Улучшение Ворот Замка
 
-**Castle Gates** have **4 levels of durability** (I-IV).
+**Ворота Замка** имеют **4 уровня прочности** (I-IV).
 
-When the durability is 100% the `Repair` button **will be deactivated**.
+Когда прочность составляет 100%, кнопка `Ремонт` **будет деактивирована**.
 
-![Maintenance/Upgrading of Castle Gates](/img/events/cs/gateupgrade.jpg)
+![Обслуживание/Улучшение Ворот Замка](/img/events/cs/gateupgrade.jpg)
 
-_Maintenance/Upgrading of Castle Gates_
+_Обслуживание/Улучшение Ворот Замка_
 
-Castle Gates Status:
+Статус Ворот Замка:
 
-- Red - destroyed.
-- Orange - repair is needed.
-- White - normal.
+- Красный - разрушены.
+- Оранжевый - требуется ремонт.
+- Белый - нормальное состояние.
 
 :::info
 
-The **Maintenance/Upgrading of Castle Gates** can be done in **1st tab** when interacting with the **Senior** NPC.
+**Обслуживание/Улучшение Ворот Замка** можно выполнить в **1-й вкладке**, взаимодействуя с **Старшим** NPC.
 
 :::
 
-#### Castle Gates Characteristics
+#### Характеристики Ворот Замка
 
-| Level of Durability |    I    |   II    |    III    |    IV     |
-| :-----------------: | :-----: | :-----: | :-------: | :-------: |
-|       **HP**        | 500,000 | 800,000 | 1,500,000 | 3,000,000 |
-|     **Defense**     |   100   |   180   |    300    |    520    |
+| Уровень прочности |    I    |   II    |    III    |    IV     |
+| :---------------: | :-----: | :-----: | :-------: | :-------: |
+|      **HP**       | 500,000 | 800,000 | 1,500,000 | 3,000,000 |
+|    **Защита**     |   100   |   180   |    300    |    520    |
 
-#### Castle Gates Upgrade Cost
+#### Стоимость улучшения Ворот Замка
 
-| Level of Durability |                 II                  |                 III                 |                 IV                  |
-| :-----------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
-|       **HP**        | 2 Jewel of Guardian + 1,000,000 Zen | 3 Jewel of Guardian + 1,000,000 Zen | 4 Jewel of Guardian + 1,000,000 Zen |
-|     **Defense**     | 2 Jewel of Guardian + 3,000,000 Zen | 3 Jewel of Guardian + 3,000,000 Zen | 4 Jewel of Guardian + 3,000,000 Zen |
+| Уровень прочности |                 II                  |                 III                 |                 IV                  |
+| :---------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|      **HP**       | 2 Jewel of Guardian + 1,000,000 Zen | 3 Jewel of Guardian + 1,000,000 Zen | 4 Jewel of Guardian + 1,000,000 Zen |
+|    **Защита**     | 2 Jewel of Guardian + 3,000,000 Zen | 3 Jewel of Guardian + 3,000,000 Zen | 4 Jewel of Guardian + 3,000,000 Zen |
 
-### Guardian Statues Upgrade
+### Улучшение Статуй Стражей
 
-**Guardian Statues** have **4 levels** of durability (I-IV).
+**Статуи Стражей** имеют **4 уровня прочности** (I-IV).
 
-When the durability is 100% the `Repair` button will **be deactivated**.
+Когда прочность составляет 100%, кнопка `Ремонт` **будет деактивирована**.
 
-![Guardian Statues Upgrade](/img/events/cs/statue-upgrade.jpg)
+![Улучшение Статуй Стражей](/img/events/cs/statue-upgrade.jpg)
 
-_Guardian Statues Upgrade_
+_Улучшение Статуй Стражей_
 
-Guardian Statues Status:
+Статус Статуй Стражей:
 
-- Red - destroyed.
-- Orange - repair is needed.
-- White - normal.
+- Красный - разрушены.
+- Оранжевый - требуется ремонт.
+- Белый - нормальное состояние.
 
 :::info
 
-The **Guardian Statues Upgrade** can be done in **2nd tab** when interacting with the **Senior** NPC.
+**Улучшение Статуй Стражей** можно выполнить в **2-й вкладке**, взаимодействуя с **Старшим** NPC.
 
 :::
 
-#### Castle Gates Characteristics
+#### Характеристики Статуй Стражей
 
-| Level of Durability |    I    |   II    |    III    |    IV     |
-| :-----------------: | :-----: | :-----: | :-------: | :-------: |
-|       **HP**        | 400,000 | 750,000 | 1,300,000 | 2,500,000 |
-|     **Defense**     |   80    |   180   |    340    |    550    |
-|    **Recovery**     |   0%    |   1%    |    2%     |    3%     |
+| Уровень прочности  |    I    |   II    |    III    |    IV     |
+| :----------------: | :-----: | :-----: | :-------: | :-------: |
+|       **HP**       | 400,000 | 750,000 | 1,300,000 | 2,500,000 |
+|     **Защита**     |   80    |   180   |    340    |    550    |
+| **Восстановление** |   0%    |   1%    |    2%     |    3%     |
 
-#### Castle Gates Upgrade Cost
+#### Стоимость улучшения Статуй Стражей
 
-| Level of Durability |                  II                  |                 III                 |                 IV                  |
-| :-----------------: | :----------------------------------: | :---------------------------------: | :---------------------------------: |
-|       **HP**        | 3 Jewel of Guardian + 1,000,000 Zen  | 5 Jewel of Guardian + 1,000,000 Zen | 7 Jewel of Guardian + 1,000,000 Zen |
-|     **Defense**     | 3 Jewel of Guardian + 3,000,000 Zen  | 5 Jewel of Guardian + 3,000,000 Zen | 7 Jewel of Guardian + 3,000,000 Zen |
-|    **Recovery**     | 3 Jewel of Guardian + 5,000,000 Zen | 5 Jewel of Guardian + 5,000,000 Zen | 7 Jewel of Guardian + 5,000,000 Zen |
+| Уровень прочности  |                 II                  |                 III                 |                 IV                  |
+| :----------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
+|       **HP**       | 3 Jewel of Guardian + 1,000,000 Zen | 5 Jewel of Guardian + 1,000,000 Zen | 7 Jewel of Guardian + 1,000,000 Zen |
+|     **Защита**     | 3 Jewel of Guardian + 3,000,000 Zen | 5 Jewel of Guardian + 3,000,000 Zen | 7 Jewel of Guardian + 3,000,000 Zen |
+| **Восстановление** | 3 Jewel of Guardian + 5,000,000 Zen | 5 Jewel of Guardian + 5,000,000 Zen | 7 Jewel of Guardian + 5,000,000 Zen |
 
-### Senior Mix
+### Смешивание Старшего
 
-Being the guild in control of the Castle provides a significant advantage, including the opportunity to utilize the **Senior Mix** feature.
+Быть гильдией, контролирующей Замок, предоставляет значительное преимущество, включая возможность использовать функцию **Смешивание Старшего**.
 
 :::tip
 
-Further details on this operation can be found in the [Senior Mix](/crafting/senior-mix) article.
+Более подробная информация об этой операции может быть найдена в статье [Смешивание Старшего](/crafting/senior-mix) (на английском).
 
 :::
 
-## Skills
+## Умения
 
-Throughout the **Castle Siege** event, all characters receive the Siege Warfare **exclusive abilities**. Explore this section to gain a deeper understanding of these skills.
+На протяжении события **Осада Замка** все персонажи получают **уникальные способности** Специализации на Осаду. Изучите этот раздел, чтобы получить более глубокое понимание этих способностей.
 
-### Cresent Moon Slash
+### Полумесяц Смерти
 
-![Cresent Moon Slash](/img/events/cs/dksiegeskill.jpg)
+![Полумесяц Смерти](/img/events/cs/dksiegeskill.jpg)
 
-_Cresent Moon Slash_
+_Полумесяц Смерти_
 
-|    Class     | Knights |
-| :----------: | :-----: |
-| Attack Power |   90    |
-|     Mana     |   22    |
-|      AG      |   15    |
-|   Distance   |    4    |
+|   Класс    | Рыцари |
+| :--------: | :----: |
+| Сила атаки |   90   |
+|    Мана    |   22   |
+|     AG     |   15   |
+| Дистанция  |   4    |
 
-### Wind Blades
+### Ветры Клинков
 
-![Wind Blades](/img/events/cs/dwsiegeskill.jpg)
+![Ветры Клинков](/img/events/cs/dwsiegeskill.jpg)
 
-_Wind Blades_
+_Ветры Клинков_
 
-|    Class     | Wizards |
-| :----------: | :-----: |
-| Attack Power |   90    |
-|     Mana     |   150   |
-|      AG      |   10    |
-|   Distance   |    6    |
-| Description  |   2x1   |
+|   Класс    | Маги |
+| :--------: | :--: |
+| Сила атаки |  90  |
+|    Мана    | 150  |
+|     AG     |  10  |
+| Дистанция  |  6   |
+|  Описание  | 2x1  |
 
-### Heaven Arrow
+### Стрела Небес
 
-![Heaven Arrow](/img/events/cs/fesiegeskill.jpg)
+![Стрела Небес](/img/events/cs/fesiegeskill.jpg)
 
-_Heaven Arrow_
+_Стрела Небес_
 
-|    Class     | Elves |
-| :----------: | :---: |
-| Attack Power |  120  |
-|     Mana     |  20   |
-|      AG      |  15   |
-|   Distance   |   8   |
+|   Класс    | Эльфы |
+| :--------: | :---: |
+| Сила атаки |  120  |
+|    Мана    |  20   |
+|     AG     |  15   |
+| Дистанция  |   8   |
 
-### Spiral Slash
+### Спиральный Удар
 
-![Spiral Slash](/img/events/cs/mgsiegeskill-1.jpg)
+![Спиральный Удар](/img/events/cs/mgsiegeskill-1.jpg)
 
-_Spiral Slash_
+_Спиральный Удар_
 
-|    Class     | Gladiators |
-| :----------: | :--------: |
-| Attack Power |     75     |
-|     Mana     |     20     |
-|      AG      |     15     |
-|   Distance   |     5      |
-| Description  |    2x1     |
+|   Класс    | Гладиаторы |
+| :--------: | :--------: |
+| Сила атаки |     75     |
+|    Мана    |     20     |
+|     AG     |     15     |
+| Дистанция  |     5      |
+|  Описание  |    2x1     |
 
-### Mana Rays
+### Лучи Маны
 
-![Mana Rays](/img/events/cs/mgsiegeskill-2.jpg)
+![Лучи Маны](/img/events/cs/mgsiegeskill-2.jpg)
 
-_Mana Rays_
+_Лучи Маны_
 
-|    Class     | Gladiators |
-| :----------: | :--------: |
-| Attack Power |     85     |
-|     Mana     |    130     |
-|      AG      |     7      |
-|   Distance   |     8      |
-| Description  |    2x1     |
+|   Класс    | Гладиаторы |
+| :--------: | :--------: |
+| Сила атаки |     85     |
+|    Мана    |    130     |
+|     AG     |     7      |
+| Дистанция  |     8      |
+|  Описание  |    2x1     |
 
-### Fire Spines
+### Огненные Шипы
 
-![Fire Spines](/img/events/cs/dlsiegeskill.jpg)
+![Огненные Шипы](/img/events/cs/dlsiegeskill.jpg)
 
-_Fire Spines_
+_Огненные Шипы_
 
-|    Class     | Lords |
-| :----------: | :---: |
-| Attack Power |  150  |
-|     Mana     |  30   |
-|      AG      |  10   |
-|   Distance   |   6   |
+|   Класс    | Лорды |
+| :--------: | :---: |
+| Сила атаки |  150  |
+|    Мана    |  30   |
+|     AG     |  10   |
+| Дистанция  |   6   |
 
-## Castle Siege System
+## Система Осады Замка
 
-### Mini Map
+### Мини-карта
 
-For the guild members of invading/defending teams, there's a display of the siege status - **Mini Map** at the lower right side of their screen.
+Для членов гильдии вторгающихся и защищающихся команд есть отображение состояния осады - **Мини-карта** в нижнем правом углу их экрана.
 
-- It displays the player's location, command status of guild master, deployment plan of the castle and status of the castle.
-- It will be displayed when the siege warfare starts and it will disappear when the siege warfare is over or moving to a non-battle area.
+- Она отображает местоположение игрока, статус команды главы гильдии, план развертывания замка и статус замка.
+- Она будет отображаться, когда начинается осада, и исчезнет, когда осада завершается или когда переходят в небоевую зону.
 
-![Guild Members Map](/img/events/cs/map-member.jpg)
+![Карта участников гильдии](/img/events/cs/map-member.jpg)
 
-_Guild Members Map_
+_Карта участников гильдии_
 
 :::tip
 
-You can turn the display **On/Off** by pressing the `TAB` Key.
+Вы можете включить/выключить отображение, нажав клавишу `TAB`.
 
 :::
 
-Command functions are **only given to the guild masters** of invading/defending teams and it's possible to command the attacking location to the guild members by using these functions.
+Командные функции предоставляются **только главам гильдий** вторгающихся и защищающихся команд, и возможно командовать местом атаки членам гильдии, используя эти функции.
 
-The guild master can command the siege status to the guild members by using:
+Глава гильдии может командовать статусом осады для членов гильдии, используя:
 
-- Attack commands (sword icon: **Attack**)
-- Shield commands (shield icon: **Defense**)
-- Standby commands (flag icon: **Stop**).
+- Команды атаки (икона меча: **Атака**)
+- Команды защиты (икона щита: **Защита**)
+- Команды ожидания (флаг: **Стоп**).
 
-![Guild Master Map](/img/events/cs/map-gm.jpg)
+![Карта главы гильдии](/img/events/cs/map-gm.jpg)
 
-_Guild Master Map_
+_Карта главы гильдии_
 
 :::info
 
-A total of **7 groups** can be commanded from this menu.
+Из этого меню можно командовать **всего 7 группами**.
 
 :::
 
-### Life Stone
+### Камень Жизни
 
-Only the Guild Master or Assistant Guild Master of the **invading team** can use the **Life Stone**. Once the **Life Stone** is created it functions as a **respawn point** for the entire guild.
+Только Глава гильдии или Помощник Главы гильдии **вторгающейся команды** могут использовать **Камень Жизни**. Когда **Камень Жизни** создан, он функционирует как **точка возрождения** для всей гильдии.
 
-![Lifestone](/img/events/cs/life-stone.jpg)
+![Камень Жизни](/img/events/cs/life-stone.jpg)
 
-_Lifestone_
+_Камень Жизни_
 
-When the invading team's character gets killed, he will respawn **next to the Life Stone** and **not outside of the Castle**.
+Когда персонаж из вторгающейся команды умирает, он возрождается **рядом с Камнем Жизни**, а **не снаружи Замка**.
 
 :::caution
 
-Life Stone can only be used by the **invading team**.
+Камень Жизни может использоваться **только вторгающейся командой**.
 
 :::
 
-There is a **60 second timer** for placing the Life stone.
+Существует **таймер в 60 секунд** для размещения Камня Жизни.
 
-Due to its special powers, it will restore **HP/MP/AG** to the invading team's characters around it (3 tiles) at the certain time.
+Из-за его особых свойств, он восстанавливает **HP/MP/AG** персонажей вторгающейся команды, находящихся рядом с ним (в радиусе 3 клеток) через определенные промежутки времени.
 
 :::tip
 
-**Life Stones** can be destroyed when attacked by the invading/defending teams.
+**Камни Жизни** могут быть уничтожены при атаке вторгающейся или защищающейся командами.
 
 :::
 
-#### Creating a Life Stone
+#### Создание Камня Жизни
 
-Life Stones can be created through the following **Chaos Mix**:
+Камни Жизни могут быть созданы с помощью следующей **Смеси Хаоса**:
 
 | [Jewels of Bless - x5](/items/jewels/regular-jewels/jewel-of-bless) |                                       | [ Jewels of Soul - x5](/items/jewels/regular-jewels/jewel-of-soul) |                                       | [Jewels of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |                                         |                     Place Life Stone                     |
 | :-----------------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------: | :-----------------------------------: | :------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------: |
@@ -627,40 +630,40 @@ Life Stones can be created through the following **Chaos Mix**:
 
 :::info
 
-This Chaos Combination costs **5,000,000 Zen**.
+Эта Смесь Хаоса стоит **5,000,000 Zen**.
 
 :::
 
-### Land of Trials
+### Земля Испытаний
 
-The **Castle Lord** of the winning team will be given authority to manage the [Land of Trials](/maps/land-of-trials).
+**Лорд Замка**, победившей команды, получит право управлять [Землей Испытаний](/maps/land-of-trials).
 
-The [Land of Trials](/maps/land-of-trials) is an independent hunting area and regular players will be restricted from entering **unless the Castle Lord** allows their entry.
+[Земля Испытаний](/maps/land-of-trials) - это независимая зона для охоты, и обычным игрокам будет **ограничен вход**, **пока Лорд Замка** не разрешит им вход.
 
 :::tip
 
-You can learn what **valuable assets** can be found there by reading the [Land of Trials](/maps/land-of-trials) article.
+Вы можете узнать, какие **ценные ресурсы** можно найти там, прочитав статью о [Земле Испытаний](/maps/land-of-trials).
 
 :::
 
-The **Castle Lord** and **his guild members** can enter the zone **without restrictions**. To do so click the **Guard NPC** to enter to the [Land of Trials](/maps/land-of-trials).
+**Лорд Замка** и **члены его гильдии** могут входить в эту зону **без ограничений**. Для этого нажмите на **NPC-гвардейца**, чтобы войти в [Землю Испытаний](/maps/land-of-trials).
 
-You cannot teleport to [Land of Trials](/maps/land-of-trials) - you can pass there only from [Valley of Loren](/maps/valley-of-loren) (140,100).
+Вы не можете телепортироваться в [Землю Испытаний](/maps/land-of-trials) - вы можете пройти туда только из [Долины Лорена](/maps/valley-of-loren) (140,100).
 
-![Guard NPC](/img/events/cs/land-of-trials.jpg)
+![NPC-гвардеец](/img/events/cs/land-of-trials.jpg)
 
-_Guard NPC_
+_NPC-гвардеец_
 
 :::caution
 
-Regular players who **do not belong** to the Castle Lord's guild **may be restricted** from entering the map depending on the Castle Lord's setting.
+Обычным игрокам, **не входящим** в гильдию Лорда Замка, **может быть ограничен вход** на карту в зависимости от настроек Лорда Замка.
 
 :::
 
-#### Entrance Settings
+#### Настройки Входа
 
-The Castle Lord can charge an **entrance fee** through the **Guard NPC** or restrict players from entering the Land of Trials.
+Лорд Замка может взимать **плата за вход** через **NPC-гвардейца** или ограничивать игроков входом в Землю Испытаний.
 
-Price passage can vary from **0** to **2 billion Zen**.
+Стоимость прохода может варьироваться от **0** до **1 миллиардов Zen**.
 
-![Land of Trials Entrance](/img/events/cs/lotenter.jpg)
+![Вход в Землю Испытаний](/img/events/cs/lotenter.jpg)

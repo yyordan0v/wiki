@@ -4,59 +4,59 @@ sidebar_position: 4
 
 # King of Yoskreth
 
-**King of Yoskreth** is an epic combat event that pits **guilds** against each other in a fierce battle for supremacy. This thrilling event places great importance on individual and guild performance, but the most important objective is holding the tomb at the event's conclusion.
+**King of Yoskreth** - это эпическое боевое событие, в котором гильдии сражаются друг с другом за господство. Это захватывающее событие уделяет большое внимание индивидуальной и гильдийской эффективности, но самая важная цель - удержание гробницы к окончанию мероприятия.
 
-The battleground for the **King of Yoskreth** event is none other than the capital city of [Yoskreth](/maps/yoskreth) itself. This sprawling city becomes the epicenter of intense combat as guilds vie for control and supremacy.
+Полем боя для события **King of Yoskreth** является столица [Yoskreth](/maps/yoskreth) сама по себе. Этот огромный город становится эпицентром интенсивных боев, поскольку гильдии соревнуются за контроль и господство.
 
-## How to Participate
+## Как участвовать
 
-To take part in the King of Yoskreth Event, follow these steps:
+Чтобы принять участие в событии King of Yoskreth, выполните следующие шаги:
 
-1. Stay vigilant for **system notices** indicating the commencement of the event.
+1. Будьте бдительны и следите за **системными уведомлениями**, указывающими на начало события.
 
-   ![System Notice](/img/events/king/king-notice.jpg)
+   ![Системное уведомление](/img/events/king/king-notice.jpg)
 
-   _System Notice_
+   _Системное уведомление_
 
-2. Engage with **Reimond Payne** in [Yoskreth](/maps/yoskreth) so you can go the battle arena dedicated for the **King of Yoskreth** Event.
+2. Взаимодействуйте с **Реймондом Пейном** в [Yoskreth](/maps/yoskreth), чтобы попасть на арену боя, посвященную событию **King of Yoskreth**.
 
-   ![Reimond Payne](/img/events/king/king-npc.jpg)
+   ![Реймонд Пейн](/img/events/king/king-npc.jpg)
 
-   _Reimond Payne_
+   _Реймонд Пейн_
 
-3. A System Notice will mark the beginning of the Event.
+3. Системное уведомление объявит начало события.
 
-   ![King of Yoskreth Event](/img/events/king/king-start.jpg)
+   ![Событие King of Yoskreth](/img/events/king/king-start.jpg)
 
 :::info
 
-The event lasts for **10 minutes**.
+Событие длится **10 минут**.
 
 :::
 
-## Gameplay
+## Игровой процесс
 
-Once the event starts, the priority is to seize the **tomb**. You can do this by going to a **specific place** (show in the picture below) in the battle arena an typing the following command: **`/king`**.
+Как только событие начнется, приоритет заключается в том, чтобы завладеть **гробницей**. Вы можете сделать это, перейдя в **определенное место** (показано на картинке ниже) на арене боя и введя следующую команду: **`/king`**.
 
-![Seizing the Tomb](/img/events/king/king-throne.jpg)
+![Захват гробницы](/img/events/king/king-throne.jpg)
 
-When you take the **tomb** a System Notice will notify the server that indeed your guild now holds the Tomb.
+Когда вы занимаете **гробницу**, системное уведомление уведомит сервер, что именно ваша гильдия теперь удерживает гробницу.
 
 ![King of Yoskreth](/img/events/king/king-throne-2.jpg)
 
 :::tip
 
-You can move your character **freely** and do whatever you like, but beware that someone else might occupy the Tomb during this time. The strategy on how to keep the tomb to yourself, we leave to you.
+Вы можете свободно **перемещаться** и делать все, что вам нравится, но будьте осторожны, так как кто-то другой может занять гробницу в это время. Стратегия по тому, как удержать гробницу при себе, остается на ваше усмотрение.
 
 :::
 
-## Victory and Rewards
+## Победа и награды
 
-The result of the **King of Yoskreth** event is determined by whoever guild **possesses the Tomb** at its conclusion.
+Исход события **King of Yoskreth** определяется **гильдией, владеющей гробницей**, когда событие завершается.
 
-### Guild Rewards
+### Награды для гильдии
 
-**Each player** on the **winning guild** will receive the following well-deserved **reward** for their contribution:
+**Каждый игрок** в **победившей гильдии** получит следующую **заслуженную награду** за свой вклад:
 
 - **50 Event Points (EP)**
 - **[Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)**
@@ -65,32 +65,32 @@ The result of the **King of Yoskreth** event is determined by whoever guild **po
 
   _Lilac Candy Box_
 
-### Individual Rewards
+### Награды для отдельных игроков
 
-During the event additional rankigs are being held:
+Во время события также проводятся дополнительные рейтинги:
 
-1. **Tomb Holder** - the character that "locks" the Tomb for the longest period during the event instance will be rewarded with: **100 Event Points (EP)**.
+1. **Владелец гробницы** - персонаж, который "захватывает" гробницу наибольшее время в течение экземпляра мероприятия, будет награжден: **100 Event Points (EP)**.
 
-2. **Battle Points** - during the event instance the most active players will gain **Battle Points**. Using those **Battle Points** a individual ranking is being made.
+2. **Боевые очки** - во время экземпляра события самые активные игроки будут накапливать **боевые очки**. Используя эти **боевые очки**, составляется индивидуальный рейтинг.
 
    :::info
 
-   The **Top 5** players ranked by their **Battle Points** will receive the followings rewards:
+   **Топ-5** игроков, ранжированных по их **боевым очкам**, получат следующие награды:
 
-      - **Rank 1**: **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
+   - **Место 1**: **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
 
-         ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+     ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-         _Purple Chaos Box_
+     _Purple Chaos Box_
 
-      - **Rank 2 - 5**: **[Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)**
+   - **Место 2 - 5**: **[Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)**
 
-         ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+     ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 
-         _Red Chocolate Box_
+     _Red Chocolate Box_
 
    :::
 
-## Conclusion
+## Заключение
 
-In this grand event, alliances are forged, rivalries are intensified, and only **one guild** can claim the Tomb as the undisputed **King of Yoskreth**. Will your guild rise to the occasion and seize the ultimate prize in this monumental battle for dominance?
+На этом великом событии заключаются союзы, усиливаются соперничества, и только **одна гильдия** может утверждать гробницу как бесспорного **Короля Yoskreth**. Сможет ли ваша гильдия воспользоваться этой возможностью и завоевать главный приз в этой монументальной битве за господство?

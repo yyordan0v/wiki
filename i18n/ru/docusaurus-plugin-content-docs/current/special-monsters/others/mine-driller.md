@@ -4,26 +4,26 @@ sidebar_position: 7
 
 # Mine Driller
 
-This article explores the **Mine Driller** - a special monster in the **Lotus Mu** realm.
+Эта статья исследует **Mine Driller** - специального монстра в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
+Внимание сосредоточено на его местонахождении и наградах, которые этот монстр предоставляет искателям приключений, осмелившимся пересечь его путь.
 
 ![Mine Driller](/img/monsters/special/others/mine-driller.jpg)
 
 _Mine Driller_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Mine Driller** across the realm.
+В следующей таблице предоставлена подробная информация о местонахождении, времени возрождения и количестве доступных **Mine Driller** по всему миру.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-|      [El'Harath](/maps/el-harath)      |    5     | **10 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    5     | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Возрождения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|      [Эль-Харат](/maps/el-harath)       |     5      | **10 минут** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     5      | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Mine Driller**, players will be rewarded with one of the following:
+После успешного убийства **Mine Driller**, игроки будут вознаграждены одним из следующих:
 
 |                      Old Scroll + 6                      |                              Illusion Sorcerer Covenant +6                              |
 | :------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
@@ -31,6 +31,6 @@ Upon successfully killing a **Mine Driller**, players will be rewarded with one 
 
 :::tip
 
-These artifacts are used as a component in the [Scroll of Blood](/crafting/invitations/scroll-of-blood) crafting procedure.
+Эти артефакты используются в процессе создания [Свитка Крови](/crafting/invitations/scroll-of-blood).
 
 :::

@@ -4,35 +4,30 @@ sidebar_position: 5
 
 # Silver Box
 
-The **Silver Box** bestows upon the player who obtains it a **top-tier** [Ancient Item](/items/ancient-items) and can be acquired by defeating monsters on designated maps.
+**Серебряный Ящик** дарит игроку, который его получает, **лучший** [Древний Предмет](/items/ancient-items) и может быть получен путем победы над монстрами на указанных картах.
 
-In this article you can find information about the items that can be obtained from the **Silver Box** and where to find it.
+В этой статье вы можете найти информацию о предметах, которые можно получить из **Серебряного Ящика**, и о том, где его найти.
 
-![Silver Box](/img/items/item-bags/silver-box.png)
+![Серебряный Ящик](/img/items/item-bags/silver-box.png)
 
-_Silver Box_
+_Серебряный Ящик_
 
-## Item Drops
+## Дроп предметов
 
-The **Silver Box** can drop the one of following items:
+**Серебряный Ящик** может выпасть один из следующих предметов:
 
-### Armor items
-
-|                    Hyon Dragon                     |                    Anubis Legendary                     |                    Gywen Guardian                    |                     Gaion Storm Crow                     |                    Agnis Adamantine                     |
-| :------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: |:------------------------------------------------------: |
-|  ![Hyon Dragon](/img/items/armors/dk/dragon.png)   | ![Anubis Legendary](/img/items/armors/dw/legendary.png) | ![Gywen Guardian](/img/items/armors/fe/guardian.png) | ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png) |![Agnis Adamantine](/img/items/armors/dl/adamantine.png) |
-|                   Vicious Dragon                   |                     Enis Legendary                      |                    Aruan Guardian                    |                     Muren Storm Crow                     |                    Broy Adamantine                     |
-| ![Vicious Dragon](/img/items/armors/dk/dragon.png) |  ![Enis Legendary](/img/items/armors/dw/legendary.png)  | ![Aruan Guardian](/img/items/armors/fe/guardian.png) | ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png) |![Broy Adamantine](/img/items/armors/dl/adamantine.png) |
+|                    Hyon Dragon                     |                    Anubis Legendary                     |                    Gywen Guardian                    |                     Gaion Storm Crow                     |                     Agnis Adamantine                     |
+| :------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
+|  ![Hyon Dragon](/img/items/armors/dk/dragon.png)   | ![Anubis Legendary](/img/items/armors/dw/legendary.png) | ![Gywen Guardian](/img/items/armors/fe/guardian.png) | ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png) | ![Agnis Adamantine](/img/items/armors/dl/adamantine.png) |
+|                   Vicious Dragon                   |                     Enis Legendary                      |                    Aruan Guardian                    |                     Muren Storm Crow                     |                     Broy Adamantine                      |
+| ![Vicious Dragon](/img/items/armors/dk/dragon.png) |  ![Enis Legendary](/img/items/armors/dw/legendary.png)  | ![Aruan Guardian](/img/items/armors/fe/guardian.png) | ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png) | ![Broy Adamantine](/img/items/armors/dl/adamantine.png)  |
 
 :::note
 
-Please note that these items are [ancients](/items/ancient-items).
+Обратите внимание, что эти предметы являются [древними](/items/ancient-items).
 
 :::
 
-## Obtaining the Silver Box
+## Получение Серебряного Ящика
 
-To obtain the **Silver Box**, adventurers must either slay **any** monsters in [Kalima 7](/maps/kalima) or [Land of Trials](/maps/land-of-trials).
-
-
-
+Чтобы получить **Серебряный Ящик**, искатели приключений должны либо уничтожить **любых** монстров в [Калима 7](/maps/kalima), либо в [Земле Испытаний](/maps/land-of-trials).

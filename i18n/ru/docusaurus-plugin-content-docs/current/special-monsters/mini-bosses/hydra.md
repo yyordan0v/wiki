@@ -4,39 +4,39 @@ sidebar_position: 6
 
 # Hydra
 
-Prepare yourself for a thrilling expedition into the depths of [Atlans](/maps/atlans), an enigmatic realm teeming with mystery and danger, as you embark on a quest of epic proportions. Within this mystical domain, prepare to confront the awe-inspiring **Hydra**, a formidable creature whose power and presence demand your unwavering focus and unyielding courage.
+Приготовьтесь к захватывающей экспедиции в глубины [Атланса](/maps/atlans), таинственной области, полной загадок и опасностей, когда вы отправитесь в эпический квест. В этом мистическом мире готовьтесь столкнуться с внушительным **Гидрой**, могущественным существом, чья сила и присутствие требуют вашей несокрушимой концентрации и непоколебимой смелости.
 
-Brace for an adrenaline-fueled adventure where emerging triumphant over this formidable adversary will unlock exhilarating realms of excitement and glory, propelling you towards unparalleled achievements and becoming a legend in your own right.
+Приготовьтесь к адреналину, где победа над этим могучим противником откроет перед вами захватывающие области волнения и славы, толкая вас к беспрецедентным достижениям и превращая вас в легенду своего рода.
 
-![Hydra](/img/monsters/special/others/hydra.jpg)
+![Гидра](/img/monsters/special/others/hydra.jpg)
 
-_Hydra_
+_Гидра_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-Prepare yourself for an extraordinary expedition into the unfathomable abyss of [Atlans](/maps/atlans), a realm shrouded in enigma and trepidation, reserved for the courageous few who dare to venture forth.
+Подготовьтесь к необычной экспедиции в неисповедимую бездну [Атланса](/maps/atlans), области, окутанной тайной и тревожностью, зарезервированной для смельчаков, осмеливающихся отправиться вперед.
 
-As you embark on this enthralling odyssey, steel your nerves to confront the mysterious and formidable **Hydra**, an entity of immense power lurking within the depths of this foreboding realm.
+Когда вы отправляетесь в это захватывающее путешествие, закалите свои нервы, чтобы столкнуться с загадочной и могучей **Гидрой**, сущностью огромной мощи, скрывающейся в глубинах этого зловещего мира.
 
 :::tip
 
-You can find **Hydras** near the following coordinates in [Atlans](/maps/atlans) - **40, 220**.
+Вы можете найти **Гидр** рядом с координатами в [Атлансе](/maps/atlans) - **40, 220**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Balrogs**.
+В следующей таблице предоставлена подробная информация о времени и количестве доступных **Балрогов**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    5     | 4 minutes after killed |
+| Количество |    Время воскрешения    |
+| :--------: | :---------------------: |
+|     5      | 4 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Hydra**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного уничтожения **Гидры**, игроки будут вознаграждены с [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

@@ -115,6 +115,10 @@ _Ice Walker_
 
 After successfuly completing the **Doppelganger** a **Golden Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
 
+![Orange Candy Box](/img/items/item-bags/orange-candy-box.png)
+
+_Orange Candy Box_
+
 :::
 
 Prepare to engage in an exhilarating test of skill and coordination as you defend against relentless waves of monsters. The **Doppelganger** Event is not only a chance to showcase your **combat prowess** but also a platform to demonstrate the **power of teamwork** in the realm of **Lotus Mu**.

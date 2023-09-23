@@ -4,27 +4,27 @@ sidebar_position: 12
 
 # Raymond
 
-Within the heart-pounding realm of the [Imperial Guardian Event](/events/imperial-guardian), adventurers may come face-to-face with the formidable **Raymond**, an embodiment of sheer terror and relentless might.
+В самом сердце захватывающего мира [События Имперского Стража](/events/imperial-guardian) авантюристы могут встретить непреклонного **Реймонда**, воплощение абсолютного ужаса и неослабной мощи.
 
-Revered for his unmatched ferocity and unwavering determination, this fearsome adversary presents a daunting challenge to those who dare to challenge him. Toppling **Raymond** requires unwavering skill, unwavering courage, and unyielding teamwork. However, those who emerge victorious from this harrowing clash shall be generously rewarded, for within the grasp of Raymond's defeat lies an abundance of priceless spoils and invaluable treasures.
+Почитаемый за свою беспримерную ярость и непоколебимое решимость, этот страшный противник представляет собой пугающее испытание для тех, кто осмелится его бросить вызов. Победа над **Реймондом** требует непоколебимого мастерства, неустрашимой смелости и нерушимой командной работы. Однако те, кто выйдет победителями из этой страшной схватки, будут щедро вознаграждены, ведь в победе над Реймондом скрывается богатство бесценных добыч и неоценимых сокровищ.
 
-![Raymond](/img/monsters/special/others/raymond.jpg)
+![Реймонд](/img/monsters/special/others/raymond.jpg)
 
-_Raymond_
+_Реймонд_
 
-## Details
+## Подробности
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Raymond in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Реймонда можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Raymond**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Реймонда**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

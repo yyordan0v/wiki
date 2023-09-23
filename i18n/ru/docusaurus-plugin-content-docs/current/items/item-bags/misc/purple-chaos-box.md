@@ -4,15 +4,15 @@ sidebar_position: 8
 
 # Purple Chaos Box
 
-The **Purple Chaos Box** is a highly sought-after item that grants you access to a variety of valuable items that can enhance your gameplay experience.
+**Фиолетовая Хаос Коробка** - это высоко ценный предмет, который предоставляет доступ к разнообразным ценным предметам, способным улучшить ваш опыт игры.
 
-![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Фиолетовая Хаос Коробка](/img/items/item-bags/purple-chaos-box.png)
 
-_Purple Chaos Box_
+_Фиолетовая Хаос Коробка_
 
-## Purple Chaos Box - Drops
+## Фиолетовая Хаос Коробка - Дроп предметов
 
-The **Purple Chaos Box** can drop one of the following items:
+**Фиолетовая Хаос Коробка** может выпасть один из следующих предметов:
 
 | [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) |   [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2)    |  [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3)   | [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |
 | :----------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -20,21 +20,21 @@ The **Purple Chaos Box** can drop one of the following items:
 |     [Red Chaos Box](/items/item-bags/exc/red-chaos-box)      |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
 |   ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)   | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
 
-## Obtaining the Purple Chaos Box
+## Получение Фиолетовой Хаос Коробки
 
-To obtain the **Purple Chaos Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following creatures:
+Чтобы получить **Фиолетовую Хаос Коробку**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими существами:
 
 |     [Hero Mutant](/special-monsters/others/hero-mutant)      |     [Axl Hero](/special-monsters/others/axl-hero)      |
 | :----------------------------------------------------------: | :----------------------------------------------------: |
 | ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg) | ![Axl Hero](/img/monsters/special/others/axl-hero.jpg) |
 
-There is also chance that you get **Purple Chaos Box** dropped by one of the following item bags:
+Также есть шанс получить **Фиолетовую Хаос Коробку** как дроп из одной из следующих сумок с предметами:
 
 | [Gold Medal](/items/item-bags/non-exc/gold-medal)  |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
 | :------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Gold Medal](/img/items/item-bags/gold-medal.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |
 
-You can also obtain a **Purple Chaos Box** by winning in one of the following events:
+Вы также можете получить **Фиолетовую Хаос Коробку**, победив в одном из следующих событий:
 
 - [Auction Event](/events/others/auction)
 - [Pandora Event](/events/combat-events/pandora)

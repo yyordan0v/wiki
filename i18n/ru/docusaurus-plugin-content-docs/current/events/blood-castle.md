@@ -4,142 +4,133 @@ sidebar_position: 1
 
 # Blood Castle
 
-Risk your life to **Save the Archangel**. One of the strongest warriors in **Lotus Mu**, the Archangel, has secretly been laying watch over the lands that he has sworn to protect. As **Kundun's** presence approaches, the **Archangel** has been warding off all the monsters trying to invade **Lotus Mu**. But alas, our **Guardian Archangel** can not fend on his own forever.
+Рискуйте своей жизнью, чтобы **Спасти Архангела**. Один из самых сильных воинов в **Lotus Mu**, Архангел, скрытно наблюдал за землями, которые он присягнул защищать. По мере приближения присутствия **Кундуна**, **Архангел** отражал все монстров, пытающихся вторгнуться в **Lotus Mu**. Но, увы, наш **Архангел-страж** не может сражаться в одиночку вечно.
 
-## Entry Requirements
+## Требования к входу
 
-### Required Item
+### Необходимый предмет
 
-- You must craft an [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in order to enter Blood Castle.
-- [Invisibility Cloak](/crafting/invitations/invisibility-cloak) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Yorskreth](/maps/yoskreth).
-- Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
-
-:::tip
-
-For a **guaranteed** drop of the **Invisibility Cloak Ingredients** you can kill the [Dead Digger](//special-monsters/others/dead-digger) in either [Icewrack](/maps/icewrack) or [Land of Trials](/maps/land-of-trials).
-
-![Dead Digger](/img/monsters/special/others/dead-digger.jpg)
-
-_Dead Digger_
-
-:::
-
-|                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Invisibility Cloak](/crafting/invitations/invisibility-cloak)    |
-| :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
-| ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
-
-_Invisibility Cloak Crafting_
+- Для входа в Blood Castle необходимо создать [Плащ-невидимку](/crafting/invitations/invisibility-cloak).
+- [Плащ-невидимка](/crafting/invitations/invisibility-cloak) создается с помощью Машины Хаос Гоблина.
+- Ингредиенты для создания (**Кровавая Кость** и **Свиток Архангела**) можно получить, убив монстров или в [Йорскрете](/maps/yoskreth).
+- Кроме того, вам понадобится [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) для создания.
 
 :::tip
 
-Detailed information on the crafting process you can find in the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) article.
+Для **гарантированного** выпадения ингредиентов для **Плаща-невидимки** вы можете убить [Мертвого Копателя](//special-monsters/others/dead-digger) в [Ледяных Пустошах](/maps/icewrack) или [Земле Испытаний](/maps/land-of-trials).
+
+![Мертвый Копатель](/img/monsters/special/others/dead-digger.jpg)
+
+_Мертвый Копатель_
 
 :::
 
-### Required Level
+|                      Кровавый Клык                      |                                       |                          Свиток Архангела                           |                                       | [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) |                                        |    [Плащ-невидимка](/crafting/invitations/invisibility-cloak)    |
+| :-----------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :------------------------------------: | :--------------------------------------------------------------: |
+| ![Кровавый Клык](/img/items/invitations/blood-bone.png) | ![Плюс](/img/items/invitations/+.png) | ![Свиток Архангела](/img/items/invitations/scroll-of-archangel.png) | ![Плюс](/img/items/invitations/+.png) |        ![Самоцвет Хаоса](/img/items/jewels/chaos.png)         | ![Равно](/img/items/invitations/=.png) | ![Плащ-невидимка](/img/items/invitations/invisibility-cloak.png) |
 
-- **Knights, Wizards and Elves:**
+_Создание Плаща-невидимки_
 
-  | Blood Castle Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Blood Castle 1   |       15 - 80        |
-  |   Blood Castle 2   |       81 - 130       |
-  |   Blood Castle 3   |      131 - 180       |
-  |   Blood Castle 4   |      181 - 230       |
-  |   Blood Castle 5   |      231 - 280       |
-  |   Blood Castle 6   |      281 - 330       |
-  |   Blood Castle 7   |      331 - 400       |
-  |   Blood Castle 8   | 3rd Quest Completed  |
+:::tip
 
-- **Gladiators and Lords:**
+Подробную информацию о процессе создания можно найти в статье о [Плаще-невидимке](/crafting/invitations/invisibility-cloak).
 
-  | Blood Castle Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Blood Castle 1   |       10 - 60        |
-  |   Blood Castle 2   |       61 - 110       |
-  |   Blood Castle 3   |      111 - 160       |
-  |   Blood Castle 4   |      161 - 210       |
-  |   Blood Castle 5   |      211 - 260       |
-  |   Blood Castle 6   |      261 - 310       |
-  |   Blood Castle 7   |      311 - 400       |
-  |   Blood Castle 8   | 3rd Quest Completed  |
+:::
 
-## Blood Castle Rules
+### Требуемый уровень
 
-- A **minimum** of **1 player** must enter, or it will not start.
-- A **maximum** of **15 players** can join in a single instance.
-- **Party** is allowed and can be formed inside the Blood Castle map.
-- Any character with a **PK Status** cannot enter the Blood Castle map.
-- Combat adjustments:
-  - No penalty upon character death.
-  - PVP is not allowed.
+- **Рыцари, Волшебники и Эльфы:**
 
-## Game-play
+  | Уровень Blood Castle | Требуемый уровень персонажа |
+  | :------------------: | :-------------------------: |
+  |    Blood Castle 1    |           15 - 80           |
+  |    Blood Castle 2    |          81 - 130           |
+  |    Blood Castle 3    |          131 - 180          |
+  |    Blood Castle 4    |          181 - 230          |
+  |    Blood Castle 5    |          231 - 280          |
+  |    Blood Castle 6    |          281 - 330          |
+  |    Blood Castle 7    |          331 - 400          |
+  |    Blood Castle 8    |     Завершен 3-й квест      |
 
-### Preparation
+- **Гладиаторы и Лорды:**
 
-Prior the **Blood Castle** start, the following message appear in Lotus Mu: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found in [Yoskreth](/maps/yoskreth).
+  | Уровень Blood Castle | Требуемый уровень персонажа |
+  | :------------------: | :-------------------------: |
+  |    Blood Castle 1    |           10 - 60           |
+  |    Blood Castle 2    |          61 - 110           |
+  |    Blood Castle 3    |          111 - 160          |
+  |    Blood Castle 4    |          161 - 210          |
+  |    Blood Castle 5    |          211 - 260          |
+  |    Blood Castle 6    |          261 - 310          |
+  |    Blood Castle 7    |          311 - 400          |
+  |    Blood Castle 8    |     Завершен 3-й квест      |
 
-Interacting with the **Messenger of Archangel** will open a table in which you need to select the **appropriate level** of Blood Castle for your character (The [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in your inventory **should be the same level**).
-If you did everything correctly, then you will be taken to the **Blood Castle**.
+## Правила Blood Castle
 
-![Messenger of Archangel](/img/events/bc/bc-npc.png)
+- Вход в Blood Castle возможен только, если внутри находится **минимум 1 игрок**.
+- Максимальное количество игроков в одной копии - **15 человек**.
+- Разрешено формировать **группы**, и их можно создавать внутри Blood Castle.
+- Ни один персонаж с **статусом PK** не может войти в Blood Castle.
+- Корректировка боя:
+  - Нет штрафа за смерть персонажа.
+  - PVP запрещено.
 
-_Messenger Of Archangel_
+## Геймплей
 
-### Blood Castle Quest
+### Подготовка
 
-After teleporting to **Blood Castle**, talk to the wounded **Archangel**. He will tell you the story of his fall and the next coming of the monsters, which you have to defeat. The **Archangel** will challenge you to retrieve his holy weapon so that he can join the heroes of **Lotus Mu** in the fight against the troops of [Kundun](/special-monsters/bosses/kundun).
+Перед началом Blood Castle появится следующее сообщение: "Осталось **5 (4, 3, 2, 1) минут** до входа в Blood Castle". Как только вы увидите это сообщение, возьмите с собой [Плащ-невидимку](/crafting/invitations/invisibility-cloak) и отправляйтесь к **Вестнику Архангела**, который находится в [Йорскрете](/maps/yoskreth).
+
+Взаимодействие с **Вестником Архангела** откроет таблицу, в которой вы должны выбрать **подходящий уровень** Blood Castle для вашего персонажа (Плащ-невидимка в вашем инвентаре **должен быть того же уровня**). Если вы все сделали правильно, вас отправят в **Blood Castle**.
+
+![Вестник Архангела](/img/events/bc/bc-npc.png)
+
+_Вестник Архангела_
+
+### Задание Blood Castle
+
+После перехода в **Blood Castle** поговорите с раненым **Архангелом**. Он расскажет вам свою историю падения и приближение монстров, которых вам предстоит победить. **Архангел** бросит вам вызов вернуть его священное оружие, чтобы он мог присоединиться к героям **Lotus Mu** в борьбе с войсками [Кундуна](/special-monsters/bosses/kundun).
 
 :::info
 
-The Blood Castle duration is **15 minutes**.
+Продолжительность Blood Castle - **15 минут**.
 
 :::
 
-1. First you will find yourself on the **bridge**, on which you will need to kill many monsters.
+1. Сначала вы окажетесь на **мосту**, на котором вам придется убить много монстров.
 
-> PLACE IMAGE (Bridge monsters)
+2. После уничтожения монстров и перехода через мост к вратам замка, вам нужно будет сломать **ворота**.
 
-2. After killing the monsters and crossing the bridge to the castle gates, you will need to break the **gates**.
+3. Как только вы окажетесь внутри **замка**, первым шагом будет убить **Волшебников** (2 волшебника на одного игрока, 4 на двух игроков и т. д.).
 
-> PLACE IMAGE BC GATES
+4. После мести против волшебников вам нужно найти путь к **статуе**, в которой находится **Оружие Архангела**.
 
-3. Once inside the **Castle**, the first step is to kill the **Magic Sorcerers** (2 sorcerers for one player, 4 for two players and etc.).
+5. Достигнув **кристальной статуи**, в руках которой **Оружие Архангела**, вы должны найти в себе силы, чтобы разбить ее и взять **оружие**.
 
-> PLACE IMAGE (inside castle)
+![Архангел Лук](/img/events/bc/archcross.jpeg) ![Архангел Посох](/img/events/bc/archstaf.jpeg) ![Архангел Меч](/img/events/bc/archsword.jpeg)
 
-4. After the reprisal against the sorcerers, you will need to find the way to **the statue**, which contains the **Archangel's Weapon**.
+_Оружие Архангела_
 
-> PLACE IMAGE (STATUE)
+6. Подобрав **оружие**, вернитесь к **Архангелу**, одновременно отражая монстров. Теперь вам нужно всего лишь вернуть **оружие** его владельцу.
 
-5. Having reached the **crystal statue**, in the hands of which is the **Archangel's Weapon**, you must find the strenght within you to smash it and take the **weapon**.
+![Павший Ангел](/img/events/bc/fallen-angel.jpg)
 
-![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
+_Павший Ангел_
 
-_Archangel Weapons_
+## Награда
 
-6. Having picked up the **weapon**, return back to the **Archangel**, simultaneously fighting off the monsters. Now you just need to give the **weapon** back to its owner.
+Для подробного разбора **наград Blood Castle** обратитесь к таблице ниже.
 
-![Fallen Angel](/img/events/bc/fallen-angel.jpg)
-
-_Fallen Angel_
-
-## Reward
-
-For a comprehensive breakdown of the **Blood Castle rewards**, refer to the table below.
-
-| Blood Castle Level |                              Item                               | Event Points |
-| :----------------: | :-------------------------------------------------------------: | :----------: |
-|   Blood Castle 1   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 2   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 3   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 4   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 5   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    10 EP     |
-|   Blood Castle 6   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    15 EP     |
-|   Blood Castle 7   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    20 EP     |
-|   Blood Castle 8   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |    40 EP     |
+| Уровень Blood Castle |                             Предмет                             | Очки События |
+| :------------------: | :-------------------------------------------------------------: | :----------: |
+|    Blood Castle 1    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
+|    Blood Castle 2    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
+|    Blood Castle 3    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
+|    Blood Castle 4    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
+|    Blood Castle 5    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    10 EP     |
+|    Blood Castle 6    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    15 EP     |
+|    Blood Castle 7    |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    20 EP     |
+|    Blood Castle 8    | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |    40 EP     |
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
@@ -147,25 +138,25 @@ _Red Chocolate Box & Pink Chocolate Box_
 
 :::tip
 
-Blood Castle can be held as part of a **party**, in which case **all of its members** will receive **reward**.
+Blood Castle можно проводить как часть **группы**, в этом случае **все ее участники** получат **награду**.
 
 :::
 
-## Monthly Reward
+## Ежемесячная награда
 
-For our **most dedicated** players, we have the **Monthly Rewards System**.
+Для наших **самых преданных** игроков у нас есть **Система Ежемесячных Наград**.
 
-At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+В **конце** **каждого месяца** мы оценим **рейтинги** по событию, и **Топ-15** игроков получат **награды**. Затем рейтинги сбросятся для **нового месяца**, и процесс повторится.
 
-The **Top 15** Player will be rewarded as follows:
+**Топ-15** игроков будут награждены следующим образом:
 
-- The player ranked **1st** will receive **40 Coins**
-- The player ranked **2nd** will receive **38 Coins**
-- The player ranked **3rd** will receive **36 Coins**
-- And so on ...
+- Первый игрок в рейтинге получит **40 Coins**
+- Второй игрок в рейтинге получит **38 Coins**
+- Третий игрок в рейтинге получит **36 Coins**
+- И так далее ...
 
 :::tip
 
-This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+Это один из **нескольких способов** заработать **Coins бесплатно** в **Lotus Mu**.
 
 :::

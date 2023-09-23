@@ -4,27 +4,27 @@ sidebar_position: 11
 
 # Erkanne
 
-Amidst the captivating spectacle that unfolds during the [Imperial Guardian Event](/events/imperial-guardian), the formidable **Erkanne** emerge as one of the most formidable adversaries to grace the battlefield.
+Среди завораживающего зрелища, разыгрывающегося во время [События Имперского Стража](/events/imperial-guardian), страшные **Эрканн** появляются как одни из самых могущественных противников на поле боя.
 
-These monstrous creatures embody unparalleled strength and resilience, posing a formidable challenge that demands unwavering skill and unwavering determination to overcome. However, beneath the arduous battle lies the allure of a magnificent reward.
+Эти чудовищные существа воплощают беспрецедентную силу и устойчивость, представляя серьезное испытание, требующее несгибаемого мастерства и непоколебимой решимости для преодоления. Однако под угрожающей битвой скрыта магия великолепной награды.
 
-![Erkanne](/img/monsters/special/others/erkanne.jpg)
+![Эрканн](/img/monsters/special/others/erkanne.jpg)
 
-_Erkanne_
+_Эрканн_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Erkannes in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Вы можете найти более подробную информацию о появлении Эрканн в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Erkanne**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Эрканн**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

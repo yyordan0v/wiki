@@ -4,27 +4,27 @@ sidebar_position: 3
 
 # Ice Walker
 
-Amidst the grandeur of the [Doppelganger Event](/events/doppelganger), the formidable **Ice Walkers** emerge as prominent adversaries, embodying the essence of elite monsters.
+Среди великолепия [События Доппельгангера](/events/doppelganger) выделяются страшные **Ледяные Ходоки**, воплощение элитных монстров.
 
-Their formidable nature demands a considerable endeavor to vanquish, yet the rewards awaiting those who triumph over these formidable foes are equally magnificent. Brace yourself for a thrilling challenge as you face off against these formidable **Ice Walkers**, knowing that victory shall unveil extraordinary treasures and bountiful spoils.
+Их могучая природа требует значительных усилий, чтобы одолеть их, но награды, ожидающие тех, кто побеждает этих страшных врагов, также великолепны. Готовьтесь к захватывающему испытанию, когда вы столкнетесь с этими страшными **Ледяными Ходоками**, зная, что победа откроет перед вами чрезвычайные сокровища и богатые дары.
 
-![Ice Walker](/img/monsters/special/others/ice-walker.jpg)
+![Ледяной Ходок](/img/monsters/special/others/ice-walker.jpg)
 
-_Ice Walker_
+_Ледяной Ходок_
 
-## Details
+## Детали
 
-These creatures can be encountered only during the [Doppelganger Event](/events/doppelganger).
+Эти существа могут быть встречены только во время [События Доппельгангера](/events/doppelganger).
 
 :::tip
 
-You can find more information on the appearance of the Ice Walkers in the [Doppelganger Event](/events/doppelganger) article.
+Более подробную информацию о появлении Ледяных Ходоков можно найти в статье [События Доппельгангера](/events/doppelganger).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing an **Ice Walker**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Ледяного Ходока**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

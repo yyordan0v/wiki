@@ -4,26 +4,26 @@ sidebar_position: 10
 
 # Dead Showbell
 
-This article explores the **Dead Showbell** - a special monster in the **Lotus Mu** realm.
+В этой статье рассматривается **Dead Showbell** - специальный монстр в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, смеющим пересечь свой путь с этим могучим существом.
 
 ![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
 
 _Dead Showbell_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Dead Showbell** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Dead Showbell** по всему миру.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-|        [Ultoria](/maps/ultoria)        |    5     | **10 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    5     | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Воскрешения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|        [Ультория](/maps/ultoria)        |     5      | **10 минут** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     5      | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Dead Showbell**, players will be rewarded with one of the following:
+После успешного убийства **Dead Showbell**, игроки будут вознаграждены следующим:
 
 |                      Devil Eye +7                      |                      Devil Key +7                      |
 | :----------------------------------------------------: | :----------------------------------------------------: |
@@ -31,6 +31,6 @@ Upon successfully killing a **Dead Showbell**, players will be rewarded with one
 
 :::tip
 
-These artifacts are used as a component in the [Devil Square Invitation](/crafting/invitations/devil-square-invitation) crafting procedure.
+Эти артефакты используются в качестве компонента при создании [Приглашения на Devil Square](/crafting/invitations/devil-square-invitation).
 
 :::

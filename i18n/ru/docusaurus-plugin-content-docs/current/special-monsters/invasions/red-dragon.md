@@ -4,45 +4,45 @@ sidebar_position: 1
 
 # Red Dragon Invasion
 
-In the mystical world of **Lotus Mu**, a cataclysmic event has unfolded, plunging the realm into darkness and unleashing chaos upon its inhabitants. The once serene and peaceful lands have been invaded by the fearsome **Red Dragons**, heralding an era of destruction and uncertainty. Today, we delve into the heart of this unprecedented crisis and explore the consequences it has wrought upon the world of **Lotus Mu**.
+В мистическом мире **Лотус Му** развернулось катастрофическое событие, погрузив реальность во тьму и разбушевав хаос среди ее обитателей. Однажды умиротворенные и мирные земли были захвачены страшными **Красными Драконами**, предвещая эпоху разрушения и неопределенности. Сегодня мы исследуем сердце этого беспрецедентного кризиса и рассмотрим последствия, которые он принес в мир **Лотус Му**.
 
-![Red Dragon](/img/monsters/special/invasions/red-dragon.jpg)
+![Красный Дракон](/img/monsters/special/invasions/red-dragon.jpg)
 
-_Red Dragon_
+_Красный Дракон_
 
-## Place of Invasion
+## Место Вторжения
 
-The areas targeted by the **Red Dragons** consistently encompass the following maps:
+Области, целью атак **Красных Драконов**, постоянно охватывают следующие карты:
 
-- [Lorencia](/maps/lorencia)
-- [Noria](/maps/noria)
-- [Devias](/maps/devias)
+- [Лоренсия](/maps/lorencia)
+- [Нория](/maps/noria)
+- [Девиас](/maps/devias)
 
 :::tip
 
-You can find the invaders close to the safe zones of the mentioned maps.
+Вы можете найти захватчиков недалеко от безопасных зон упомянутых карт.
 
 :::
 
-## Schedule
+## Расписание
 
-The subsequent table provides detailed information about the time and the quantity of **Red Dragon** attacks that occur throughout the day.
+Следующая таблица предоставляет подробную информацию о времени и количестве атак **Красных Драконов**, которые происходят в течение дня.
 
-| First Invasion time |  Frequency   | Monster Count |
-| :-----------------: | :----------: | :-----------: |
-|      00:30:00       | Every 1 hour |      15       |
+| Время первой атаки |  Частота   | Количество монстров |
+| :----------------: | :--------: | :-----------------: |
+|      00:30:00      | Каждый час |         15          |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать либо [игровое расписание](/client-features/schedule), либо [расписание на сайте](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Пожалуйста, учтите, что таймер вторжения основан на серверном времени.
 
 :::
 
-## Reward
+## Награда
 
-When a player successfully vanquishes a **Red Dragon**, they will receive a rewarding prize from the following selection of options:
+Когда игрок успешно побеждает **Красного Дракона**, он получает щедрую награду из следующего выбора опций:
 
 |                  Gemstone                   |      Zen      |
 | :-----------------------------------------: | :-----------: |

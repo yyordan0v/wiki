@@ -4,65 +4,65 @@ sidebar_position: 2
 
 # White Wizard Invasion
 
-Unleashing chaos and uncertainty upon the mystical realm of **Lotus Mu**, the **White Wizard** has sent shockwaves throughout the land. In this article, we delve into the heart of this unprecedented crisis, exploring the origins, consequences, and challenges that accompany the arrival of the enigmatic **White Wizard**. Brace yourself as we embark on a journey to understand the magnitude of this invasion and discover the heroic efforts of **Lotus Mu's** players as they unite to confront this formidable threat. Prepare to witness the clash between light and darkness in a battle that will determine the fate of the realm.
+Пустив хаос и неопределенность в мистический мир **Лотус Му**, **Белый Волшебник** отправил ударные волны по всей земле. В этой статье мы погрузимся в сердце этого беспрецедентного кризиса, исследуя происхождение, последствия и вызовы, сопровождающие приход загадочного **Белого Волшебника**. Приготовьтесь, так как мы отправимся в путешествие, чтобы понять масштаб этого вторжения и открыть для себя героические усилия игроков **Лотус Му**, которые объединились, чтобы противостоять этой могучей угрозе. Готовьтесь наблюдать за столкновением света и тьмы в битве, которая определит судьбу мира.
 
-![White Wizard](/img/monsters/special/invasions/white-wizard.jpg)
+![Белый Волшебник](/img/monsters/special/invasions/white-wizard.jpg)
 
-_White Wizard_
+_Белый Волшебник_
 
-## Place of Invasion
+## Место Вторжения
 
-The areas targeted by the **White Wizard** consistently encompass the following maps:
+Области, выбранные **Белым Волшебником**, постоянно охватывают следующие карты:
 
-- [Lorencia](/maps/lorencia)
-- [Noria](/maps/noria)
-- [Devias](/maps/devias)
+- [Лоренсия](/maps/lorencia)
+- [Нория](/maps/noria)
+- [Девиас](/maps/devias)
 
 :::tip
 
-The **White Wizard** and his troops appear on all of the aforementioned maps.
+**Белый Волшебник** и его войска появляются на всех вышеуказанных картах.
 
 :::
 
-## Schedule
+## Расписание
 
-The table below presents valuable insights regarding the timing and frequency of the **White Wizard** invasion in **Lotus Mu**. By referring to this table, players can gain a clear understanding of the schedule and pattern of the **White Wizard** invasion, allowing them to prepare themselves and coordinate their efforts to counter this recurring menace effectively.
+Таблица ниже предоставляет ценные сведения о времени и частоте вторжений **Белого Волшебника** в **Лотус Му**. Обращаясь к этой таблице, игроки могут лучше понять расписание и характер вторжений **Белого Волшебника**, что позволяет им подготовиться и скоординировать усилия для более эффективного противодействия этой повторяющейся угрозе.
 
-| First Invasion time | Reappearing Time |
-| :-----------------: | :--------------: |
-|      01:35:00       |   Every 2 hour   |
+| Время первого вторжения | Время повторения |
+| :---------------------: | :--------------: |
+|        01:35:00         |  Каждые 2 часа   |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность воспользоваться либо [игровым расписанием](/client-features/schedule), либо [расписанием на сайте](https://lotusmu.org/schedule), чтобы узнать оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Пожалуйста, учтите, что таймер вторжения основан на серверном времени.
 
 :::
 
-## Reward
+## Награда
 
-Accompanying the **White Wizard** are formidable **Orc** allies known for their destructive nature. Engaging in battles with these ferocious creatures poses a thrilling challenge. However, there is an enticing opportunity for players to obtain valuable rewards, as there is a chance that the **Orcs** themselves will drop a reward upon their defeat.
+С **Белым Волшебником** приходят могучие союзники - **Орки**, известные своей разрушительной природой. Сражение с этими свирепыми существами представляет собой захватывающий вызов. Однако для игроков есть заманчивая возможность получить ценные награды, так как существует шанс, что сами **Орки** сбросят награду после своего поражения.
 
-Prepare yourself for intense encounters with the **White Wizard** and his menacing **Orc** companions, for within their midst lies the potential for great riches and glory.
+Приготовьтесь к интенсивным столкновениям с **Белым Волшебником** и его угрожающими спутниками-**Орками**, ибо среди них скрывается потенциал для богатства и славы.
 
-### White Wizard
+### Белый Волшебник
 
-When a player successfully vanquishes a **White Wizard**, they will receive a rewarding prize from the following selection of options:
+Когда игрок успешно побеждает **Белого Волшебника**, он получает щедрую награду из следующего выбора опций:
 
 | [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [10 Bundled Jewels of Life](/items/jewels/regular-jewels/jewel-of-life) |
 | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 |       ![10 Bundled Jewels of Bless](/img/items/jewels/bless-10.png)       |       ![10 Bundled Jewels of Soul](/img/items/jewels/soul-10.png)       |       ![10 Bundled Jewels of Life](/img/items/jewels/life-10.png)       |
 
-### Destructive Orcs
+### Разрушительные Орки
 
-When a player kills a **Destructive Orc**, they have the chance to receive one of following:
+Когда игрок убивает **Разрушительного Орка**, у него есть шанс получить одно из следующего:
 
 |                         Wizard's Ring                          |      Zen       |
 | :------------------------------------------------------------: | :------------: |
 | ![Wizard's Ring](/img/items/rings-pendants/ring-of-wizard.png) | 10,000,000 Zen |
 
-![Destructive Orc Soldier](/img/monsters/special/invasions/orc-soldier.jpg)
-![Destructive Orc Archer](/img/monsters/special/invasions/orc-archer.jpg)
+![Солдат Орков / Лучник Орков](/img/monsters/special/invasions/orc-soldier.jpg)
+![Солдат Орков / Лучник Орков](/img/monsters/special/invasions/orc-archer.jpg)
 
-_Orc Soldier / Orc Archer_
+_Солдат Орков / Лучник Орков_

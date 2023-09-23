@@ -4,158 +4,161 @@ sidebar_position: 2
 
 # Devil Square
 
-Enter as one of **15 warriors** to engage the forces of [Kundun](/special-monsters/bosses/kundun) as they spawn in front of you in an **endless barrage** of attacks. Either alone or in a team only the strongest will survive **Devil Square**.
+Вступите в бой как один из **15 воинов**, чтобы противостоять силам [Кундуна](/special-monsters/bosses/kundun), появляющимся перед вами в **бесконечной буре** атак. В одиночку или в команде выживет только сильнейший в **Дьявольском квадрате**.
 
-With the [Devil Square Invitation](/crafting/invitations/devil-square-invitation), you are granted access into **Devil Square**, where your strength will be tested.
+С [Приглашением в Дьявольский квадрат](/crafting/invitations/devil-square-invitation) вы получаете доступ в **Дьявольский квадрат**, где вас ожидает проверка вашей силы.
 
-## Entry Requirements
+## Требования для входа
 
-### Required Item
+### Обязательный предмет
 
-- You must craft an [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to enter **Devil Square**.
-- [Devil Square Invitation](/crafting/invitations/devil-square-invitation) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops or in [Yoskreth](/maps/yoskreth).
-- Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
-
-:::tip
-
-For a **guaranteed** drop of the **Devil Square Invitiation Ingredients** you can kill the [Dead Showbell](//special-monsters/others/dead-showbell) in either [Ultoria](/maps/ultoria) or [Land of Trials](/maps/land-of-trials).
-
-![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
-
-_Dead Showbell_
-
-:::
-
-|                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |  [Devil Square Invitation](/crafting/invitations/devil-square-invitation)  |
-| :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
-| ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |
-
-_Devil Square Invitation Crafting_
+- Вы должны создать [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation), чтобы войти в **Дьявольский квадрат**.
+- [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation) создается с помощью машины Хаос Гоблина.
+- Ингредиенты для создания (**Ключ Дьявола** и **Глаз Дьявола**) можно получить, убивая монстров или в [Йоскрет](/maps/yoskreth).
+- Кроме того, вам также потребуется одно [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) для создания.
 
 :::tip
 
-Detailed information on the crafting process you can find in the [Devil Square Invitation](/crafting/invitations/devil-square-invitation) article.
+Для **гарантированного** дропа ингредиентов для **Приглашения в Дьявольский квадрат** вы можете убить [Мёртвого Шоубелла](//special-monsters/others/dead-showbell) в [Ультории](/maps/ultoria) или [Земле Испытаний](/maps/land-of-trials).
+
+![Мёртвый Шоубелл](/img/monsters/special/others/dead-showbell.jpg)
+
+_Мёртвый Шоубелл_
 
 :::
 
-### Required Level
+|                      Ключ Дьявола                      |                                       |                      Глаз Дьявола                      |                                       | [Самоцвет Хаоса](/items/jewels/regular-jewels/jewel-of-chaos) |                                        |  [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation)  |
+| :----------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :------------------------------------: | :----------------------------------------------------------------------------------: |
+| ![Ключ Дьявола](/img/items/invitations/devils-key.png) | ![Плюс](/img/items/invitations/+.png) | ![Глаз Дьявола](/img/items/invitations/devils-eye.png) | ![Плюс](/img/items/invitations/+.png) |        ![Самоцвет Хаоса](/img/items/jewels/chaos.png)         | ![Равно](/img/items/invitations/=.png) | ![Приглашение в Дьявольский квадрат  ](/img/items/invitations/devils-invitation.png) |
 
-- **Knights, Wizards and Elves:**
+_Создание Приглашения в Дьявольский квадрат_
 
-  | Devil Square Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Devil Square 1   |       15 - 130       |
-  |   Devil Square 2   |      131 - 180       |
-  |   Devil Square 3   |      181 - 230       |
-  |   Devil Square 4   |      231 - 280       |
-  |   Devil Square 5   |      281 - 330       |
-  |   Devil Square 6   |      331 - 400       |
-  |   Devil Square 7   | 3rd Quest Completed  |
+:::tip
 
-- **Gladiators and Lords:**
+Подробную информацию о процессе создания можно найти в статье [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation).
 
-  | Devil Square Level | Character Level Req. |
-  | :----------------: | :------------------: |
-  |   Devil Square 1   |       10 - 110       |
-  |   Devil Square 2   |      111 - 160       |
-  |   Devil Square 3   |      161 - 210       |
-  |   Devil Square 4   |      211 - 260       |
-  |   Devil Square 5   |      261 - 310       |
-  |   Devil Square 6   |      311 - 400       |
-  |   Devil Square 7   | 3rd Quest Completed  |
+:::
 
-## Devil Square Rules
+### Требуемый уровень
 
-- A minimum of **1 player** must enter, or it will not start.
-- A maximum of **15 players** can join in a single instance.
-- Party is **allowed** and can be formed inside the **Devil Square** map.
-- Any character with a PK Status cannot enter the **Devil Square** map.
-- Combat adjustments:
-  - No penalty upon character death.
-  - PVP is not allowed.
+- **Рыцари, Волшебники и Эльфы:**
 
-## Game-play
+  | Уровень Дьявольского квадрата |  Требуемый уровень персонажа  |
+  | :---------------------------: | :---------------------------: |
+  |     Дьявольский квадрат 1     |           15 - 130            |
+  |     Дьявольский квадрат 2     |           131 - 180           |
+  |     Дьявольский квадрат 3     |           181 - 230           |
+  |     Дьявольский квадрат 4     |           231 - 280           |
+  |     Дьявольский квадрат 5     |           281 - 330           |
+  |     Дьявольский квадрат 6     |           331 - 400           |
+  |     Дьявольский квадрат 7     | Завершена 3-я квестовая линия |
 
-### Preparation
+- **Гладиаторы и Лорды:**
 
-Prior to the start of the **Devil Square**, the following messages start to appear in the Lotus Mu Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** located in [Yoskreth](/maps/yoskreth).
+  | Уровень Дьявольского квадрата |  Требуемый уровень персонажа  |
+  | :---------------------------: | :---------------------------: |
+  |     Дьявольский квадрат 1     |           10 - 110            |
+  |     Дьявольский квадрат 2     |           111 - 160           |
+  |     Дьявольский квадрат 3     |           161 - 210           |
+  |     Дьявольский квадрат 4     |           211 - 260           |
+  |     Дьявольский квадрат 5     |           261 - 310           |
+  |     Дьявольский квадрат 6     |           311 - 400           |
+  |     Дьявольский квадрат 7     | Завершена 3-я квестовая линия |
 
-![Charon](/img/events/ds/charon.jpg)
+## Правила Дьявольского квадрата
 
-_Charon_
+- В игру должен войти как минимум **1 игрок**, иначе она не начнется.
+- В одном экземпляре может уч
 
-Engaging with **Charon**, will open a window with a table in which you need to select the **appropriate level** of Devil Square for your character (you should have the same level of [Devil Square Invitation](/crafting/invitations/devil-square-invitation) in your inventory).
+аствовать максимум **15 игроков**.
 
-If you did everything correctly, then you will be taken to the **Devil Square Event map**.
+- Группу можно **создать** и **распустить** внутри **карты Дьявольского квадрата**.
+- Персонаж с статусом PK не может войти на карту **Дьявольского квадрата**.
+- Корректировки баланса:
+  - Нет штрафа за смерть персонажа.
+  - PVP не разрешено.
 
-### Devil Square Quest
+## Геймплей
 
-When the **Devil Square** starts, 200 monsters will instantly spawn throughout the arena. If a monster is killed, another will spawn to keep the monster count at 200.
+### Подготовка
 
-As the time progresses, the monsters which spawn **will change** and their **difficulty** will slightly **increase**.
+Перед началом **Дьявольского квадрата** в чате сервера Lotus Mu появляются следующие сообщения: "Дьявольский квадрат закроется через 5 (4, 3, 2, 1) минут (ы)". Как только вы увидите такое сообщение, возьмите с собой [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation) и отправьтесь к **Харону**, находящемуся в [Йоскрет](/maps/yoskreth).
+
+![Харон](/img/events/ds/charon.jpg)
+
+_Харон_
+
+Взаимодействие с **Хароном** откроет окно с таблицей, в которой вам нужно выбрать **соответствующий уровень** Дьявольского квадрата для вашего персонажа (в вашем инвентаре должно быть [Приглашение в Дьявольский квадрат](/crafting/invitations/devil-square-invitation) того же уровня).
+
+Если вы все сделали правильно, вас перенесут на **карту события Дьявольского квадрата**.
+
+### Квест Дьявольского квадрата
+
+Когда начинается **Дьявольский квадрат**, в арене сразу же появится 200 монстров. Если убить монстра, на его место появится другой, чтобы поддержать общее количество монстров на уровне 200.
+
+С течением времени монстры, которые появляются, **меняются**, и их **сложность** немного **увеличивается**.
 
 :::info
 
-Monsters will continue to spawn for **20 minutes**.
+Монстры будут продолжать появляться в течение **20 минут**.
 
 :::
 
-### Event Completion
+### Завершение события
 
-Depending on your **score** which is based on how many monsters you killed during the event, your character will gain a **reward**.
+В зависимости от вашего **рейтинга**, который зависит от количества монстров, которых вы убили во время события, ваш персонаж получит **награду**.
 
-## Reward
+## Награда
 
-For a comprehensive breakdown of the reward of the **Devil Square Winner**, refer to the table below.
+Для подробного разбора награды **Победителя Дьявольского квадрата** обратитесь к таблице ниже.
 
-| Devil Square Level |                           Item                           | Event Points |
-| :----------------: | :------------------------------------------------------: | :----------: |
-|   Devil Square 1   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 2   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 3   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 4   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    10 EP     |
-|   Devil Square 5   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    15 EP     |
-|   Devil Square 6   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    20 EP     |
-|   Devil Square 7   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    40 EP     |
+| Уровень Дьявольского квадрата |                         Предмет                          | Баллы события |
+| :---------------------------: | :------------------------------------------------------: | :-----------: |
+|     Дьявольский квадрат 1     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP      |
+|     Дьявольский квадрат 2     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP      |
+|     Дьявольский квадрат 3     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP      |
+|     Дьявольский квадрат 4     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     10 EP     |
+|     Дьявольский квадрат 5     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     15 EP     |
+|     Дьявольский квадрат 6     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     20 EP     |
+|     Дьявольский квадрат 7     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     40 EP     |
 
 ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
 
 _Lilac Candy Box_
 
-Furthermore, there is a **Zen reward** granted to the **top 10 players** in the current **Devil Square** rankings. The distribution of this reward is as outlined below:
+Кроме того, есть **денежная награда** для **лучших 10 игроков** в текущем рейтинге **Дьявольского квадрата**. Распределение этой награды приведено ниже:
 
-| DS Level | Rank 1     | Rank 2     | Rank 3     | Rank 4     | Rank 5     | Rank 6     | Rank 7    | Rank 8    | Rank 9    | Rank 10   |
-| -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | --------- | --------- | --------- |
-| 1        | 15,000,000 | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000  | 1,000,000  | 500,000   | 400,000   | 300,000   | 200,000   |
-| 2        | 20,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000 | 1,000,000 | 300,000   | 200,000   |
-| 3        | 25,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000 | 2,000,000 | 1,000,000 | 300,000   |
-| 4        | 30,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000 | 3,000,000 | 2,000,000 | 1,000,000 |
-| 5        | 35,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000 | 4,000,000 | 3,000,000 | 2,000,000 |
-| 6        | 40,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000 | 5,000,000 | 4,000,000 | 3,000,000 |
-| 7        | 45,000,000 | 30,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000 | 6,000,000 | 5,000,000 | 4,000,000 |
+| Уровень ДК | 1-е место  | 2-е место  | 3-е место  | 4-е место  | 5-е место  | 6-е место  | 7-е место | 8-е место | 9-е место | 10-е место |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | --------- | --------- | ---------- |
+| 1          | 15,000,000 | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000  | 1,000,000  | 500,000   | 400,000   | 300,000   | 200,000    |
+| 2          | 20,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000 | 1,000,000 | 300,000   | 200,000    |
+| 3          | 25,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000 | 2,000,000 | 1,000,000 | 300,000    |
+| 4          | 30,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000 | 3,000,000 | 2,000,000 | 1,000,000  |
+| 5          | 35,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000 | 4,000,000 | 3,000,000 | 2,000,000  |
+| 6          | 40,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000 | 5,000,000 | 4,000,000 | 3,000,000  |
+| 7          | 45,000,000 | 30,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000 | 6,000,000 | 5,000,000 | 4,000,000  |
 
 :::note
 
-**Devil Square** can be held as part of a **party**, but the **rewards** are individual.
+**Дьявольский квадрат** можно проводить в составе **группы**, но награды выдаются индивидуально.
 
 :::
 
-## Monthly Reward
+## Ежемесячная награда
 
-For our **most dedicated** players, we have the **Monthly Rewards System**.
+Для наших **самых преданных** игроков у нас есть **Система ежемесячных наград**.
 
-At the **end** of **each month**, we'll assess the **rankings** for the event, and the **Top 15** players will receive **rewards**. Afterward, the rankings will **reset** for the **new month**, and the process will repeat.
+В **конце каждого месяца** мы проверим рейтинги события, и **15 лучших** игроков получат **награды**. Затем рейтинги снова **сбросятся** для **нового месяца**, и процесс повторится.
 
-The **Top 15** Player will be rewarded as follows:
+**Топ-15 игроков** будет награжден следующим образом:
 
-- The player ranked **1st** will receive **40 Coins**
-- The player ranked **2nd** will receive **38 Coins**
-- The player ranked **3rd** will receive **36 Coins**
-- And so on ...
+- Игрок, занявший **1-е место**, получит **40 Coins**
+- Игрок, занявший **2-е место**, получит **38 Coins**
+- Игрок, занявший **3-е место**, получит **36 Coins**
+- И так далее...
 
 :::tip
 
-This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
+Это один из **нескольких способов**, которые вы можете использовать, чтобы **бесплатно заработать Coins** в **Lotus Mu**.
 
 :::

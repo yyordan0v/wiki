@@ -4,33 +4,33 @@ sidebar_position: 12
 
 # Golden Budge Dragon
 
-This article explores the **Golden Budge Dragon** - a special monster in the **Lotus Mu** realm.
+Эта статья исследует **Golden Budge Dragon** - специального монстра в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who manage to kill it.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, сумевшим убить его.
 
 ![Golden Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg)
 
 _Golden Budge Dragon_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Budge Dragon** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Golden Budge Dragon** по всему миру.
 
-|           Location           | Quantity |           Respawn Time            |
-| :--------------------------: | :------: | :-------------------------------: |
-|  [Lorencia](/maps/lorencia)  |    3     | **30 minutes** after being killed |
-|     [Noria](/maps/noria)     |    3     | **30 minutes** after being killed |
-|    [Devias](/maps/devias)    |    3     | **30 minutes** after being killed |
-|   [Dungeon](/maps/dungeon)   |    5     | **30 minutes** after being killed |
-| [Dungeon 2](/maps/dungeon-2) |    5     | **30 minutes** after being killed |
-|  [Icewrack](/maps/icewrack)  |    6     | **30 minutes** after being killed |
-| [El'Harath](/maps/el-harath) |    6     | **30 minutes** after being killed |
-|   [Ultoria](/maps/ultoria)   |    6     | **30 minutes** after being killed |
-|  [Ashkavor](/maps/ashkavor)  |    6     | **30 minutes** after being killed |
+|          Местоположение           | Количество |      Время Воскрешения      |
+| :-------------------------------: | :--------: | :-------------------------: |
+|    [Лоренсия](/maps/lorencia)     |     3      | **30 минут** после убийства |
+|       [Нория](/maps/noria)        |     3      | **30 минут** после убийства |
+|      [Девайас](/maps/devias)      |     3      | **30 минут** после убийства |
+|    [Подземелье](/maps/dungeon)    |     5      | **30 минут** после убийства |
+|  [Подземелье 2](/maps/dungeon-2)  |     5      | **30 минут** после убийства |
+| [Ледяная Пустошь](/maps/icewrack) |     6      | **30 минут** после убийства |
+|   [Эль-Харат](/maps/el-harath)    |     6      | **30 минут** после убийства |
+|     [Ультория](/maps/ultoria)     |     6      | **30 минут** после убийства |
+|     [Ашкавор](/maps/ashkavor)     |     6      | **30 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Golden Budge Dragon**, players will be rewarded with:
+После успешного убийства **Golden Budge Dragon**, игроки будут вознаграждены следующим:
 
 |   [Box of Luck](/items/item-bags/misc/box-of-luck)   |
 | :--------------------------------------------------: |

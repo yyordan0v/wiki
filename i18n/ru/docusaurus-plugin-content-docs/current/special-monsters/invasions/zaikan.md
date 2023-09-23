@@ -4,43 +4,43 @@ sidebar_position: 3
 
 # Zaikan Invasion
 
-Prepare for an intense and thrilling journey as we delve into the formidable **Zaikan Invasion** in **Lotus Mu**. In this article, we explore the origins, challenges, and rewards that await players as they confront the merciless **Zaikan** and his hordes. Join us as we unravel the mysteries of this epic invasion and discover the strategies needed to emerge victorious against this fearsome adversary.
+Приготовьтесь к интенсивному и захватывающему путешествию, когда мы погружаемся в сильное вторжение **Зайкана** в **Лотус Му**. В этой статье мы исследуем происхождение, вызовы и награды, которые ожидают игроков, когда они сталкиваются с беспощадным **Зайканом** и его ордами. Присоединяйтесь к нам, когда мы раскрываем тайны этого эпического вторжения и узнаем стратегии, необходимые для победы над этим страшным противником.
 
-![Zaikan](/img/monsters/special/invasions/zaikan.jpg)
+![Зайкан](/img/monsters/special/invasions/zaikan.jpg)
 
-_Zaikan_
+_Зайкан_
 
-## Place of Invasion
+## Место Вторжения
 
-The area targeted by the **Zaikan** is the following map:
+Зона, выбранная **Зайканом**, следующая:
 
-- [Tarkan](/maps/tarkan)
+- [Таркан](/maps/tarkan)
 
 :::tip
 
-You can find the **Zaikan** all across Tarkan.
+Вы можете найти **Зайкана** повсюду в Таркане.
 
 :::
 
-## Schedule
+## Расписание
 
-The subsequent table provides detailed information about the time and the quantity of the **Zaikan** attacks that occur throughout the day.
+Следующая таблица предоставляет подробную информацию о времени и количестве атак **Зайкана**, которые происходят в течение дня.
 
-| First Invasion time |  Frequency   | Monster Count |
-| :-----------------: | :----------: | :-----------: |
-|      01:40:00       | Every 2 hour |       3       |
+| Время первой атаки |    Частота    | Количество монстров |
+| :----------------: | :-----------: | :-----------------: |
+|      01:40:00      | Каждые 2 часа |          3          |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность воспользоваться либо [игровым расписанием](/client-features/schedule), либо [расписанием на сайте](https://lotusmu.org/schedule), чтобы узнать оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Пожалуйста, учтите, что таймер вторжения основан на серверном времени.
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully defeating the **Zaikan**, players will be rewarded with the following:
+После успешного победы над **Зайканом**, игроки будут вознаграждены следующим:
 
 |                     Loch's Feather                     |                      Crest of Monarch                       |
 | :----------------------------------------------------: | :---------------------------------------------------------: |
@@ -48,6 +48,6 @@ Upon successfully defeating the **Zaikan**, players will be rewarded with the fo
 
 :::tip
 
-These items are **ingredient** in the [2nd Level Wings](/crafting/wings/second-level-wings) Chaos Combination.
+Эти предметы являются **компонентами** для [Крыльев 2-го уровня](/crafting/wings/second-level-wings) в хаос-комбинации.
 
 :::

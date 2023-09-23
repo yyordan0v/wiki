@@ -7,55 +7,55 @@ import TabItem from '@theme/TabItem';
 
 # Golden Dragon Invasion
 
-Prepare to be enthralled by the mythical realm of **Lotus Mu** as we delve into the thrilling phenomenon of the **Golden Dragon Invasion**. In this article, we embark on a journey through a land shrouded in mystery, where fearsome dragons wield immense power and treasure awaits those bold enough to face their fiery wrath. Join us as we uncover the secrets, challenges, and rewards that await adventurers who dare to confront the **Golden Dragon Invasion** in the immersive world of **Lotus Mu**.
+Готовьтесь к погружению в мифический мир **Lotus Mu**, где мы погрузимся в захватывающее явление **Вторжения Золотого Дракона**. В этой статье мы отправимся в путешествие по землям, завернутым в тайны, где страшные драконы обладают огромной мощью, а сокровища ждут смелых душ, решившихся столкнуться с их огненным гневом. Присоединяйтесь к нам, поскольку мы раскроем секреты, вызовы и награды, ожидающие искателей приключений, смело бросающих вызов **Вторжению Золотого Дракона** в захватывающем мире **Lotus Mu**.
 
-## Place of Invasion
+## Место Вторжения
 
-Unleashing its fury across multiple kingdoms simultaneously, the **Golden Dragon Invasion** ravages the lands with relentless force. In the forthcoming section of this article, we will explore in detail the numerous locations that fall victim to this devastating assault. Brace yourself as we delve into the specifics of the kingdoms targeted by the **Golden Dragon Invasion**, revealing the breadth and scope of this cataclysmic event in **Lotus Mu**.
+Изливая свой гнев одновременно на несколько королевств, **Вторжение Золотого Дракона** опустошает земли с беспощадной силой. В следующем разделе этой статьи мы подробно рассмотрим многочисленные места, ставшие жертвами этой разрушительной атаки. Приготовьтесь, поскольку мы погрузимся в детали королевств, выбранных **Вторжением Золотого Дракона**, раскрывая масштаб и объем этого катастрофического события в **Lotus Mu**.
 
-## Schedule
+## Расписание
 
-The table below presents valuable insights regarding the timing and frequency of the **Golden Dragon Invasion** in **Lotus Mu**. By referring to this table, players can gain a clear understanding of the schedule and pattern of the **Golden Dragon Invasion**, allowing them to prepare themselves and coordinate their efforts to counter this recurring menace effectively.
+Таблица ниже предоставляет ценную информацию о времени и частоте **Вторжения Золотого Дракона** в **Lotus Mu**. Обращаясь к этой таблице, игроки могут получить ясное представление о расписании и ходе **Вторжения Золотого Дракона**, что позволит им готовиться и координировать свои усилия для эффективного противодействия этой возвращающейся угрозе.
 
-| First Invasion time | Reappearing Time |
-| :-----------------: | :--------------: |
-|      01:50:00       |   Every 2 hour   |
+| Время первой атаки | Время повторного появления |
+| :----------------: | :------------------------: |
+|      01:50:00      |       Каждые 2 часа        |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать [внутриигровое расписание](/client-features/schedule) или [веб-расписание](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Пожалуйста, учтите, что таймер вторжения основан на серверном времени.
 
 :::
 
-## Invasion Details
+## Детали Вторжения
 
 ```mdx-code-block
 <Tabs lazy>
   <TabItem value="golden-goblin" label="Golden Goblin">
 ```
 
-The **Golden Goblin**, a rare and elusive creature, entices adventurers with the promise of untold wealth as it guards its precious hoard of treasures.
+**Золотой гоблин**, редкое и неуловимое существо, манит путешественников обещанием несметных богатств, охраняя свои драгоценные сокровища.
 
-![Golden Goblin](/img/monsters/special/golden/goblin.jpg)
+![Золотой гоблин](/img/monsters/special/golden/goblin.jpg)
 
-_Golden Goblin_
+_Золотой гоблин_
 
-#### Location
+#### Местоположение
 
-The areas targeted by the **Golden Goblins** consistently encompass the following maps:
+**Золотые гоблины** регулярно атакуют следующие карты:
 
-- [Lorencia](/maps/lorencia)
-- [Noria](/maps/noria)
+- [Лоренсия](/maps/lorencia)
+- [Нория](/maps/noria)
 
-#### Quantity
+#### Количество
 
-During the invasion **10** Golden Goblins are spread on both of the above mentioned maps.
+Во время нашествия **10** Золотых гоблинов распределены по обеим вышеупомянутым картам.
 
-#### Reward
+#### Награда
 
-When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/items/item-bags/exc/box-of-kundun/bok-1).
+Когда игрок убивает **Золотого гоблина**, они получают: [Box of Kundun+1](/items/item-bags/exc/box-of-kundun/bok-1).
 
 ![Box of Kundun +1](/img/items/item-bags/bok-1.png)
 
@@ -67,31 +67,31 @@ _Box of Kundun +1_
   <TabItem value="golden-titan" label="Golden Titan">
 ```
 
-The **Golden Titan**, a towering behemoth of immense strength, strikes fear into the hearts of all who dare to challenge it, making for a formidable encounter in the world of **Lotus Mu**.
+**Золотой Титан**, величественный гигант с огромной силой, внушает страх всем, кто осмеливается бросить вызов ему, создавая впечатляющую битву в мире **Lotus Mu**.
 
-![Golden Titan](/img/monsters/special/golden/titan.jpg)
+![Золотой Титан](/img/monsters/special/golden/titan.jpg)
 
-_Golden Titan_
+_Золотой Титан_
 
-The **Golden Titan** is joined by formidable **Golden Soldier** allies renowned for their destructive tendencies, and players have the opportunity to obtain rewards when these **Soldiers** are vanquished.
+Золотой Титан сопровождается могучими союзниками **Золотых Солдат**, известными своей разрушительной силой, и игроки имеют возможность получить награды, когда этих **Солдат** будут побеждены.
 
-![Golden Soldier](/img/monsters/special/golden/soldier.jpg)
+![Золотой Солдат](/img/monsters/special/golden/soldier.jpg)
 
-_Golden Soldier_
+_Золотой Солдат_
 
-#### Location
+#### Местоположение
 
-The menacing **Golden Titan** launches its relentless assault upon the serene lands of **Lotus Mu**, instilling chaos and fear in its wake. You can find him on the following map:
+Зловещий **Золотой Титан** начинает беспощадное нашествие на уединенные земли **Lotus Mu**, наводя хаос и страх за своим проходом. Вы можете найти его на следующей карте:
 
-- [Devias](/maps/devias)
+- [Девиас](/maps/devias)
 
-#### Quantity
+#### Количество
 
-During the invasion **7** Golden Titans and **14** Golden Soldiers are spread in [Devias](/maps/devias).
+Во время нашествия в [Девиасе](/maps/devias) распределены **7** Золотых Титанов и **14** Золотых Солдат.
 
-#### Reward
+#### Награда
 
-By slaying those creatures a player will be rewarded as follows:
+Уничтожив этих существ, игрок получит следующие награды:
 
 |                         Golden Titan                         |                        Golden Soldier                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -104,27 +104,27 @@ By slaying those creatures a player will be rewarded as follows:
   <TabItem value="golden-dragon" label="Golden Dragon">
 ```
 
-The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies of **Lotus Mu** with its immense power and deadly breath of fire.
+**Золотой Дракон**, величественное и впечатляющее существо, властвует над небесами **Lotus Mu** своей огромной силой и смертоносным огненным дыханием.
 
-![Golden Dragon](/img/monsters/special/golden/dragon.jpg)
+![Золотой Дракон](/img/monsters/special/golden/dragon.jpg)
 
-_Golden Dragon_
+_Золотой Дракон_
 
-#### Location
+#### Местоположение
 
-The areas targeted by the **Golden Dragons** consistently encompass one the following maps:
+Зоны, выбранные **Золотыми Драконами**, всегда охватывают одну из следующих карт:
 
-- [Lorencia](/maps/lorencia)
-- [Noria](/maps/noria)
-- [Devias](/maps/devias)
+- [Лоренсия](/maps/lorencia)
+- [Нория](/maps/noria)
+- [Девиас](/maps/devias)
 
-#### Quantity
+#### Количество
 
-During the invasion **5** Golden Dragons are spread on one of the above mentioned maps.
+Во время вторжения **5** Золотых Драконов распределены на одной из вышеуказанных карт.
 
-#### Reward
+#### Награда
 
-When a player kills a **Golden Dragon**, they will receive a [Box of Kundun+3](/items/item-bags/exc/box-of-kundun/bok-3).
+Когда игрок убивает **Золотого Дракона**, он получает: [Box of Kundun+3](/items/item-bags/exc/box-of-kundun/bok-3).
 
 ![Box of Kundun +3](/img/items/item-bags/bok-3.png)
 
@@ -136,31 +136,31 @@ _Box of Kundun +3_
   <TabItem value="golden-lizard-king" label="Golden Lizard King">
 ```
 
-The **Golden Lizard King**, a regal and fearsome ruler of reptilian origins, dominates the battlegrounds of [Atlans](/maps/atlans) with its formidable presence and devastating attacks.
+**Золотой Король Ящеров**, величественный и страшный владыка рептильного происхождения, доминирует на поле битвы [Атланс](/maps/atlans) своим величественным присутствием и разрушительными атаками.
 
-![Golden Lizard King](/img/monsters/special/golden/lizard.jpg)
+![Золотой Король Ящеров](/img/monsters/special/golden/lizard.jpg)
 
-_Golden Lizard King_
+_Золотой Король Ящеров_
 
-The Golden Lizard King is accompanied by formidable **Golden Vepar** allies, and players have the chance to obtain rewards upon defeating these **Vepars**.
+Золотого Короля Ящеров сопровождают могущественные союзники **Золотых Вепарей**, и игроки имеют шанс получить награды, победив этих **Вепарей**.
 
-![Golden Vepar](/img/monsters/special/golden/vepar.jpg)
+![Золотой Вепарь](/img/monsters/special/golden/vepar.jpg)
 
-_Golden Vepar_
+_Золотой Вепарь_
 
-#### Location
+#### Местоположение
 
-With relentless determination, the **Golden Lizard King** initiates an unyielding onslaught upon the tranquil realms of **Lotus Mu**, sowing chaos and terror in its path. Seek out this formidable foe on the designated map below:
+С неослабевающим рвением **Золотой Король Ящеров** начинает неумолимое вторжение в спокойные земли **Lotus Mu**, сея хаос и ужас на своем пути. Найдите этого могучего противника на указанной ниже карте:
 
-- [Atlans](/maps/atlans)
+- [Атланс](/maps/atlans)
 
-#### Quantity
+#### Количество
 
-During the invasion **3** Golden Lizard Kings and **6** Golden Vepars are spread in [Atlans](/maps/atlans).
+Во время вторжения **3** Золотых Короля Ящеров и **6** Золотых Вепарей распределены в [Атлансе](/maps/atlans).
 
-#### Reward
+#### Награда
 
-By slaying those creatures a player will be rewarded as follows:
+Убив этих существ, игрок получит следующие награды:
 
 |                      Golden Lizard King                      |                         Golden Vepar                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -173,31 +173,31 @@ By slaying those creatures a player will be rewarded as follows:
   <TabItem value="golden-tantal" label="Golden Tantal">
 ```
 
-The **Golden Tantal**, an imposing monarch, reigns supreme over [Tarkan](/maps/tarkan) with its commanding presence and destructive assaults.
+**Золотой Тантал**, внушительный монарх, царствует над [Тарканом](/maps/tarkan) своим властным присутствием и разрушительными атаками.
 
-![Golden Tantal](/img/monsters/special/golden/tantal.jpg)
+![Золотой Тантал](/img/monsters/special/golden/tantal.jpg)
 
-_Golden Tantal_
+_Золотой Тантал_
 
-The Golden Tantal is accompanied by formidable **Golden Wheel** allies, and players have the chance to obtain rewards upon defeating these **Golden Wheels**.
+Золотого Тантала сопровождают могущественные союзники **Золотого Колеса**, и игроки имеют шанс получить награды, победив этих **Золотых Колесниц**.
 
-![Golden Wheel](/img/monsters/special/golden/golden-wheel.jpg)
+![Золотая Колесница](/img/monsters/special/golden/golden-wheel.jpg)
 
-_Golden Wheel_
+_Золотая Колесница_
 
-#### Location
+#### Местоположение
 
-The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, inviting players to confront this formidable foe on the designated map.
+Неумолимый **Золотой Тантал** развязывает хаос и ужас в **Lotus Mu**, приглашая игроков столкнуться с этим могучим врагом на указанной карте.
 
-- [Tarkan](/maps/tarkan)
+- [Таркан](/maps/tarkan)
 
-#### Quantity
+#### Количество
 
-During the invasion **1** Golden Tantals and **3** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
+Во время вторжения **1** Золотой Тантал и **3** Золотых Колесницы могут быть найдены в [Таркане](/maps/tarkan) во время **Вторжения Золотых Драконов**.
 
-#### Reward
+#### Награда
 
-By slaying those creatures a player will be rewarded as follows:
+Убив этих существ, игрок получит следующие награды:
 
 |                        Golden Tantal                         |                         Golden Wheel                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |

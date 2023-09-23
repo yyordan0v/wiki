@@ -4,18 +4,18 @@ sidebar_position: 7
 
 # Gemstone
 
-A gemstone, in its raw state, possesses no inherent properties or value; however, through the process of refinement, it undergoes a transformation, emerging as a resplendent [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony). It is important to bear certain considerations in mind to ensure the successful refinement of a gemstone.
+Драгоценный камень в своем сыром состоянии не обладает никакими врожденными свойствами или ценностью; однако, через процесс очистки, он претерпевает преображение и становится великолепным [Драгоценным камнем Гармонии](/items/jewels/regular-jewels/jewel-of-harmony). Важно помнить о determin некоторых соображениях, чтобы обеспечить успешное очищение драгоценного камня.
 
-![Gemstone](/img/items/jewels/gemstone.png)
+![Драгоценный камень](/img/items/jewels/gemstone.png)
 
-_Gemstone_
+_Драгоценный камень_
 
-For a comprehensive understanding of the intricate process involved in refining a **Gemstone** into a magnificent [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony), I encourage you to explore the detailed information provided within the [article](/items/jewels/regular-jewels/jewel-of-harmony) dedicated to this subject.
+Для полного понимания сложного процесса очистки **драгоценного камня** в великолепный [Драгоценный камень Гармонии](/items/jewels/regular-jewels/jewel-of-harmony), я приглашаю вас исследовать подробную информацию, представленную в [статье](/items/jewels/regular-jewels/jewel-of-harmony), посвященной этой теме.
 
-Delve into the intricacies and nuances surrounding the refinement process, where you will find a wealth of knowledge and insights waiting to be discovered.
+Погрузитесь в тонкости и нюансы процесса очистки, где вы найдете множество знаний и идей, ожидающих открытия.
 
 :::note
 
-It is important to bear in mind that the **Refinery Tower**, becomes accessible to players for a generous duration of **23 hours**, but only upon their triumphant defeat of the [Nightmare](/special-monsters/bosses/nightmare) during the [Kanturu Event](/events/kanturu).
+Важно помнить, что **Башня Рефайнера** становится доступной игрокам на протяжении **23 часов**, но только после их победоносного поражения [Кошмара](/special-monsters/bosses/nightmare) во время [События Кантуру](/events/kanturu).
 
 :::

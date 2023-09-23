@@ -4,27 +4,27 @@ sidebar_position: 2
 
 # Master Assassin
 
-Amidst the [Imperial Guardian Event](/events/imperial-guardian), the **Master Assassin** stands as an embodiment of terror, challenging even the most skilled and courageous players.
+Среди [События Имперского Стража](/events/imperial-guardian), **Мастер-ассасин** предстает как воплощение ужаса, бросая вызов даже самым опытным и смелым игрокам.
 
-Renowned for their lethal precision and unparalleled stealth, these formidable adversaries strike fear into the hearts of those who dare to face them. Conquering the Master Assassin requires unwavering resolve, meticulous strategy, and unmatched combat prowess, but the spoils of victory are nothing short of extraordinary.
+Известные своей смертельной точностью и беспрецедентным скрытным действиям, эти формидабельные противники внушают страх тем, кто осмеливается противостоять им. Покорение Мастера-ассасина требует непоколебимой решимости, тщательной стратегии и беспроигрышного боевого мастерства, но награды за победу несомненно являются нечто выдающимся.
 
-![Master Assassin](/img/monsters/special/others/master-assassin.jpg)
+![Мастер-ассасин](/img/monsters/special/others/master-assassin.jpg)
 
-_Master Assassin_
+_Мастер-ассасин_
 
-## Details
+## Подробности
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Master Assassin in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Более подробную информацию о появлении Мастера-ассасина можно найти в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Master Assassin**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Мастера-ассасина**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

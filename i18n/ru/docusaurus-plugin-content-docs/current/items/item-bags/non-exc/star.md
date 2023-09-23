@@ -4,19 +4,19 @@ sidebar_position: 1
 
 # Star of Sacred Birth
 
-The **Star of Sacred Birth** is a special item in Mu Online that can be obtained from specific monsters or [quests](/gameplay-systems/quest-system). When opened, it drops various **non-excellent** items that players can collect.
+**Звезда Священного Рождения** - это особый предмет в Mu Online, который можно получить от определенных монстров или через [задания](/gameplay-systems/quest-system). При открытии она выдает различные **неотличные** предметы, которые игроки могут собирать.
 
-Here you can find information about the items that can be obtained from the **Star of Sacred Birth** and where to find it.
+Здесь вы можете найти информацию о предметах, которые можно получить из **Звезды Священного Рождения** и о том, где ее найти.
 
-![Star of Sacred Birth](/img/items/item-bags/star.png)
+![Звезда Священного Рождения](/img/items/item-bags/star.png)
 
-_Star of Sacred Birth_
+_Звезда Священного Рождения_
 
-## Item Drops
+## Дроп предметов
 
-The **Star of Sacred Birth** can drop one of the following items:
+**Звезда Священного Рождения** может выпасть один из следующих предметов:
 
-### Armor items
+### Предметы брони
 
 |                   Leather Set                    |                   Bronze Set                   |                  Scale Set                   |
 | :----------------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
@@ -24,7 +24,7 @@ The **Star of Sacred Birth** can drop one of the following items:
 |                     Pad Set                      |                    Vine Set                    |                   Silk Set                   |
 |     ![Pad Set](/img/items/armors/dw/pad.png)     |   ![Vine Set](/img/items/armors/fe/vine.png)   |  ![Silk Set](/img/items/armors/fe/silk.png)  |
 
-### Weapons
+### Оружие
 
 | Lighting Sword                                            | Blade                                         | Gorgon Staff                                              |
 | --------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- |
@@ -34,13 +34,13 @@ The **Star of Sacred Birth** can drop one of the following items:
 
 :::note
 
-Please note that the drop rates for these items may vary and the items are **non-excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **не отличными**.
 
 :::
 
-## Obtaining the Star of Sacred Birth
+## Получение Звезды Священного Рождения
 
-To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
+Чтобы получить **Звезду Священного Рождения**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами для гарантированной добычи:
 
 | [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
 | -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- |

@@ -2,56 +2,56 @@
 sidebar_position: 2
 ---
 
-# Fenrir Prismatic Gems
+# Драгоценные камни Фенрира (Fenrir Prismatic Gems)
 
-The captivating **Fenrir Prismatic Gems** offer players a one-of-a-kind chance to metamorphose the visual aspects of their [Tier 2 Pets](/category/pets), whether they are the powerful [Necromancer](/crafting/pets/Necromancer), the ethereal [Spirit of Nature](/crafting/pets/spirit-of-nature), or the spectral [Ghost Horse](/crafting/pets/ghost-horse).
+Очаровательные **Драгоценные камни Фенрира** предоставляют игрокам уникальную возможность изменить визуальные аспекты их [питомцев второго уровня](/category/pets), будь то могущественный [Некромант](/crafting/pets/Necromancer), этерический [Дух природы](/crafting/pets/spirit-of-nature) или призрачная [Призрачная лошадь](/crafting/pets/ghost-horse).
 
 :::tip
 
-For further information about the Skin System, you can explore our comprehensive [Skin System](/skin-system) article.
+Для получения дополнительной информации о Системе скинов вы можете ознакомиться с нашей подробной статьей о [Системе скинов](/skin-system).
 
 :::
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Призматический камень](/img/items/jewels/prismatic-gem.png)
 
-_Prismatic Gem_
+_Призматический камень_
 
-## Variations
+## Вариации
 
-Through the infusion of one of the Fenrir Prismatic Gems into your [Tier 2 Pets](/category/pets), you can seamlessly alter their appearances, with each **Gem** providing a distinct transformation based on the specific **Prismatic Gem** used in the process.
+Путем внедрения одного из Драгоценных камней Фенрира в вашего [питомца второго уровня](/category/pets) вы можете легко изменить их внешний вид, при этом каждый **камень** предлагает уникальное преобразование, определяемое конкретным **Драгоценным камнем**, используемым в процессе.
 
 :::note
 
-Please be aware that the infusion process only alters the pet's appearance while preserving its original stats.
+Обратите внимание, что процесс внедрения изменяет только внешний вид питомца, сохраняя его изначальные характеристики.
 
 :::
 
-### Silvia and Rhea
+### Сильвия и Рея
 
-| Red Fenrir [<span className="tier-common">**Common**</span>] | Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
-| :----------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------: |
-|        ![Red Fenrir](/img/items/pets/red-fenrir.jpg)         |          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |
+| Красный Фенрир [<span className="tier-common">**Обычный**</span>] | Синий Фенрир [<span className="tier-uncommon">**Необычный**</span>] | Черный Фенрир [<span className="tier-uncommon">**Необычный**</span>] |
+| :---------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: |
+|         ![Красный Фенрир](/img/items/pets/red-fenrir.jpg)         |          ![Синий Фенрир](/img/items/pets/blue-fenrir.jpg)           |          ![Черный Фенрир](/img/items/pets/black-fenrir.jpg)          |
 
 :::info
 
-These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea** in [Yoskreth](/maps/yoskreth).
+Эти **Драгоценные камни Фенрира** можно приобрести у **Сильвии** или **Реи** в [Йоскрет](/maps/yoskreth).
 
 :::
 
-### Fenrir Collector's Cache
+### Сокровищница коллекционера Фенрира
 
-|     Holy Fenrir [<span className="tier-rare">**Rare**</span>]      |     Zyron Fenrir [<span className="tier-rare">**Rare**</span>]      |      Gold Fenrir [<span className="tier-rare">**Rare**</span>]       | Steel Fenrir [<span className="tier-rare">**Rare**</span>] |
-| :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------: |
-|          ![Holy Fenrir](/img/items/pets/holy-fenrir.jpg)           |          ![Zyron Fenrir](/img/items/pets/zyron-fenrir.jpg)          |           ![Gold Fenrir](/img/items/pets/gold-fenrir.jpg)            |     ![Steel Fenrir](/img/items/pets/steel-fenrir.jpg)      |
-| Green Fenrir [<span className="tier-mythical">**Mythical**</span>] | Purple Fenrir [<span className="tier-mythical">**Mythical**</span>] | Ghost Fenrir [<span className="tier-legendary">**Legendary**</span>] |
-|         ![Green Fenrir](/img/items/pets/green-fenrir.jpg)          |         ![Purple Fenrir](/img/items/pets/purple-fenrir.jpg)         |          ![Ghost Fenrir](/img/items/pets/ghost-fenrir.jpg)           |
+|     Святой Фенрир [<span className="tier-rare">**Редкий**</span>]      |       Фенрир Зирон [<span className="tier-rare">**Редкий**</span>]        |       Золотой Фенрир [<span className="tier-rare">**Редкий**</span>]        | Стальной Фенрир [<span className="tier-rare">**Редкий**</span>] |
+| :--------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+|           ![Святой Фенрир](/img/items/pets/holy-fenrir.jpg)            |             ![Фенрир Зирон](/img/items/pets/zyron-fenrir.jpg)             |             ![Золотой Фенрир](/img/items/pets/gold-fenrir.jpg)              |      ![Стальной Фенрир](/img/items/pets/steel-fenrir.jpg)       |
+| Зеленый Фенрир [<span className="tier-mythical">**Мифический**</span>] | Фиолетовый Фенрир [<span className="tier-mythical">**Мифический**</span>] | Призрачный Фенрир [<span className="tier-legendary">**Легендарный**</span>] |
+|          ![Зеленый Фенрир](/img/items/pets/green-fenrir.jpg)           |          ![Фиолетовый Фенрир](/img/items/pets/purple-fenrir.jpg)          |           ![Призрачный Фенрир](/img/items/pets/ghost-fenrir.jpg)            |
 
 :::info
 
-These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#jagod-di).
+Эти **Драгоценные камни Фенрира** можно получить через [Сокровищница коллекционера Фенрира](/skin-system#jagod-di).
 
-![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
+![Сокровищница коллекционера Фенрира](/img/items/item-bags/fenrir-cache.png)
 
-_Fenrir Collector's Cache_
+_Сокровищница коллекционера Фенрира_
 
 :::

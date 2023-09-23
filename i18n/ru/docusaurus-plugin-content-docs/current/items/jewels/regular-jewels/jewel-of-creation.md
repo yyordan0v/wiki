@@ -4,24 +4,24 @@ sidebar_position: 5
 
 # Jewel of Creation
 
-Harnessing the mystic powers of the Jewel of Chaos, the **Jewel of Creation** finds its purpose within the Chaos Machine, where it plays a pivotal role in the creation of exquisite and rare Fruits. These fruits possess the extraordinary ability to elevate a character's stat by a magnitude of 0 to 4.
+Приручая мистическую силу **Драгоценности Хаоса**, **Драгоценность Создания** находит свое предназначение в Машине Хаоса, где она играет ключевую роль в создании изысканных и редких фруктов. Эти фрукты обладают удивительной способностью увеличивать характеристики персонажа на величину от 0 до 4.
 
-![Jewel of Creation](/img/items/jewels/creation.png)
+![Драгоценность Создания](/img/items/jewels/creation.png)
 
-_Jewel of Creation_
+_Драгоценность Создания_
 
-Moreover, the **Jewel of Creation** holds a revered position within the crafting rituals of the realm, acting as the catalyst for the creation of legendary artifacts and equipment coveted by the bravest warriors. Through the intricate knowledge passed down by seasoned artisans, the **Jewel of Creation** unlocks the secrets to summoning loyal companions such as the **Crow** and the **Horse**, destined to stand faithfully by the side of the enigmatic **Dark Lord**.
+Более того, **Драгоценность Создания** занимает почетное место в ритуалах создания в этом мире, действуя как катализатор для создания легендарных артефактов и экипировки, которыми завидуют даже самые храбрые воины. Благодаря сложным знаниям, переданным опытными ремесленниками, **Драгоценность Создания** раскрывает секреты вызова верных спутников, таких как **Ворон** и **Лошадь**, сужденных стоять верой и правдой рядом с загадочным **Темным Лордом**.
 
-Within the realm of Mu Online, the **Jewel of Creation** and its intricate combinations hold the key to unlocking untold potential. By delving into the depths of the Chaos Machine and embracing the mysterious arts of **crafting**, adventurers are empowered to shape their destinies and carve a path towards greatness. Embrace the power of the **Jewel of Creation**, for it is through its alchemical properties that legends are born.
+В мире Mu Online **Драгоценность Создания** и ее сложные комбинации являются ключом к разблокировке неизведанных возможностей. Погрузившись в глубины Машины Хаоса и обняв таинственное искусство **крафта**, искатели приключений получают силу формировать свои судьбы и прокладывать путь к величию. Примите в себя силу **Драгоценности Создания**, ибо именно благодаря ее алхимическим свойствам рождаются легенды.
 
-More on this topic you can find in out [Crafting Category](/category/crafting).
+Более подробную информацию на эту тему вы можете найти в нашей [категории крафта](/category/crafting).
 
 :::tip
 
-Alternatively, in the realm of Lotus Mu, the game administration has introduced the option to acquire the **Jewel of Creation** or **Jewel of Creation Bundles** by completing [quests](/gameplay-systems/quest-system).
+Кроме того, в мире Lotus Mu администрация игры предоставила возможность получать **Драгоценность Создания** или **Наборы Драгоценности Создания** в рамках выполнения [квестов](/gameplay-systems/quest-system).
 
 :::
 
-![Jewel of Creation Bundle 10](/img/items/jewels/creation-10.png) ![Jewel of Creation Bundle 20](/img/items/jewels/creation-20.png) ![Jewel of Creation Bundle 30](/img/items/jewels/creation-30.png)
+![Набор Драгоценности Создания 10](/img/items/jewels/creation-10.png) ![Набор Драгоценности Создания 20](/img/items/jewels/creation-20.png) ![Набор Драгоценности Создания 30](/img/items/jewels/creation-30.png)
 
-_Jewel of Creation Bundles_
+_Наборы Драгоценности Создания_

@@ -4,15 +4,15 @@ sidebar_position: 3
 
 # Lilac Candy Box
 
-The **Lilac Candy Box** is a highly sought-after item that grants you access to a variety of valuable items that can enhance your gameplay experience.
+**Коробка Лиловых Конфет** - это высоко ценный предмет, который предоставляет доступ к разнообразным ценным предметам, способным улучшить ваш опыт игры.
 
-![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
+![Коробка Лиловых Конфет](/img/items/item-bags/lilac-candy-box.png)
 
-_Lilac Candy Box_
+_Коробка Лиловых Конфет_
 
-## Item Drops
+## Дроп предметов
 
-The **Lilac Candy Box** can drop one of the following items:
+**Коробка Лиловых Конфет** может выпасть один из следующих предметов:
 
 | [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless) |    [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul)     | [Jewel of Life](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |
 | :-----------------------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -22,15 +22,15 @@ The **Lilac Candy Box** can drop one of the following items:
 | [Jewel of Level](/items/jewels/superb-jewels/jewel-of-level)  | [Jewel of Recovery](/items/jewels/superb-jewels/jewel-of-recovery) |
 |    ![Jewel of Level](/img/items/jewels/custom-orange.png)     |     ![Jewel of Recovery](/img/items/jewels/custom-purple.png)      |
 
-## Obtaining the Lilac Candy Box
+## Получение Коробки Лиловых Конфет
 
-To obtain the **Lilac Candy Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following creatures:
+Чтобы получить **Коробку Лиловых Конфет**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими существами:
 
 |     [Omega Wing](/special-monsters/others/omega-wing)      |     [Death Bone](/special-monsters/invasions/death-king)      | [Golden Soldier](/special-monsters/invasions/golden-dragon) | [Golden Vepar](/special-monsters/invasions/golden-dragon) |   [Golden Wheel](/special-monsters/invasions/golden-dragon)    |
 | :--------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------------: |
 | ![Omega Wing](/img/monsters/special/others/omega-wing.jpg) | ![Death Bone](/img/monsters/special/invasions/death-bone.jpg) | ![Golden Soldier](/img/monsters/special/golden/soldier.jpg) |  ![Golden Vepar](/img/monsters/special/golden/vepar.jpg)  | ![Golden Wheel](/img/monsters/special/golden/golden-wheel.jpg) |
 
-Another way to obtain a **Lilac Candy Box** is to triumph in one of the following events:
+Другой способ получить **Коробку Лиловых Конфет** - одержать победу в одном из следующих событий:
 
 - [Devil Square Event](/events/devil-square)
 - [Illusion Temple 1-5](/events/illusion-temple)

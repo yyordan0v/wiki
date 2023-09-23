@@ -4,27 +4,27 @@ sidebar_position: 5
 
 # Combat Instructor
 
-During the [Imperial Guardian Event](/events/imperial-guardian), the resolute presence of the formidable **Combat Instructors** asserts itself as one of the most formidable adversaries to emerge.
+Во время [События Имперского Стража](/events/imperial-guardian), решительное присутствие страшных **Боевых Инструкторов** проявляется как один из самых могущественных противников.
 
-These monstrous beings embody unwavering determination and battle-hardened expertise, presenting a formidable challenge that demands relentless effort and skill to overcome. However, amidst the arduous battle lies the allure of a magnificent reward, enticing brave adventurers to muster their strength and confront these mighty foes head-on.
+Эти чудовищные существа воплощают несгибаемую решимость и боевой опыт, представляя серьезное испытание, требующее неустанного усилия и мастерства для преодоления. Однако среди тяжелой битвы скрыта магия великолепной награды, зовущей отважных приключенцев собрать свои силы и столкнуться с этими могучими врагами лицом к лицу.
 
-![Combat Instructor](/img/monsters/special/others/combat-instructor.jpg)
+![Боевой Инструктор](/img/monsters/special/others/combat-instructor.jpg)
 
-_Combat Instructor_
+_Боевой Инструктор_
 
-## Details
+## Детали
 
-These creatures can be encountered only in the [Imperial Guardian Event](/events/imperial-guardian).
+Эти существа могут быть встречены только в [Событии Имперского Стража](/events/imperial-guardian).
 
 :::tip
 
-You can find more information on the appearance of the Combat Instructors in the [Imperial Guardian Event](/events/imperial-guardian) article.
+Вы можете найти более подробную информацию о появлении Боевых Инструкторов в статье [События Имперского Стража](/events/imperial-guardian).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Combat Instructor**, players will be rewarded with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
+После успешного убийства **Боевого Инструктора**, игроки будут награждены [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box).
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
 

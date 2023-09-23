@@ -4,37 +4,38 @@ sidebar_position: 2
 
 # Stone Golem
 
-Embark on a thrilling journey where your skills and bravery will be put to the ultimate test, as the colossal force of the **Stone Golem** rises to prominence, demanding your undivided attention and wreaking havoc upon the immersive realm of **Lotus Mu**.
+Отправьтесь в захватывающее путешествие, где ваши навыки и храбрость будут подвергнуты крайнему испытанию, поскольку колоссальная сила **Каменного Голема** восходит к вершинам, требуя вашего неподраздельного внимания и сея хаос в захватывающем мире **Lotus Mu**.
 
-Brace yourself for an adrenaline-pumping adventure, where triumph over this formidable adversary is the key to unlocking new horizons of excitement and glory.
+Приготовьтесь к адреналину наполненному приключению, где победа над этим формидабельным противником является ключом к открытию новых горизонтов волнения и славы.
 
-![Stone Golem](/img/monsters/special/others/stone-golem.jpg)
+![Каменный Голем](/img/monsters/special/others/stone-golem.jpg)
 
-_Stone Golem_
+_Каменный Голем_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-Encounter the awe-inspiring presence of the **Stone Golem** as you navigate through [Noria](/maps/noria) in search of this formidable entity.
+Встретьте величественное присутствие **Каменного Голема**, пока вы исследуете [Норию](/maps/noria) в поисках этой формидабельной сущности.
 
 :::tip
 
-You can find **Stone Golems** near the following coordinates in [Noria](/maps/noria) - **230, 20**.
+Вы можете найти **Каменных Големов** недалеко от следующих координат в [Нории](/maps/noria) - **230, 20**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Stone Golems**.
+Следующая таблица предоставляет подробную информацию о времени и количестве доступных **Каменных Големов**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    10    | 2 minutes after killed |
+| Количество |    Время воскрешения    |
+| :--------: | :---------------------: |
+|     10     | 2 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Stone Golem**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного уничтожения **Каменного Голема**, игроки будут вознаграждены
+[Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

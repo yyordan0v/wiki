@@ -4,23 +4,23 @@ sidebar_position: 5
 
 # Box of Kundun +5
 
-The **Box of Kundun +5** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
+**Коробка Кундуна +5** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные** предметы для сбора.
 
-![Box of Kundun +5](/img/items/item-bags/bok-5.png)
+![Коробка Кундуна +5](/img/items/item-bags/bok-5.png)
 
-_Box of Kundun +5_
+_Коробка Кундуна +5_
 
-## Item Drops
+## Дроп предметов
 
-The **Box of Kundun +5** can drop one of the following items:
+**Коробка Кундуна +5** может выпасть один из следующих предметов:
 
-### Armor items
+### Предметы брони
 
 |                   Ashcrow Set                    |                   Eclipse Set                    |                  Iris Set                  |                   Valiant Set                    |                     Dark Steel Set                     |
 | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------: | :----------------------------------------------: | :----------------------------------------------------: |
 | ![Ashcrow Set](/img/items/armors/dk/ashcrow.png) | ![Eclipse Set](/img/items/armors/dw/eclipse.png) | ![Iris Set](/img/items/armors/fe/iris.png) | ![Valiant Set](/img/items/armors/mg/valiant.png) | ![Dark Steel Set](/img/items/armors/dl/dark-steel.png) |
 
-### Weapons
+### Оружие
 
 |                          Lighting Sword                           |                    Daybreak                     |                       Dragon Soul Staff                       |                        Staff of Destruction                         |
 | :---------------------------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------------: |
@@ -28,19 +28,19 @@ The **Box of Kundun +5** can drop one of the following items:
 |                       Great Reign Crossbow                        |                   Rune Blade                    |                         Lord Scepter                          |
 | ![Great Reign Crossbow](/img/items/bows/great-reign-crossbow.png) | ![Rune Blade](/img/items/swords/rune-blade.png) |     ![Lord Scepter](/img/items/scepters/lord-scepter.png)     |
 
-### Shields
+### Щиты
 
 |                     Bronze Shield                      |                       Legendary Shield                       |
 | :----------------------------------------------------: | :----------------------------------------------------------: |
 | ![Bronze Shield](/img/items/shields/bronze-shield.png) | ![Legendary Shield](/img/items/shields/legendary-shield.png) |
 
-### Rings and Pendants
+### Кольца и подвески
 
 |                         Ring of Magic                         |                           Pendant of Ability                            |
 | :-----------------------------------------------------------: | :---------------------------------------------------------------------: |
 | ![Ring of Magic](/img/items/rings-pendants/ring-of-magic.png) | ![Pendant of Ability](/img/items/rings-pendants/pendant-of-ability.png) |
 
-### Special Drops
+### Специальные дропы
 
 |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |
 | :------------------------------------------------------: |
@@ -48,19 +48,19 @@ The **Box of Kundun +5** can drop one of the following items:
 
 :::note
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **превосходными**.
 
 :::
 
-## Obtaining the Box of Kundun +5
+## Получение Коробки Кундуна +5
 
-To obtain the **Box of Kundun +5**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Коробку Кундуна +5**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 | [Golden Tantal](/special-monsters/invasions/golden-dragon) |
 | :--------------------------------------------------------: |
 | ![Golden Tantal](/img/monsters/special/golden/tantal.jpg)  |
 
-There is also chance that you get **Box of Kundun +5** dropped by one of the following item bags:
+Также есть шанс получить **Коробку Кундуна +5** как дроп из одной из следующих сумок с предметами:
 
 |   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) |
 | :------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |

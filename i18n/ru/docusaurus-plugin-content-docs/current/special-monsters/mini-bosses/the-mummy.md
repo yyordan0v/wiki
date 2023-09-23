@@ -4,37 +4,37 @@ sidebar_position: 7
 
 # The Mummy
 
-Steel yourself for an enthralling exploration into the abyss of [Dungeon 2](/maps/dungeon-2), a realm even more shrouded in darkness and peril than its predecessor, as you embark on a quest that will test your mettle. Amidst the harrowing depths of this enigmatic domain, prepare to face the formidable and haunting entity known as **The Mummy**, whose immense power and eerie presence demand your unwavering focus and unwavering courage.
+Приготовьтесь к захватывающему путешествию в бездну [Dungeon 2](/maps/dungeon-2), мира, еще более окутанного тьмой и опасностью, чем его предшественник, поскольку вы отправляетесь в путешествие, которое испытает вашу стойкость. Среди ужасающих глубин этой загадочной области, готовьтесь столкнуться с могущественной и жуткою сущностью, известной как **Мумия**, чья огромная сила и странное присутствие требуют вашего непоколебимого внимания и храбрости.
 
-Brace yourself for the ultimate test of bravery as you navigate the treacherous corridors and unravel the secrets that lie within the heart of this unforgiving underworld.
+Приготовьтесь к самому великому испытанию мужества, исследуя коварные коридоры и раскрывая секреты, которые скрываются в сердце этого безжалостного подземелья.
 
-![The Mummy](/img/monsters/special/others/mummy.jpg)
+![Мумия](/img/monsters/special/others/mummy.jpg)
 
-_The Mummy_
+_Мумия_
 
-## Details
+## Подробности
 
-### Location
+### Местоположение
 
-Gear up for an unparalleled adventure as you venture into the ominous depths of [Dungeon 2](/maps/dungeon-2), a place even darker and more foreboding than its predecessor, where only the boldest souls dare to tread.
+Готовьтесь к непревзойденному приключению, вооружившись, в грозные глубины [Dungeon 2](/maps/dungeon-2), места, еще более темные и пугающие, чем его предшественник, куда смеют вступить только самые смелые души.
 
 :::tip
 
-You can find **Mummies** near the following coordinates in [Dungeon 2](/maps/dungeon-2) - **230, 220**.
+Вы можете найти **Мумий** недалеко от следующих координат в [Dungeon 2](/maps/dungeon-2) - **230, 220**.
 
 :::
 
-### Respawn Times
+### Время Воскрешения
 
-The subsequent table provides detailed information about the time and the quantity of the available **Mummies**.
+Следующая таблица предоставляет подробную информацию о времени и количестве доступных **Мумий**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    10    | 4 minutes after killed |
+| Количество |    Время воскрешения    |
+| :--------: | :---------------------: |
+|     10     | 4 минуты после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing **The Mummy**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+После успешного убийства **Мумии**, игроки будут вознаграждены [Star of Sacred Birth](/items/item-bags/non-exc/star).
 
 ![Star of Sacred Birth](/img/items/item-bags/star.png)
 

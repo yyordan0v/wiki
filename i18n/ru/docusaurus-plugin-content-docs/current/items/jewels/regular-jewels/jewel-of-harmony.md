@@ -4,101 +4,104 @@ sidebar_position: 8
 
 # Jewel of Harmony
 
-The usage of **Jewel of Harmony** extends to imbuing items with unique and diverse special options. These options can vary significantly and provide distinct benefits to the equipped item.
+Использование **Драгоценности Гармонии** расширяется на наделение предметов уникальными и разнообразными специальными опциями. Эти опции могут значительно различаться и предоставлять разные преимущества экипированным предметам.
 
-![Jewel of Harmony](/img/items/jewels/harmony.png)
+![Драгоценность Гармонии](/img/items/jewels/harmony.png)
 
-_Jewel of Harmony_
+_Драгоценность Гармонии_
 
 :::tip
-The Jewel of Harmony is **main ingredient** in a chaos combination that grants **Item Options** , commonly referred to as **pink options**.
+Драгоценность Гармонии - это **основной ингредиент** в хаос-комбинации, которая предоставляет **Параметры Предмета**, обычно называемые **розовыми опциями**.
 
-For a more comprehensive understanding of this procedure, I highly recommend delving into the informative and insightful [Item Options](/crafting/item-options) article.
+Для более полного понимания этой процедуры настоятельно рекомендуется ознакомиться с информативной и содержательной статьей [Параметры Предмета](/crafting/item-options).
 :::
 
-## Crafting
+## Создание
 
-The acquisition of the **Jewel of Harmony** is exclusively achievable through the process of **crafting**. Although the procedure itself is relatively straightforward, there are certain factors that necessitate careful consideration.
+Для получения **Драгоценности Гармонии** можно использовать процесс **создания**. Несмотря на то, что сам процесс относительно прост, существуют определенные факторы, которые требуют внимательного рассмотрения.
 
-To commence the crafting process, you must first acquire a [Gemstone](/items/jewels/regular-jewels/gemstone).
+Чтобы начать процесс создания, вам сначала необходимо получить [Гемму](/items/jewels/regular-jewels/gemstone).
 
-![Gemstone](/img/items/jewels/gemstone.png)
+![Гемма](/img/items/jewels/gemstone.png)
 
-_Gemstone_
+_Гемма_
 
-To refine these raw [Gemstones](/items/jewels/regular-jewels/gemstone) into the coveted **Jewel of Harmony**, the invaluable assistance of **Elpis** inside the **Refinery Tower** is needed.
+Для того чтобы преобразовать эти сырые [Геммы](/items/jewels/regular-jewels/gemstone) в заветную **Драгоценность Гармонии**, неоценима помощь **Эльпис** внутри **Башни Рафинирования**.
 
-Entrusting Elpis with the refining task ensures the successful transformation of the [Gemstone](/items/jewels/regular-jewels/gemstone) into the potent **Jewel of Harmony**, allowing you to unlock its exceptional powers.
+Доверив Эльпису задачу рафинирования, вы обеспечиваете успешное превращение [Геммы](/items/jewels/regular-jewels/gemstone) в могущественную **Драгоценность Гармонии**, позволяя вам разблокировать ее исключительные способности.
 
-![Elpis](/img/npc/elpis.jpg)
+![Эльпис](/img/npc/elpis.jpg)
 
-_Elpis_
+_Эльпис_
 
-You can go to the **Refinery Tower** by using the **Gateway Machine** (141,186) in **Kanturu Relics**
+Вы можете попасть в **Башню Рафинирования**, используя **Машину Перехода** (141,186) в **Реликвии Кантуру**
 
-![Gateway Machine](/img/npc/gateway-machine.jpg)
+![Машина Перехода](/img/npc/gateway-machine.jpg)
 
-_Gateway Machine_
+_Машина Перехода_
 
-## Harmony Options
+## Опции Гармонии
 
-To bestow your item with the coveted **Harmony Options** (also known as **Yellow Options**), all you need to do is effortlessly apply the **Jewel of Harmony** onto it.
+Чтобы наделить свой предмет заветными **Опциями Гармонии** (также известными как **желтые опции**), вам просто нужно нанести **Драгоценность Гармонии** на предмет.
 
-The **Jewel of Harmony** is a single-use item, rendering it irretrievable for any future applications. Once it has served its purpose, the jewel is forever relinquished, unable to be reclaimed or reused. Therefore, it is crucial to consider the decision carefully before employing a **Jewel of Harmony**.
+**Драгоценность Гармонии** - это одноразовый предмет, поэтому его невозможно будет вернуть в будущем для повторного использования. После того как он выполнил свою функцию, он навсегда утрачен и не может быть восстановлен или повторно использован. Поэтому очень важно внимательно обдумать свое решение перед использованием **Драгоценности Гармонии**.
 
-### Weapons Harmony Options
+### Опции Гармонии для Оружия
 
-- **Minimum attack power increase**: Increase in minimum attack power according to set value. However, cannot increase beyond -1 of the maximum attack power.
-- **Maximum Attack Power Increase** : Increase in maximum attack power according to set value.
-- **Required Strength decrease**: Decrease in required strength value of weapon according to set value.
-- **Required Agility decrease**: Decrease in required agility value of weapon according to set value.
-- **Attack power increase(Min, Max)**: The minimum and maximum attack power of the weapon is increased simultaneously according to set value.
-- **Critical damage increase**: Increase in critical damage according to set value.
-- **Skill attack power increase**: Increase in final attack power of skill according to set value, when using skill.
-- **Attack success rate increase(PvP)**: Increase in attack success rate according to the set value in PvP.
-- **SD decrement increase**: Ignoring opponents SD and giving HP damage increases according to set value, plus giving a continuous hit.
-- **SD bypass rate increase**: The damage absorbed by the opponent's shield in PVP directly translates into HP damage according to set value.
+- **Минимальное увеличение атаки**: Увеличение минимальной атаки на определенное значение. Однако она не может увеличиваться выше -1 максимальной атаки.
+- **Увеличение максимальной атаки**: Увеличение максимальной атаки на определенное значение.
+- **Уменьшение требуемой силы**: Уменьш
 
-### Staffs Harmony Options
+ение требуемой силы оружия на определенное значение.
 
-- **Magic power increase**: Increase in magic power of the orb according to set value.
-- **Required Strength decrease**: Decrease in staffs required strength value according to set value.
-- **Required Agility Decrease**: Decrease in weapons required agility value according to set value.
-- **Skill attack power increase**: Increase in final attack power of skill according to set value, when using skill.
-- **Critical damage increase**: Increase in critical damage according to set value.
-- **SD decrement increase**: Ignoring opponents SD and giving HP damage increases according to set value, plus giving a continuous hit.
-- **Attack success rate increase(PvP)**: Increase in attack success rate according to the set value in PvP.
-- **SD bypass rate increase**: The damage absorbed by the opponent's shield in PVP directly translates into HP damage according to set value.
+- **Уменьшение требуемой ловкости**: Уменьшение требуемой ловкости оружия на определенное значение.
+- **Увеличение атаки (мин, макс)**: Увеличение минимальной и максимальной атаки оружия одновременно на определенное значение.
+- **Увеличение критического урона**: Увеличение критического урона на определенное значение.
+- **Увеличение силы атаки навыка**: Увеличение окончательной силы атаки навыка на определенное значение при использовании навыка.
+- **Увеличение успешности атаки (PvP)**: Увеличение успешности атаки на определенное значение в PvP.
+- **Увеличение уменьшения SD**: Прохождение мимо SD оппонентов и увеличение урона HP на определенное значение, плюс непрерывное попадание.
+- **Увеличение уровня обхода SD**: Урон, поглощенный щитом оппонента в PVP, напрямую переводится в урон HP на определенное значение.
 
-### Armors Harmony Options
+### Опции Гармонии для Посохов
 
-- **Defense power increase**: Increase in defense weapons defense power according to set value.
-- **Maximum AG increase**: Increase in characters AG according to set value.
-- **Maximum HP increase**: Increase in characters HP according to set value.
-- **HP automatic increase rate increase**: Increase in HP recovery amount per tick according to set value.
-- **MP automatic increase rate increase**: Increase in MP recovery amount per tick according to set value.
-- **Defense success rate increase(PvP)**: Increase in defense success rate in PVP according to set value.
-- **Damage decrease increase**: Decrease in damage received apart from final defense power when receiving damage according to set value.
-- **SD rate increase**: Increase in shields damage absorb rate in PVP according to set value.
+- **Увеличение магической силы**: Увеличение магической силы сферы на определенное значение.
+- **Уменьшение требуемой силы**: Уменьшение требуемой силы посоха на определенное значение.
+- **Уменьшение требуемой ловкости**: Уменьшение требуемой ловкости оружия на определенное значение.
+- **Увеличение атаки навыка**: Увеличение окончательной силы атаки навыка на определенное значение при использовании навыка.
+- **Увеличение критического урона**: Увеличение критического урона на определенное значение.
+- **Увеличение уменьшения SD**: Прохождение мимо SD оппонентов и увеличение урона HP на определенное значение, плюс непрерывное попадание.
+- **Увеличение успешности атаки (PvP)**: Увеличение успешности атаки на определенное значение в PvP.
+- **Увеличение уровня обхода SD**: Урон, поглощенный щитом оппонента в PVP, напрямую переводится в урон HP на определенное значение.
 
-## Harmony Options Upgrade
+### Опции Гармонии для Доспехов
 
-The **Harmony Option** has the potential for further enhancement through the utilization of either [Low Refining Stones](/items/jewels/regular-jewels/refining-stones) or [High Refining Stones](/items/jewels/regular-jewels/refining-stones). These refining stones serve as catalysts for elevating the power and effectiveness of the **Jewel of Harmony Option**.
+- **Увеличение силы защиты**: Увеличение силы защиты оружия на определенное значение.
+- **Увеличение AG**: Увеличение уровня AG персонажа на определенное значение.
+- **Увеличение HP**: Увеличение уровня HP персонажа на определенное значение.
+- **Увеличение скорости автоматического увеличения HP**: Увеличение уровня восстановления HP за такт на определенное значение.
+- **Увеличение скорости автоматического увеличения MP**: Увеличение уровня восстановления MP за такт на определенное значение.
+- **Увеличение успешности защиты (PvP)**: Увеличение успешности защиты в PvP на определенное значение.
+- **Увеличение уменьшения урона**: Уменьшение получаемого урона, кроме окончательной силы защиты, при получении урона на определенное значение.
+- **Увеличение уровня SD**: Увеличение уровня поглощения урона щитом в PVP на определенное значение.
 
-Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/refining-stones) or the [High Refining Stone](/items/jewels/regular-jewels/refining-stones), this upgrade process enables you to amplify the benefits and advantages conferred by the **Jewel of Harmony Option**, allowing for a more formidable presence in the realms of **Lotus Mu**.
+## Повышение Опций Гармонии
 
-## Harmony Options Removal
+**Опция Гармонии** имеет потенциал для дополнительного усиления при использовании [Камней Низкой Очистки](/items/jewels/regular-jewels/refining-stones) или [Камней Высокой Очистки](/items/jewels/regular-jewels/refining-stones). Эти очистительные камни служат катализаторами для повышения силы и эффективности **Опции Гармонии Драгоценности**.
 
-When it comes to Excellent items, the sole individual capable of removing the Harmony Option affixed to them is none other than **Jerridon**. His expertise and assistance are indispensable in eliminating the Harmony Option from these remarkable items.
+Будь то [Камень Низкой Очистки](/items/jewels/regular-jewels/refining-stones) или [Камень Высокой Очистки](/items/jewels/regular-jewels/refining-stones), этот процесс улучшения позволяет усилить преимущества и возможности, предоставляемые **Опцией Гармонии Драгоценности**, что позволяет иметь более сильное присутствие в мирах **Lotus Mu**.
+
+## Удаление Опций Гармонии
+
+Когда дело доходит до отличных предметов, единственное лицо, способное удалить **Опцию Гармонии**, прикрепленную к ним, это **Джерридон**. Его опыт и помощь неоценимы при удалении Опции Гармонии с этих замечательных предметов.
 
 :::info
 
-**Jerridon** can be encountered within the vicinity of [Yoskreth](/maps/yoskreth).
+**Джерридон** можно встретить в окрестностях [Йоскрета](/maps/yoskreth).
 
 :::
 
-By seeking out **Jerridon's** aid, you can effectively remove the Harmony Option and potentially replace it with a more desirable alternative, further enhancing the overall potential and value of your Excellent items.
+Обратившись за помощью к **Джерридону**, вы можете эффективно удалить Опцию Гармонии и, возможно, заменить ее более желательной альтернативой, дополнительно усиливая общий потенциал и стоимость ваших отличных предметов.
 
-![Jerridon](/img/npc/jerridon.jpg)
+![Джерридон](/img/npc/jerridon.jpg)
 
-_Jerridon_
+_Джерридон_

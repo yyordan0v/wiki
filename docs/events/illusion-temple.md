@@ -196,9 +196,9 @@ For a comprehensive breakdown of the **Illusion Temple rewards**, refer to the t
 |   Illusion Temple 5   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    40 EP     |
 |   Illusion Temple 6   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    80 EP     |
 
-![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Lilac Candy Box & Purple Chaos box Box_
+_Orange Candy Box & Purple Chaos box Box_
 
 :::note
 

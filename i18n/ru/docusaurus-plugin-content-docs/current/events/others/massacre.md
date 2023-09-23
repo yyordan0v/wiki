@@ -4,68 +4,68 @@ sidebar_position: 9
 
 # Massacre Event
 
-The **Massacre Event** is a thrilling **PvP competition** that brings intense battles and fierce rivalry to the world of **Lotus Mu**.
+**Событие Резни** - захватывающий **PvP-турнир**, который приносит интенсивные битвы и ожесточенную конкуренцию в мир **Lotus Mu**.
 
-This **GM-triggered** event offers players the chance to engage in a **20-player** free-for-all brawl where the goal is to **accumulate points** by defeating opponents and outlasting the competition.
+Это **событие, инициируемое GM**, предоставляет игрокам возможность участвовать в **бесплатной битве 20 игроков** с целью **набора очков**, побеждая оппонентов и продержавшись до конца соревнования.
 
-## How to Participate
+## Как участвовать
 
-When a **GM** initiates the **Massacre Event**, a global notice will be broadcasted to all players, inviting them to join the action.
+Когда **GM** инициирует **Событие Резни**, глобальное уведомление будет транслироваться всем игрокам, приглашая их присоединиться к действию.
 
 :::tip
 
-To participate, simply type the command **`/go`** to indicate your willingness to enter the event.
+Для участия просто введите команду **`/go`**, чтобы выразить свою готовность вступить в событие.
 
 :::
 
-Once **confirmed**, you will be **instantly transported** to the event area and bestowed with **temporary PK status**, allowing you to engage in unrestricted player-versus-player combat.
+После **подтверждения**, вы мгновенно перенесетесь на место события и получите **временный статус PK**, позволяющий вам участвовать в боях между игроками без ограничений.
 
-![Masscre Event](/img/events/massacre/massacre-start.jpg)
+![Событие Резни](/img/events/massacre/massacre-start.jpg)
 
-_Masscre Event_
+_Событие Резни_
 
-## Rules and Objectives
+## Правила и Задачи
 
-Upon the start of the **Massacre Event**, all participating players become **enemies**, and the battlefield transforms into a chaotic arena of battle. The **primary objective** is to earn points by **eliminating opponents** while also striving to **stay alive** to avoid point deductions.
+По началу **События Резни** все участвующие игроки становятся **врагами**, и поле боя превращается в хаотичную арену битвы. **Основной задачей** является заработок очков, **убивая оппонентов**, а также стремление **оставаться в живых**, чтобы избежать уменьшения очков.
 
 :::info
 
-Here's how points are earned and deducted:
+Вот как зарабатываются и вычитаются очки:
 
-- **Killing an enemy:** +2 points
-- **Dying:** -1 point
+- **Убийство врага:** +2 очка
+- **Смерть:** -1 очко
 
 :::
 
-To claim **victory**, participants must be the first to accumulate **30 points** or hold the **highest point total** when the event's maximum duration is reached.
+Для **победы** участники должны быть первыми, кто наберет **30 очков** или будет иметь **наивысший итоговый счет**, когда достигнут максимальный срок события.
 
-![Masscre Event Points](/img/events/massacre/massacre-points.jpg)
+![Очки События Резни](/img/events/massacre/massacre-points.jpg)
 
-_Masscre Event Points_
+_Очки События Резни_
 
-## Event Specifications
+## Технические характеристики события
 
-At the end of the event, the player with the **most points** or the first to reach **30 points** will be declared the winner.
+По окончании события игрок с **наибольшим количеством очков** или первый, кто наберет **30 очков**, будет объявлен победителем.
 
-![Masscre Event](/img/events/massacre/massacre-end.jpg)
+![Событие Резни](/img/events/massacre/massacre-end.jpg)
 
-_Masscre Event_
+_Событие Резни_
 
 :::info
 
-- **Maximum Players:** 20
-- **Maximum Time:** 10 minutes
-- **Points Needed to Win:** 30
+- **Максимальное количество игроков:** 20
+- **Максимальное время:** 10 минут
+- **Очки для Победы:** 30
 
 :::
 
-Prepare for an adrenaline-pumping battle and demonstrate your combat prowess in the **Massacre Event**. Engage in relentless combat, secure kills, and earn points to emerge as the ultimate victor in this high-stakes PvP showdown. Will you be able to master the chaos and claim victory in the arena?
+Подготовьтесь к адреналиновой битве и продемонстрируйте свое боевое мастерство в **Событии Резни**. Участвуйте в безжалостных схватках, уничтожайте противников и зарабатывайте очки, чтобы стать абсолютным победителем в этом соревновании PvP с высокими ставками. Сможете ли вы овладеть хаосом и одержать победу на арене?
 
-## Reward
+## Награда
 
-Players will be rewarded depending on their final placement as follows:
+Игроки будут награждены в зависимости от их финального места следующим образом:
 
-| Rank | Reward                                                       |
+| Ранг | Награда                                                      |
 | ---- | ------------------------------------------------------------ |
 | 1.   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |
 | 2.   | [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box) |

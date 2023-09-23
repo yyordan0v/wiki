@@ -7,54 +7,54 @@ import TabItem from '@theme/TabItem';
 
 # Golden Great Dragon Invasion
 
-Embark on an extraordinary adventure as we delve into the legendary **Golden Great Dragon** Invasion in Lotus Mu. In this captivating article, we uncover the awe-inspiring power and magnificence of the **Golden Great Dragon**, as well as the trials and triumphs that await players who dare to face this mighty creature. Prepare to witness the clash of titans and discover the extraordinary rewards that lie in wait for those who prove themselves worthy in this epic battle.
+Отправьтесь в удивительное приключение, погрузившись в легендарное Вторжение **Золотых Великих Драконов** в Lotus Mu. В этой захватывающей статье мы раскроем впечатляющую мощь и великолепие **Золотого Великого Дракона**, а также испытания и победы, ожидающие игроков, смеющих встретиться с этим могучим существом. Подготовьтесь стать свидетелями столкновения титанов и обнаружьте невероятные награды, ждущие тех, кто окажется достойным в этой эпической битве.
 
-## Place of Invasion
+## Место Вторжения
 
-The **Golden Great Dragon** Invasion unleashes relentless fury across multiple kingdoms, devastating the lands of **Lotus Mu**. We will explore the targeted locations and witness the catastrophic scale of this cataclysmic event later in that article.
+Вторжение **Золотых Великих Драконов** развязывает беспощадную ярость по множеству королевств, опустошая земли **Lotus Mu**. Мы исследуем выбранные местоположения и увидим катастрофический масштаб этого катаклизма позже в этой статье.
 
-## Schedule
+## Расписание
 
-The table below presents valuable insights regarding the timing and frequency of the **Golden Great Dragon Invasion** in **Lotus Mu**.
+В таблице ниже представлены ценные сведения о времени и частоте Вторжения **Золотых Великих Драконов** в **Lotus Mu**.
 
-| First Invasion time | Reappearing Time |
-| :-----------------: | :--------------: |
-|      09:50:00       |  Every 12 hour   |
+| Время первого Вторжения | Время повторения |
+| :---------------------: | :--------------: |
+|        09:50:00         | Каждые 12 часов  |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать [игровое расписание](/client-features/schedule) или [веб-расписание](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Обратите внимание, что таймер Вторжения основан на серверном времени.
 
 :::
 
-## Invasion Details
+## Подробности Вторжения
 
 ```mdx-code-block
 <Tabs lazy>
   <TabItem value="golden-knight" label="Golden Knight">
 ```
 
-The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **Lotus Mu**.
+**Золотой Рыцарь**, могучий и неумолимый воин, вселяет страх в сердца тех, кто осмеливается встретить его с его исключительными боевыми навыками и несгибаемой решимостью в мире **Lotus Mu**.
 
-![Golden Knight](/img/monsters/special/golden/golden-iron-knight.jpg)
+![Золотой Рыцарь](/img/monsters/special/golden/golden-iron-knight.jpg)
 
-_Golden Knight_
+_Золотой Рыцарь_
 
-#### Location
+#### Местоположение
 
-The menacing **Golden Knight** wreaks havoc in the serene lands of **Lotus Mu**, instilling chaos and fear. Find the Golden Knight on the designated map:
+Зловещий **Золотой Рыцарь** сеет хаос и страх в спокойных землях **Lotus Mu**. Найдите Золотого Рыцаря на указанной карте:
 
 - [Kanturu Ruins](/maps/kanturu-ruins)
 
-#### Quantity
+#### Количество
 
-During the invasion only **1** Golden Knight is crawling somewhere in **Kanturu**. .
+Во время Вторжения только **1** Золотой Рыцарь скитается где-то в **Kanturu**.
 
-#### Reward
+#### Награда
 
-By slaying that creature a player will be rewarded a [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
+Убив этого существа, игрок будет награжден [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
 
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
@@ -65,25 +65,25 @@ _Red Chaos Box_
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
 ```
 
-The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Lotus Mu**.
+**Золотой Двойной Хвост**, очаровательное и могучее существо, завораживает авантюристов своим волшебным присутствием и бросает им вызов своими смертоносными атаками в мире **Lotus Mu**.
 
-![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg)
+![Золотой Двойной Хвост](/img/monsters/special/golden/golden-twin-tail.jpg)
 
-_Golden Twin Tail_
+_Золотой Двойной Хвост_
 
-#### Location
+#### Местоположение
 
-The area targeted by the **Golden Twin Tail** consistently encompass the following map:
+Область, целью атаки **Золотого Двойного Хвоста**, всегда охватывает следующую карту:
 
 - [Kanturu Relics](/maps/kanturu-relics)
 
-#### Quantity
+#### Количество
 
-During the invasion only **1** Golden Twin Tale is somewhere on the above mentioned maps.
+Во время Вторжения только **1** Золотой Двойной Хвост где-то на указанных выше картах.
 
-#### Reward
+#### Награда
 
-When a player kills a **Golden Twin Tail**, they will receive a [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
+Когда игрок убивает **Золотой Двойной Хвост**, он получает: [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
 
 ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
@@ -94,25 +94,26 @@ _Green Ribbon Box_
   <TabItem value="golden-great-dragon" label="Golden Great Dragon">
 ```
 
-The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **Lotus Mu**.
+**Золотой Великий Дракон**, легендарное и внушительное существо, владеет уважением и благоговением своим величественным присутствием и могуществом в мире **Лотус Му**.
 
-![Golden Great Dragon](/img/monsters/special/golden/golden-great-dragon.jpg)
+![Золотой Великий Дракон](/img/monsters/special/golden/golden-great-dragon.jpg)
 
-_Golden Great Dragon_
+_Золотой Великий Дракон_
 
-#### Location
+#### Местоположение
 
-The **Golden Great Dragons** consistently attack only the following map:
+**Золотые Великие Драконы** постоянно атакуют только следующую карту:
 
-- [La Cleon](/maps/la-cleon)
+- [Ла Клеон](/maps/la-cleon)
 
-#### Quantity
+#### Количество
 
-Throughout the invasion, a solitary **Golden Great Dragon** is encountered, making it a **unique** and **singular** presence within the realm.
+В течение вторжения встречается только один **Золотой Великий Дракон**, что делает его **уникальным** и **единственным** существом в мире.
 
-#### Reward
+#### Награда
 
-When the **Golden Great Dragon** dies, he drops the legendary [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+Когда **Золотой Великий Дракон** умирает, он сбрасывает легендарную
+[Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
 
 ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 

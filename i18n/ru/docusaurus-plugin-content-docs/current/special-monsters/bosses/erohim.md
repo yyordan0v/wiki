@@ -4,55 +4,55 @@ sidebar_position: 4
 
 # Erohim
 
-In a distant era, **Erohim** perpetrated a heinous act of murder, taking the life of his own master, Bala. As punishment for this grievous transgression, he was condemned to eternal imprisonment in the [Land of Trials](/maps/land-of-trials).
+В далекую эпоху **Эрохим** совершил злодеяние, убив собственного учителя, Балу. В наказание за это тяжкое преступление его приговорили к вечному заключению в [Земле Испытаний](/maps/land-of-trials).
 
-Within this desolate realm, **Erohim** reigns, breathing life back into the fallen inhabitants. Driven by his insidious ambitions, he seeks to extend his undead dominion across the vast expanse of the MU continent.
+В этом пустынном царстве **Эрохим** царствует, оживляя павших обитателей. Ведомый своим коварным амбициями, он стремится распространить своё неживое господство по обширным просторам континента MU.
 
-![Erohim](/img/monsters/special/bosses/erohim.jpg)
+![Эрохим](/img/monsters/special/bosses/erohim.jpg)
 
-_Erohim_
+_Эрохим_
 
-## Details
+## Детали
 
-### Aida
+### Аида
 
-Prepare yourself for an exhilarating expedition through the perilous realm of [Aida](/maps/aida) as you gear up to face the mighty **Erohim**, a creature whose sheer power and presence are sure to captivate and challenge you.
+Приготовьтесь к захватывающей экспедиции по опасному миру [Аида](/maps/aida), снаряжаясь для встречи с могучим **Эрохимом**, сущностью, сила и присутствие которой обязательно вас зачаруют и вызовут на бой.
 
-|      Location      |   Time   | Frequency |
-| :----------------: | :------: | :-------: |
-| [Aida](/maps/aida) | 23:50:00 | Every 24h |
+|   Местоположение   |  Время   |    Частота     |
+| :----------------: | :------: | :------------: |
+| [Аида](/maps/aida) | 23:50:00 | Каждые 24 часа |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать как [внутриигровое расписание](/client-features/schedule), так и [расписание на веб-сайте](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Учтите, что таймер нашествия работает по серверному времени.
 
 :::
 
 :::tip
 
-A Global message will appear to all players when the **Erohim** spawns in Aida.
+Глобальное сообщение появится перед всеми игроками, когда **Эрохим** появится в Аиде.
 
 :::
 
-### Land of Trials
+### Земля Испытаний
 
-One of the advantages bestowed upon the victorious guild in the [Castle Siege Event](/events/castle-siege) is the exclusive privilege of having a dedicated **Erohim** boss solely accessible to members of their guild.
+Одним из преимуществ, предоставленных победившей гильдии в [Событии Захвата Замка](/events/castle-siege), является эксклюзивное право на босса **Эрохима**, доступное исключительно членам их гильдии.
 
-|                Location                |     Respawn Time      |
-| :------------------------------------: | :-------------------: |
-| [Land of Trials](/maps/land-of-trials) | 11 hours after killed |
+|             Местоположение              |       Время возрождения       |
+| :-------------------------------------: | :---------------------------: |
+| [Земля Испытаний](/maps/land-of-trials) | Через 11 часов после убийства |
 
-### Castle Deep
+### Замок Глубокий
 
-Erohim is set to emerge upon the conclusion of the [Castle Deep](/events/castle-deep) event.
+Эрохим готовится появиться по завершении события [Замок Глубокий](/events/castle-deep).
 
-The event takes place in the [Valley of Loren](/maps/valley-of-loren). You are required to eliminate the spawned creatures. Once all adversaries have been vanquished, **Erohim** will materialize.
+Событие происходит в [Долине Лорен](/maps/valley-of-loren). Вам нужно уничтожить появившихся существ. Как только все противники будут побеждены, **Эрохим** воплотится в жизнь.
 
-## Reward
+## Награда
 
-Upon successfully killing the **Erohim**, players will be rewarded with:
+После успешного убийства **Эрохима**, игроки будут награждены:
 
 |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
 | :----------------------------------------------------------------: |

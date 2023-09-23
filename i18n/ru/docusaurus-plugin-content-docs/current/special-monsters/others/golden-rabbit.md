@@ -4,29 +4,29 @@ sidebar_position: 11
 
 # Golden Rabbit
 
-This article explores the **Golden Rabbit** - a special monster in the **Lotus Mu** realm.
+В этой статье рассматривается **Golden Rabbit** - специальный монстр в мире **Lotus Mu**.
 
-The focus is on its location and what this monster rewards adventurers who manage to kill it.
+Основное внимание уделяется его местоположению и тому, какие награды этот монстр предоставляет искателям приключений, сумевшим убить его.
 
 ![Golden Rabbit](/img/monsters/special/golden/golden-rabbit.jpg)
 
 _Golden Rabbit_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Rabbit** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Golden Rabbit** по всему миру.
 
-|                Location                | Quantity |           Respawn Time           |
-| :------------------------------------: | :------: | :------------------------------: |
-|       [Icewrack](/maps/icewrack)       |    5     | **3 minutes** after being killed |
-|      [El'Harath](/maps/el-harath)      |    5     | **3 minutes** after being killed |
-|        [Ultoria](/maps/ultoria)        |    5     | **3 minutes** after being killed |
-|       [Ashkavor](/maps/ashkavor)       |    5     | **3 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    10    | **3 minutes** after being killed |
+|             Местоположение              | Количество |      Время Воскрешения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|    [Ледяная Пустошь](/maps/icewrack)    |     5      | **3 минуты** после убийства |
+|      [Эль-Харат](/maps/el-harath)       |     5      | **3 минуты** после убийства |
+|        [Ультория](/maps/ultoria)        |     5      | **3 минуты** после убийства |
+|        [Ашкавор](/maps/ashkavor)        |     5      | **3 минуты** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     10     | **3 минуты** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Golden Rabbit**, players will be rewarded with:
+После успешного убийства **Golden Rabbit**, игроки будут вознаграждены следующим:
 
 | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |
 | :-----------------------------------------------------------: |

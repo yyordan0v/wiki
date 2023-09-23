@@ -4,35 +4,35 @@ sidebar_position: 2
 
 # Box of Kundun +2
 
-The **Box of Kundun +2** is an extraordinary item in Mu Online that players can acquire by defeating particular monsters, get from another item bag or completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of **excellent** items to collect.
+**Коробка Кундуна +2** - это необычный предмет в Mu Online, который игроки могут получить, победив определенных монстров, получить из другой сумки с предметами или после завершения [заданий](/gameplay-systems/quest-system). При открытии она предоставляет игрокам разнообразные **превосходные** предметы для сбора.
 
-![Box of Kundun +2](/img/items/item-bags/bok-2.png)
+![Коробка Кундуна +2](/img/items/item-bags/bok-2.png)
 
-_Box of Kundun +2_
+_Коробка Кундуна +2_
 
-## Item Drops
+## Дроп предметов
 
-The **Box of Kundun +2** can drop one of the following items:
+**Коробка Кундуна +2** может выпасть один из следующих предметов:
 
-### Armor items
+### Предметы брони
 
 |                  Scale Set                   |                  Brass Set                   |                  Bone Set                  |                  Wind Set                  |
 | :------------------------------------------: | :------------------------------------------: | :----------------------------------------: | :----------------------------------------: |
 | ![Scale Set](/img/items/armors/dk/scale.png) | ![Brass Set](/img/items/armors/dk/brass.png) | ![Bone Set](/img/items/armors/dw/bone.png) | ![Wind Set](/img/items/armors/fe/wind.png) |
 
-### Weapons
+### Оружие
 
 |                     Helical Sword                     |                     Bill of Balrog                      |                    Gorgon Staff                     |                  Silver Bow                   |
 | :---------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------: |
 | ![Helical Sword](/img/items/swords/helical-sword.png) | ![Bill of Balrog](/img/items/spears/bill-of-balrog.png) | ![Gorgon Staff](/img/items/staffs/gorgon-staff.png) | ![Silver Bow](/img/items/bows/silver-bow.png) |
 
-### Shields
+### Щиты
 
 |                     Elven Shield                     |                  Buckler                   |                     Spiked Shield                      |                     Plate Shield                     |
 | :--------------------------------------------------: | :----------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
 | ![Elven Shield](/img/items/shields/elven-shield.png) | ![Buckler](/img/items/shields/buckler.png) | ![Spiked Shield](/img/items/shields/spiked-shield.png) | ![Plate Shield](/img/items/shields/plate-shield.png) |
 
-### Special Drops
+### Специальные дропы
 
 | [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3) |
 | :----------------------------------------------------------: |
@@ -40,19 +40,19 @@ The **Box of Kundun +2** can drop one of the following items:
 
 :::note
 
-Please note that the drop rates for these items may vary and the items are **excellent**.
+Обратите внимание, что шансы на добычу этих предметов могут варьироваться, и предметы являются **превосходными**.
 
 :::
 
-## Obtaining the Box of Kundun +2
+## Получение Коробки Кундуна +2
 
-To obtain the **Box of Kundun +2**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
+Чтобы получить **Коробку Кундуна +2**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
 | [Golden Titan](/special-monsters/invasions/golden-dragon) |
 | :-------------------------------------------------------: |
 |  ![Golden Titan](/img/monsters/special/golden/titan.jpg)  |
 
-There is also chance that you get **Box of Kundun +2** dropped by one of the following item bags:
+Также есть шанс получить **Коробку Кундуна +2** как дроп из одной из следующих сумок с предметами:
 
 |   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Navy Candy Box](/items/item-bags/misc/navy-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |

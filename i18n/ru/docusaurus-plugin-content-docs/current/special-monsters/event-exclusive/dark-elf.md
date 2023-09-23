@@ -4,25 +4,25 @@ sidebar_position: 2
 
 # Dark Elf
 
-Throughout the [Crywolf Event](/events/crywolf), the assistance of **Dark Elves** is enlisted by [Balgass](/special-monsters/bosses/balgass) in his assault. These highly skilled and exceptional warriors pose a formidable challenge, demanding significant effort to defeat. However, their defeat promises substantial rewards to those who can overcome these elite monsters.
+На протяжении [События Крайвульфа](/events/crywolf), помощь **Темных Эльфов** призывается [Балгассом](/special-monsters/bosses/balgass) для его нападения. Эти высококвалифицированные и исключительные воины представляют собой серьезное испытание, требующее значительных усилий для победы. Однако их победа обещает существенные награды тем, кто сможет одолеть этих элитных монстров.
 
-![Dark Elf](/img/monsters/special/others/dark-elf.jpg)
+![Темный Эльф](/img/monsters/special/others/dark-elf.jpg)
 
-_Dark Elf_
+_Темный Эльф_
 
-## Details
+## Детали
 
-These creatures can be encountered only during the [Crywolf Event](/events/crywolf).
+Эти существа могут быть встречены только во время [События Крайвульфа](/events/crywolf).
 
 :::tip
 
-You can find more information on when exactly the Dark Elves appear in the [Crywolf Event](/events/crywolf) article.
+Вы можете найти более подробную информацию о времени появления Темных Эльфов в статье [События Крайвульфа](/events/crywolf).
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing a **Dark Elf**, players will be rewarded with a [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+После успешного убийства **Темного Эльфа**, игроки будут награждены [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
 
 ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 

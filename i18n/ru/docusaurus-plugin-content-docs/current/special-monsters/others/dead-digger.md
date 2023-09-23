@@ -4,26 +4,26 @@ sidebar_position: 8
 
 # Dead Digger
 
-Embark on a captivating expedition as we delve into the realm of darkness, uncovering the enigmatic secrets of the **Dead Digger** special monster.
+Отправляйтесь в увлекательное экспедицию, вглядываясь в мир тьмы и раскрывая загадочные секреты специального монстра **Dead Digger**.
 
-Within this article, we unravel the elusive whereabouts of this formidable creature, providing valuable insights on where to encounter it. Furthermore, we delve into the bountiful rewards that await intrepid adventurers who dare to face this fearsome foe.
+В этой статье мы раскрываем загадочное местоположение этого сильного существа, предоставляя ценные сведения о том, где его можно встретить. Кроме того, мы подробно рассмотрим щедрые награды, которые ожидают смелых искателей приключений, смеющих столкнуться с этим страшным врагом.
 
 ![Dead Digger](/img/monsters/special/others/dead-digger.jpg)
 
 _Dead Digger_
 
-## Details
+## Подробности
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Dead Digger** across the realm.
+Следующая таблица предоставляет подробную информацию о местоположении, времени воскрешения и количестве доступных **Dead Digger** по всему миру.
 
-|                Location                | Quantity |           Respawn Time            |
-| :------------------------------------: | :------: | :-------------------------------: |
-|       [Icewrack](/maps/icewrack)       |    5     | **10 minutes** after being killed |
-| [Land of Trials](/maps/land-of-trials) |    5     | **10 minutes** after being killed |
+|             Местоположение              | Количество |      Время Воскрешения      |
+| :-------------------------------------: | :--------: | :-------------------------: |
+|     [Ледяной Мрак](/maps/icewrack)      |     5      | **10 минут** после убийства |
+| [Земля Испытаний](/maps/land-of-trials) |     5      | **10 минут** после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing a **Dead Digger**, players will be rewarded with one of the following:
+После успешного убийства **Dead Digger**, игроки будут вознаграждены одним из следующих предметов:
 
 |                      Blood Bone +8                      |                          Scroll of Archangel +8                           |
 | :-----------------------------------------------------: | :-----------------------------------------------------------------------: |
@@ -31,6 +31,6 @@ Upon successfully killing a **Dead Digger**, players will be rewarded with one o
 
 :::tip
 
-These artifacts are used as a component in the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) crafting procedure.
+Эти артефакты используются в процессе создания [Плаща Невидимости](/crafting/invitations/invisibility-cloak).
 
 :::

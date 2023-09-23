@@ -4,49 +4,49 @@ sidebar_position: 7
 
 # Kundun
 
-Within the enigmatic realm of [Kalima 7](/maps/kalima), a domain shrouded in mystery, lie treasures yet unseen in the vast Continent of MU. Here, amidst the depths of [Kalima 7](/maps/kalima), the formidable figure of **Lord Kundun** patiently awaits the arrival of courageous adventurers like yourself, beckoning you to face him in an ultimate showdown of strength and skill.
+В загадочном мире [Калима 7](/maps/kalima), окруженном тайной, лежат сокровища, еще не увиденные на обширном Континенте MU. Здесь, глубоко в [Калима 7](/maps/kalima), могучая фигура **Лорда Кундуна** терпеливо ожидает прихода отважных приключенцев, подобных вам, приглашая вас сразиться с ним в конечном испытании силы и мастерства.
 
-Brace yourself for a thrilling journey into the heart of [Kalima 7](/maps/kalima), where untold treasures and a legendary battle against **Lord Kundun** await those daring enough to venture forth.
+Готовьтесь к захватывающему путешествию в самое сердце [Калима 7](/maps/kalima), где несказанные сокровища и легендарное сражение с **Лордом Кундуном** ждут тех, кто осмелится отправиться вперед.
 
-![Kundun](/img/monsters/special/bosses/kundun.jpg)
+![Кундун](/img/monsters/special/bosses/kundun.jpg)
 
-_Kundun_
+_Кундун_
 
-## Details
+## Детали
 
-Embark on an extraordinary adventure into the depths of [Kalima 7](/maps/kalima) and brace yourself for an encounter with the awe-inspiring **Kundun**, a fearsome entity whose presence commands both respect and fear.
+Отправьтесь в необыкновенное приключение в глубины [Калима 7](/maps/kalima) и готовьтесь к встрече с впечатляющим **Кундуном**, страшным существом, присутствие которого велит и уважение, и страх.
 
-### Kalima
+### Калима
 
-|         Location         |   Time   | Frequency |
-| :----------------------: | :------: | :-------: |
-| [Kalima 7](/maps/kalima) | 17:50:00 | Every 24h |
+|      Местоположение      |  Время   |    Частота     |
+| :----------------------: | :------: | :------------: |
+| [Калима 7](/maps/kalima) | 17:50:00 | Каждые 24 часа |
 
 :::info
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+У вас есть возможность использовать как [внутриигровое расписание](/client-features/schedule), так и [расписание на веб-сайте](https://lotusmu.org/schedule), чтобы проверить оставшееся время до начала следующего события.
 
-Please take into account that the invasion timer is based on the server time.
+Учтите, что таймер нашествия работает по серверному времени.
 
 :::
 
 :::tip
 
-A Global message will appear to all players when the **Lord Kundun** spawns.
+Глобальное сообщение появится перед всеми игроками, когда появится **Лорд Кундун**.
 
 :::
 
-### Land of Trials
+### Земля Испытаний
 
-One of the advantages bestowed upon the victorious guild in the [Castle Siege Event](/events/castle-siege) is the exclusive privilege of having a dedicated **Kundun** boss solely accessible to members of their guild.
+Одним из преимуществ, предоставленных победившей гильдии в [Событии Захвата Замка](/events/castle-siege), является эксклюзивное право на босса **Кундуна**, доступное исключительно членам их гильдии.
 
-|                Location                |     Respawn Time      |
-| :------------------------------------: | :-------------------: |
-| [Land of Trials](/maps/land-of-trials) | 25 hours after killed |
+|             Местоположение              |       Время возрождения       |
+| :-------------------------------------: | :---------------------------: |
+| [Земля Испытаний](/maps/land-of-trials) | Через 25 часов после убийства |
 
-## Reward
+## Награда
 
-Upon successfully killing the **Kundun**, players will be rewarded with:
+После успешного убийства **Кундуна**, игроки будут награждены:
 
 |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
@@ -54,6 +54,6 @@ Upon successfully killing the **Kundun**, players will be rewarded with:
 
 :::note
 
-Upon successfully killing the mighty **Kundun**, players will be rewarded with **5** randomly selected item bags from the assortment displayed above.
+После успешного убийства могучего **Кундуна**, игроки получат **5** случайно выбранных мешков с предметами из представленного ассортимента.
 
 :::

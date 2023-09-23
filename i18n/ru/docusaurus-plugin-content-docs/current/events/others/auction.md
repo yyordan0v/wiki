@@ -4,55 +4,55 @@ sidebar_position: 1
 
 # Auction
 
-The **Auction Event** is an exciting event in **Lotus Mu** that provides players with the opportunity to bid on valuable items using **Quest Points**. This event takes place every day, with three auctions held in the morning (starting at 06:00 AM) and three in the evening (starting at 18:00 PM).
+**Событие Аукциона** - захватывающее мероприятие в **Lotus Mu**, которое предоставляет игрокам возможность ставить ставки на ценные предметы, используя **Очки Заданий**. Это событие происходит каждый день, с тремя аукционами утром (начиная с 06:00 утра) и тремя вечером (начиная с 18:00 вечера).
 
-## Event Details
+## Подробности События
 
-During the **Auction Event**, all online players have the chance to participate and bid on items using their **Quest Points**. The event is designed to be both competitive and engaging, allowing players to vie for coveted items.
+Во время **События Аукциона** все игроки в сети имеют возможность участвовать и делать ставки на предметы, используя свои **Очки Заданий**. Мероприятие разработано так, чтобы быть как конкурентоспособным, так и увлекательным, позволяя игрокам бороться за желанные предметы.
 
-### Minimum Bid Amount
+### Минимальная Сумма Ставки
 
-Players can place their bids with a minimum of **1 Quest Point**. This low entry requirement ensures that all players have the chance to participate in the auctions.
+Игроки могут делать ставки с минимальной суммой **1 Очко Заданий**. Этот низкий порог входа обеспечивает всем игрокам возможность участвовать в аукционах.
 
-### Auction Time Limits
+### Ограничения по Времени Аукциона
 
-There are specific time limits for each auction to keep the event fast-paced and exciting:
+Для каждого аукциона установлены конкретные ограничения времени, чтобы событие проходило быстро и увлекательно:
 
-- **Maximum Idle Time**: 1 minute
-- **Maximum Auction Time**: 9 minutes
+- **Максимальное Время Простоя**: 1 минута
+- **Максимальное Время Аукциона**: 9 минут
 
-## Participating in the Auction
+## Участие в Аукционе
 
-When the event starts, an **auction hammer icon** will appear in the rightmost part of the screen for all players. By clicking on this icon, the **auction window** will open, displaying essential information for the ongoing auction:
+Когда начинается событие, в правой части экрана для всех игроков появится **икона аукционного молотка**. Нажав на эту иконку, откроется **окно аукциона**, отображающее основную информацию о текущем аукционе:
 
-- Current item up for auction
-- Minimum offer required to bid
-- Bid button to place your bid
-- Time left for the auction
+- Текущий предмет на аукционе
+- Минимальная ставка для участия
+- Кнопка ставки для размещения вашей ставки
+- Оставшееся время до окончания аукциона
 
-![Auction Window](/img/events/auction/auction-system.jpg)
+![Окно Аукциона](/img/events/auction/auction-system.jpg)
 
-_Auction Window_
+_Окно Аукциона_
 
-### Placing Bids
+### Размещение Ставок
 
-To participate in the auction, players can place their bids by clicking the **bid button** in the auction window. When a player places a bid, a **system notice** will be sent to all active players, informing them of the new highest bid.
+Чтобы участвовать в аукционе, игроки могут разместить свои ставки, нажав на кнопку **ставки** в окне аукциона. Когда игрок делает ставку, **системное уведомление** будет отправлено всем активным игрокам, информируя их о новой наивысшей ставке.
 
-### Auction Conclusion
+### Завершение Аукциона
 
-If the **idle time** of **1 minute** passes without any higher bids, or if the **auction time** of **9 minutes** expires, the auction will come to an end.The highest bidder at the conclusion of the auction will win the item.
+Если **время простоя** в **1 минуту** проходит без более высоких ставок, или если **время аукциона** в **9 минут** истекает, аукцион завершится. Победитель аукциона в конце получит предмет.
 
-A **system notice** will be sent to all players, announcing the winner of the auction.
+**Системное уведомление** будет отправлено всем игрокам, объявляя победителя аукциона.
 
-In the auction window, a "**Receive Your Prize**" button will appear for the winner to claim their prize. This marks the successful completion of the **Auction Event**, providing players with exciting opportunities to acquire valuable items through competitive bidding.
+В окне аукциона появится кнопка "**Получить свой приз**" для победителя, чтобы забрать свой приз. Это означает успешное завершение **События Аукциона**, предоставляя игрокам захватывающие возможности приобрести ценные предметы через конкурентные ставки.
 
-![Auction - Receive Your Prize](/img/events/auction/auction-end.jpg)
+![Аукцион - Получите свой приз](/img/events/auction/auction-end.jpg)
 
-_Auction - Receive Your Prize_
+_Аукцион - Получите свой приз_
 
-## Auction Items
+## Предметы Аукциона
 
-The **Auction Event** offers a variety of valuable items up for bid in both the morning and evening sessions. Some of the items that players can expect to find in the auctions include:
+**Событие Аукциона** предлагает разнообразие ценных предметов на ставки как утром, так и вечером. Некоторые из предметов, которые игроки могут ожидать найти на аукционах, включают:
 
 - [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/)
 - [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5)
@@ -60,8 +60,8 @@ The **Auction Event** offers a variety of valuable items up for bid in both the 
 
 :::note
 
-Over time, these items will undergo modifications.
+Со временем эти предметы могут быть изменены.
 
 :::
 
-Participate in the **Lotus Mu Auction Event** and put your Quest Points to good use by bidding on unique and desirable items!
+Участвуйте в **Событии Аукциона Lotus Mu** и используйте свои Очки Заданий, делая ставки на уникальные и желанные предметы!

@@ -4,13 +4,13 @@ sidebar_position: 9
 
 # Golden Box
 
-The **Golden Box** is an extraordinary item in Mu Online that only the [Castle](/events/castle-siege) owners can acquire. Altough hard to craft, it's rewards can be compared to nothing else.
+**Золотая Коробка** - это необычный предмет в Mu Online, который могут получить только владельцы [Замка](/events/castle-siege). Несмотря на то, что его сложно создать, его награды можно сравнить с ничем другим.
 
-![Golden Box](/img/items/item-bags/golden-box.png)
+![Золотая Коробка](/img/items/item-bags/golden-box.png)
 
-_Golden Box_
+_Золотая Коробка_
 
-## Item Drops
+## Дроп предметов
 
 The **Golden Box** randomly yields **a collection of x5 items** from the following selection:
 
@@ -18,14 +18,16 @@ The **Golden Box** randomly yields **a collection of x5 items** from the followi
 | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
 
-## Obtaining the Golden Box
+**Золотая Коробка** случайным образом выдаёт **коллекцию из 5 предметов** из следующего выбора:
 
-**Golden Box** is being crafted via the [Senior Mix](/crafting/senior-mix).
+## Получение Золотой Коробки
+
+**Золотая Коробка** создается с помощью [Старшего Микса](/crafting/senior-mix).
 
 :::tip
-To acquire knowledge on crafting the **Golden Box**, you may visit the [Senior Mix](/crafting/senior-mix) article, which provides detailed instructions on the process.
+Для получения информации о создании **Золотой Коробки**, вы можете посетить статью о [Старшем Миксе](/crafting/senior-mix), которая предоставляет подробные инструкции по процессу.
 :::
 
-![Senior](/img/npc/senior.jpg)
+![Старший](/img/npc/senior.jpg)
 
-_Senior_
+_Старший_

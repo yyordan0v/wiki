@@ -4,23 +4,23 @@ sidebar_position: 4
 
 # Jewel of Recovery
 
-The remarkable **Jewel of Recovery** grants you the ability to bestow your cherished **ring** or **pendant** an additional level of **Automatic HP Recovery** option.
+Замечательный **Jewel of Recovery** дарит вам возможность придать вашему драгоценному **кольцу** или **ожерелью** дополнительный уровень опции **Automatic HP Recovery**.
 
 ![Jewel of Recovery](/img/items/jewels/custom-purple.png)
 
 _Jewel of Recovery_
 
-The **Jewel of Recovery** offers the ability to add an additional level of **Automatic HP Recovery** to a **ring** or **pendant**.
+**Jewel of Recovery** предоставляет возможность добавить дополнительный уровень опции **Automatic HP Recovery** к **кольцу** или **ожерелью**.
 
-It is worth noting that this enhancement process carries a **success rate of 50%**, signifying the likelihood of achieving the desired outcome.
+Следует отметить, что этот процесс усовершенствования имеет **шанс успеха в 50%**, что указывает на вероятность достижения желаемого результата.
 
 :::caution
 
-In the event of an **unsuccessful upgrade**, the item will **retain** its original state, unaffected by the application of the jewel.
+В случае **неудачного улучшения**, предмет **сохранит** своё исходное состояние, не затронутый применением данного камня.
 
 :::
 
-You can obtain the **Jewel of Recovery** from:
+**Jewel of Recovery** можно получить из:
 
 |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
 | :----------------------------------------------------------: |

@@ -4,29 +4,29 @@ sidebar_position: 6
 
 # Selupan
 
-**Selupan** is a highly powerful boss with immense health and defense, utilizing a wide range of skills such as poison, freeze, teleportation, knockback, and summoning guards.
+**Селупан** - высоко мощный босс с огромным запасом здоровья и защиты, использующий широкий набор навыков, таких как яд, замораживание, телепортация, отталкивание и призыв стражей.
 
-![Selupan](/img/monsters/special/bosses/selupan.jpg)
+![Селупан](/img/monsters/special/bosses/selupan.jpg)
 
-_Selupan_
+_Селупан_
 
-## Details
+## Детали
 
-The passageway to the **Hatchery** is called the Hatchery Gate Portal, which is located in [La Cleon](/maps/la-cleon) (147, 28).
+Путь к **Птичьему Разведению** называется Порталом Ворот Птичьего Разведения и находится в [Ла Клеоне](/maps/la-cleon) (147, 28).
 
-|          Location          |     Respawn Time      |
-| :------------------------: | :-------------------: |
-| [La Cleon](/maps/la-cleon) | 25 hours after killed |
+|       Местоположение       |       Время возрождения       |
+| :------------------------: | :---------------------------: |
+| [Ла Клеон](/maps/la-cleon) | Через 25 часов после убийства |
 
 :::tip
 
-A Global message will appear to all players when the **Selupan** is about to spawn.
+Глобальное сообщение появится перед всеми игроками, когда **Селупан** собирается появиться.
 
 :::
 
-## Reward
+## Награда
 
-Upon successfully killing the **Selupan**, players will be rewarded with:
+После успешного убийства **Селупана**, игроки будут награждены:
 
 |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
@@ -34,6 +34,6 @@ Upon successfully killing the **Selupan**, players will be rewarded with:
 
 :::note
 
-Upon successfully killing the mighty **Selupan**, players will be rewarded with **5** randomly selected item bags from the assortment displayed above.
+После успешного убийства могучего **Селупана**, игроки получат **5** случайно выбранных мешков с предметами из представленного ассортимента.
 
 :::

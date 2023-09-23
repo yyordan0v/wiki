@@ -4,20 +4,20 @@ sidebar_position: 1
 
 # Jewel of Chaos
 
-The **Jewel of Chaos**, characterized by its distinctive hexagonal shape in a vibrant yellow or golden color, is a fundamental and widely encountered jewel in Mu Online. It plays a crucial role in chaos combinations, adding an element of unpredictability to item synthesis.
+**Драгоценность Хаоса**, характеризующаяся своей характерной гексагональной формой в ярком желтом или золотом цвете, является фундаментальным и широко встречающимся драгоценным камнем в Mu Online. Она играет важную роль в хаос-комбинациях, добавляя элемент непредсказуемости в синтез предметов.
 
-![Jewel of Chaos](/img/items/jewels/chaos.png)
+![Драгоценность Хаоса](/img/items/jewels/chaos.png)
 
-_Jewel of Chaos_
+_Драгоценность Хаоса_
 
-To obtain the **Jewel of Chaos**, adventurers can embark on hunting expeditions targeting monsters. These formidable foes hold the potential to drop this coveted jewel, allowing players to acquire it through their victories in combat.
+Чтобы получить **Драгоценность Хаоса**, искатели приключений могут отправиться в охоту за монстрами. Эти могущественные враги могут выпадать этот желанный драгоценный камень, позволяя игрокам получать его благодаря своим победам в бою.
 
 :::tip
 
-Alternatively, in the realm of Lotus Mu, the game administration has introduced the option to acquire the **Jewel of Chaos** or **Jewel of Chaos Bundles** by completing [quests](/gameplay-systems/quest-system).
+Кроме того, в мире Lotus Mu администрация игры предоставила возможность получать **Драгоценность Хаоса** или **Наборы Драгоценности Хаоса**, выполняя [квесты](/gameplay-systems/quest-system).
 
 :::
 
-![Jewel of Chaos Bundle 10](/img/items/jewels/chaos-10.png) ![Jewel of Chaos Bundle 20](/img/items/jewels/chaos-20.png) ![Jewel of Chaos Bundle 30](/img/items/jewels/chaos-30.png)
+![Набор Драгоценности Хаоса 10](/img/items/jewels/chaos-10.png) ![Набор Драгоценности Хаоса 20](/img/items/jewels/chaos-20.png) ![Набор Драгоценности Хаоса 30](/img/items/jewels/chaos-30.png)
 
-_Jewel of Chaos Bundles_
+_Наборы Драгоценности Хаоса_

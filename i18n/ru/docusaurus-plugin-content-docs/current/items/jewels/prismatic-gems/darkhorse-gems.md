@@ -2,41 +2,39 @@
 sidebar_position: 3
 ---
 
-# Darkhorse Prismatic Gems
+# Темные драгоценные камни для коня (Darkhorse Prismatic Gems)
 
-The enchanting **Darkhorse Prismatic Gems** grant players a unique opportunity to transform the appearances of their [Tier 2 Pets](/category/pets), be it the formidable [Necromancer](/crafting/pets/Necromancer), the ethereal [Spirit of Nature](/crafting/pets/spirit-of-nature), or the spectral [Ghost Horse](/crafting/pets/ghost-horse).
+Очаровательные **Темные драгоценные камни для коня** предоставляют игрокам уникальную возможность изменить внешний вид их [питомцев второго уровня](/category/pets), будь то могущественный [Некромант](/crafting/pets/Necromancer), этерический [Дух природы](/crafting/pets/spirit-of-nature) или призрачная [Призрачная лошадь](/crafting/pets/ghost-horse).
 :::tip
 
-For further information about the Skin System, you can explore our comprehensive [Skin System](/skin-system) article.
+Для получения дополнительной информации о Системе скинов вы можете ознакомиться с нашей подробной статьей о [Системе скинов](/skin-system).
 
 :::
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Призматический камень](/img/items/jewels/prismatic-gem.png)
 
-_Prismatic Gem_
+_Призматический камень_
 
-## Variations
+## Вариации
 
-By infusing one of the **Darkhorse Prismatic Gems** into your [Tier 2 Pet](/category/pets), you can effortlessly modify their appearances, with each Gem offering a unique metamorphosis determined by the **specific** Prismatic Gem used during the process.
+Вставив один из **Темных драгоценных камней для коня** в вашего [питомца второго уровня](/category/pets), вы можете легко изменить его внешний вид, причем каждый камень предлагает уникальное преображение, определяемое **конкретным** использованным призматическим камнем.
 
 :::note
 
-Please be aware that the infusion process only alters the pet's appearance while preserving its original stats.
+Обратите внимание, что процесс внедрения изменяет только внешний вид питомца, сохраняя его изначальные характеристики.
 
 :::
 
-| Red Darkhorse [<span className="tier-rare">**Rare**</span>]  |      Blue Darkhorse [<span className="tier-rare">**Rare**</span>]      |     Pink Darkhorse [<span className="tier-rare">**Rare**</span>]      |     Orange Darkhorse [<span className="tier-rare">**Rare**</span>]     |
-| :----------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|     ![Red Darkhorse](/img/items/pets/red-dark-horse.jpg)     |         ![Blue Darkhorse](/img/items/pets/blue-dark-horse.jpg)         |        ![Pink Darkhorse](/img/items/pets/pink-dark-horse.jpg)         |       ![Orange Darkhorse](/img/items/pets/orange-dark-horse.jpg)       |
-| Gold Darkhorse [<span className="tier-rare">**Rare**</span>] | Purple Darkhorse [<span className="tier-mythical">**Mythical**</span>] | Green Darkhorse [<span className="tier-mythical">**Mythical**</span>] | Cyan Darkhorse [<span className="tier-legendary">**Legendary**</span>] |
-|    ![Gold Darkhorse](/img/items/pets/gold-dark-horse.jpg)    |       ![Purple Darkhorse](/img/items/pets/purple-dark-horse.jpg)       |       ![Green Darkhorse](/img/items/pets/green-dark-horse.jpg)        |         ![Cyan Darkhorse](/img/items/pets/cyan-dark-horse.jpg)         |
+| Красный темный конь [<span className="tier-rare">**Редкий**</span>] |       Синий темный конь [<span className="tier-rare">**Редкий**</span>]        |     Розовый темный конь [<span className="tier-rare">**Редкий**</span>]     |     Оранжевый темный конь [<span className="tier-rare">**Редкий**</span>]     |
+| :-----------------------------------------------------------------: | :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|     ![Красный темный конь](/img/items/pets/red-dark-horse.jpg)      |           ![Синий темный конь](/img/items/pets/blue-dark-horse.jpg)            |         ![Розовый темный конь](/img/items/pets/pink-dark-horse.jpg)         |        ![Оранжевый темный конь](/img/items/pets/orange-dark-horse.jpg)        |
+| Золотой темный конь [<span className="tier-rare">**Редкий**</span>] | Фиолетовый темный конь [<span className="tier-mythical">**Мифический**</span>] | Зеленый темный конь [<span className="tier-mythical">**Мифический**</span>] | Голубой темный конь [<span className="tier-legendary">**Легендарный**</span>] |
+|     ![Золотой темный конь](/img/items/pets/gold-dark-horse.jpg)     |        ![Фиолетовый темный конь](/img/items/pets/purple-dark-horse.jpg)        |        ![Зеленый темный конь](/img/items/pets/green-dark-horse.jpg)         |          ![Голубой темный конь](/img/items/pets/cyan-dark-horse.jpg)          |
 
 :::info
 
-The **Darkhorse Prismatic Gems** can be obtained via the [Darkhorse Collector's Cache](/skin-system#jagod-di).
+**Темные драгоценные камни для коня** можно получить через [Сокровищница коллекционера Темного коня](/skin-system#jagod-di).
 
-![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
+![Сокровищница коллекционера Темного коня](/img/items/item-bags/darkhorse-cache.png)
 
-_Darkhorse Collector's Cache_
-
-:::
+_Сокровищница коллекционера Темного коня_

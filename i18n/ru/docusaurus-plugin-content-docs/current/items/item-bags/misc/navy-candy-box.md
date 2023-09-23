@@ -4,23 +4,23 @@ sidebar_position: 5
 
 # Navy Candy Box
 
-The **Navy Candy Box** is an extraordinary item in Mu Online that players can acquire from another item bag or by completing [quests](/gameplay-systems/quest-system). When opened, it offers players a variety of items to collect.
+**Синяя Коробка Конфет** - это необычный предмет в Mu Online, который игроки могут получить из другой сумки с предметами или по завершении [заданий](/gameplay-systems/quest-system). При открытии она предлагает игрокам разнообразные предметы для сбора.
 
-![Navy Candy Box](/img/items/item-bags/navy-candy-box.png)
+![Синяя Коробка Конфет](/img/items/item-bags/navy-candy-box.png)
 
-_Navy Candy Box_
+_Синяя Коробка Конфет_
 
-## Item Drops
+## Дроп предметов
 
-The **Navy Candy Box** can drop one of the following items:
+**Синяя Коробка Конфет** может выпасть один из следующих предметов:
 
 | [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) | [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) | [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     ![Box of Kundun +1](/img/items/item-bags/bok-1.png)      |     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      |     ![Box of Kundun +3](/img/items/item-bags/bok-3.png)      |
 
-## Obtaining the Navy Candy Box
+## Получение Синей Коробки Конфет
 
-There is a chance to obtain the **Navy Candy Box** from:
+Существует шанс получить **Синюю Коробку Конфет** из:
 
 | [Gold Medal](/items/item-bags/non-exc/gold-medal)  |
 | :------------------------------------------------: |
