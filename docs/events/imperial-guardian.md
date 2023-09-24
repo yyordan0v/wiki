@@ -46,8 +46,6 @@ _Jerint_
 
 The map's difficulty level will be automatically adjusted to match your character's level.
 
-All
-
 :::
 
 ### Sunday
