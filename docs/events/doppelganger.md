@@ -40,13 +40,15 @@ Please be aware that if **other players** are **currently engaged** in the **Dop
 
 As the **Doppelganger** Event **commences**, players are tasked with the critical mission of **protecting** their **Magical Barrier** from monster onslaughts.
 
-> PLACE IMAGE (DEFENDING BARRIER)
+![Magical Barrier](/img/events/doppelganger/defending-barrier.jpg)
+
+_Magical Barrier_
 
 Monsters emerge from their respective barriers and gradually advance toward yours. The event is structured around multiple waves, with each wave presenting escalating challenges, including the appearance of formidable Boss Monsters.
 
-> PLACE IMAGE (MONSTER SPAWN)
+![Monsters Barrier](/img/events/doppelganger/monster-spawn.jpg)
 
-> SHOULD WE MOVE BOSSES WITH DROPS HERE?
+_Monsters Barrier_
 
 ## The Doppelganger Arena
 
@@ -83,13 +85,19 @@ _Doppelganger Interface_
 
 ## The Finale and Rewards
 
-**Successfully** kill all three waves of monsters and their [Boss counterparts](/category/doppelganger) to unlock rewards — the **Silver and Golden Chests**.
+**Successfully** kill all three waves of monsters and their [Boss counterparts](/category/doppelganger) to unlock rewards — the **Interim and Final Reward Chests**.
 
-> PLACE IMAGE (GOLDEN SILVER CHEST)
+![Interim Reward Chests](/img/events/doppelganger/silver-chest.jpg)
+
+_Interim Reward Chests_
+
+![Final Reward Chests](/img/events/doppelganger/golden-chest.jpg)
+
+_Final Reward Chests_
 
 ### First Wave
 
-After killing successfully the [Slaughterer](/special-monsters/event-exclusive/doppelganger/slaughterer) a **Silver Chest** will appear with its rewards.
+After killing successfully the [Slaughterer](/special-monsters/event-exclusive/doppelganger/slaughterer) an **Interim Reward Chest** will appear with its rewards.
 
 ![Slaughterer](/img/monsters/special/others/slaughterer.jpg)
 
@@ -97,7 +105,7 @@ _Slaughterer_
 
 ### Second Wave
 
-After killing successfully the [Furious Slaughterer](/special-monsters/event-exclusive/doppelganger/furious-slaughterer) a **Silver Chest** will appear with its rewards.
+After killing successfully the [Furious Slaughterer](/special-monsters/event-exclusive/doppelganger/furious-slaughterer) an **Interim Reward Chest** will appear with its rewards.
 
 ![Furious Slaughterer](/img/monsters/special/others/furious-slaughterer.jpg)
 
@@ -113,7 +121,7 @@ _Ice Walker_
 
 :::info
 
-After successfuly completing the **Doppelganger** a **Golden Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
+After successfuly completing the **Doppelganger** a **Final Reward Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
 
 ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png)
 
