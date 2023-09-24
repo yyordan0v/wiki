@@ -54,7 +54,9 @@ Here's how to get involved:
 
 5. **Battle Begins**: As the waiting room phase concludes, the **Team Clash** battle begins in earnest. Players from **Team Red** and **Team Blue** will be teleported to an arena where they'll engage in intense PvP battles to earn points for their respective teams.
 
-> PLACE IMAGE (BATTLE ARENA)
+   ![Team Clash Arena](/img/events/team-clash-arena.jpg)
+
+   _Team Clash Arena_
 
 ## Victory and Rewards
 

@@ -100,31 +100,39 @@ The Blood Castle duration is **15 minutes**.
 
 1. First you will find yourself on the **bridge**, on which you will need to kill many monsters.
 
-> PLACE IMAGE (Bridge monsters)
+   ![Blood Castle Bridge](/img/events/bc/bc-bridge-monsters.jpg)
+
+   _Blood Castle Bridge_
 
 2. After killing the monsters and crossing the bridge to the castle gates, you will need to break the **gates**.
 
-> PLACE IMAGE BC GATES
+   ![Blood Castle Gate](/img/events/bc/bc-gates.jpg)
+
+   _Blood Castle Gate_
 
 3. Once inside the **Castle**, the first step is to kill the **Magic Sorcerers** (2 sorcerers for one player, 4 for two players and etc.).
 
-> PLACE IMAGE (inside castle)
+   ![Blood Castle Inside](/img/events/bc/bc-inside-castle.jpg)
+
+   _Blood Castle Inside_
 
 4. After the reprisal against the sorcerers, you will need to find the way to **the statue**, which contains the **Archangel's Weapon**.
 
-> PLACE IMAGE (STATUE)
+   ![Blood Castle Statue](/img/events/bc/bc-statue.jpg)
+
+   _Blood Castle Statue_
 
 5. Having reached the **crystal statue**, in the hands of which is the **Archangel's Weapon**, you must find the strenght within you to smash it and take the **weapon**.
 
-![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
+   ![Archangel Crossbow](/img/events/bc/archcross.jpeg) ![Archangel Staff](/img/events/bc/archstaf.jpeg) ![Archangel Sword](/img/events/bc/archsword.jpeg)
 
-_Archangel Weapons_
+   _Archangel Weapons_
 
 6. Having picked up the **weapon**, return back to the **Archangel**, simultaneously fighting off the monsters. Now you just need to give the **weapon** back to its owner.
 
-![Fallen Angel](/img/events/bc/fallen-angel.jpg)
+   ![Fallen Angel](/img/events/bc/fallen-angel.jpg)
 
-_Fallen Angel_
+   _Fallen Angel_
 
 ## Reward
 

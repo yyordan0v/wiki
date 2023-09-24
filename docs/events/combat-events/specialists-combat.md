@@ -56,11 +56,15 @@ To take part in the Specialists' Combat Event, follow these steps:
 
 4. Gather with fellow warriors in the **waiting room**, eagerly awaiting your chance to prove your combat skills.
 
-   > PLACE IMAGE (waiting room)
+   ![Waiting Room](/img/events/spcialists-combat/waiting-gate.jpg)
+
+   _Waiting Room_
 
 5. Once the event initiates, give your best in the **1v1 battles**, aiming to score **3 points** against your opponents.
 
-   > PLACE IMAGE (battle arena)
+   ![Battle Arena](/img/events/spcialists-combat/battle-arena.jpg)
+
+   _Battle Arena_
 
 6. Win rounds, claim rewards, and strive for the prestigious title of the event's **final winner**.
 
