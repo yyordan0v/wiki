@@ -25,7 +25,6 @@ _Красная Коробка Шоколада_
 Чтобы получить **Красную Коробку Шоколада**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими [Эксклюзивными Событиями](/category/events-exclusive-monsters):
 
 - [Doppelganger Special Monsters](/category/doppelganger)
-- [Imeperial Guardian Special Monsters](/category/imperial-guardian)
 
 Другой способ получения **Красной Коробки Шоколада** - победить в одном из следующих Событий:
 

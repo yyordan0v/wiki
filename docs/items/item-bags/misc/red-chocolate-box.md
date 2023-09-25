@@ -25,7 +25,6 @@ The **Red Chocolate Box** can drop one of the following items:
 To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following [Event Exclusive](/category/events-exclusive-monsters) creatures:
 
 - [Doppelganger Special Monsters](/category/doppelganger)
-- [Imeperial Guardian Special Monsters](/category/imperial-guardian)
 
 Another way to obtain the **Red Chocolate Box** is to win in one of the following Events:
 

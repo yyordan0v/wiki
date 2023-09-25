@@ -42,12 +42,6 @@ After obtaining the **Gaion's Order**, you can proceed to [Yoskreth](/maps/yoskr
 
 _Jerint_
 
-:::note
-
-The map's difficulty level will be automatically adjusted to match your character's level.
-
-:::
-
 ### Sunday
 
 To enter the Sunday's final boss zone, you must possess a [Complete Secromicon](/crafting/invitations/complete-secromicon/).
@@ -66,13 +60,7 @@ _Complete Secromicon_
 
 ## Gameplay
 
-During the **Imperial Guardian** participants must progress through various levels, each inhabited by [specific monsters](/category/imperial-guardian). Eliminating these monsters will yield valuable rewards.
-
-:::info
-
-You can find more information about the specific monsters in **Imperial Guardian** and the rewards they offer in the [Events Exclusive Monsters](/category/imperial-guardian) category.
-
-:::
+During the **Imperial Guardian** participants must progress through various levels, each inhabited by specific monsters including **Side Bosses**. Eliminating these bosses will yield valuable rewards.
 
 To Win in **Imperial Guardian**, players need to eliminate all monsters within the given **10-minute time frame**.
 
@@ -101,22 +89,18 @@ After succeeding in the Event, each party member will be granted a **Secromicon 
 
 _Secromicon Fragment_
 
-Additionally each party member will receive rewards, deepending on the Event's difficulty level as follows:
+Additionally players will receive rewards as follows:
 
-| Difficulty Level    | Reward       |
-| ------------------- | ------------ |
-| Imperial Guardian 1 | PLACE REWARD |
-| Imperial Guardian 2 | PLACE REWARD |
-| Imperial Guardian 3 | PLACE REWARD |
-| Imperial Guardian 4 | PLACE REWARD |
+| Boss        | Reward                                                          |
+| ----------- | --------------------------------------------------------------- |
+| Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
+| Main Boss   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)     |
 
 ### Sunday
 
 On the **final day**, the rewards are more substantial than usual, making it **highly beneficial** to stay committed and obtain the **Complete Secromicon**. The table below outlines the corresponding rewards:
 
-| Difficulty Level    | Reward       |
-| ------------------- | ------------ |
-| Imperial Guardian 1 | PLACE REWARD |
-| Imperial Guardian 2 | PLACE REWARD |
-| Imperial Guardian 3 | PLACE REWARD |
-| Imperial Guardian 4 | PLACE REWARD |
+| Boss        | Reward                                                          |
+| ----------- | --------------------------------------------------------------- |
+| Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
+| Main Boss   | [Red Chaos Box](/items/item-bags/exc/red-chaos-box/)            |
