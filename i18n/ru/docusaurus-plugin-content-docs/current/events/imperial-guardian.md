@@ -96,6 +96,10 @@ _Фрагмент Секромикона_
 | Боковые Боссы | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 | Главный Босс  | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)     |
 
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+
+_Pink Chocolate Box & Purple Chaos box_
+
 ### Воскресенье
 
 В **финальный день** награды более существенные, чем обычно, поэтому **крайне выгодно** оставаться в игре и получать **Полный Секромикон**. В таблице ниже приведены соответствующие награды:
@@ -104,3 +108,7 @@ _Фрагмент Секромикона_
 | ------------- | --------------------------------------------------------------- |
 | Боковые Боссы | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 | Главный Босс  | [Red Chaos Box](/items/item-bags/exc/red-chaos-box/)            |
+
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+
+_Pink Chocolate Box & Red Chaos box_
