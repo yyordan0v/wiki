@@ -96,6 +96,10 @@ Additionally players will receive rewards as follows:
 | Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 | Main Boss   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)     |
 
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+
+_Pink Chocolate Box & Purple Chaos box_
+
 ### Sunday
 
 On the **final day**, the rewards are more substantial than usual, making it **highly beneficial** to stay committed and obtain the **Complete Secromicon**. The table below outlines the corresponding rewards:
@@ -104,3 +108,7 @@ On the **final day**, the rewards are more substantial than usual, making it **h
 | ----------- | --------------------------------------------------------------- |
 | Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 | Main Boss   | [Red Chaos Box](/items/item-bags/exc/red-chaos-box/)            |
+
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+
+_Pink Chocolate Box & Red Chaos box_
