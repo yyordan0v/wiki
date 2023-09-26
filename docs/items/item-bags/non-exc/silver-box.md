@@ -12,6 +12,12 @@ In this article you can find information about the items that can be obtained fr
 
 _Silver Box_
 
+:::tip
+
+To obtain the **Silver Box**, adventurers must either slay **any** monsters in [Kalima 7](/maps/kalima) or [Land of Trials](/maps/land-of-trials).
+
+:::
+
 ## Item Drops
 
 The **Silver Box** can drop the one of following items:
@@ -27,7 +33,3 @@ The **Silver Box** can drop the one of following items:
 Please note that these items are [ancients](/items/ancient-items).
 
 :::
-
-## Obtaining the Silver Box
-
-To obtain the **Silver Box**, adventurers must either slay **any** monsters in [Kalima 7](/maps/kalima) or [Land of Trials](/maps/land-of-trials).
