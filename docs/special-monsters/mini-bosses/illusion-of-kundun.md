@@ -38,11 +38,11 @@ You can learn on how to reach these monsters trough the [Kalima](/maps/kalima) a
 
 When an **Illusion of Kundun** in **Kalima 1** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-|   [Warrior Leather](/items/ancient-items/#warrior-leather-set)   |  [Apollo Pad](/items/ancient-items/#apollo-pad-set)  |  [Ceto Vine](/items/ancient-items/#ceto-vine-set)  |
-| :--------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: |
-|       ![Warrior Leather](/img/items/armors/dk/leather.png)       |     ![Apollo Pad](/img/items/armors/dw/pad.png)      |    ![Ceto Vine](/img/items/armors/fe/vine.png)     |
-| [Anonymous Leather](/items/ancient-items/#anonymous-leather-set) | [Barnake Pad](/items/ancient-items/#barnake-pad-set) | [Drake Vine](/items/ancient-items/#drake-vine-set) |
-|      ![Anonymous Leather](/img/items/armors/dk/leather.png)      |     ![Barnake Pad](/img/items/armors/dw/pad.png)     |    ![Drake Vine](/img/items/armors/fe/vine.png)    |
+|  [Warrior Leather](/items/ancient-items/#ancient-sets)  | [Apollo Pad](/items/ancient-items/#ancient-sets)  | [Ceto Vine](/items/ancient-items/#ancient-sets)  |
+| :-----------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |
+|  ![Warrior Leather](/img/items/armors/dk/leather.png)   |    ![Apollo Pad](/img/items/armors/dw/pad.png)    |   ![Ceto Vine](/img/items/armors/fe/vine.png)    |
+| [Anonymous Leather](/items/ancient-items/#ancient-sets) | [Barnake Pad](/items/ancient-items/#ancient-sets) | [Drake Vine](/items/ancient-items/#ancient-sets) |
+| ![Anonymous Leather](/img/items/armors/dk/leather.png)  |   ![Barnake Pad](/img/items/armors/dw/pad.png)    |   ![Drake Vine](/img/items/armors/fe/vine.png)   |
 
 ```mdx-code-block
   </TabItem>
@@ -56,11 +56,11 @@ When an **Illusion of Kundun** in **Kalima 1** is successfully defeated, players
 
 When an **Illusion of Kundun** in **Kalima 2** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-| [Hyperion Bronze](/items/ancient-items/#hyperion-bronze-set) |   [Evis Bone](/items/ancient-items/#evis-bone-set)   | [Gaia Silk](/items/ancient-items/#gaia-silk-set) |
-| :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
-|     ![Hyperion Bronze](/img/items/armors/dk/bronze.png)      |     ![Evis Bone](/img/items/armors/dw/bone.png)      |   ![Gaia Silk](/img/items/armors/fe/silk.png)    |
-|     [Mist Bronze](/items/ancient-items/#mist-bronze-set)     | [Sylion Bone](/items/ancient-items/#sylion-bone-set) | [Fase Silk](/items/ancient-items/#fase-silk-set) |
-|       ![Mist Bronze](/img/items/armors/dk/bronze.png)        |    ![Sylion Bone](/img/items/armors/dw/bone.png)     |   ![Fase Silk](/img/items/armors/fe/silk.png)    |
+| [Hyperion Bronze](/items/ancient-items/#ancient-sets) |  [Evis Bone](/items/ancient-items/#ancient-sets)  | [Gaia Silk](/items/ancient-items/#ancient-sets) |
+| :---------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
+|  ![Hyperion Bronze](/img/items/armors/dk/bronze.png)  |    ![Evis Bone](/img/items/armors/dw/bone.png)    |   ![Gaia Silk](/img/items/armors/fe/silk.png)   |
+|   [Mist Bronze](/items/ancient-items/#ancient-sets)   | [Sylion Bone](/items/ancient-items/#ancient-sets) | [Fase Silk](/items/ancient-items/#ancient-sets) |
+|    ![Mist Bronze](/img/items/armors/dk/bronze.png)    |   ![Sylion Bone](/img/items/armors/dw/bone.png)   |   ![Fase Silk](/img/items/armors/fe/silk.png)   |
 
 ```mdx-code-block
   </TabItem>
@@ -74,11 +74,11 @@ When an **Illusion of Kundun** in **Kalima 2** is successfully defeated, players
 
 When an **Illusion of Kundun** in **Kalima 3** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-|    [Eplate Scale](/items/ancient-items/#eplate-scale-set)    |   [Evis Bone](/items/ancient-items/#evis-bone-set)   | [Gaia Silk](/items/ancient-items/#gaia-silk-set) |
-| :----------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------: |
-|       ![Eplate Scale](/img/items/armors/dk/scale.png)        |     ![Evis Bone](/img/items/armors/dw/bone.png)      |   ![Gaia Silk](/img/items/armors/fe/silk.png)    |
-| [Berserker Scale](/items/ancient-items/#berserker-scale-set) | [Sylion Bone](/items/ancient-items/#sylion-bone-set) | [Fase Silk](/items/ancient-items/#fase-silk-set) |
-|      ![Berserker Scale](/img/items/armors/dk/scale.png)      |    ![Sylion Bone](/img/items/armors/dw/bone.png)     |   ![Fase Silk](/img/items/armors/fe/silk.png)    |
+|  [Eplate Scale](/items/ancient-items/#ancient-sets)   |  [Evis Bone](/items/ancient-items/#ancient-sets)  | [Gaia Silk](/items/ancient-items/#ancient-sets) |
+| :---------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
+|    ![Eplate Scale](/img/items/armors/dk/scale.png)    |    ![Evis Bone](/img/items/armors/dw/bone.png)    |   ![Gaia Silk](/img/items/armors/fe/silk.png)   |
+| [Berserker Scale](/items/ancient-items/#ancient-sets) | [Sylion Bone](/items/ancient-items/#ancient-sets) | [Fase Silk](/items/ancient-items/#ancient-sets) |
+|  ![Berserker Scale](/img/items/armors/dk/scale.png)   |   ![Sylion Bone](/img/items/armors/dw/bone.png)   |   ![Fase Silk](/img/items/armors/fe/silk.png)   |
 
 ```mdx-code-block
   </TabItem>
@@ -92,11 +92,11 @@ When an **Illusion of Kundun** in **Kalima 3** is successfully defeated, players
 
 When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-| [Garuda Brass](/items/ancient-items/#garuda-brass-set) | [Heras Sphinx](/items/ancient-items/#heras-sphinx-set) |   [Odin Wind](/items/ancient-items/#odin-wind-set)   |
-| :----------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-|    ![Garuda Brass](/img/items/armors/dk/brass.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)    |     ![Odin Wind](/img/items/armors/fe/wind.png)      |
-|  [Cloud Brass](/items/ancient-items/#cloud-brass-set)  | [Minet Sphinx](/items/ancient-items/#minet-sphinx-set) | [Elvian Wind](/items/ancient-items/#elvian-wind-set) |
-|     ![Cloud Brass](/img/items/armors/dk/brass.png)     |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Elvian Wind](/img/items/armors/fe/wind.png)     |
+| [Garuda Brass](/items/ancient-items/#ancient-sets) | [Heras Sphinx](/items/ancient-items/#ancient-sets) |  [Odin Wind](/items/ancient-items/#ancient-sets)  |
+| :------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------: |
+|  ![Garuda Brass](/img/items/armors/dk/brass.png)   |  ![Heras Sphinx](/img/items/armors/dw/sphinx.png)  |    ![Odin Wind](/img/items/armors/fe/wind.png)    |
+| [Cloud Brass](/items/ancient-items/#ancient-sets)  | [Minet Sphinx](/items/ancient-items/#ancient-sets) | [Elvian Wind](/items/ancient-items/#ancient-sets) |
+|   ![Cloud Brass](/img/items/armors/dk/brass.png)   |  ![Minet Sphinx](/img/items/armors/dw/sphinx.png)  |   ![Elvian Wind](/img/items/armors/fe/wind.png)   |
 
 ```mdx-code-block
   </TabItem>
@@ -110,11 +110,11 @@ When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players
 
 When an **Illusion of Kundun** in **Kalima 5** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-| [Kantata Plate](/items/ancient-items/#kantata-plate-set) | [Heras Sphinx](/items/ancient-items/#heras-sphinx-set) |  [Argo Spirit](/items/ancient-items/#argo-spirit-set)  |
-| :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-|     ![Kantata Plate](/img/items/armors/dk/plate.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Argo Spirit](/img/items/armors/fe/spirit.png)     |
-|    [Rave Plate](/items/ancient-items/#rave-plate-set)    | [Minet Sphinx](/items/ancient-items/#minet-sphinx-set) | [Karis Spirit](/items/ancient-items/#karis-spirit-set) |
-|      ![Rave Plate](/img/items/armors/dk/plate.png)       |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Karis Spirit](/img/items/armors/fe/spirit.png)    |
+| [Kantata Plate](/items/ancient-items/#ancient-sets) | [Heras Sphinx](/items/ancient-items/#ancient-sets) | [Argo Spirit](/items/ancient-items/#ancient-sets)  |
+| :-------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
+|  ![Kantata Plate](/img/items/armors/dk/plate.png)   |  ![Heras Sphinx](/img/items/armors/dw/sphinx.png)  |  ![Argo Spirit](/img/items/armors/fe/spirit.png)   |
+|  [Rave Plate](/items/ancient-items/#ancient-sets)   | [Minet Sphinx](/items/ancient-items/#ancient-sets) | [Karis Spirit](/items/ancient-items/#ancient-sets) |
+|    ![Rave Plate](/img/items/armors/dk/plate.png)    |  ![Minet Sphinx](/img/items/armors/dw/sphinx.png)  |  ![Karis Spirit](/img/items/armors/fe/spirit.png)  |
 
 ```mdx-code-block
   </TabItem>
@@ -128,11 +128,11 @@ When an **Illusion of Kundun** in **Kalima 5** is successfully defeated, players
 
 When an **Illusion of Kundun** in **Kalima 6** is successfully defeated, players will be rewarded with an [Ancient Item](/items/ancient-items/).
 
-|    [Hyon Dragon](/items/ancient-items/#hyon-dragon-set)    | [Anubis Legendary](/items/ancient-items/#anubis-legendary-set) | [Gywen Guardian](/items/ancient-items/#gywen-guardian-set) | [Gaion Storm Crow](/items/ancient-items/#gaion-storm-crow-set) | [Agnis Adamantine](/items/ancient-items/#agnis-adamantine-set) |
-| :--------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
-|      ![Hyon Dragon](/img/items/armors/dk/dragon.png)       |    ![Anubis Legendary](/img/items/armors/dw/legendary.png)     |    ![Gywen Guardian](/img/items/armors/fe/guardian.png)    |    ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png)    |    ![Agnis Adamantine](/img/items/armors/dl/adamantine.png)    |
-| [Vicious Dragon](/items/ancient-items/#vicious-dragon-set) |   [Enis Legendary](/items/ancient-items/#enis-legendary-set)   | [Aruan Guardian](/items/ancient-items/#aruan-guardian-set) | [Muren Storm Crow](/items/ancient-items/#muren-storm-crow-set) |  [Broy Adamantine](/items/ancient-items/#broy-adamantine-set)  |
-|     ![Vicious Dragon](/img/items/armors/dk/dragon.png)     |     ![Enis Legendary](/img/items/armors/dw/legendary.png)      |    ![Aruan Guardian](/img/items/armors/fe/guardian.png)    |    ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png)    |    ![Broy Adamantine](/img/items/armors/dl/adamantine.png)     |
+|  [Hyon Dragon](/items/ancient-items/#ancient-sets)   | [Anubis Legendary](/items/ancient-items/#ancient-sets)  | [Gywen Guardian](/items/ancient-items/#ancient-sets) | [Gaion Storm Crow](/items/ancient-items/#ancient-sets) |  [Agnis Adamantine](/items/ancient-items/#ancient-sets)  |
+| :--------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: |
+|   ![Hyon Dragon](/img/items/armors/dk/dragon.png)    | ![Anubis Legendary](/img/items/armors/dw/legendary.png) | ![Gywen Guardian](/img/items/armors/fe/guardian.png) |  ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png)  | ![Agnis Adamantine](/img/items/armors/dl/adamantine.png) |
+| [Vicious Dragon](/items/ancient-items/#ancient-sets) |  [Enis Legendary](/items/ancient-items/#ancient-sets)   | [Aruan Guardian](/items/ancient-items/#ancient-sets) | [Muren Storm Crow](/items/ancient-items/#ancient-sets) |  [Broy Adamantine](/items/ancient-items/#ancient-sets)   |
+|  ![Vicious Dragon](/img/items/armors/dk/dragon.png)  |  ![Enis Legendary](/img/items/armors/dw/legendary.png)  | ![Aruan Guardian](/img/items/armors/fe/guardian.png) |  ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png)  | ![Broy Adamantine](/img/items/armors/dl/adamantine.png)  |
 
 ```mdx-code-block
 
