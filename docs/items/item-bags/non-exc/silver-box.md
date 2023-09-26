@@ -14,7 +14,7 @@ _Silver Box_
 
 :::tip
 
-To obtain the **Silver Box**, adventurers must either slay **any** monsters in [Kalima 7](/maps/kalima) or [Land of Trials](/maps/land-of-trials).
+To obtain the **Silver Box**, adventurers must slay **any** monsters in either [Kalima 7](/maps/kalima) or [Land of Trials](/maps/land-of-trials).
 
 :::
 
