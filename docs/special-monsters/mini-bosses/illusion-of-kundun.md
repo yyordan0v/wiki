@@ -94,9 +94,9 @@ When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players
 
 | [Garuda Brass](/items/ancient-items/#garuda-brass-set) | [Heras Sphinx](/items/ancient-items/#heras-sphinx-set) |   [Odin Wind](/items/ancient-items/#odin-wind-set)   |
 | :----------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-|    ![Garuda Brass](/img/items/armors/dk/brass.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphnix.png)    |     ![Odin Wind](/img/items/armors/fe/wind.png)      |
+|    ![Garuda Brass](/img/items/armors/dk/brass.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)    |     ![Odin Wind](/img/items/armors/fe/wind.png)      |
 |  [Cloud Brass](/items/ancient-items/#cloud-brass-set)  | [Minet Sphinx](/items/ancient-items/#minet-sphinx-set) | [Elvian Wind](/items/ancient-items/#elvian-wind-set) |
-|     ![Cloud Brass](/img/items/armors/dk/brass.png)     |    ![Minet Sphinx](/img/items/armors/dw/sphnix.png)    |    ![Elvian Wind](/img/items/armors/fe/wind.png)     |
+|     ![Cloud Brass](/img/items/armors/dk/brass.png)     |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Elvian Wind](/img/items/armors/fe/wind.png)     |
 
 ```mdx-code-block
   </TabItem>
@@ -112,9 +112,9 @@ When an **Illusion of Kundun** in **Kalima 5** is successfully defeated, players
 
 | [Kantata Plate](/items/ancient-items/#kantata-plate-set) | [Heras Sphinx](/items/ancient-items/#heras-sphinx-set) |  [Argo Spirit](/items/ancient-items/#argo-spirit-set)  |
 | :------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-|     ![Kantata Plate](/img/items/armors/dk/plate.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphnix.png)    |    ![Argo Spirit](/img/items/armors/fe/spirit.png)     |
+|     ![Kantata Plate](/img/items/armors/dk/plate.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Argo Spirit](/img/items/armors/fe/spirit.png)     |
 |    [Rave Plate](/items/ancient-items/#rave-plate-set)    | [Minet Sphinx](/items/ancient-items/#minet-sphinx-set) | [Karis Spirit](/items/ancient-items/#karis-spirit-set) |
-|      ![Rave Plate](/img/items/armors/dk/plate.png)       |    ![Minet Sphinx](/img/items/armors/dw/sphnix.png)    |    ![Karis Spirit](/img/items/armors/fe/spirit.png)    |
+|      ![Rave Plate](/img/items/armors/dk/plate.png)       |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)    |    ![Karis Spirit](/img/items/armors/fe/spirit.png)    |
 
 ```mdx-code-block
   </TabItem>
