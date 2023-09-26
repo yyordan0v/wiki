@@ -16,11 +16,11 @@ _Серебряный Ящик_
 
 **Серебряный Ящик** может выпасть один из следующих предметов:
 
-|  [Hyon Dragon](/items/ancient-items/#ancient-sets)   | [Anubis Legendary](/items/ancient-items/#ancient-sets)  | [Gywen Guardian](/items/ancient-items/#ancient-sets) |  [Gaion Storm Crow](/items/ancient-items/#ancient-sets)  |  [Agnis Adamantine](/items/ancient-items/#ancient-sets)  |
-| :--------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |
-|   ![Hyon Dragon](/img/items/armors/dk/dragon.png)    | ![Anubis Legendary](/img/items/armors/dw/legendary.png) | ![Gywen Guardian](/img/items/armors/fe/guardian.png) | ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png) | ![Agnis Adamantine](/img/items/armors/dl/adamantine.png) |
-| [Vicious Dragon](/items/ancient-items/#ancient-sets) |  [Enis Legendary](/items/ancient-items/#ancient-sets)   | [Aruan Guardian](/items/ancient-items/#ancient-sets) |  [Muren Storm Crow](/items/ancient-items/#ancient-sets)  |  [Broy Adamantine](/items/ancient-items/#ancient-sets)   |
-|  ![Vicious Dragon](/img/items/armors/dk/dragon.png)  |  ![Enis Legendary](/img/items/armors/dw/legendary.png)  | ![Aruan Guardian](/img/items/armors/fe/guardian.png) | ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png) | ![Broy Adamantine](/img/items/armors/dl/adamantine.png)  |
+|  [Hyon Dragon](/items/ancient-items/#древние-комплекты)   | [Anubis Legendary](/items/ancient-items/#древние-комплекты) | [Gywen Guardian](/items/ancient-items/#древние-комплекты) | [Gaion Storm Crow](/items/ancient-items/#древние-комплекты) | [Agnis Adamantine](/items/ancient-items/#древние-комплекты) |
+| :-------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
+|      ![Hyon Dragon](/img/items/armors/dk/dragon.png)      |   ![Anubis Legendary](/img/items/armors/dw/legendary.png)   |   ![Gywen Guardian](/img/items/armors/fe/guardian.png)    |  ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png)   |  ![Agnis Adamantine](/img/items/armors/dl/adamantine.png)   |
+| [Vicious Dragon](/items/ancient-items/#древние-комплекты) |  [Enis Legendary](/items/ancient-items/#древние-комплекты)  | [Aruan Guardian](/items/ancient-items/#древние-комплекты) | [Muren Storm Crow](/items/ancient-items/#древние-комплекты) | [Broy Adamantine](/items/ancient-items/#древние-комплекты)  |
+|    ![Vicious Dragon](/img/items/armors/dk/dragon.png)     |    ![Enis Legendary](/img/items/armors/dw/legendary.png)    |   ![Aruan Guardian](/img/items/armors/fe/guardian.png)    |  ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png)   |   ![Broy Adamantine](/img/items/armors/dl/adamantine.png)   |
 
 :::note
 
