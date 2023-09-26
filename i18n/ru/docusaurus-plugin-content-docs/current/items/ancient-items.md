@@ -29,8 +29,9 @@ import TabItem from '@theme/TabItem';
 
 Для получения **Древних Предметов** искатели приключений должны либо:
 
-- Получить [Серебряный Ящик](/items/item-bags/non-exc/silver-box)
-- Победить в событии [Замок Хаоса](/events/chaos-castle)
+- [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun/)
+- Получить [Silver Box](/items/item-bags/non-exc/silver-box)
+- Победить в событии [Chaos Castle](/events/chaos-castle)
 
 ## Древние Комплекты
 

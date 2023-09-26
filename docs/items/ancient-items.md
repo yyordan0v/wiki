@@ -29,6 +29,7 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 
 In order to obtain **Ancient Items**, adventurers must either:
 
+- [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun/)
 - Acquire a [Silver Box](/items/item-bags/non-exc/silver-box)
 - Triumph in the [Chaos Castle](/events/chaos-castle) Event
 
