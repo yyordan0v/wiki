@@ -25,6 +25,7 @@ You can also check this list of commands while playing through the [Especial Men
 | `/cmd <value>`          | Add points in Command.                                                                    |
 | `/re on`                | Turn on all requests.                                                                     |
 | `/re off`               | Turn off all requests.                                                                    |
+| `/re auto`              | Automatically accepts all requests.                                                       |
 | `/setparty <password>`  | Create a party that can be joined with a password.                                        |
 | `/joinparty <password>` | Join a party which has a password.                                                        |
 | `/quest`                | Shows the necessary requisites for the current quest.                                     |
