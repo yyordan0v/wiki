@@ -26,7 +26,7 @@ Once in the **Settings Menu** you can start playing around with the values.
 
 To Preview what the item looks like after applying the filter - hit the **`Preview`** Button. This allows for a preview before making the final purchase.
 
-Once your configure your item as desired - you can hit the **`Buy It`** Button. This will save your item glow and it will be now visible as configured by everybody.
+Once you configure your item as desired - you can hit the **`Buy It`** Button. This will save your item glow and it will be now visible as configured by everybody.
 
 ![Exclusive Glow](/img/client-features/exclusive-glow-2.jpg)
 
