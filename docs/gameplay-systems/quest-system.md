@@ -60,7 +60,7 @@ _Benet d'Eamon_
 
 The **Secondary Quest** requires a lot of work in order to reward the player. However the reward is really appealing and we advice every player to put the effort and please **Benet d'Eamon**.
 
-Keep on mind that **Secondary Quest** will be only **1** and will be available only for **one week** and change afterwards with another one.
+Keep on mind that **Secondary Quest** will be only **1** and will be available only for **short period of time** and change afterwards with another one.
 
 ## Quest Pavilion
 
