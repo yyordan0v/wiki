@@ -40,3 +40,9 @@ You can also check this list of commands while playing through the [Especial Men
 | `/king`                 | Seize the throne in the [King of Yoskreth](/events/combat-events/king-of-yoskreth) Event. |
 | `/join`                 | Join in an Event.                                                                         |
 | `/go`                   | Join Events.                                                                              |
+
+:::info
+
+When double-tapping **`Ctrl`** you will be able to attack other Character without hold it down.
+
+:::
