@@ -28,9 +28,9 @@ _Золотая медаль_
 
 ### Оружие
 
-|                    Dark Breaker                     |                    Knight Blade                     |                       Dragon Soul Staff                       |                    Celestial Bow                    |                      Dark Reign Blade                       |                     Lord Scepter                      |
-| :-------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
-| ![Dark Breaker](/img/items/swords/dark-breaker.png) | ![Knight Blade](/img/items/swords/knight-blade.png) | ![Dragon Soul Staff](/img/items/staffs/dragon-soul-staff.png) | ![Celestial Bow](/img/items/bows/celestial-bow.png) | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Lord Scepter](/img/items/scepters/lord-scepter.png) |
+|                  Daybreak                   |                    Knight Blade                     |                       Dragon Soul Staff                       |                    Celestial Bow                    |                      Dark Reign Blade                       |                     Lord Scepter                      |
+| :-----------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------: |
+| ![Daybreak](/img/items/swords/daybreak.png) | ![Knight Blade](/img/items/swords/knight-blade.png) | ![Dragon Soul Staff](/img/items/staffs/dragon-soul-staff.png) | ![Celestial Bow](/img/items/bows/celestial-bow.png) | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Lord Scepter](/img/items/scepters/lord-scepter.png) |
 
 ### Драгоценности
 
