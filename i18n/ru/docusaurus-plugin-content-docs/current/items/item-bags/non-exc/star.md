@@ -26,11 +26,11 @@ _Звезда Священного Рождения_
 
 ### Оружие
 
-| Lighting Sword                                            | Blade                                         | Gorgon Staff                                              |
-| --------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- |
-| ![Lighting Sword](/img/items/swords/lighting-sword.png)   | ![Blade](/img/items/swords/blade.png)         | ![Gorgon Staff](/img/items/staffs/gorgon-staff.png)       |
-| Legendary Staff                                           | Silver Bow                                    | Serpent Crossbow                                          |
-| ![Legendary Staff](/img/items/staffs/legendary-staff.png) | ![Silver Bow](/img/items/bows/silver-bow.png) | ![Serpent Crossbow](/img/items/bows/serpent-crossbow.png) |
+|                           Blade                           |                    Double Blade                     |                       Gorgon Staff                        |
+| :-------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: |
+|           ![Blade](/img/items/swords/blade.png)           | ![Double Blade](/img/items/swords/double-blade.png) |    ![Gorgon Staff](/img/items/staffs/gorgon-staff.png)    |
+|                      Legendary Staff                      |                     Silver Bow                      |                     Serpent Crossbow                      |
+| ![Legendary Staff](/img/items/staffs/legendary-staff.png) |    ![Silver Bow](/img/items/bows/silver-bow.png)    | ![Serpent Crossbow](/img/items/bows/serpent-crossbow.png) |
 
 :::note
 

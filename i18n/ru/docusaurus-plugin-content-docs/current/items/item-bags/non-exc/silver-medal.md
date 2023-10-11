@@ -26,11 +26,11 @@ _Серебряная Медаль_
 
 ### Оружие
 
-|                     Dragon Spear                      |                        Staff of Destruction                         |                      Saint Crossbow                       |
-| :---------------------------------------------------: | :-----------------------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------: |
-|  ![Dragon Spear](/img/items/spears/dragon-spear.png)  | ![Staff of Destruction](/img/items/staffs/staff-of-destruction.png) |   ![Saint Crossbow](/img/items/bows/saint-crossbow.png)   |
-|                     Thunder Blade                     |                             Rune Blade                              |                      Master Scepter                       |                      Great Scepter                      |
-| ![Thunder Blade](/img/items/swords/thunder-blade.png) |           ![Rune Blade](/img/items/swords/rune-blade.png)           | ![Master Scepter](/img/items/scepters/master-scepter.png) | ![Great Scepter](/img/items/scepters/great-scepter.png) |
+|                     Dragon Spear                      |                        Sword of Destruction                         |                        Staff of Destruction                         |                     Saint Crossbow                      |
+| :---------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------: |
+|  ![Dragon Spear](/img/items/spears/dragon-spear.png)  | ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) | ![Staff of Destruction](/img/items/staffs/staff-of-destruction.png) |  ![Saint Crossbow](/img/items/bows/saint-crossbow.png)  |
+|                     Thunder Blade                     |                             Rune Blade                              |                           Master Scepter                            |                      Great Scepter                      |
+| ![Thunder Blade](/img/items/swords/thunder-blade.png) |           ![Rune Blade](/img/items/swords/rune-blade.png)           |      ![Master Scepter](/img/items/scepters/master-scepter.png)      | ![Great Scepter](/img/items/scepters/great-scepter.png) |
 
 ### Драгоценности
 

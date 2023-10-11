@@ -26,9 +26,9 @@ The **Heart of Love** can drop one of the following items:
 
 ### Weapons
 
-|                        Sword of Destruction                         |                         Staff of Ressurrection                         |                      Bluewing Crossbow                      |                      Battle Scepter                       |
-| :-----------------------------------------------------------------: | :--------------------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
-| ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) | ![Staff of Ressurrection](/img/items/staffs/staff-of-ressurection.png) | ![Bluewing Crossbow](/img/items/bows/bluewing-crossbow.png) | ![Battle Scepter](/img/items/scepters/battle-scepter.png) |
+|                     Lighting Sword                      |                         Staff of Ressurrection                         |                      Bluewing Crossbow                      |                      Battle Scepter                       |
+| :-----------------------------------------------------: | :--------------------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: |
+| ![Lighting Sword](/img/items/swords/lighting-sword.png) | ![Staff of Ressurrection](/img/items/staffs/staff-of-ressurection.png) | ![Bluewing Crossbow](/img/items/bows/bluewing-crossbow.png) | ![Battle Scepter](/img/items/scepters/battle-scepter.png) |
 
 ### Jewels
 
