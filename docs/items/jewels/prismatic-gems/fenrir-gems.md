@@ -42,7 +42,21 @@ _Silvia_
 
 :::
 
-### Fenrir Collector's Cache
+### Cash Shop
+
+The following **Prismatic Gems** are available in the [Cash Shop](/client-features/cash-shop):
+
+| Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
+| :---------------------------------------------------------------: | :----------------------------------------------------------------: |
+|          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |
+
+:::info
+
+The Red, Blue, and Black Fenrir Prismatic Gems are not included in the **Fenrir Collector's Cache**.
+
+:::
+
+#### Fenrir Collector's Cache
 
 |     Holy Fenrir [<span className="tier-rare">**Rare**</span>]      |     Zyron Fenrir [<span className="tier-rare">**Rare**</span>]      |      Gold Fenrir [<span className="tier-rare">**Rare**</span>]       | Steel Fenrir [<span className="tier-rare">**Rare**</span>] |
 | :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------: | :--------------------------------------------------------: |
@@ -52,18 +66,10 @@ _Silvia_
 
 :::info
 
-These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#cash-shop).
+These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#cash-shop) as well as directly within the [Cash Shop](/client-features/cash-shop).
 
 ![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
 
 _Fenrir Collector's Cache_
 
 :::
-
-The aforementioned **Prismatic Gems** can be purchased directly within the [Cash Shop](/client-features/cash-shop).
-
-The following **Prismatic Gems** are available in the [Cash Shop](/client-features/cash-shop) as well:
-
-| Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
-| :---------------------------------------------------------------: | :----------------------------------------------------------------: |
-|          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |

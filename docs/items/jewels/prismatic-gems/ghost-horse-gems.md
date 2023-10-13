@@ -30,19 +30,17 @@ Through the infusion of one of the Ghost Horse Prismatic Gems into your [Tier 2 
 
 ### Silvia
 
+This **Ghost Horse Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth) for **Zen**.
+
 | Red Ghost Horse [<span className="tier-common">**Common**</span>] |
 | :---------------------------------------------------------------: |
 |      ![Red Ghost Horse](/img/items/pets/red-ghost-horse.jpg)      |
-
-:::info
-
-This **Ghost Horse Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth).
 
 ![Silvia](/img/npc/silvia.jpg)
 
 _Silvia_
 
-:::
+
 
 ### Cash Shop
 

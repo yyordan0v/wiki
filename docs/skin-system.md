@@ -58,9 +58,13 @@ The Prismatic Gems available for purchase with **Zen** include:
 
 ### Cash Shop
 
-You can obtain [Prismatic Gems](/category/prismatic-gems) are the **Lotus Mu Collector's Caches** where the **rarest** prismatic gems are hidden.
+You can obtain [Prismatic Gems](/category/prismatic-gems) from the **Lotus Mu Collector's Caches** where the **rarest** prismatic gems are hidden.
+
+:::tip
 
 You also have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) directly from the [Cash Shop](/client-features/cash-shop) in exchange for **Coins**.
+
+:::
 
 Currently, there are two types of collector's caches available:
 
