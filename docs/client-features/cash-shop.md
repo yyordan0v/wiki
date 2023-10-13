@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Cash Shop
 
-In this article, we aim to provide an overview of the items currently offered in our **Cash Shop**. The items available adhere to our standard offerings, as we are committed to avoiding any "Pay to Win" elements.
+In this article, we aim to provide an overview of the items currently offered in our **Cash Shop**. The items available adhere to our standard offerings, as we are committed to **avoiding any "Pay to Win"** elements.
 
 ## Tickets
 
