@@ -8,7 +8,9 @@ In this article, we aim to provide an overview of the items currently offered in
 
 ## Tickets
 
-The first category is, in fact, the **Tickets** category. Within this category, you'll find tickets for a wide range of events readily available at your fingertips. Perhaps you're not adequately prepared for an event but wish to participate, and time is running out – you can utilize a few credits to make that happen.
+The first category is, in fact, the **Tickets** category. Within this category, you'll find tickets for a wide range of events readily available at your fingertips.
+
+Perhaps you're not adequately prepared for an event but wish to participate, and time is running out – you can utilize a few credits to make that happen.
 
 ![Cash Shop - Tickets](/img/client-features/cash-shop-1.jpg)
 
@@ -44,7 +46,7 @@ For a detailed explanation of their uses and benefits, please refer to the infor
 
 :::
 
-![Cash Shop - Skin Collections](/img/client-features/cash-shop-4.jpg) ![Cash Shop - Skin Collections](/img/client-features/cash-shop-5.jpg)
+![Cash Shop - Skin Collections](/img/client-features/cash-shop-4.jpg)
 
 _Cash Shop - Skin Collections_
 
