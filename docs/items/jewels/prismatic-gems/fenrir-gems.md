@@ -28,13 +28,15 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 ### Silvia
 
+The following **Prismatic Gem** is available in [Yoskreth](/maps/yoskreth).
+
 | Red Fenrir [<span className="tier-common">**Common**</span>] |
 | :----------------------------------------------------------: |
 |        ![Red Fenrir](/img/items/pets/red-fenrir.jpg)         |
 
 :::info
 
-This **Fenrir Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth).
+This **Fenrir Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth) for Zen.
 
 ![Silvia](/img/npc/silvia.jpg)
 
