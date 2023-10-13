@@ -33,7 +33,7 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 :::info
 
-The **Darkhorse Prismatic Gems** can be obtained via the [Darkhorse Collector's Cache](/skin-system#jagod-di).
+The **Darkhorse Prismatic Gems** can be obtained via the [Darkhorse Collector's Cache](/skin-system#cash-shop) or directly within the [Cash Shop](/client-features/cash-shop).
 
 ![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
 

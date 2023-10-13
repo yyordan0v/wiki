@@ -10,6 +10,8 @@ Reserved solely for the esteemed **VIP players** of **Lotus Mu**, the **VIP Aren
 
 There are **2 VIP Arenas** available currently - **Arena** and **Arena 2**.
 
+Both of these maps are NON-PVP.
+
 :::
 
 ![VIP Arena](/img/maps/arena-1.jpg)

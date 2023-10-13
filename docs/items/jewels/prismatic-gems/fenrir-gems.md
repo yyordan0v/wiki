@@ -26,15 +26,19 @@ Please be aware that the infusion process only alters the pet's appearance while
 
 :::
 
-### Silvia and Rhea
+### Silvia
 
-| Red Fenrir [<span className="tier-common">**Common**</span>] | Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
-| :----------------------------------------------------------: | :---------------------------------------------------------------: | :----------------------------------------------------------------: |
-|        ![Red Fenrir](/img/items/pets/red-fenrir.jpg)         |          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |
+| Red Fenrir [<span className="tier-common">**Common**</span>] |
+| :----------------------------------------------------------: |
+|        ![Red Fenrir](/img/items/pets/red-fenrir.jpg)         |
 
 :::info
 
-These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea** in [Yoskreth](/maps/yoskreth).
+This **Fenrir Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth).
+
+![Silvia](/img/npc/silvia.jpg)
+
+_Silvia_
 
 :::
 
@@ -48,10 +52,18 @@ These **Fenrir Prismatic Gems** can be bought from either **Silvia** or **Rhea**
 
 :::info
 
-These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#jagod-di).
+These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#cash-shop).
 
 ![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
 
 _Fenrir Collector's Cache_
 
 :::
+
+The aforementioned **Prismatic Gems** can be purchased directly within the [Cash Shop](/client-features/cash-shop).
+
+The following **Prismatic Gems** are available in the [Cash Shop](/client-features/cash-shop) as well:
+
+| Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
+| :---------------------------------------------------------------: | :----------------------------------------------------------------: |
+|          ![Blue Fenrir](/img/items/pets/blue-fenrir.jpg)          |         ![Black Fenrir](/img/items/pets/black-fenrir.jpg)          |

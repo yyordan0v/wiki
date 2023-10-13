@@ -28,9 +28,30 @@ The Ghost Horse Prismatic Gems can be bought from either **Silvia** or **Rhea** 
 
 Through the infusion of one of the Ghost Horse Prismatic Gems into your [Tier 2 Pets](/category/pets), you can seamlessly alter their appearances, with each **Gem** providing a distinct transformation based on the specific **Prismatic Gem** used in the process.
 
-| Red Ghost Horse [<span className="tier-common">**Common**</span>] | Ice Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] | White Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] |
-| :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|      ![Red Ghost Horse](/img/items/pets/red-ghost-horse.jpg)      |        ![Ice Ghost Horse](/img/items/pets/ice-ghost-horse.jpg)        |       ![White Ghost Horse](/img/items/pets/white-ghost-horse.jpg)       |
+### Silvia
+
+| Red Ghost Horse [<span className="tier-common">**Common**</span>] |
+| :---------------------------------------------------------------: |
+|      ![Red Ghost Horse](/img/items/pets/red-ghost-horse.jpg)      |
+
+:::info
+
+This **Ghost Horse Prismatic Gem** can be bought from **Silvia** in [Yoskreth](/maps/yoskreth).
+
+![Silvia](/img/npc/silvia.jpg)
+
+_Silvia_
+
+:::
+
+### Cash Shop
+
+The following **Prismatic Gems** can be purchased directly within the [Cash Shop](/client-features/cash-shop) under the **Darkhorse Collection** Tab.
+
+| Ice Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] | White Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] |
+| :-------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|        ![Ice Ghost Horse](/img/items/pets/ice-ghost-horse.jpg)        |       ![White Ghost Horse](/img/items/pets/white-ghost-horse.jpg)       |
+
 
 :::note
 

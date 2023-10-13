@@ -42,15 +42,9 @@ You can infuse any of the three [Tier 2 pets](/category/pets) with any Prismatic
 
 There are several distinct methods to acquire prismatic gems.
 
-:::info
-
-All of the following **NPCs** are located in [Yoskreth](/maps/yoskreth).
-
-:::
-
 ### Silvia
 
-You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia** in exchange for **Zen**.
+You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia**, located in [Yoskreth](/maps/yoskreth), in exchange for **Zen**.
 
 ![Silvia](/img/npc/silvia.jpg)
 
@@ -61,30 +55,12 @@ The Prismatic Gems available for purchase with **Zen** include:
 - [Red Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
 - [Red Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
 
-### Rhea
 
-You have the chance to obtain [Prismatic Gems](/category/prismatic-gems) from **Rhea** in exchange for **Goblin Points**.
+### Cash Shop
 
-![Rhea](/img/npc/rhea.jpg)
+You can obtain [Prismatic Gems](/category/prismatic-gems) are the **Lotus Mu Collector's Caches** where the **rarest** prismatic gems are hidden.
 
-_Rhea_
-
-The Prismatic Gems available for purchase with **Goblin Points** include:
-
-- [Ice Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
-- [White Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
-- [Blue Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
-- [Black Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
-
-### Jagod Di
-
-Within The **Lotus Mu Collector's Caches** are hidden the **rarest** prismatic gems.
-
-You can obtain these caches from **Jagod Di** in exchange for **Coins** .
-
-![Jagod Di](/img/npc/jagod-di.jpg)
-
-_Jagod Di_
+You also have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) directly from the [Cash Shop](/client-features/cash-shop) in exchange for **Coins**.
 
 Currently, there are two types of collector's caches available:
 
