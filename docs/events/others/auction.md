@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Auction
 
-The **Auction Event** is an exciting event in **Lotus Mu** that provides players with the opportunity to bid on valuable items using **Quest Points**. This event takes place every day, with three auctions held in the morning (starting at 06:00 AM) and three in the evening (starting at 18:00 PM).
+The **Auction Event** is an exciting event in **Lotus Mu** that provides players with the opportunity to bid on valuable items using **Quest Points and Event Points**. This event takes place every day, with three auctions held in the morning (starting at 06:00 AM) and three in the evening (starting at 18:00 PM).
 
 ## Event Details
 
-During the **Auction Event**, all online players have the chance to participate and bid on items using their **Quest Points**. The event is designed to be both competitive and engaging, allowing players to vie for coveted items.
+During the **Auction Event**, all online players have the chance to participate and bid on items using their **Quest Points and Event Points**. The event is designed to be both competitive and engaging, allowing players to vie for coveted items.
 
 ### Minimum Bid Amount
 
-Players can place their bids with a minimum of **1 Quest Point**. This low entry requirement ensures that all players have the chance to participate in the auctions.
+Players can place their bids with a minimum of **1 Quest Point or Event Point**. This low entry requirement ensures that all players have the chance to participate in the auctions.
 
 ### Auction Time Limits
 
@@ -64,4 +64,4 @@ Over time, these items will undergo modifications.
 
 :::
 
-Participate in the **Lotus Mu Auction Event** and put your Quest Points to good use by bidding on unique and desirable items!
+Participate in the **Lotus Mu Auction Event** and put your Quest Points and Event Points to good use by bidding on unique and desirable items!
