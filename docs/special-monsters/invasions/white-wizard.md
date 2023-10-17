@@ -48,7 +48,7 @@ Prepare yourself for intense encounters with the **White Wizard** and his menaci
 
 ### White Wizard
 
-When a player successfully vanquishes a **White Wizard**, they will receive a rewarding prize from the following selection of options:
+When a player successfully vanquishes a **White Wizard**, they will receive a rewarding prize - **2 Credits** and one of the following:
 
 | [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [10 Bundled Jewels of Life](/items/jewels/regular-jewels/jewel-of-life) |
 | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |

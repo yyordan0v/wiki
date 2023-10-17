@@ -54,6 +54,6 @@ _Эрохим_
 
 После успешного убийства **Эрохима**, игроки будут награждены:
 
-|   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
-| :----------------------------------------------------------------: |
-| ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
+| [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box) + **10 Credits** |
+| :----------------------------------------------------------------------------: |
+|       ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)       |

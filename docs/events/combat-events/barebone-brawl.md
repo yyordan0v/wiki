@@ -70,7 +70,7 @@ Step into the arena, distribute your level up points wisely, seize valuable item
 
 Only the **last survivor** will claim **victory**!
 
-He will receive **300 Event Points (EP)** as a reward.
+He will receive **25 Credits** as a reward.
 
 :::
 

@@ -24,6 +24,6 @@ _Nightmare_
 
 Upon successfully killing the **Nightmare**, players will be rewarded with:
 
-|     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
-| :-------------------------------------------------------------: |
-| ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) |
+| [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box) + **5 Credits** |
+| :---------------------------------------------------------------------: |
+|     ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)     |

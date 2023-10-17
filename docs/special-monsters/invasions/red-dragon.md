@@ -42,7 +42,7 @@ Please take into account that the invasion timer is based on the server time.
 
 ## Reward
 
-When a player successfully vanquishes a **Red Dragon**, they will receive a rewarding prize from the following selection of options:
+When a player successfully vanquishes a **Red Dragon**, they will receive a rewarding prize - **1 Credit** and one from the following selection of options:
 
 |                  Gemstone                   |      Zen      |
 | :-----------------------------------------: | :-----------: |

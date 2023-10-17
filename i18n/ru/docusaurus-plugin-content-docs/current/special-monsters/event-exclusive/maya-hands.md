@@ -23,7 +23,7 @@ _Левая Рука Майи / Правая Рука Майи_
 
 ## Награда
 
-После успешного убийства **Руки Майи**, игроки будут награждены [Gemstone](/items/jewels/regular-jewels/gemstone).
+После успешного убийства **Руки Майи**, игроки будут награждены [Gemstone](/items/jewels/regular-jewels/gemstone) и **1 Credits**.
 
 ![Gemstone](/img/items/jewels/gemstone.png)
 

@@ -36,6 +36,6 @@ _Медуза_
 
 После успешного убийства **Медузы**, игроки будут награждены:
 
-|   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
-| :----------------------------------------------------------: |
-| ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
+| [Green Chaos Box](/items/item-bags/exc/green-chaos-box) + **15 Credits** |
+| :----------------------------------------------------------------------: |
+|       ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png)       |

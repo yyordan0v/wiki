@@ -24,6 +24,6 @@ _Кошмар_
 
 После успешного убийства **Кошмара**, игроки будут награждены:
 
-|     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
-| :-------------------------------------------------------------: |
-| ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) |
+| [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box) + + **5 Credits** |
+| :-----------------------------------------------------------------------: |
+|      ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)      |

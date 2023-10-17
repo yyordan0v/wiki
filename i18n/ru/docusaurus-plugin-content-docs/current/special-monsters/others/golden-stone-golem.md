@@ -27,6 +27,6 @@ _Golden Stone Golem_
 
 После успешного убийства **Golden Stone Golem**, игроки будут вознаграждены следующим:
 
-| [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |
-| :-----------------------------------------------------------------: |
-|        ![Jewel of Guardian](/img/items/jewels/guardian.png)         |
+| [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) + **1 Credit** |
+| :--------------------------------------------------------------------------------: |
+|                ![Jewel of Guardian](/img/items/jewels/guardian.png)                |

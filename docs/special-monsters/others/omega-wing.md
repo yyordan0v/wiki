@@ -26,6 +26,6 @@ The subsequent table provides detailed information about location, respawn time 
 
 Upon successfully killing a **Omega Wing**, players will be rewarded with:
 
-|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-| :----------------------------------------------------------: |
-| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+| [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
+| :---------------------------------------------------------------------: |
+|      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |

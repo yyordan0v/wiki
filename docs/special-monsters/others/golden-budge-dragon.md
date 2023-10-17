@@ -32,6 +32,6 @@ The subsequent table provides detailed information about location, respawn time 
 
 Upon successfully killing a **Golden Budge Dragon**, players will be rewarded with:
 
-|   [Box of Luck](/items/item-bags/misc/box-of-luck)   |
-| :--------------------------------------------------: |
-| ![Box of Luck](/img/items/item-bags/box-of-luck.png) |
+|   [Box of Luck](/items/item-bags/misc/box-of-luck)   | Credits  |
+| :--------------------------------------------------: | :------: |
+| ![Box of Luck](/img/items/item-bags/box-of-luck.png) | 1 Credit |

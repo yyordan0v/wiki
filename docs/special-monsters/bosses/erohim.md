@@ -54,6 +54,6 @@ The event takes place in the [Valley of Loren](/maps/valley-of-loren). You are r
 
 Upon successfully killing the **Erohim**, players will be rewarded with:
 
-|   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
-| :----------------------------------------------------------------: |
-| ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
+| [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box) + **10 Credits** |
+| :----------------------------------------------------------------------------: |
+|       ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)       |

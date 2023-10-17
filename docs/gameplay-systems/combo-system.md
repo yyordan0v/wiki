@@ -57,6 +57,8 @@ In the subsequent segments of the article, we will present you with comprehensiv
 #### Additional Skills
 
 - Blast;
+- Inferno;
+- Aqua Beam;
 - Decay;
 - Ice Storm;
 
@@ -104,6 +106,8 @@ In the subsequent segments of the article, we will present you with comprehensiv
 - Fire Slash;
 - Flame;
 - Blast;
+- Inferno;
+- Aqua Beam
 - Gigantic Storm;
 
 ```mdx-code-block

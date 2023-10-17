@@ -56,7 +56,7 @@ _Кость Смерти_
 
 После успешного уничтожения **Короля Смерти** или **Кости Смерти**, игроки будут вознаграждены следующим:
 
-|                        Death King                        |                          Death Bone                          |
-| :------------------------------------------------------: | :----------------------------------------------------------: |
-|   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-| ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+|                             Death King                              |                          Death Bone                          |
+| :-----------------------------------------------------------------: | :----------------------------------------------------------: |
+| [Red Chaos Box](/items/item-bags/exc/red-chaos-box) + **3 Credits** |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
+|      ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)       | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |

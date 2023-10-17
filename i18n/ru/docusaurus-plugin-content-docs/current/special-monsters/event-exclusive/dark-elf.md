@@ -22,8 +22,8 @@ _Темный Эльф_
 
 ## Награда
 
-После успешного убийства **Темного Эльфа**, игроки будут награждены [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+После успешного убийства **Темного Эльфа**, игроки будут награждены [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
 
-![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
+![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
-_Blue Ribbon Box_
+_Green Ribbon Box_

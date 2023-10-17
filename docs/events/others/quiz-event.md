@@ -34,7 +34,7 @@ The player who answers the question correctly **first** will be declared the **w
 
 :::info
 
-The **winner** will receive a reward of **10 Event Points** as recognition for their knowledge and participation.
+The **winner** will receive a reward of **2 Credits** as recognition for their knowledge and participation.
 
 :::
 

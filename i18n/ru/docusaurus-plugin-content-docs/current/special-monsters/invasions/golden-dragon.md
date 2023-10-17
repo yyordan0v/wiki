@@ -55,7 +55,7 @@ _Золотой гоблин_
 
 #### Награда
 
-Когда игрок убивает **Золотого гоблина**, они получают: [Box of Kundun+1](/items/item-bags/exc/box-of-kundun/bok-1).
+Когда игрок убивает **Золотого гоблина**, они получают: [Box of Kundun+1](/items/item-bags/exc/box-of-kundun/bok-1) и **2 Credits**.
 
 ![Box of Kundun +1](/img/items/item-bags/bok-1.png)
 
@@ -93,10 +93,10 @@ _Золотой Солдат_
 
 Уничтожив этих существ, игрок получит следующие награды:
 
-|                         Golden Titan                         |                        Golden Soldier                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-|     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+|                                 Golden Titan                                 |                             Golden Soldier                              |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
+|             ![Box of Kundun +2](/img/items/item-bags/bok-2.png)              |      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |
 
 ```mdx-code-block
   </TabItem>
@@ -124,7 +124,7 @@ _Золотой Дракон_
 
 #### Награда
 
-Когда игрок убивает **Золотого Дракона**, он получает: [Box of Kundun+3](/items/item-bags/exc/box-of-kundun/bok-3).
+Когда игрок убивает **Золотого Дракона**, он получает: [Box of Kundun+3](/items/item-bags/exc/box-of-kundun/bok-3) и **2 Credits**.
 
 ![Box of Kundun +3](/img/items/item-bags/bok-3.png)
 
@@ -162,10 +162,10 @@ _Золотой Вепарь_
 
 Убив этих существ, игрок получит следующие награды:
 
-|                      Golden Lizard King                      |                         Golden Vepar                         |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-|     ![Box of Kundun +4](/img/items/item-bags/bok-4.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+|                              Golden Lizard King                              |                             Golden Vepar                              |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) **1 Credit** |
+|             ![Box of Kundun +4](/img/items/item-bags/bok-4.png)              |     ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)      |
 
 ```mdx-code-block
   </TabItem>
@@ -199,10 +199,10 @@ _Золотая Колесница_
 
 Убив этих существ, игрок получит следующие награды:
 
-|                        Golden Tantal                         |                         Golden Wheel                         |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-|     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+|                                Golden Tantal                                 |                             Golden Wheel                              |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) **1 Credit** |
+|             ![Box of Kundun +5](/img/items/item-bags/bok-5.png)              |     ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)      |
 
 ```mdx-code-block
 

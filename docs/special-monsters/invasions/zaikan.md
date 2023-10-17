@@ -40,7 +40,7 @@ Please take into account that the invasion timer is based on the server time.
 
 ## Reward
 
-Upon successfully defeating the **Zaikan**, players will be rewarded with the following:
+Upon successfully defeating the **Zaikan**, players will be rewarded with **2 Credits** and one of the following:
 
 |                     Loch's Feather                     |                      Crest of Monarch                       |
 | :----------------------------------------------------: | :---------------------------------------------------------: |

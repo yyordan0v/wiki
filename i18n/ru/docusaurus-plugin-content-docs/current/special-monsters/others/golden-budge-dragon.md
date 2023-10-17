@@ -32,6 +32,6 @@ _Golden Budge Dragon_
 
 После успешного убийства **Golden Budge Dragon**, игроки будут вознаграждены следующим:
 
-|   [Box of Luck](/items/item-bags/misc/box-of-luck)   |
-| :--------------------------------------------------: |
-| ![Box of Luck](/img/items/item-bags/box-of-luck.png) |
+|   [Box of Luck](/items/item-bags/misc/box-of-luck)   | Credits  |
+| :--------------------------------------------------: | :------: |
+| ![Box of Luck](/img/items/item-bags/box-of-luck.png) | 1 Credit |

@@ -27,6 +27,6 @@ The subsequent table provides detailed information about location, respawn time 
 
 Upon successfully killing a **Golden Stone Golem**, players will be rewarded with:
 
-| [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) |
-| :-----------------------------------------------------------------: |
-|        ![Jewel of Guardian](/img/items/jewels/guardian.png)         |
+| [Jewel of Guardian](/items/jewels/regular-jewels/jewel-of-guardian) + **1 Credit** |
+| :--------------------------------------------------------------------------------: |
+|                ![Jewel of Guardian](/img/items/jewels/guardian.png)                |

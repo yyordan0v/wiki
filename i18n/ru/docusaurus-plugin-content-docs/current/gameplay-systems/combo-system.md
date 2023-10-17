@@ -57,6 +57,8 @@ import TabItem from '@theme/TabItem';
 #### Дополнительные Навыки
 
 - Blast;
+- Inferno;
+- Aqua Beam
 - Decay;
 - Ice Storm;
 
@@ -104,6 +106,8 @@ import TabItem from '@theme/TabItem';
 - Fire Slash;
 - Flame;
 - Blast;
+- Inferno;
+- Aqua Beam
 - Gigantic Storm;
 
 ```mdx-code-block

@@ -26,6 +26,6 @@ _Omega Wing_
 
 После успешного убийства **Omega Wing**, игроки будут вознаграждены одним из следующих:
 
-|   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-| :----------------------------------------------------------: |
-| ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+| [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
+| :---------------------------------------------------------------------: |
+|      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |

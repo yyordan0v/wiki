@@ -34,6 +34,6 @@ Upon successfully killing the **Selupan**, players will be rewarded with:
 
 :::note
 
-Upon successfully killing the mighty **Selupan**, players will be rewarded with **5** randomly selected item bags from the assortment displayed above.
+Upon successfully killing the mighty **Selupan**, players will be rewarded with **5** randomly selected item bags from the assortment displayed above and **25 Credits**.
 
 :::

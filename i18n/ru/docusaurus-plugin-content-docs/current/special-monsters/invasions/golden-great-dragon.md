@@ -54,7 +54,7 @@ _Золотой Рыцарь_
 
 #### Награда
 
-Убив этого существа, игрок будет награжден [Red Chaos Box](/items/item-bags/exc/red-chaos-box).
+Убив этого существа, игрок будет награжден [Red Chaos Box](/items/item-bags/exc/red-chaos-box) + **3 Credits**.
 
 ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
@@ -83,7 +83,7 @@ _Золотой Двойной Хвост_
 
 #### Награда
 
-Когда игрок убивает **Золотой Двойной Хвост**, он получает: [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
+Когда игрок убивает **Золотой Двойной Хвост**, он получает: [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box) + **4 Credits**.
 
 ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
@@ -113,7 +113,7 @@ _Золотой Великий Дракон_
 #### Награда
 
 Когда **Золотой Великий Дракон** умирает, он сбрасывает легендарную
-[Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+[Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box) + **5 Credits**.
 
 ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 

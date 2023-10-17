@@ -23,7 +23,7 @@ Each of them appears twice during the event. You can find more information in th
 
 ## Reward
 
-Upon successfully killing a **Hand of Maya**, players will be rewarded with a [Gemstone](/items/jewels/regular-jewels/gemstone).
+Upon successfully killing a **Hand of Maya**, players will be rewarded with a [Gemstone](/items/jewels/regular-jewels/gemstone) and **1 Credits**.
 
 ![Gemstone](/img/items/jewels/gemstone.png)
 

@@ -22,8 +22,8 @@ You can find more information on when exactly the Dark Elves appear in the [Cryw
 
 ## Reward
 
-Upon successfully killing a **Dark Elf**, players will be rewarded with a [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box).
+Upon successfully killing a **Dark Elf**, players will be rewarded with a [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box).
 
-![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
+![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
-_Blue Ribbon Box_
+_Green Ribbon Box_

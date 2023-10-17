@@ -22,6 +22,6 @@ _Балгасс_
 
 После успешного уничтожения **Балгасса**, игроков наградят:
 
-|   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
-| :----------------------------------------------------------: |
-| ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
+| [Green Chaos Box](/items/item-bags/exc/green-chaos-box) + **15 Credits** |
+| :----------------------------------------------------------------------: |
+|       ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png)       |
