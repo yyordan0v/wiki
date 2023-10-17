@@ -29,7 +29,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 ## Reward
 
-Upon successfully killing a **Pouch of Blessing**, players will be rewarded with **1 Credit** and one of the following:
+Upon successfully killing a **Pouch of Blessing**, players will be rewarded with one of the following:
 
 |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |      Zen      |
 | :-----------------------------------------------------------: | :-----------: |
