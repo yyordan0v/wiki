@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Разблокируя новые возможности, эта функция дарит вам возможность добавить желанную опцию **Luck** к вашему предмету. Об embrace the potential of the **Jewel of Luck** and harness its transformative power to elevate your item to new heights of fortune and prosperity.
 
-![Jewel of Luck](/img/items/jewels/custom-green.png)
+![Jewel of Luck](/img/items/jewels/custom-orange.png)
 
 _Jewel of Luck_
 

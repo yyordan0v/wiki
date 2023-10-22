@@ -6,7 +6,7 @@ sidebar_position: 1
 
 С использованием **Jewel of Level** вы можете повысить уровень вашего **кольца** или **подвески** на одно значение, тем самым увеличив его мощность и эффективность.
 
-![Jewel of Level](/img/items/jewels/custom-orange.png)
+![Jewel of Level](/img/items/jewels/custom-green.png)
 
 _Jewel of Level_
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Unlocking a new realm of possibilities, this functionality empowers you to bestow the coveted **Luck** option upon your item. Embrace the potential of the **Jewel of Luck** and harness its transformative power to elevate your item to new heights of fortune and prosperity.
 
-![Jewel of Luck](/img/items/jewels/custom-green.png)
+![Jewel of Luck](/img/items/jewels/custom-orange.png)
 
 _Jewel of Luck_
 
@@ -23,5 +23,5 @@ In the event of an **unsuccessful upgrade**, the item will **retain** its origin
 You can obtain the **Jewel of Luck** from:
 
 |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
-| :----------------------------------------------------------: |
+| :----------------------------------------------------------------: |
 | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |

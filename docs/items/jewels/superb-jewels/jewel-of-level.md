@@ -6,10 +6,9 @@ sidebar_position: 1
 
 By utilizing the **Jewel of Level**, you can elevate the level of your **ring** or **pendant** by a single point, thereby increasing its power and effectiveness.
 
-![Jewel of Level](/img/items/jewels/custom-orange.png)
+![Jewel of Level](/img/items/jewels/custom-green.png)
 
 _Jewel of Level_
-
 
 The **Jewel of Level** offers the ability to elevate the level of a **ring** or **pendant**, transforming it from its initial state with **one tier**, up to maximum of **+13**.
 
