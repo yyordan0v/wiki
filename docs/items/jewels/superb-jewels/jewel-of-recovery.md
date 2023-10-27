@@ -10,7 +10,7 @@ The remarkable **Jewel of Recovery** grants you the ability to bestow your cheri
 
 _Jewel of Recovery_
 
-The **Jewel of Recovery** offers the ability to add an additional level of **Automatic HP Recovery** to a **ring** or **pendant**.
+The **Jewel of Recovery** offers the ability to add an additional level of **Automatic HP Recovery (AG or Mana in some cases - depending on the specific ring/pendant)** to a **ring** or **pendant**.
 
 It is worth noting that this enhancement process carries a **success rate of 50%**, signifying the likelihood of achieving the desired outcome.
 
