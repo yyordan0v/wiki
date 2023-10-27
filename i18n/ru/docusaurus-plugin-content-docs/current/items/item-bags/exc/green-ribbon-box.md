@@ -57,3 +57,8 @@ _Зеленая Коробка Ленты_
 |   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |   [Red Chaos Box](/items/item-bags/exc/red-chaos-box)    |
 | :------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: |
 | ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png) |
+
+Вы также можете получить **Фиолетовую Хаос Коробку**, победив в одном из следующих событий:
+
+- [Illusion Temple 6](/events/illusion-temple)
+- [Team Clash](/events/combat-events/team-clash)

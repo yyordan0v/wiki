@@ -64,7 +64,7 @@ _Проклятый игрок_
 Победитель события получит следующее в качестве награды:
 
 - **60 Event Points (EP)**;
-- **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
+- **3x** **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
   ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 

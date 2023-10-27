@@ -191,16 +191,16 @@ _Пьедестал команды Храма Иллюзий_
 
 | Уровень Храма Иллюзий |                          Предмет                           | Очки события |
 | :-------------------: | :--------------------------------------------------------: | :----------: |
-|    Храм Иллюзий 1     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |     5 EP     |
-|    Храм Иллюзий 2     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    10 EP     |
-|    Храм Иллюзий 3     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    15 EP     |
-|    Храм Иллюзий 4     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    20 EP     |
-|    Храм Иллюзий 5     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    40 EP     |
-|    Храм Иллюзий 6     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    80 EP     |
+|    Храм Иллюзий 1     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |     5 EP     |
+|    Храм Иллюзий 2     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    10 EP     |
+|    Храм Иллюзий 3     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    15 EP     |
+|    Храм Иллюзий 4     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    20 EP     |
+|    Храм Иллюзий 5     | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    40 EP     |
+|    Храм Иллюзий 6     | [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)  |    80 EP     |
 
-![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
-_Orange Candy Box и Purple Chaos Box_
+_Purple Chaos Box и Green Ribbon Box_
 
 :::note
 

@@ -59,3 +59,8 @@ There is also chance that you get **Blue Ribbon Box** dropped by one of the foll
 |   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |
 | :------------------------------------------------: | :------------------------------------------------------------: | :---------------------------------------------------------------: |
 | ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) |
+
+You can also obtain a **Blue Ribbon Box** by winning in one of the following events:
+
+- [Mayhem](/events/combat-events/mayhem)
+- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

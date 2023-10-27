@@ -63,11 +63,11 @@ _Арена Хаоса_
 
 :::info
 
-- Победитель каждого **Хаоса** получает существенную награду - **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
+- Победитель каждого **Хаоса** получает существенную награду - **2x** **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
 
-  ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+  ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 
-  _Purple Chaos Box_
+  _Blue Chocolate Box_
 
 - Победитель **Mu Хаоса** получит **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
 

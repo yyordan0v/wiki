@@ -22,15 +22,15 @@ The objective is to reach a score of **3 points on the opponent**, ultimately wi
 
 3. **Match Rules:** The match is played in rounds, and the first player to reach a total of **3 score points** on their opponent emerges victorious in that round.
 
-4. **Reward System:** The player who **wins a round** gains a small reward in the form of a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box). This reward acknowledges their triumph and provides an incentive to continue competing.
+4. **Reward System:** The player who **wins a round** gains a small reward in the form of a [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box). This reward acknowledges their triumph and provides an incentive to continue competing.
 
-   ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+   ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
-   _Red Chocolate Box_
+   _Pink Chocolate Box_
 
 5. **Advancement:** The **winner of a round** advances to **the next stage** of the event, competing against other victorious participants.
 
-6. **Final Winner:** As the event progresses, participants continue to compete in rounds until **one warrior** emerges as the **final winner**. The ultimate champion receives a significant reward - the coveted [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box).
+6. **Final Winner:** As the event progresses, participants continue to compete in rounds until **one warrior** emerges as the **final winner**. The ultimate champion receives a significant reward - not one but **Two** of the coveted [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box) .
 
    ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 

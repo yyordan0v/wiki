@@ -123,11 +123,11 @@ _Ice Walker_
 
 :::info
 
-После успешного завершения события **Двойник** появится **Золотой сундук**, внутри которого находится [Orange Candy Box](/items/item-bags/misc/orange-candy-box/), и его награды будут доступны участникам.
+После успешного завершения события **Двойник** появится **Золотой сундук**, внутри которого находится **2x** [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/), и его награды будут доступны участникам.
 
-![Orange Candy Box](/img/items/item-bags/orange-candy-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Orange Candy Box_
+_Purple Chaos Box_
 
 :::
 

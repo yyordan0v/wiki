@@ -94,11 +94,11 @@ Additionally players will receive rewards as follows:
 | Boss        | Reward                                                          |
 | ----------- | --------------------------------------------------------------- |
 | Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Main Boss   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)     |
+| Main Boss   | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
 
 ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Pink Chocolate Box & Purple Chaos box_
+_Pink Chocolate Box & Purple Chaos Box_
 
 ### Sunday
 
@@ -107,8 +107,8 @@ On the **final day**, the rewards are more substantial than usual, making it **h
 | Boss        | Reward                                                          |
 | ----------- | --------------------------------------------------------------- |
 | Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Main Boss   | [Red Chaos Box](/items/item-bags/exc/red-chaos-box/)            |
+| Main Boss   | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Pink Chocolate Box & Red Chaos box_
+_Pink Chocolate Box & Purple Chaos Box_

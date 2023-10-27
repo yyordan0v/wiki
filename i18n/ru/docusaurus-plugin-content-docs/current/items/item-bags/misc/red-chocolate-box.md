@@ -34,4 +34,3 @@ _Красная Коробка Шоколада_
 - [Russian Roulette](/events/others/russian-roulette)
 - [Massacre Event](/events/others/massacre)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

@@ -24,8 +24,6 @@ _Оранжевая Коробка Конфет_
 
 Для получения **Оранжевой Коробки Конфет** вам необходимо победить в одном из следующих событий:
 
-- [Illusion Temple 1-5](/events/illusion-temple)
-- [Doppelganger](/events/doppelganger)
 - [Team Clash](/events/combat-events/team-clash)
 - [Specialists' Combat](/events/combat-events/specialists-combat)
 - [Massacre](/events/others/massacre)

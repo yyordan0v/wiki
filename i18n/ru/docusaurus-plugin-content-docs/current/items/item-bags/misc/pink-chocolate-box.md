@@ -27,3 +27,5 @@ _Розовая Коробка Шоколада_
 - [Blood Castle 8](/events/blood-castle)
 - [Auction Event](/events/others/auction)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
+- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
+- [Specialists' Combat](/events/combat-events/specialists-combat)

@@ -94,11 +94,11 @@ _Фрагмент Секромикона_
 | Босс          | Награда                                                         |
 | ------------- | --------------------------------------------------------------- |
 | Боковые Боссы | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Главный Босс  | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)     |
+| Главный Босс  | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Pink Chocolate Box & Purple Chaos box_
+_Pink Chocolate Box & Purple Chaos Box_
 
 ### Воскресенье
 
@@ -107,8 +107,8 @@ _Pink Chocolate Box & Purple Chaos box_
 | Босс          | Награда                                                         |
 | ------------- | --------------------------------------------------------------- |
 | Боковые Боссы | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Главный Босс  | [Red Chaos Box](/items/item-bags/exc/red-chaos-box/)            |
+| Главный Босс  | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
+![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)! [Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Pink Chocolate Box & Red Chaos box_
+_Pink Chocolate Box & Purple Chaos Box_

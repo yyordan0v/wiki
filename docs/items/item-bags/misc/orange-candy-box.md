@@ -24,8 +24,6 @@ The **Orange Candy Box** can drop one of the following items:
 
 In order to obtain a **Orange Candy Box** you need to win in one of the following events:
 
-- [Illusion Temple 1-5](/events/illusion-temple)
-- [Doppelganger](/events/doppelganger)
 - [Team Clash](/events/combat-events/team-clash)
 - [Specialists' Combat](/events/combat-events/specialists-combat)
 - [Massacre](/events/others/massacre)

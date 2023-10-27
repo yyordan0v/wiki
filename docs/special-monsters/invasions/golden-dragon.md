@@ -51,7 +51,7 @@ The areas targeted by the **Golden Goblins** consistently encompass the followin
 
 #### Quantity
 
-During the invasion **10** Golden Goblins are spread on both of the above mentioned maps.
+During the invasion **20** Golden Goblins are spread on both of the above mentioned maps.
 
 #### Reward
 
@@ -87,7 +87,7 @@ The menacing **Golden Titan** launches its relentless assault upon the serene la
 
 #### Quantity
 
-During the invasion **7** Golden Titans and **14** Golden Soldiers are spread in [Devias](/maps/devias).
+During the invasion **14** Golden Titans and **14** Golden Soldiers are spread in [Devias](/maps/devias).
 
 #### Reward
 
@@ -120,7 +120,7 @@ The areas targeted by the **Golden Dragons** consistently encompass one the foll
 
 #### Quantity
 
-During the invasion **5** Golden Dragons are spread on one of the above mentioned maps.
+During the invasion **10** Golden Dragons are spread on one of the above mentioned maps.
 
 #### Reward
 
@@ -156,7 +156,7 @@ With relentless determination, the **Golden Lizard King** initiates an unyieldin
 
 #### Quantity
 
-During the invasion **3** Golden Lizard Kings and **6** Golden Vepars are spread in [Atlans](/maps/atlans).
+During the invasion **6** Golden Lizard Kings and **6** Golden Vepars are spread in [Atlans](/maps/atlans).
 
 #### Reward
 
@@ -193,7 +193,7 @@ The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, i
 
 #### Quantity
 
-During the invasion **1** Golden Tantals and **3** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
+During the invasion **3** Golden Tantals and **3** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
 
 #### Reward
 

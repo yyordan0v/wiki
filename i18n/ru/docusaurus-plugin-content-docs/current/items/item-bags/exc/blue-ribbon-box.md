@@ -59,3 +59,8 @@ _Синяя Коробка Свитка_
 |   [Golden Box](/items/item-bags/misc/golden-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |
 | :------------------------------------------------: | :------------------------------------------------------------: | :---------------------------------------------------------------: |
 | ![Golden Box](/img/items/item-bags/golden-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) |
+
+Вы также можете получить **Синюю Коробку Свитка**, победив в одном из следующих событий:
+
+- [Mayhem](/events/combat-events/mayhem)
+- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

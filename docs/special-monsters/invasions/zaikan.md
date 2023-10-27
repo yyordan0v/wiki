@@ -28,7 +28,7 @@ The subsequent table provides detailed information about the time and the quanti
 
 | First Invasion time |  Frequency   | Monster Count |
 | :-----------------: | :----------: | :-----------: |
-|      01:40:00       | Every 2 hour |       3       |
+|      01:40:00       | Every 2 hour |       6       |
 
 :::info
 

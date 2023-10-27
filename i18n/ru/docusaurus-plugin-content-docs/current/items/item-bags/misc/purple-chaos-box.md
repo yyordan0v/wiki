@@ -36,9 +36,8 @@ _Фиолетовая Хаос Коробка_
 
 Вы также можете получить **Фиолетовую Хаос Коробку**, победив в одном из следующих событий:
 
+- [Doppelganger](/events/doppelganger)
+- [Imperial Guardian](/events/imperial-guardian)
+- [Illusion Temple 1-5](/events/illusion-temple)
 - [Auction Event](/events/others/auction)
 - [Pandora Event](/events/combat-events/pandora)
-- [Illusion Temple 6](/events/illusion-temple)
-- [Mayhem](/events/combat-events/mayhem)
-- [Team Clash](/events/combat-events/team-clash)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

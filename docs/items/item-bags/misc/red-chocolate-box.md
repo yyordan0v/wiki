@@ -34,4 +34,3 @@ Another way to obtain the **Red Chocolate Box** is to win in one of the followin
 - [Russian Roulette](/events/others/russian-roulette)
 - [Massacre Event](/events/others/massacre)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

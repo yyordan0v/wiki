@@ -189,16 +189,16 @@ For a comprehensive breakdown of the **Illusion Temple rewards**, refer to the t
 
 | Illusion Temple Level |                            Item                            | Event Points |
 | :-------------------: | :--------------------------------------------------------: | :----------: |
-|   Illusion Temple 1   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |     5 EP     |
-|   Illusion Temple 2   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    10 EP     |
-|   Illusion Temple 3   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    15 EP     |
-|   Illusion Temple 4   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    20 EP     |
-|   Illusion Temple 5   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box) |    40 EP     |
-|   Illusion Temple 6   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    80 EP     |
+|   Illusion Temple 1   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |     5 EP     |
+|   Illusion Temple 2   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    10 EP     |
+|   Illusion Temple 3   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    15 EP     |
+|   Illusion Temple 4   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    20 EP     |
+|   Illusion Temple 5   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    40 EP     |
+|   Illusion Temple 6   | [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)  |    80 EP     |
 
-![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 
-_Orange Candy Box & Purple Chaos box Box_
+_Purple Chaos Box & Green Ribbon Box_
 
 :::note
 

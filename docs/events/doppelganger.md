@@ -121,11 +121,11 @@ _Ice Walker_
 
 :::info
 
-After successfuly completing the **Doppelganger** a **Final Reward Chest**, which has a [Orange Candy Box](/items/item-bags/misc/orange-candy-box/) inside it, will apear and its rewards will be available to the participating players.
+After successfuly completing the **Doppelganger** a **Final Reward Chest**, which has **2x** [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/) inside it, will apear and its rewards will be available to the participating players.
 
-![Orange Candy Box](/img/items/item-bags/orange-candy-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Orange Candy Box_
+_Purple Chaos Box_
 
 :::
 

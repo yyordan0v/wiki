@@ -36,9 +36,8 @@ There is also chance that you get **Purple Chaos Box** dropped by one of the fol
 
 You can also obtain a **Purple Chaos Box** by winning in one of the following events:
 
+- [Doppelganger](/events/doppelganger)
+- [Imperial Guardian](/events/imperial-guardian)
+- [Illusion Temple 1-5](/events/illusion-temple)
 - [Auction Event](/events/others/auction)
 - [Pandora Event](/events/combat-events/pandora)
-- [Illusion Temple 6](/events/illusion-temple)
-- [Mayhem](/events/combat-events/mayhem)
-- [Team Clash](/events/combat-events/team-clash)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)

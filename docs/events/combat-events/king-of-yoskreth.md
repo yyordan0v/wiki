@@ -77,17 +77,17 @@ During the event additional rankigs are being held:
 
    The **Top 5** players ranked by their **Battle Points** will receive the followings rewards:
 
-      - **Rank 1**: **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**
+   - **Rank 1**: **[Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)**
 
-         ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+     ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)
 
-         _Purple Chaos Box_
+     _Blue Ribbon Box_
 
-      - **Rank 2 - 5**: **[Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)**
+   - **Rank 2 - 5**: **[Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)**
 
-         ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+     ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
-         _Red Chocolate Box_
+     _Pink Chocolate Box_
 
    :::
 
