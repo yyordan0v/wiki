@@ -87,7 +87,7 @@ The menacing **Golden Titan** launches its relentless assault upon the serene la
 
 #### Quantity
 
-During the invasion **14** Golden Titans and **14** Golden Soldiers are spread in [Devias](/maps/devias).
+During the invasion **14** Golden Titans and **28** Golden Soldiers are spread in [Devias](/maps/devias).
 
 #### Reward
 
@@ -156,7 +156,7 @@ With relentless determination, the **Golden Lizard King** initiates an unyieldin
 
 #### Quantity
 
-During the invasion **6** Golden Lizard Kings and **6** Golden Vepars are spread in [Atlans](/maps/atlans).
+During the invasion **6** Golden Lizard Kings and **12** Golden Vepars are spread in [Atlans](/maps/atlans).
 
 #### Reward
 
@@ -193,7 +193,7 @@ The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, i
 
 #### Quantity
 
-During the invasion **3** Golden Tantals and **3** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
+During the invasion **3** Golden Tantals and **9** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
 
 #### Reward
 

@@ -254,13 +254,13 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ![Legendary Set](/img/items/armors/dw/legendary.png)
 
-| Set Item Parts          | Parts Set Options                                | Full Set Bonus Options        |
-| ----------------------- | ------------------------------------------------ | ----------------------------- |
-| Anubis Legendary Helm   | **2 Parts Set option**: Double damage Chance +5% | Increase Critical damage +20  |
-| Anubis Legendary Armor  | **3 Parts Set option**: Increase Mana +50        | Increase Excellent damage +20 |
-| Anubis Legendary Gloves |                                                  | Increase Wizardy damage +10%  |
-| Anubis Ring of Fire     |                                                  | Excellent damage Chance +15%  |
-|                         |                                                  | Critical damage Chance +15%   |
+| Set Item Parts          | Parts Set Options                                 | Full Set Bonus Options        |
+| ----------------------- | ------------------------------------------------- | ----------------------------- |
+| Anubis Legendary Helm   | **2 Parts Set option**: Double damage Chance +10% | Increase Critical damage +20  |
+| Anubis Legendary Armor  | **3 Parts Set option**: Increase Mana +50         | Increase Excellent damage +20 |
+| Anubis Legendary Gloves |                                                   | Increase Wizardy damage +10%  |
+| Anubis Ring of Fire     |                                                   | Excellent damage Chance +15%  |
+|                         |                                                   | Critical damage Chance +15%   |
 
 #### Enis Legendary Set
 
