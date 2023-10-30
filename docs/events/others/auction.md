@@ -12,7 +12,7 @@ During the **Auction Event**, all online players have the chance to participate 
 
 ### Minimum Bid Amount
 
-Players can place their bids with a minimum of **1 Quest Point or Event Point**. This low entry requirement ensures that all players have the chance to participate in the auctions.
+Players can place their bids with a minimum of **`10 Quest Point or Event Point`**. This low entry requirement ensures that all players have the chance to participate in the auctions.
 
 ### Auction Time Limits
 
