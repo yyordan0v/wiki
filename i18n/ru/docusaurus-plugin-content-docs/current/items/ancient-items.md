@@ -32,6 +32,10 @@ import TabItem from '@theme/TabItem';
 - [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun/)
 - Получить [Silver Box](/items/item-bags/non-exc/silver-box)
 - Победить в событии [Chaos Castle](/events/chaos-castle)
+- [Lunar Rabbit](/special-monsters/others/lunar-rabbit)
+- [Fire Flame Ghost](/special-monsters/others/fire-flame-ghost)
+- [Golden Crust](/special-monsters/others/golden-crust)
+- [Golden Nappin](/special-monsters/others/golden-nappin)
 
 ## Древние Комплекты
 

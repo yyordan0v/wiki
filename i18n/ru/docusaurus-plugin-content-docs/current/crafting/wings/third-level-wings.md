@@ -14,7 +14,7 @@ sidebar_position: 4
 - [20 Пучков Жемчуга Благословения](/items/jewels/regular-jewels/jewel-of-bless)
 - [20 Пучков Жемчуга Души](/items/jewels/regular-jewels/jewel-of-soul)
 - [20 Пучков Жемчуга Творения](/items/jewels/regular-jewels/jewel-of-creation)
-- **Пламя Кондора (Condor Flame)**
+- [Condor Flame](/items/condor-flame)
 - [Перо Кондора (Condor Feather)](/crafting/wings/condor-feather)
 - **Превосходный (Excellent)** предмет, который был улучшен как минимум до **+13** с **опцией +4 или выше**
 - 1,000,000,000 Zen

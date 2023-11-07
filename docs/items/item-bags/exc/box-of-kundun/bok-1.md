@@ -50,9 +50,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Box of Kundun +1**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Golden Goblin](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Goblin](/img/monsters/special/golden/goblin.jpg)  |
+| [Golden Goblin](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 1)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Goblin](/img/monsters/special/golden/goblin.jpg)  |   ![Illusion of Kundun (Kalima 1)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 There is also chance that you get **Box of Kundun +1** dropped by one of the following item bags:
 

@@ -56,9 +56,9 @@ _Коробка Кундуна +5_
 
 Чтобы получить **Коробку Кундуна +5**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
-| [Golden Tantal](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Tantal](/img/monsters/special/golden/tantal.jpg)  |
+| [Golden Tantal](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 5)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Tantal](/img/monsters/special/golden/tantal.jpg)  |   ![Illusion of Kundun (Kalima 5)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 Также есть шанс получить **Коробку Кундуна +5** как дроп из одной из следующих сумок с предметами:
 

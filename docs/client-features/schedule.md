@@ -35,11 +35,3 @@ The **Mayhem Time** section presents a diverse array of [Mayhem Events](/events/
 ![Mayhem Timers](/img/client-features/mayhem-timers.jpg)
 
 _Mayhem Timers_
-
-## Auction Timers
-
-The **Auction Time** Module allows you to view the remaining time before a specific [Auction](/events/others/auction) takes place, offering a convenient way to keep track of the upcoming bidding events in **Lotus Mu**.
-
-![Auction Timers](/img/client-features/auction-timer.jpg)
-
-_Auction Timers_

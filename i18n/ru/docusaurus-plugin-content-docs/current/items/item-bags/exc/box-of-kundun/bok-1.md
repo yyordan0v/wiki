@@ -50,9 +50,9 @@ _Коробка Кундуна +1_
 
 Чтобы получить **Коробку Кундуна +1**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
-| [Golden Goblin](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Goblin](/img/monsters/special/golden/goblin.jpg)  |
+| [Golden Goblin](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 1)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Goblin](/img/monsters/special/golden/goblin.jpg)  |   ![Illusion of Kundun (Kalima 1)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 Также есть шанс получить **Коробку Кундуна +1** как дроп из одной из следующих сумок с предметами:
 

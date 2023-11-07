@@ -17,7 +17,7 @@ The **Pink Chocolate Box** can drop one of the following items:
 |   [Jewel of Bless](/items/jewels/regular-jewels/jewel-of-bless)    | [Jewel of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [Jewel of Harmony](/items/jewels/regular-jewels/jewel-of-harmony) | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos)  |
 | :----------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------: | :------------------------------------------------------------: |
 |           ![Jewel of Bless](/img/items/jewels/bless.png)           |        ![Jewel of Soul](/img/items/jewels/soul.png)         |        ![Jewel of Harmony](/img/items/jewels/harmony.png)         |         ![Jewel of Chaos](/img/items/jewels/chaos.png)         |
-| [Jewel of Life Bundle](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Luck](/items/jewels/superb-jewels/jewel-of-luck)  |                           Condor Flame                            |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
+| [Jewel of Life Bundle](/items/jewels/regular-jewels/jewel-of-life) | [Jewel of Luck](/items/jewels/superb-jewels/jewel-of-luck)  |                [Condor Flame](/items/condor-flame)                |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   |
 |       ![Jewel of Life Bundle](/img/items/jewels/life-10.png)       |    ![Jewel of Luck](/img/items/jewels/custom-green.png)     |        ![Condor Flame](/img/items/others/condor-flame.png)        | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |
 
 ## Obtaining the Pink Chocolate Box
@@ -25,7 +25,6 @@ The **Pink Chocolate Box** can drop one of the following items:
 In order to obtain a **Pink Chocolate Box** you need to win in one of the following events:
 
 - [Blood Castle 8](/events/blood-castle)
-- [Auction Event](/events/others/auction)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
 - [King of Yoskreth](/events/combat-events/king-of-yoskreth)
 - [Specialists' Combat](/events/combat-events/specialists-combat)

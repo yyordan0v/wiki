@@ -2,6 +2,9 @@
 sidebar_position: 3
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Chaos Castle
 
 **Chaos Castle** is the place where Mu Warriors fight for prestige or prize,but there can be only **one winner**.
@@ -116,19 +119,38 @@ Equipping **Ring of Fire** or **Pendant of Fire** can decrease the chances of th
 
 ## Reward
 
-By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/items/ancient-items). The **strength** of the items you receive in **Chaos Castle** depends on **which instance** of the event you are participating in.
+By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/items/ancient-items).
 
-For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the table below.
+For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tables below.
 
-| Chaos Castle Level | Items                                                                                                                                                                                                                                             | Event Points |
-| :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: |
-|   Chaos Castle 1   | [Leather](/items/ancient-items/#ancient-sets), [Pad](/items/ancient-items/#ancient-sets), [Vine](/items/ancient-items/#ancient-sets)                                                                                                              |     5 EP     |
-|   Chaos Castle 2   | [Leather](/items/ancient-items/#ancient-sets), [Pad](/items/ancient-items/#ancient-sets), [Vine](/items/ancient-items/#ancient-sets)                                                                                                              |     5 EP     |
-|   Chaos Castle 3   | [Bronze](/items/ancient-items/#ancient-sets), [Bone](/items/ancient-items/#ancient-sets), [Silk](/items/ancient-items/#ancient-sets)                                                                                                              |    10 EP     |
-|   Chaos Castle 4   | [Scale](/items/ancient-items/#ancient-sets), [Bone](/items/ancient-items/#ancient-sets), [Silk](/items/ancient-items/#ancient-sets)                                                                                                               |    15 EP     |
-|   Chaos Castle 5   | [Brass](/items/ancient-items/#ancient-sets), [Sphinx](/items/ancient-items/#ancient-sets), [Wind](/items/ancient-items/#ancient-sets)                                                                                                             |    20 EP     |
-|   Chaos Castle 6   | [Plate](/items/ancient-items/#ancient-sets), [Sphinx](/items/ancient-items/#ancient-sets), [Spirit](/items/ancient-items/#ancient-sets)                                                                                                           |    30 EP     |
-|   Chaos Castle 7   | [Dragon](/items/ancient-items/#ancient-sets), [Legendary](/items/ancient-items/#ancient-sets), [Guardian](/items/ancient-items/#ancient-sets), [Storm Crow](/items/ancient-items/#ancient-sets), [Adamantine](/items/ancient-items/#ancient-sets) |    60 EP     |
+```mdx-code-block
+<Tabs lazy>
+  <TabItem value="cc1-6" label="Chaos Castle 1-6">
+```
+
+|   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |   [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)  |
+| :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
+| ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  | ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png) |
+
+```mdx-code-block
+  </TabItem>
+
+  <TabItem value="cc-7" label="Chaos Castle 7">
+```
+
+|   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |    [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)    |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)   |
+| :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: |
+| ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  |  ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png)  | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png)  |
+|   [Wraith Dark Phoenix](/items/ancient-items/#ancient-sets)    |  [Scorch Grand Sould](/items/ancient-items/#ancient-sets)  | [Celestia Divine](/items/ancient-items/#ancient-sets) |   [Raptor Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Shadow Dark Steel](/items/ancient-items/#ancient-sets)  |
+| ![Wraith Dark Phoenix](/img/items/armors/dk/dark-phoenix.png)  | ![Scorch Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Celestia Divine](/img/items/armors/fe/divine.png)  | ![Raptor Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Shadow Dark Steel](/img/items/armors/dl/dark-steel.png) |
+|              [Condor Flame](/items/condor-flame)               |                                                            |                                                       |                                                               |                                                           |
+|      ![Condor Flame](/img/items/others/condor-flame.png)       |                                                            |                                                       |                                                               |                                                           |
+
+```mdx-code-block
+
+  </TabItem>
+</Tabs>
+```
 
 ## Monthly Reward
 

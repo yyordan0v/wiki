@@ -48,9 +48,9 @@ _Коробка Кундуна +2_
 
 Чтобы получить **Коробку Кундуна +2**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
-| [Golden Titan](/special-monsters/invasions/golden-dragon) |
-| :-------------------------------------------------------: |
-|  ![Golden Titan](/img/monsters/special/golden/titan.jpg)  |
+| [Golden Titan](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 2)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :-------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|  ![Golden Titan](/img/monsters/special/golden/titan.jpg)  |   ![Illusion of Kundun (Kalima 2)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 Также есть шанс получить **Коробку Кундуна +2** как дроп из одной из следующих сумок с предметами:
 

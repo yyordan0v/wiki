@@ -17,9 +17,10 @@ The **Golden Great Dragon** Invasion unleashes relentless fury across multiple k
 
 The table below presents valuable insights regarding the timing and frequency of the **Golden Great Dragon Invasion** in **Lotus Mu**.
 
-| First Invasion time | Reappearing Time |
-| :-----------------: | :--------------: |
-|      09:50:00       |  Every 12 hour   |
+| Invasion time |
+| :-----------: |
+|   17:50:00    |
+|   21:50:00    |
 
 :::info
 

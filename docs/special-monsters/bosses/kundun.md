@@ -20,7 +20,7 @@ Embark on an extraordinary adventure into the depths of [Kalima 7](/maps/kalima)
 
 |         Location         |   Time   | Frequency |
 | :----------------------: | :------: | :-------: |
-| [Kalima 7](/maps/kalima) | 17:50:00 | Every 24h |
+| [Kalima 7](/maps/kalima) | 23:30:00 | Every 24h |
 
 :::info
 

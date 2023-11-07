@@ -56,9 +56,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Box of Kundun +5**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Golden Tantal](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Tantal](/img/monsters/special/golden/tantal.jpg)  |
+| [Golden Tantal](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 5)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Tantal](/img/monsters/special/golden/tantal.jpg)  |   ![Illusion of Kundun (Kalima 5)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 There is also chance that you get **Box of Kundun +5** dropped by one of the following item bags:
 

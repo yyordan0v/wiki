@@ -39,5 +39,4 @@ You can also obtain a **Purple Chaos Box** by winning in one of the following ev
 - [Doppelganger](/events/doppelganger)
 - [Imperial Guardian](/events/imperial-guardian)
 - [Illusion Temple 1-5](/events/illusion-temple)
-- [Auction Event](/events/others/auction)
 - [Pandora Event](/events/combat-events/pandora)

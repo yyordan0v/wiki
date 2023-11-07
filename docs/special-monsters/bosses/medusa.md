@@ -16,7 +16,7 @@ Embark on a thrilling journey through the treacherous [Swamp of Peace](/maps/swa
 
 |                Location                |   Time   | Frequency |
 | :------------------------------------: | :------: | :-------: |
-| [Swamp of Peace](/maps/swamp-of-peace) | 05:50:00 | Every 24h |
+| [Swamp of Peace](/maps/swamp-of-peace) | 19:30:00 | Every 24h |
 
 :::info
 

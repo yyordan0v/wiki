@@ -39,5 +39,4 @@ _Фиолетовая Хаос Коробка_
 - [Doppelganger](/events/doppelganger)
 - [Imperial Guardian](/events/imperial-guardian)
 - [Illusion Temple 1-5](/events/illusion-temple)
-- [Auction Event](/events/others/auction)
 - [Pandora Event](/events/combat-events/pandora)

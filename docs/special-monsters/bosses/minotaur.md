@@ -18,7 +18,7 @@ Experience the breathtaking presence of the **Minotaur** as you traverse [Karuta
 
 |          Location          |   Time   | Frequency |
 | :------------------------: | :------: | :-------: |
-| [Karutan 2](/maps/karutan) | 11:50:00 | Every 24h |
+| [Karutan 2](/maps/karutan) | 17:30:00 | Every 24h |
 
 :::info
 

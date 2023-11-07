@@ -32,9 +32,10 @@ _Death Bone_
 
 The subsequent table provides detailed information about the time and the quantity of the **Death King** attacks that occur throughout the day. It offers a comprehensive overview of when the attacks take place and the number of the **Death King** involved in each assault.
 
-| First Invasion time |   Frequency   |
-| :-----------------: | :-----------: |
-|      03:50:00       | Every 12 hour |
+| Invasion time |
+| :-----------: |
+|   19:50:00    |
+|   23:50:00    |
 
 :::info
 

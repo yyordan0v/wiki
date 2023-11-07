@@ -48,9 +48,9 @@ _Коробка Кундуна +3_
 
 Чтобы получить **Коробку Кундуна +3**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
-| [Golden Dragon](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |
+| [Golden Dragon](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 3)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |   ![Illusion of Kundun (Kalima 3)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 Также есть шанс получить **Коробку Кундуна +3** как дроп из одной из следующих сумок с предметами:
 

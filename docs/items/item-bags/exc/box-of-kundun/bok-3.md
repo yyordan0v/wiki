@@ -48,9 +48,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Box of Kundun +3**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Golden Dragon](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |
+| [Golden Dragon](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 3)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)  |   ![Illusion of Kundun (Kalima 3)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 There is also chance that you get **Box of Kundun +3** dropped by one of the following item bags:
 

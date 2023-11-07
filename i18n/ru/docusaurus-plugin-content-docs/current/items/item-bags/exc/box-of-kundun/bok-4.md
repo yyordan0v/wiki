@@ -50,9 +50,9 @@ _Коробка Кундуна +4_
 
 Чтобы получить **Коробку Кундуна +4**, искатели приключений должны завершить [задания](/gameplay-systems/quest-system) или одержать победу над следующими могучими существами:
 
-| [Golden Lizard](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Lizard](/img/monsters/special/golden/lizard.jpg)  |
+| [Golden Lizard](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 4)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Lizard](/img/monsters/special/golden/lizard.jpg)  |   ![Illusion of Kundun (Kalima 4)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 Также есть шанс получить **Коробку Кундуна +4** как дроп из одной из следующих сумок с предметами:
 

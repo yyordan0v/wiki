@@ -48,9 +48,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Box of Kundun +2**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Golden Titan](/special-monsters/invasions/golden-dragon) |
-| :-------------------------------------------------------: |
-|  ![Golden Titan](/img/monsters/special/golden/titan.jpg)  |
+| [Golden Titan](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 2)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :-------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+|  ![Golden Titan](/img/monsters/special/golden/titan.jpg)  |   ![Illusion of Kundun (Kalima 2)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 There is also chance that you get **Box of Kundun +2** dropped by one of the following item bags:
 

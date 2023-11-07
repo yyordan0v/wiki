@@ -50,9 +50,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Box of Kundun +4**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-| [Golden Lizard](/special-monsters/invasions/golden-dragon) |
-| :--------------------------------------------------------: |
-| ![Golden Lizard](/img/monsters/special/golden/lizard.jpg)  |
+| [Golden Lizard](/special-monsters/invasions/golden-dragon) | [Illusion of Kundun (Kalima 4)](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| ![Golden Lizard](/img/monsters/special/golden/lizard.jpg)  |   ![Illusion of Kundun (Kalima 4)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
 There is also chance that you get **Box of Kundun +4** dropped by one of the following item bags:
 

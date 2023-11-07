@@ -20,7 +20,7 @@ Prepare yourself for an exhilarating expedition through the perilous realm of [A
 
 |      Location      |   Time   | Frequency |
 | :----------------: | :------: | :-------: |
-| [Aida](/maps/aida) | 23:50:00 | Every 24h |
+| [Aida](/maps/aida) | 21:30:00 | Every 24h |
 
 :::info
 

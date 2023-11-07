@@ -32,17 +32,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-1" label="Калима 1">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 1** успешно побеждена, игроки будут вознаграждены [Коробкой Кундуна +1](/items/item-bags/exc/box-of-kundun/bok-1) **x3**.
+
 |      Местоположение      |        Частота        |
 | :----------------------: | :-------------------: |
 | [Калима 1](/maps/kalima) | 2 часа после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 1** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Box of Kundun +1](/img/items/item-bags/bok-1.png)
 
-|  [Warrior Leather](/items/ancient-items/#древние-комплекты)  | [Apollo Pad](/items/ancient-items/#древние-комплекты)  | [Ceto Vine](/items/ancient-items/#древние-комплекты)  |
-| :----------------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
-|     ![Warrior Leather](/img/items/armors/dk/leather.png)     |      ![Apollo Pad](/img/items/armors/dw/pad.png)       |      ![Ceto Vine](/img/items/armors/fe/vine.png)      |
-| [Anonymous Leather](/items/ancient-items/#древние-комплекты) | [Barnake Pad](/items/ancient-items/#древние-комплекты) | [Drake Vine](/items/ancient-items/#древние-комплекты) |
-|    ![Anonymous Leather](/img/items/armors/dk/leather.png)    |      ![Barnake Pad](/img/items/armors/dw/pad.png)      |     ![Drake Vine](/img/items/armors/fe/vine.png)      |
+_Box of Kundun +1_
 
 ```mdx-code-block
   </TabItem>
@@ -50,17 +48,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-2" label="Калима 2">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 2** успешно побеждена, игроки будут вознаграждены [Коробкой Кундуна +2](/items/item-bags/exc/box-of-kundun/bok-2) **x3**.
+
 |      Местоположение      |        Частота        |
 | :----------------------: | :-------------------: |
 | [Калима 2](/maps/kalima) | 3 часа после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 2** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Box of Kundun +2](/img/items/item-bags/bok-2.png)
 
-| [Hyperion Bronze](/items/ancient-items/#древние-комплекты) |  [Evis Bone](/items/ancient-items/#древние-комплекты)  | [Gaia Silk](/items/ancient-items/#древние-комплекты) |
-| :--------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-|    ![Hyperion Bronze](/img/items/armors/dk/bronze.png)     |      ![Evis Bone](/img/items/armors/dw/bone.png)       |     ![Gaia Silk](/img/items/armors/fe/silk.png)      |
-|   [Mist Bronze](/items/ancient-items/#древние-комплекты)   | [Sylion Bone](/items/ancient-items/#древние-комплекты) | [Fase Silk](/items/ancient-items/#древние-комплекты) |
-|      ![Mist Bronze](/img/items/armors/dk/bronze.png)       |     ![Sylion Bone](/img/items/armors/dw/bone.png)      |     ![Fase Silk](/img/items/armors/fe/silk.png)      |
+_Box of Kundun +2_
 
 ```mdx-code-block
   </TabItem>
@@ -68,17 +64,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-3" label="Калима 3">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 3** успешно побеждена, игроки будут вознаграждены [Коробкой Кундуна +3](/items/item-bags/exc/box-of-kundun/bok-3) **x2**.
+
 |      Местоположение      |        Частота        |
 | :----------------------: | :-------------------: |
 | [Калима 3](/maps/kalima) | 4 часа после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 3** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Box of Kundun +3](/img/items/item-bags/bok-3.png)
 
-|  [Eplate Scale](/items/ancient-items/#древние-комплекты)   |  [Evis Bone](/items/ancient-items/#древние-комплекты)  | [Gaia Silk](/items/ancient-items/#древние-комплекты) |
-| :--------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------: |
-|      ![Eplate Scale](/img/items/armors/dk/scale.png)       |      ![Evis Bone](/img/items/armors/dw/bone.png)       |     ![Gaia Silk](/img/items/armors/fe/silk.png)      |
-| [Berserker Scale](/items/ancient-items/#древние-комплекты) | [Sylion Bone](/items/ancient-items/#древние-комплекты) | [Fase Silk](/items/ancient-items/#древние-комплекты) |
-|     ![Berserker Scale](/img/items/armors/dk/scale.png)     |     ![Sylion Bone](/img/items/armors/dw/bone.png)      |     ![Fase Silk](/img/items/armors/fe/silk.png)      |
+_Box of Kundun +3_
 
 ```mdx-code-block
   </TabItem>
@@ -86,17 +80,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-4" label="Калима 4">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 4** успешно побеждена, игроки будут вознаграждены [Коробкой Кундуна +4](/items/item-bags/exc/box-of-kundun/bok-4) **x2**.
+
 |      Местоположение      |        Частота         |
 | :----------------------: | :--------------------: |
 | [Калима 4](/maps/kalima) | 5 часов после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 4** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Box of Kundun +4](/img/items/item-bags/bok-4.png)
 
-| [Garuda Brass](/items/ancient-items/#древние-комплекты) | [Heras Sphinx](/items/ancient-items/#древние-комплекты) |  [Odin Wind](/items/ancient-items/#древние-комплекты)  |
-| :-----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: |
-|     ![Garuda Brass](/img/items/armors/dk/brass.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)     |      ![Odin Wind](/img/items/armors/fe/wind.png)       |
-| [Cloud Brass](/items/ancient-items/#древние-комплекты)  | [Minet Sphinx](/items/ancient-items/#древние-комплекты) | [Elvian Wind](/items/ancient-items/#древние-комплекты) |
-|     ![Cloud Brass](/img/items/armors/dk/brass.png)      |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)     |     ![Elvian Wind](/img/items/armors/fe/wind.png)      |
+_Box of Kundun +4_
 
 ```mdx-code-block
   </TabItem>
@@ -104,17 +96,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-5" label="Калима 5">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 5** успешно побеждена, игроки будут вознаграждены [Коробкой Кундуна +5](/items/item-bags/exc/box-of-kundun/bok-5).
+
 |      Местоположение      |        Частота         |
 | :----------------------: | :--------------------: |
 | [Калима 5](/maps/kalima) | 6 часов после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 5** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Box of Kundun +5](/img/items/item-bags/bok-5.png)
 
-| [Kantata Plate](/items/ancient-items/#древние-комплекты) | [Heras Sphinx](/items/ancient-items/#древние-комплекты) | [Argo Spirit](/items/ancient-items/#древние-комплекты)  |
-| :------------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|     ![Kantata Plate](/img/items/armors/dk/plate.png)     |    ![Heras Sphinx](/img/items/armors/dw/sphinx.png)     |     ![Argo Spirit](/img/items/armors/fe/spirit.png)     |
-|  [Rave Plate](/items/ancient-items/#древние-комплекты)   | [Minet Sphinx](/items/ancient-items/#древние-комплекты) | [Karis Spirit](/items/ancient-items/#древние-комплекты) |
-|      ![Rave Plate](/img/items/armors/dk/plate.png)       |    ![Minet Sphinx](/img/items/armors/dw/sphinx.png)     |    ![Karis Spirit](/img/items/armors/fe/spirit.png)     |
+_Box of Kundun +5_
 
 ```mdx-code-block
   </TabItem>
@@ -122,17 +112,15 @@ _Иллюзия Кундуна_
   <TabItem value="kalima-6" label="Калима 6">
 ```
 
+Когда **Иллюзия Кундуна** в **Калиме 6** успешно побеждена, игроки будут вознаграждены [Красным Хаосовым Сундуком](/items/item-bags/exc/red-chaos-box).
+
 |      Местоположение      |        Частота         |
 | :----------------------: | :--------------------: |
 | [Калима 6](/maps/kalima) | 7 часов после убийства |
 
-Когда **Иллюзия Кундуна** в **Калиме 6** успешно побеждена, игроки будут вознаграждены [Ancient Item](/items/ancient-items/).
+![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)
 
-|  [Hyon Dragon](/items/ancient-items/#древние-комплекты)   | [Anubis Legendary](/items/ancient-items/#древние-комплекты) | [Gywen Guardian](/items/ancient-items/#древние-комплекты) | [Gaion Storm Crow](/items/ancient-items/#древние-комплекты) | [Agnis Adamantine](/items/ancient-items/#древние-комплекты) |
-| :-------------------------------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
-|      ![Hyon Dragon](/img/items/armors/dk/dragon.png)      |   ![Anubis Legendary](/img/items/armors/dw/legendary.png)   |   ![Gywen Guardian](/img/items/armors/fe/guardian.png)    |  ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png)   |  ![Agnis Adamantine](/img/items/armors/dl/adamantine.png)   |
-| [Vicious Dragon](/items/ancient-items/#древние-комплекты) |  [Enis Legendary](/items/ancient-items/#древние-комплекты)  | [Aruan Guardian](/items/ancient-items/#древние-комплекты) | [Muren Storm Crow](/items/ancient-items/#древние-комплекты) | [Broy Adamantine](/items/ancient-items/#древние-комплекты)  |
-|    ![Vicious Dragon](/img/items/armors/dk/dragon.png)     |    ![Enis Legendary](/img/items/armors/dw/legendary.png)    |   ![Aruan Guardian](/img/items/armors/fe/guardian.png)    |  ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png)   |   ![Broy Adamantine](/img/items/armors/dl/adamantine.png)   |
+_Red Chaos Box_
 
 ```mdx-code-block
 
