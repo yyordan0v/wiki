@@ -29,23 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ru'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr',
-        htmlLang: 'en-US',
-        calendar: 'gregory',
-        path: 'en',
-      },
-      fa: {
-        label: 'Русский',
-        direction: 'ltr',
-        htmlLang: 'fa-ru',
-        calendar: 'gregory',
-        path: 'ru',
-      },
-    },
+    locales: ['en'],
   },
 
   presets: [
@@ -82,10 +66,6 @@ const config = {
           {
             href: 'https://lotusmu.org',
             label: 'Lotus Mu',
-            position: 'right',
-          },
-          {
-            type: 'localeDropdown',
             position: 'right',
           },
         ],
