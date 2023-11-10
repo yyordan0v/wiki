@@ -54,7 +54,7 @@ The Prismatic Gems available for purchase with **Zen** include:
 
 - [Red Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)
 - [Red Ghost Horse Prismatic Gem](/items/jewels/prismatic-gems/ghost-horse-gems)
-
+- [Ice Dragon Prismatic Gem](/items/jewels/prismatic-gems/dragon-gems)
 
 ### Cash Shop
 
@@ -89,6 +89,14 @@ From this specific **Collector's Cache**, you have the chance to acquire [Darkho
 ![Darkhorse Collector's Cache](/img/items/item-bags/darkhorse-cache.png)
 
 _Darkhorse Collector's Cache_
+
+#### The Dragon Collector's Cache
+
+From this specific **Collector's Cache**, you have the chance to acquire [Dragon Prismatic Gems](/items/jewels/prismatic-gems/dragon-gems).
+
+![Dragon Collector's Cache](/img/items/item-bags/dragon-cache.png)
+
+_Dragon Collector's Cache_
 
 ## Rarity
 
