@@ -182,7 +182,8 @@ const config = {
       },
       docs: {
         sidebar: {
-          hideable: true,
+          // hideable: true,
+          autoCollapseCategories: true
         },
       },
     }),
