@@ -22,17 +22,17 @@ _Синяя Коробка Свитка_
 
 ### Оружие
 
-|                         Sword Breaker                         |                        Flemeberge                         |                           Bone Blade                            |
-| :-----------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------: |
-|     ![Sword Breaker](/img/items/swords/sword-breaker.png)     |      ![Flemeberge](/img/items/swords/flameberge.png)      |         ![Bone Blade](/img/items/swords/bone-blade.png)         |
-|                       Grand Viper Staff                       |                       Deadly Staff                        |                         Inberial Staff                          |
-| ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png) |    ![Deadly Staff](/img/items/staffs/deadly-staff.png)    |     ![Inberial Staff](/img/items/staffs/inberial-staff.png)     |
-|                         Dark Stinger                          |                      Sylph Wind Bow                       |                           Aileen Bow                            |
-|       ![Dark Stinger](/img/items/bows/dark-stinger.png)       |   ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)   |          ![Aileen Bow](/img/items/bows/aileen-bow.png)          |
-|                         Sword Dancer                          |                      Explosion Blade                      |                       Rune Bastard Sword                        |
-|      ![Sword Dancer](/img/items/swords/sword-dancer.png)      | ![Explosion Blade](/img/items/swords/explosion-blade.png) | ![Rune Bastard Sword](/img/items/swords/rune-bastard-sword.png) |
-|                       Absolute Scepter                        |                      Soleil Scepter                       |                         Striker Scepter                         |
-| ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) |   ![Striker Scepter](/img/items/scepters/striker-scepter.png)   |
+|                         Sword Breaker                         |                        Flemeberge                         |                           Bone Blade                            |                      Voidreign Sword                      |                  Tyrant Axe                   |
+| :-----------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------: |
+|     ![Sword Breaker](/img/items/swords/sword-breaker.png)     |      ![Flemeberge](/img/items/swords/flameberge.png)      |         ![Bone Blade](/img/items/swords/bone-blade.png)         | ![Voidreign Sword](/img/items/swords/voidreign-sword.jpg) | ![Tyrant Axe](/img/items/axes/tyrant-axe.jpg) |
+|                       Grand Viper Staff                       |                       Deadly Staff                        |                         Inberial Staff                          |                      Ethereon Staff                       |                                               |
+| ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png) |    ![Deadly Staff](/img/items/staffs/deadly-staff.png)    |     ![Inberial Staff](/img/items/staffs/inberial-staff.png)     |  ![Ethereon Staff](/img/items/staffs/ethereon-staff.jpg)  |                                               |
+|                         Dark Stinger                          |                      Sylph Wind Bow                       |                           Aileen Bow                            |                        Nebula Bow                         |                   Luna Gun                    |
+|       ![Dark Stinger](/img/items/bows/dark-stinger.png)       |   ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)   |          ![Aileen Bow](/img/items/bows/aileen-bow.png)          |       ![Nebula Bow](/img/items/bows/nebula-bow.jpg)       |   ![Luna Gun](/img/items/bows/luna-gun.jpg)   |
+|                         Sword Dancer                          |                      Explosion Blade                      |                       Rune Bastard Sword                        |                      Oblivion Sword                       |
+|      ![Sword Dancer](/img/items/swords/sword-dancer.png)      | ![Explosion Blade](/img/items/swords/explosion-blade.png) | ![Rune Bastard Sword](/img/items/swords/rune-bastard-sword.png) |  ![Oblivion Sword](/img/items/swords/oblivion-sword.jpg)  |
+|                       Absolute Scepter                        |                      Soleil Scepter                       |                         Striker Scepter                         |                      Aether Scepter                       |
+| ![Absolute Scepter](/img/items/scepters/absolute-scepter.png) | ![Soleil Scepter](/img/items/scepters/soleil-scepter.png) |   ![Striker Scepter](/img/items/scepters/striker-scepter.png)   | ![Aether Scepter](/img/items/scepters/aether-scepter.jpg) |
 
 ### Щиты
 
