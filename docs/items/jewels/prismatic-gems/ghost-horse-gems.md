@@ -14,7 +14,7 @@ For further information about the Skin System, you can explore our comprehensive
 
 Embrace this mystical power to unleash your creativity and forge a bond with your faithful companions, as you embark on an adventure filled with boundless possibilities in the enchanting world of Lotus Mu.
 
-![Prismatic Gem](/img/items/jewels/ghost-horse-prismatic-gem.png)
+![Prismatic Gem](/img/items/jewels/ghost-horse-prismatic-gem.jpg)
 
 _Prismatic Gem_
 
