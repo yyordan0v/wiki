@@ -124,7 +124,7 @@ Please be aware that while the personal rewards for defeating the [Dark Elves](/
 Protecting **Crywolf** will earn the whole realm the following extra passive benefits for one week:
 
 - Strength of monsters in all maps except [Land of Trial](/maps/land-of-trials) will **decrease 20%**.
-- Chaos Combination Success Rate will **increase 10%**.
+- Chaos Combination Success Rate on event invitations combinations will **increase 10%**.
 
 :::
 
