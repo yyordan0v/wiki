@@ -11,7 +11,7 @@ For further information about the Skin System, you can explore our comprehensive
 
 :::
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Prismatic Gem](/img/items/jewels/darkhorse-prismatic-gem.png)
 
 _Prismatic Gem_
 

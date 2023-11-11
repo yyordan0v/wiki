@@ -18,17 +18,17 @@ Please be aware that this functionality solely alters the pet's **appearance** w
 
 To alter the appearance of your [Tier 2 pet](/category/pets), you must infuse it with a Prismatic Gem.
 
-![Prismatic Gem](/img/items/jewels/prismatic-gem.png)
+![Prismatic Gem](/img/items/jewels/ghost-horse-prismatic-gem.png) ![Prismatic Gem](/img/items/jewels/fenrir-prismatic-gem.png) ![Prismatic Gem](/img/items/jewels/darkhorse-prismatic-gem.png) ![Prismatic Gem](/img/items/jewels/dragon-prismatic-gem.png)
 
-_Prismatic Gem_
+_Prismatic Gems_
 
 ## Infusion Process
 
 One such example of infusion is as follows:
 
-|    [Necromancer](/crafting/pets/necromancer)    |                                       | [Green Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems) |                                         |                   Green Fenrir                    |
-| :---------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------: | :-----------------------------------------------: |
-| ![Necromancer](/img/items/pets/necromancer.png) | ![Plus](/img/items/invitations/+.png) |   ![Green Fenrir Prismatic Gem](/img/items/jewels/prismatic-gem.png)   | ![Equals](/img/items/invitations/=.png) | ![Green Fenrir](/img/items/pets/green-fenrir.jpg) |
+|    [Necromancer](/crafting/pets/necromancer)    |                                       |  [Green Fenrir Prismatic Gem](/items/jewels/prismatic-gems/fenrir-gems)   |                                         |                   Green Fenrir                    |
+| :---------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------: | :-----------------------------------------------: |
+| ![Necromancer](/img/items/pets/necromancer.png) | ![Plus](/img/items/invitations/+.png) | ![Green Fenrir Prismatic Gem](/img/items/jewels/fenrir-prismatic-gem.png) | ![Equals](/img/items/invitations/=.png) | ![Green Fenrir](/img/items/pets/green-fenrir.jpg) |
 
 The final result, **The Green Fenrir**, will retain identical stats to those of the [Necromancer](/crafting/pets/necromancer).
 
