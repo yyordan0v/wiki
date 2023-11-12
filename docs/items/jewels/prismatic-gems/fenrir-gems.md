@@ -46,7 +46,7 @@ _Silvia_
 
 ### Cash Shop
 
-The following **Prismatic Gems** are available in the [Cash Shop](/client-features/cash-shop):
+The following **Prismatic Gems** are available in the **Cash Shop**:
 
 | Blue Fenrir [<span className="tier-uncommon">**Uncommon**</span>] | Black Fenrir [<span className="tier-uncommon">**Uncommon**</span>] |
 | :---------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -68,7 +68,7 @@ The Red, Blue, and Black Fenrir Prismatic Gems are not included in the **Fenrir 
 
 :::info
 
-These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#cash-shop) as well as directly within the [Cash Shop](/client-features/cash-shop).
+These **Fenrir Prismatic Gems** can be obtained via the [Fenrir Collector's Cache](/skin-system#cash-shop) as well as directly within the **Cash Shop**.
 
 ![Fenrir Collector's Cache](/img/items/item-bags/fenrir-cache.png)
 

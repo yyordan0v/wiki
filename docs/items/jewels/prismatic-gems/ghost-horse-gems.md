@@ -48,7 +48,7 @@ _Silvia_
 
 ### Cash Shop
 
-The following **Prismatic Gems** can be purchased directly within the [Cash Shop](/client-features/cash-shop) under the **Darkhorse Collection** Tab.
+The following **Prismatic Gems** can be purchased directly within the **Cash Shop** under the **Darkhorse Collection** Tab.
 
 | Ice Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] | White Ghost Horse [<span className="tier-uncommon">**Uncommon**</span>] |
 | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: |

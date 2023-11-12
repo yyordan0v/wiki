@@ -46,7 +46,7 @@ _Silvia_
 
 ### Cash Shop
 
-The following **Prismatic Gems** are available in the [Cash Shop](/client-features/cash-shop):
+The following **Prismatic Gems** are available in the **Cash Shop**:
 
 :::info
 
@@ -64,7 +64,7 @@ The Ice Dragon Prismatic Gem is not included in the **Dragon Collector's Cache**
 
 :::info
 
-These **Dragon Prismatic Gems** can be obtained via the [Dragon Collector's Cache](/skin-system#cash-shop) as well as directly within the [Cash Shop](/client-features/cash-shop).
+These **Dragon Prismatic Gems** can be obtained via the [Dragon Collector's Cache](/skin-system#cash-shop) as well as directly within the **Cash Shop**.
 
 ![Dragon Collector's Cache](/img/items/item-bags/dragon-cache.png)
 

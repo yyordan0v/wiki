@@ -62,7 +62,7 @@ You can obtain [Prismatic Gems](/category/prismatic-gems) from the **Lotus Mu Co
 
 :::tip
 
-You also have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) directly from the [Cash Shop](/client-features/cash-shop) in exchange for **Coins**.
+You also have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) directly from the **Cash Shop** in exchange for **Coins**.
 
 :::
 
