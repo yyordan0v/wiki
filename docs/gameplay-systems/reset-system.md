@@ -53,7 +53,7 @@ The table below provides a comprehensive overview of the rewards and experience 
 | **99**  |   **4,000**   |  **4,100**   |  **71,800**  | **81,700**  |  **0,75**  |
 | **100** |   **4,200**   |  **4,300**   |  **76,000**  | **86,000**  |  **0,5**   |
 
-## Reset Scheme
+#### Reset Scheme
 
 Maximum resets will be raised throught the time as follows:
 
@@ -115,7 +115,7 @@ Maximum resets will be raised throught the time as follows:
 | **99**  |   **4,000**   |  **4,100**   |  **71,800**  | **81,700**  |   **10**   |
 | **100** |   **4,200**   |  **4,300**   |  **76,000**  | **86,000**  |   **1**    |
 
-## Reset Scheme
+#### Reset Scheme
 
 Maximum resets will be raised throught the time as follows:
 
