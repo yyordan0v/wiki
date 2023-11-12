@@ -15,7 +15,7 @@ The table below provides a comprehensive overview of the rewards and experience 
 |   0-9   |      400      |     500      |      -       |      -      |    1000    |
 | **10**  |   **1,400**   |  **1,500**   |  **5,000**   |  **6,000**  |  **900**   |
 |  11-19  |      400      |     500      |      -       |      -      |    900     |
-| **20**  |   **1,600**   |  **1,700**   |  **10,200**   | **12,200**  |  **800**   |
+| **20**  |   **1,600**   |  **1,700**   |  **10,200**  | **12,200**  |  **800**   |
 |  21-29  |      400      |     500      |      -       |      -      |    800     |
 | **30**  |   **1,800**   |  **1,900**   |  **15,600**  | **18,600**  |  **700**   |
 |  31-39  |      400      |     500      |      -       |      -      |    700     |
@@ -44,5 +44,23 @@ The table below provides a comprehensive overview of the rewards and experience 
 :::note
 
 Maximum resets at the start will be **40**. They will gradually increase through the course of time.
+
+:::
+
+## Reset Scheme
+
+Maximum resets will be raised throught the time as follows:
+
+| Maximum Resets **From** | Maximum Resets **To** | Required Players at Maximum Resets |
+| :---------------------: | :-------------------: | :--------------------------------: |
+|      **40** resets      |     **60** resets     |           **50** players           |
+|      **60** resets      |     **80** resets     |           **40** players           |
+|      **80** resets      |     **90** resets     |           **30** players           |
+|      **90** resets      |     **95** resets     |           **20** players           |
+|      **95** resets      |    **100** resets     |           **20** players           |
+
+::: caution
+
+The reset raising will always happen on Sunday, 22:30 Server Time!
 
 :::
