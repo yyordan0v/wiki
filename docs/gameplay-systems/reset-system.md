@@ -50,7 +50,7 @@ The table below provides a comprehensive overview of the rewards and experience 
 | **96**  |   **3,400**   |  **3,500**   |  **60,400**  | **70,000**  |   **2**    |
 | **97**  |   **3,600**   |  **3,700**   |  **64,000**  | **73,700**  |  **1,5**   |
 | **98**  |   **3,800**   |  **3,900**   |  **67,800**  | **77,600**  |   **1**    |
-| **99**  |   **4,000**   |  **4,100**   |  **71,800**  | **81,700**  |  **0,75**  |
+| **99**  |   **4,000**   |  **4,100**   |  **71,800**  | **81,700**  |  **0,7**   |
 | **100** |   **4,200**   |  **4,300**   |  **76,000**  | **86,000**  |  **0,5**   |
 
 #### Reset Scheme
@@ -72,7 +72,6 @@ Maximum resets will be raised throught the time as follows:
 :::info
 
 - First reset raising will occur on 07-01-2024 22:30 - after the first Castle Siege Battle.
-  .
 
 - The reset raising will always happen on Sunday, 22:30 Server Time - right after Castle Siege battle ends!
 

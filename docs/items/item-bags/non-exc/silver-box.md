@@ -20,7 +20,7 @@ To obtain the **Silver Box**, adventurers must slay **any** monsters in either [
 
 ## Item Drops
 
-The **Silver Box** can drop the one of following items:
+The **Silver Box** can drop one of following items:
 
 |   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |   [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)  |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
