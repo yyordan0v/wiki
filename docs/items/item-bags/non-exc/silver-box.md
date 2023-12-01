@@ -22,11 +22,9 @@ To obtain the **Silver Box**, adventurers must slay **any** monsters in either [
 
 The **Silver Box** can drop the one of following items:
 
-|  [Hyon Dragon](/items/ancient-items/#ancient-sets)   | [Anubis Legendary](/items/ancient-items/#ancient-sets)  | [Gywen Guardian](/items/ancient-items/#ancient-sets) | [Gaion Storm Crow](/items/ancient-items/#ancient-sets) |  [Agnis Adamantine](/items/ancient-items/#ancient-sets)  |
-| :--------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: |
-|   ![Hyon Dragon](/img/items/armors/dk/dragon.png)    | ![Anubis Legendary](/img/items/armors/dw/legendary.png) | ![Gywen Guardian](/img/items/armors/fe/guardian.png) |  ![Gaion Storm Crow](/img/items/armors/mg/storm-crow.png)  | ![Agnis Adamantine](/img/items/armors/dl/adamantine.png) |
-| [Vicious Dragon](/items/ancient-items/#ancient-sets) |  [Enis Legendary](/items/ancient-items/#ancient-sets)   | [Aruan Guardian](/items/ancient-items/#ancient-sets) | [Muren Storm Crow](/items/ancient-items/#ancient-sets) |  [Broy Adamantine](/items/ancient-items/#ancient-sets)   |
-|  ![Vicious Dragon](/img/items/armors/dk/dragon.png)  |  ![Enis Legendary](/img/items/armors/dw/legendary.png)  | ![Aruan Guardian](/img/items/armors/fe/guardian.png) |  ![Muren Storm Crow](/img/items/armors/mg/storm-crow.png)  | ![Broy Adamantine](/img/items/armors/dl/adamantine.png)  |
+|   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |   [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)  |
+| :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
+| ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  | ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png) |
 
 :::note
 

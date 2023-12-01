@@ -109,19 +109,19 @@ Depending on your **score** which is based on how many monsters you killed durin
 
 For a comprehensive breakdown of the reward of the **Devil Square Winner**, refer to the table below.
 
-| Devil Square Level |                           Item                           | Event Points |
-| :----------------: | :------------------------------------------------------: | :----------: |
-|   Devil Square 1   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 2   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 3   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |     5 EP     |
-|   Devil Square 4   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    10 EP     |
-|   Devil Square 5   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    15 EP     |
-|   Devil Square 6   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    20 EP     |
-|   Devil Square 7   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) |    40 EP     |
+| Devil Square Level |                              Item                              | Event Points |
+| :----------------: | :------------------------------------------------------------: | :----------: |
+|   Devil Square 1   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
+|   Devil Square 2   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
+|   Devil Square 3   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
+|   Devil Square 4   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    10 EP     |
+|   Devil Square 5   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    15 EP     |
+|   Devil Square 6   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    20 EP     |
+|   Devil Square 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    40 EP     |
 
-![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
+![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
-_Lilac Candy Box_
+_Lilac Candy Box & Pink Chocolate Box_
 
 Furthermore, there is a **Zen reward** granted to the **top 10 players** in the current **Devil Square** rankings. The distribution of this reward is as outlined below:
 
