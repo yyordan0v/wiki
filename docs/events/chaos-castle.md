@@ -146,7 +146,7 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 
 :::tip
 
-There is also chance that receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 7**.
+There is also chance to receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 7**.
 
 ![Condor Flame](/img/items/others/condor-flame.png)
 
