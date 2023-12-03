@@ -167,13 +167,7 @@ At the **end** of **each month**, we'll assess the **rankings** for the event, a
 
 The **Top 15** Player will be rewarded as follows:
 
-- The player ranked **1st** will receive **40 Coins**
-- The player ranked **2nd** will receive **38 Coins**
-- The player ranked **3rd** will receive **36 Coins**
+- The player ranked **1st** will receive **40 Credits**
+- The player ranked **2nd** will receive **38 Credits**
+- The player ranked **3rd** will receive **36 Credits**
 - And so on ...
-
-:::tip
-
-This one of **few things** that you can do to yield **Coins for free** in **Lotus Mu**.
-
-:::
