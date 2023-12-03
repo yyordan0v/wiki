@@ -143,8 +143,15 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 | ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  |  ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png)  | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png)  |
 |   [Wraith Dark Phoenix](/items/ancient-items/#ancient-sets)    |  [Scorch Grand Sould](/items/ancient-items/#ancient-sets)  | [Celestia Divine](/items/ancient-items/#ancient-sets) |   [Raptor Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Shadow Dark Steel](/items/ancient-items/#ancient-sets)  |
 | ![Wraith Dark Phoenix](/img/items/armors/dk/dark-phoenix.png)  | ![Scorch Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Celestia Divine](/img/items/armors/fe/divine.png)  | ![Raptor Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Shadow Dark Steel](/img/items/armors/dl/dark-steel.png) |
-|              [Condor Flame](/items/condor-flame)               |                                                            |                                                       |                                                               |                                                           |
-|      ![Condor Flame](/img/items/others/condor-flame.png)       |                                                            |                                                       |                                                               |                                                           |
+
+:::tip
+
+There is also chance that receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 7**.
+
+![Condor Flame](/img/items/others/condor-flame.png)
+_Condor Flame_
+
+:::
 
 ```mdx-code-block
 
