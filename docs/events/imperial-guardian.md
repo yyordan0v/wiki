@@ -93,12 +93,12 @@ Additionally players will receive rewards as follows:
 
 | Boss        | Reward                                                          |
 | ----------- | --------------------------------------------------------------- |
-| Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Main Boss   | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
+| Side Bosses | [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box/)   |
+| Main Boss   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 
-![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
+![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
-_Pink Chocolate Box & Purple Chaos Box_
+_Red Chocolate Box & Pink Chocolate Box_
 
 ### Sunday
 

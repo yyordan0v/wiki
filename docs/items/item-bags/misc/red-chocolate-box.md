@@ -29,6 +29,7 @@ To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gamepla
 Another way to obtain the **Red Chocolate Box** is to win in one of the following Events:
 
 - [Blood Castle 1 - 7](/events/blood-castle)
+- [Imperial Guardian](/events/imperial-guardian)
 - [Hide n' Seek](/events/others/hide-n-seek)
 - [Pursuit Event](/events/others/pursuit)
 - [Russian Roulette](/events/others/russian-roulette)
