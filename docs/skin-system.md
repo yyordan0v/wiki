@@ -2,6 +2,8 @@
 sidebar_position: 9
 ---
 
+import ReactPlayer from 'react-player';
+
 # Skin System
 
 We have embraced the concept of player self-expression by introducing the revolutionary **Skin System** - unique feature which can be encountered only in the realm of **Lotus Mu**.
@@ -37,6 +39,8 @@ The final result, **The Green Fenrir**, will retain identical stats to those of 
 You can infuse any of the three [Tier 2 pets](/category/pets) with any Prismatic Gem.
 
 :::
+
+<ReactPlayer playing controls url='https://www.youtube.com/watch?v=_2ywR9_oNms' />
 
 ## How to obtain a Prismatic Gem
 
