@@ -1,5 +1,19 @@
 ---
 sidebar_position: 11
+description: Explore the Options Menu in Lotus Mu, offering a diverse range of settings to customize your game client. Configure aspects such as game client resolution, font size, health bars (show/hide), antilag features, and more. Enhance your gaming experience by tailoring the game settings to your preferences.
+keywords:
+  [
+    Options Menu,
+    Lotus Mu,
+    Game Client Settings,
+    Game Client Resolution,
+    Font Size,
+    Health Bars,
+    AntiLag Features,
+    Game Customization,
+    ESC Button,
+    Options,
+  ]
 ---
 
 # Options Menu

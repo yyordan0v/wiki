@@ -1,5 +1,27 @@
 ---
 sidebar_position: 10
+description: Dive into the Castle Siege event in Lotus Mu, a thrilling clash within the Land of Trials. This comprehensive guide covers the timeline, participant requirements, registration process, and the intricate details of the Castle Siege system. Best of luck to all guilds!
+keywords:
+  [
+    Castle Siege,
+    Lotus Mu,
+    Mu Online,
+    Land of Trials,
+    Siege Warfare,
+    Guild Master,
+    Registration,
+    Guardian Statues,
+    Castle Gates,
+    Siege Weapons,
+    Dragon Tower,
+    Pedestal,
+    Potions,
+    Soldiers,
+    Skills,
+    Life Stone,
+    Chaos Mix,
+    Land of Trials Entrance,
+  ]
 ---
 
 # Castle Siege

@@ -1,5 +1,26 @@
 ---
 sidebar_position: 1
+description: Explore the Blood Castle event in Lotus Mu, where players risk their lives to save the Archangel. Learn about the entry requirements, Blood Castle rules, gameplay, and the rewarding system. Join the fight against Kundun's forces and earn valuable rewards.
+keywords:
+  [
+    Blood Castle,
+    Lotus Mu,
+    Mu Online,
+    Archangel,
+    Kundun,
+    Invisibility Cloak,
+    Crafting,
+    Blood Fang,
+    Scroll of Archangel,
+    Jewel of Chaos,
+    Blood Castle Rules,
+    Gameplay,
+    Preparation,
+    Quest,
+    Reward,
+    Monthly Reward,
+    Credits,
+  ]
 ---
 
 # Blood Castle

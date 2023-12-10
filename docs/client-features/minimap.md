@@ -1,5 +1,22 @@
 ---
 sidebar_position: 10
+description: Explore the versatile Minimap feature in Lotus Mu, designed to provide precise information about your character's location on the map. Learn how to activate the Full Screen Minimap using the TAB key, gaining a comprehensive view of the current map and easily locating your character and monster spawns. Customize the Minimap's appearance, transparency, and position, adding flexibility to your gameplay experience.
+keywords:
+  [
+    Minimap,
+    Lotus Mu,
+    Character Location,
+    3D Camera,
+    Zoom In,
+    Zoom Out,
+    Transparency,
+    Relocate Minimap,
+    Full Screen Minimap,
+    TAB Key,
+    Monster Spawns,
+    Gaming Experience,
+    Gameplay Flexibility,
+  ]
 ---
 
 # Minimap

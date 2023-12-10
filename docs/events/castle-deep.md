@@ -1,5 +1,17 @@
 ---
 sidebar_position: 8
+description: Explore the Castle Deep event in Lotus Mu, a battle against Kundun's forces in the Valley of Loren. Learn about the event duration, participation details, and the appearance of the formidable Erohim. Join the fight and challenge yourself in Castle Deep.
+keywords:
+  [
+    Castle Deep,
+    Lotus Mu,
+    Mu Online,
+    Valley of Loren,
+    Kundun's Forces,
+    Event Duration,
+    Participation,
+    Erohim,
+  ]
 ---
 
 # Castle Deep

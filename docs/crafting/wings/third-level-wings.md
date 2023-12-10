@@ -1,5 +1,19 @@
 ---
 sidebar_position: 4
+description: Embark on the celestial journey of crafting 3rd Level Wings in Mu Online through the Chaos Combination system. Learn about the essential ingredients, success rates, and the diverse rewards, including Wings of Storm, Wings of Eternal, Wings of Illusion, Wings of Ruin, or Cape of Emperor.
+keywords:
+  [
+    3rd Level Wings,
+    Mu Online,
+    Chaos Combination,
+    Jewel of Chaos,
+    Crafting,
+    Wings of Storm,
+    Wings of Eternal,
+    Wings of Illusion,
+    Wings of Ruin,
+    Cape of Emperor,
+  ]
 ---
 
 # 3rd Level Wings

@@ -1,5 +1,24 @@
 ---
 sidebar_position: 1
+description: Explore the Ghost Horse, a Tier 2 pet in Mu Online, renowned for its ethereal beauty, speed, and agility. Learn about its ingredients, crafting process, stats, and customization options, including skins. Unleash the Ghost Horse's unique buffs and bonuses, and discover its significance to the Dark Lord class.
+keywords:
+  [
+    Ghost Horse,
+    Mu Online pets,
+    Tier 2 pet,
+    Jewel of Chaos,
+    Jewel of Creation,
+    Jewel of Life,
+    Jewel of Bless,
+    Jewel of Soul,
+    Horn of Uniria,
+    Zen,
+    Chaos Combination,
+    Stats,
+    Customization,
+    Skins,
+    Dark Lord,
+  ]
 ---
 
 # Ghost Horse

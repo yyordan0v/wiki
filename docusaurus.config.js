@@ -190,4 +190,37 @@ const config = {
     }),
 };
 
+export default {
+  themeConfig: {
+    // Declare some <meta> tags
+    metadata: [
+      {name: 'keywords', content: 'Mu Online private server, Private server for Mu Online, Lotus Mu private server, Mu Online gameplay guide, Lotus Mu getting started, Mu Online beginners guide, Lotus Mu monsters, Mu Online epic invasions, Monster guide for Mu Online, Lotus Mu items guide, Mu Online equipment tiers, Rare loot in Mu Online, Mu Online enchantment guide, Crafting systems in Lotus Mu, Optimal enchantment strategies, Mu Online in-game events, Lotus Mu event guide, Challenges and rewards in Mu Online, Lotus Mu Skin System, Character customization in Mu Online, Visual appearance in Lotus Mu, Lotus Mu game client features, Mu Online client tools, Immersive gameplay in Lotus Mu, Lotus Mu documentation search, Mu Online wiki search, Efficient search in Lotus Mu documentation, Lotus Mu community forums, Mu Online player experiences, Inclusive gaming environment in Lotus Mu, Lotus Mu Discord, Mu Online Facebook community, Social media for Lotus Mu, Improve Lotus Mu documentation, File documentation issues, Provide feedback for Lotus Mu wiki'}
+    ],
+    headTags: [
+      // Declare a <link> preconnect tag
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'preconnect',
+          href: 'https://wiki.lotusmu.org',
+        },
+      },
+      // Declare some json-ld structured data
+      {
+        tagName: 'script',
+        attributes: {
+          type: 'application/ld+json',
+        },
+        innerHTML: JSON.stringify({
+          '@context': 'https://lotusmu.org/',
+          '@type': 'Organization',
+          name: 'Lotus Mu',
+          url: 'https://wiki.lotusmu.org/',
+          logo: 'https://wiki.lotusmu.org/img/logo-black.svg',
+        }),
+      },
+    ],
+  },
+};
+
 module.exports = config;

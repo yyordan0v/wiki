@@ -1,5 +1,20 @@
 ---
 sidebar_position: 5
+description: Engage in fierce 1v1 battles and showcase your combat skills in the Specialists' Combat Event in Lotus Mu. Learn about the event mechanics, how to participate, and the rewarding journey to become the final winner. Ready to prove your prowess?
+keywords:
+  [
+    Specialists' Combat,
+    Lotus Mu,
+    Mu Online,
+    1v1 Battles,
+    Combat Skills,
+    Event Mechanics,
+    Rewards,
+    Blue Chocolate Box,
+    Pink Chocolate Box,
+    Brynjar Knollwood,
+    Silvia,
+  ]
 ---
 
 # Specialists' Combat

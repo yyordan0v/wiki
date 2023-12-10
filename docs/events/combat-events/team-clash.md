@@ -1,5 +1,20 @@
 ---
 sidebar_position: 6
+description: Dive into intense team-based combat in the Team Clash Event of Lotus Mu. Learn how to participate, the event overview, and the victory rewards for both Team Red and Team Blue. Gear up for thrilling battles and strategic gameplay in this team-oriented event.
+keywords:
+  [
+    Team Clash,
+    Lotus Mu,
+    Mu Online,
+    Team-Based Combat,
+    PvP,
+    Event Overview,
+    Victory Rewards,
+    Purple Chaos Box,
+    Team Clash Ticket,
+    Silvia,
+    Freyr Rygax,
+  ]
 ---
 
 # Team Clash

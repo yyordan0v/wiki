@@ -1,5 +1,26 @@
 ---
 sidebar_position: 2
+description: Learn about the Mu Helper, an exceptional in-game assistance system in Lotus Mu. Discover how Mu Helper seamlessly integrates within the game, providing comprehensive support even when the game window is minimized or running in the background. Explore the Hunting and Obtaining settings, configure your character's engagement range, potion usage, long-distance attack, and more. Maximize your gameplay experience with Mu Helper's efficient navigation through the game's intricacies.
+keywords:
+  [
+    Mu Helper,
+    Lotus Mu,
+    In-Game Assistance,
+    Assistance System,
+    Gameplay Support,
+    Hunting,
+    Obtaining,
+    Character Engagement,
+    Healing Potions,
+    Long-Distance Attack,
+    Original Position,
+    Skills and Buffs Settings,
+    Item Acquisition,
+    Equipment Repair,
+    Pick All Near Items,
+    Pick Selected Items,
+    Add Extra Item,
+  ]
 ---
 
 # Mu Helper

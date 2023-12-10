@@ -1,5 +1,22 @@
 ---
 sidebar_position: 1
+description: Learn how to craft the Invisibility Cloak in Lotus Mu for participation in the Blood Castle event. Explore the Chaos Mix process, including the required ingredients such as Blood Fang, Scroll of Archangel, and Jewel of Chaos. Discover the Zen cost for each level of Invisibility Cloak and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Invisibility Cloak in Lotus Mu.
+keywords:
+  [
+    Invisibility Cloak,
+    Lotus Mu,
+    Chaos Mix,
+    Blood Fang,
+    Scroll of Archangel,
+    Jewel of Chaos,
+    Crafting Guide,
+    Blood Castle,
+    Event Participation,
+    Goblin Locations,
+    Noria,
+    Yoskreth,
+    Gameplay Systems,
+  ]
 ---
 
 # Invisibility Cloak

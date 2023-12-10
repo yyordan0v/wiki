@@ -1,5 +1,19 @@
 ---
 sidebar_position: 2
+description: Explore the world of Item Options in Mu Online and learn how to enhance your items with unique attributes using the Chaos Combination system. Uncover the ingredients, success rates, and permanent pink options associated with each equipment type.
+keywords:
+  [
+    Item Options,
+    Mu Online,
+    Chaos Combination,
+    Jewel of Guardian,
+    Jewel of Harmony,
+    Jewel of Bless,
+    Jewel of Soul,
+    Jewel of Creation,
+    Crafting,
+    Pink Options,
+  ]
 ---
 
 # Item Options

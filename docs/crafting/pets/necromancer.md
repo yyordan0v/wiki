@@ -1,5 +1,23 @@
 ---
 sidebar_position: 3
+description: Explore the Necromancer, a Tier 2 pet in Mu Online, renowned for its dark arts mastery, control over the undead, and unique skills. Learn about its ingredients, crafting process, stats, and customization options, including skins. Unleash the Necromancer's formidable buffs and bonuses, and discover its significance to Mu Online gameplay.
+keywords:
+  [
+    Necromancer,
+    Mu Online pets,
+    Tier 2 pet,
+    Jewel of Chaos,
+    Jewel of Creation,
+    Jewel of Life,
+    Jewel of Bless,
+    Jewel of Soul,
+    Devil Imp,
+    Zen,
+    Chaos Combination,
+    Stats,
+    Customization,
+    Skins,
+  ]
 ---
 
 # Necromancer

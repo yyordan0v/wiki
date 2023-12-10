@@ -1,5 +1,17 @@
 ---
 sidebar_position: 3
+description: Unveil the power of the Senior Mix in Mu Online, a privilege granted to the Castle Lord, offering unimaginable treasures through the exchange of precious jewels. Discover the required ingredients, the location of the Senior NPC, and the benefits of the Golden Box.
+keywords:
+  [
+    Senior Mix,
+    Mu Online,
+    Castle Siege,
+    Jewel of Bless,
+    Jewel of Soul,
+    Jewel of Guardian,
+    Golden Box,
+    Crafting,
+  ]
 ---
 
 # Senior Mix

@@ -1,5 +1,23 @@
 ---
 sidebar_position: 4
+description: Learn how to craft the Complete Secromicon in Lotus Mu for participation in the Sunday Imperial Guardian event. Explore the Chaos Mix process, including the required ingredients such as Secromicon Fragments and Zen. Obtain detailed information on acquiring each Secromicon Fragment and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Complete Secromicon in Lotus Mu.
+keywords:
+  [
+    Complete Secromicon,
+    Lotus Mu,
+    Chaos Mix,
+    Imperial Guardian,
+    Secromicon Fragments,
+    Zen,
+    Chaos Machine,
+    Crafting Guide,
+    Sunday Event,
+    In-game Crafting,
+    Goblin Locations,
+    Noria,
+    Yoskreth,
+    Gameplay Systems,
+  ]
 ---
 
 # Complete Secromicon

@@ -1,5 +1,20 @@
 ---
 sidebar_position: 7
+description: Join the electrifying Russian Roulette Event in Lotus Mu, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Lilac Candy Box and experience the daring showdown.
+keywords:
+  [
+    Russian Roulette,
+    Lotus Mu,
+    Mu Online,
+    GM-triggered Event,
+    Nerve Challenge,
+    Luck Test,
+    Participation,
+    Setup,
+    Last Player Standing,
+    Lilac Candy Box,
+    Rewards,
+  ]
 ---
 
 # Russian Roulette

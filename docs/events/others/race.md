@@ -1,5 +1,19 @@
 ---
 sidebar_position: 8
+description: Engage in the Race Event in Lotus Mu, a dynamic competition that tests players' speed, strategy, and quick thinking. Learn about the event triggering, the race challenge, victory conditions, and the rewards. Participate for an exhilarating experience and a chance to win the Red Ribbon Box.
+keywords:
+  [
+    Race Event,
+    Lotus Mu,
+    Mu Online,
+    Dynamic Competition,
+    Speed Challenge,
+    Event Triggering,
+    Victory Conditions,
+    Rewards,
+    Santa NPC,
+    Red Ribbon Box,
+  ]
 ---
 
 # Race Event

@@ -1,5 +1,18 @@
 ---
 sidebar_position: 2
+description: Immerse yourself in the intriguing Pandora Event in Lotus Mu, a test of strategy and cunning where players vie for the cursed status from the mysterious Pandora Box. Learn how to participate, the rules of the event, and the rewards that await the ultimate victor.
+keywords:
+  [
+    Pandora,
+    Lotus Mu,
+    Mu Online,
+    Pandora Event,
+    Cursed Status,
+    Pandora Box,
+    PK Status,
+    Event Points,
+    Purple Chaos Box,
+  ]
 ---
 
 # Pandora

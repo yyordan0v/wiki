@@ -1,5 +1,18 @@
 ---
 sidebar_position: 3
+description: Explore the Especial Menu in Lotus Mu, an exclusive feature offering players valuable resources, event and invasion timers, rankings, and more. Learn how to access the Especial Menu and utilize its functionality for an enhanced gaming experience.
+keywords:
+  [
+    Especial Menu,
+    Lotus Mu,
+    M-button,
+    Mu Helper Play button,
+    Event Timers,
+    Invasion Timers,
+    Rankings,
+    Game Features,
+    Especial Menu Buttons,
+  ]
 ---
 
 # Especial Menu

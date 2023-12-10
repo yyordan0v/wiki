@@ -1,5 +1,19 @@
 ---
 sidebar_position: 3
+description: Explore the process of combining 2nd Level Wings in Mu Online through the Chaos Combination system. Learn about the essential ingredients, success strategies, and the diverse rewards, including Wings of Dragon, Wings of Soul, Wings of Spirits, Wings of Darkness, or Cape of Lord.
+keywords:
+  [
+    2nd Level Wings,
+    Mu Online,
+    Chaos Combination,
+    Jewel of Chaos,
+    Crafting,
+    Wings of Dragon,
+    Wings of Soul,
+    Wings of Spirits,
+    Wings of Darkness,
+    Cape of Lord,
+  ]
 ---
 
 # 2nd Level Wings

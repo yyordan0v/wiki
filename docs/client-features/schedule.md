@@ -1,5 +1,19 @@
 ---
 sidebar_position: 5
+description: Explore the Schedule Module in Lotus Mu, a convenient feature that allows you to view the upcoming time of specific events or invasions. Accessible through the Especial Menu, this tool provides easy and quick access to the event timetable for seamless planning and participation. Discover Event Timers, Invasion Timers, and Mayhem Timers to stay informed about the schedule in Lotus Mu.
+keywords:
+  [
+    Schedule Module,
+    Lotus Mu,
+    Event Timers,
+    Invasion Timers,
+    Mayhem Timers,
+    Especial Menu,
+    Event Timetable,
+    Invasions,
+    Mayhem Events,
+    Lotus Mu Schedule,
+  ]
 ---
 
 # Schedule

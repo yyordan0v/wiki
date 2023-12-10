@@ -1,5 +1,18 @@
 ---
 sidebar_position: 4
+description: Participate in the Quiz Event in Lotus Mu, a fun and interactive activity that challenges players' knowledge and quick thinking. Learn about the event schedule, how it works, and the rewards for correct answers. Engage in friendly competition and showcase your knowledge in this exciting event.
+keywords:
+  [
+    Quiz Event,
+    Lotus Mu,
+    Mu Online,
+    Knowledge Challenge,
+    Interactive Event,
+    Event Schedule,
+    Quiz Questions,
+    Rewards,
+    Community Engagement,
+  ]
 ---
 
 # Quiz Event

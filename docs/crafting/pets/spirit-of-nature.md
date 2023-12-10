@@ -1,5 +1,23 @@
 ---
 sidebar_position: 2
+description: Explore the Spirit of Nature, a Tier 2 pet in Mu Online, celebrated for its exceptional beauty, natural prowess, and unique abilities. Learn about its ingredients, crafting process, stats, and customization options, including skins. Unveil the Spirit of Nature's formidable buffs and bonuses, and discover its significance to Mu Online gameplay.
+keywords:
+  [
+    Spirit of Nature,
+    Mu Online pets,
+    Tier 2 pet,
+    Jewel of Chaos,
+    Jewel of Creation,
+    Jewel of Life,
+    Jewel of Bless,
+    Jewel of Soul,
+    Guardian Angel,
+    Zen,
+    Chaos Combination,
+    Stats,
+    Customization,
+    Skins,
+  ]
 ---
 
 # Spirit of Nature

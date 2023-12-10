@@ -1,5 +1,23 @@
 ---
 sidebar_position: 2
+description: Participate in the Yoskreth Drop Event in Lotus Mu, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
+keywords:
+  [
+    Yoskreth Drop,
+    Lotus Mu,
+    Mu Online,
+    Recurring Event,
+    Valuable Items,
+    Event Details,
+    Timing,
+    Dropped Items,
+    Red Ribbon Box,
+    Red Chocolate Box,
+    Lilac Candy Box,
+    Pink Chocolate Box,
+    Rewards,
+    Gameplay Enhancement,
+  ]
 ---
 
 # Yoskreth Drop

@@ -1,5 +1,20 @@
 ---
 sidebar_position: 4
+description: Engage in the epic King of Yoskreth event in Mu Online, a fierce guild-based combat for supremacy in the city of Yoskreth. Learn how to participate, seize the tomb, and reap the rewards for your guild and individual achievements.
+keywords:
+  [
+    King of Yoskreth,
+    Mu Online,
+    Guild Event,
+    Yoskreth,
+    Guild Battle,
+    Tomb Seizure,
+    Event Rewards,
+    Event Points,
+    Lilac Candy Box,
+    Blue Ribbon Box,
+    Pink Chocolate Box,
+  ]
 ---
 
 # King of Yoskreth

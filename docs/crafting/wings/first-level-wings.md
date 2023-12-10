@@ -1,5 +1,17 @@
 ---
 sidebar_position: 2
+description: Discover the power of 1st Level Wings in Mu Online and learn how to combine these formidable wings using the Chaos Combination system. Unveil the ingredients, strategies for success, and the unique rewards, including Wings of Satan, Wings of Heaven, or Wings of Elf.
+keywords:
+  [
+    1st Level Wings,
+    Mu Online,
+    Chaos Combination,
+    Jewel of Chaos,
+    Crafting,
+    Wings of Satan,
+    Wings of Heaven,
+    Wings of Elf,
+  ]
 ---
 
 # 1st Level Wings

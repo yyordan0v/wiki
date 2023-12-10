@@ -1,5 +1,17 @@
 ---
 sidebar_position: 1
+description: Dive into the world of Item Level Upgrades in Mu Online and learn how to enhance your gear to +15 using the Chaos Combination system. Discover the required ingredients, success rates, and the risks associated with ascending your items to new heights.
+keywords:
+  [
+    Item Level Upgrades,
+    Mu Online,
+    Chaos Combination,
+    Jewel of Bless,
+    Jewel of Soul,
+    Jewel of Chaos,
+    Crafting,
+    Upgrade System,
+  ]
 ---
 
 # Item Level Upgrades

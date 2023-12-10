@@ -1,5 +1,22 @@
 ---
 sidebar_position: 8
+description: Explore the Search Store functionality in Lotus Mu, closely connected with the Personal Store, creating a seamless experience for players seeking to sell their items. Learn how to list items for sale, set prices universally, and open your store for exciting opportunities to trade items for precious jewels and coins. Utilize the Search Store Module to conveniently filter and purchase items from other players. Access the Search Store Module via the Especial Menu for a streamlined trading experience.
+keywords:
+  [
+    Search Stores,
+    Lotus Mu,
+    Search Store Module,
+    Personal Store,
+    Zen Trading,
+    Bless Trading,
+    Coins Trading,
+    Item Trading,
+    Buy Items,
+    Sell Items,
+    Player-to-Player Trading,
+    Trading Opportunities,
+    Gameplay Systems,
+  ]
 ---
 
 # Search Stores

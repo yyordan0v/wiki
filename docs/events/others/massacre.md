@@ -1,5 +1,17 @@
 ---
 sidebar_position: 9
+description: Engage in the adrenaline-pumping Massacre Event in Lotus Mu, a GM-triggered PvP competition where 20 players battle in a free-for-all. Learn how to participate, the rules and objectives, event specifications, and the rewards for top placements.
+keywords:
+  [
+    Massacre Event,
+    Lotus Mu,
+    Mu Online,
+    GM-Triggered Event,
+    PvP Competition,
+    Points System,
+    Victory Conditions,
+    Rewards,
+  ]
 ---
 
 # Massacre Event

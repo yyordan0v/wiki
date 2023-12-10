@@ -1,5 +1,18 @@
 ---
 sidebar_position: 1
+description: Dive into the world of Mu Online and explore the Chaos Weapon Mix feature, a unique process to create powerful chaos weapons. Learn about the required ingredients, strategies, and the incredible rewards that await players in the realm of Lotus Mu.
+keywords:
+  [
+    Chaos Weapon,
+    Chaos Weapon Mix,
+    Mu Online,
+    Jewel of Chaos,
+    Zen,
+    Crafting,
+    Chaos Dragon Axe,
+    Chaos Lightning Staff,
+    Chaos Nature Bow,
+  ]
 ---
 
 # Chaos Weapon

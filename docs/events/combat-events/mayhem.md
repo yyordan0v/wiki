@@ -1,5 +1,21 @@
 ---
 sidebar_position: 3
+description: Immerse yourself in the heart-pounding Mayhem Event in Lotus Mu, where warriors engage in a relentless free-for-all battle. Learn how to participate, the diverse Mayhem formats tailored to different classes, and the rewards that await the ultimate victor.
+keywords:
+  [
+    Mayhem,
+    Lotus Mu,
+    Mu Online,
+    Mayhem Event,
+    PvP Event,
+    Blue Chocolate Box,
+    Knights Mayhem,
+    Wizards Mayhem,
+    Elves Mayhem,
+    Gladiators Mayhem,
+    Lords Mayhem,
+    Mu Mayhem,
+  ]
 ---
 
 # Mayhem

@@ -1,5 +1,22 @@
 ---
 sidebar_position: 1
+description: Explore a comprehensive list of in-game commands in Lotus Mu, providing details on how to use commands for character movement, messaging, attribute points, party creation, and participation in various in-game events. Access the list conveniently through the Especial Menu and enhance your gameplay experience.
+keywords:
+  [
+    In-game Commands,
+    Lotus Mu,
+    Character Movement,
+    Global Messaging,
+    Attribute Points,
+    Party Creation,
+    Join Events,
+    Quiz Event,
+    Mayhem Event,
+    King of Yoskreth Event,
+    Battle Soccer,
+    Guild War,
+    Event Participation,
+  ]
 ---
 
 # In-game Commands

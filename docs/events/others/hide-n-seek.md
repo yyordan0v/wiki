@@ -1,5 +1,17 @@
 ---
 sidebar_position: 5
+description: Join the excitement of the Hide n' Seek Event in Lotus Mu, a GM-triggered event challenging players to locate a hidden Game Master within a limited time. Learn about the event concept, the thrill of discovery, and the rewards for the first player to find the elusive GM.
+keywords:
+  [
+    Hide n' Seek,
+    Lotus Mu,
+    Mu Online,
+    GM-Triggered Event,
+    Game Master,
+    System Notice,
+    Victory Rewards,
+    Red Chocolate Box,
+  ]
 ---
 
 # Hide n' Seek
