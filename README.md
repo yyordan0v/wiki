@@ -4,7 +4,7 @@
 
 The **Lotus Mu Wiki** is a comprehensive resource that provides in-depth information, guides, and tutorials for the Lotus Mu game server, a captivating online multiplayer game based on Mu Online. This documentation is designed to assist players of all levels, from beginners looking to understand the basics to experienced players seeking advanced strategies and insights.
 
-Built with [Docusaurus 2](https://docusaurus.io/), an open-source documentation framework, this project offers a user-friendly and customizable platform for organizing and presenting the vast amount of information related to Lotus Mu. Docusaurus provides a streamlined development process, allowing for easy content creation, navigation, and search functionality.
+Built with [Docusaurus](https://docusaurus.io/), an open-source documentation framework, this project offers a user-friendly and customizable platform for organizing and presenting the vast amount of information related to Lotus Mu. Docusaurus provides a streamlined development process, allowing for easy content creation, navigation, and search functionality.
 
 ## Features
 
