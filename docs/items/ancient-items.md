@@ -39,10 +39,8 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 ## Ancient Sets
 
-```mdx-code-block
 <Tabs lazy>
   <TabItem value="knights" label="Knight Sets">
-```
 
 #### Warrior Leather Set
 
@@ -208,11 +206,9 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Wraith Ring of Ice        |                                                        | Critical damage Chance +20%   |
 |                           |                                                        | Double damage Chance +20%     |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="wizards" label="Wizard Sets">
-```
 
 #### Apollo Pad Set
 
@@ -331,11 +327,9 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Scorch Dragon Soul Staff   | **2 Parts Set option**: Excellent damage Chance +10% | Double damage Chance +7%  |
 | Scorch Pendant of Lighting |                                                      |                           |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="elves" label="Elf Sets">
-```
 
 #### Ceto Vine Set
 
@@ -474,11 +468,9 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Celestia Pendant of Fire   |                                                      | Critical damage Chance +20%  |
 |                            |                                                      | Excellent damage Chance +20% |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="gladiators" label="Gladiator Sets">
-```
 
 #### Gaion Storm Crow Set
 
@@ -524,11 +516,9 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Raptor Ring of Wind       |                                                      | Double damage Chance +20%     |
 |                           |                                                      |                               |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="lords" label="Lord Sets">
-```
 
 #### Agnis Adamantine Set
 
@@ -577,8 +567,5 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Shadow Ring of Magic    |                                                      | Ignore defense Chance +8%    |
 |                         |                                                      | Increase Skill Damage +125   |
 
-```mdx-code-block
-
   </TabItem>
 </Tabs>
-```

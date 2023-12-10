@@ -123,20 +123,16 @@ By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/ite
 
 For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tables below.
 
-```mdx-code-block
 <Tabs lazy>
   <TabItem value="cc1-6" label="Chaos Castle 1-6">
-```
 
 |   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |   [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)  |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
 | ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  | ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png) |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="cc-7" label="Chaos Castle 7">
-```
 
 |   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |    [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)    |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)   |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: |
@@ -154,11 +150,8 @@ _Condor Flame_
 
 :::
 
-```mdx-code-block
-
   </TabItem>
 </Tabs>
-```
 
 ## Monthly Reward
 

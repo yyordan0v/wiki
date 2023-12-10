@@ -31,10 +31,8 @@ Please take into account that the invasion timer is based on the server time.
 
 ## Invasion Details
 
-```mdx-code-block
 <Tabs lazy>
   <TabItem value="golden-goblin" label="Golden Goblin">
-```
 
 The **Golden Goblin**, a rare and elusive creature, entices adventurers with the promise of untold wealth as it guards its precious hoard of treasures.
 
@@ -61,11 +59,9 @@ When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/
 
 _Box of Kundun +1_
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="golden-titan" label="Golden Titan">
-```
 
 The **Golden Titan**, a towering behemoth of immense strength, strikes fear into the hearts of all who dare to challenge it, making for a formidable encounter in the world of **Lotus Mu**.
 
@@ -98,11 +94,9 @@ By slaying those creatures a player will be rewarded as follows:
 | [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
 |             ![Box of Kundun +2](/img/items/item-bags/bok-2.png)              |      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="golden-dragon" label="Golden Dragon">
-```
 
 The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies of **Lotus Mu** with its immense power and deadly breath of fire.
 
@@ -130,11 +124,9 @@ When a player kills a **Golden Dragon**, they will receive a [Box of Kundun+3](/
 
 _Box of Kundun +3_
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="golden-lizard-king" label="Golden Lizard King">
-```
 
 The **Golden Lizard King**, a regal and fearsome ruler of reptilian origins, dominates the battlegrounds of [Atlans](/maps/atlans) with its formidable presence and devastating attacks.
 
@@ -167,11 +159,9 @@ By slaying those creatures a player will be rewarded as follows:
 | [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
 |             ![Box of Kundun +4](/img/items/item-bags/bok-4.png)              |      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="golden-tantal" label="Golden Tantal">
-```
 
 The **Golden Tantal**, an imposing monarch, reigns supreme over [Tarkan](/maps/tarkan) with its commanding presence and destructive assaults.
 
@@ -204,8 +194,5 @@ By slaying those creatures a player will be rewarded as follows:
 | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) + **2 Credits** | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box) + **1 Credit** |
 |             ![Box of Kundun +5](/img/items/item-bags/bok-5.png)              |      ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)       |
 
-```mdx-code-block
-
   </TabItem>
 </Tabs>
-```

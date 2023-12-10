@@ -32,10 +32,8 @@ Please take into account that the invasion timer is based on the server time.
 
 ## Invasion Details
 
-```mdx-code-block
 <Tabs lazy>
   <TabItem value="golden-knight" label="Golden Knight">
-```
 
 The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **Lotus Mu**.
 
@@ -61,10 +59,8 @@ By slaying that creature a player will be rewarded a [Red Chaos Box](/items/item
 
 _Red Chaos Box_
 
-```mdx-code-block
   </TabItem>
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
-```
 
 The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Lotus Mu**.
 
@@ -90,10 +86,8 @@ When a player kills a **Golden Twin Tail**, they will receive a [Green Ribbon Bo
 
 _Green Ribbon Box_
 
-```mdx-code-block
   </TabItem>
   <TabItem value="golden-great-dragon" label="Golden Great Dragon">
-```
 
 The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **Lotus Mu**.
 
@@ -119,7 +113,5 @@ When the **Golden Great Dragon** dies, he drops the legendary [Blue Ribbon Box](
 
 _Blue Ribbon Box_
 
-```mdx-code-block
   </TabItem>
 </Tabs>
-```

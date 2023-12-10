@@ -13,10 +13,8 @@ However, with each reset, there is a compensatory effect where the amount of rec
 
 The table below provides a comprehensive overview of the rewards and experience points associated with each reset, offering a deeper understanding of the benefits and exp gained at each stage.
 
-```mdx-code-block
 <Tabs lazy>
   <TabItem value="carnage-50" label="Carnage - x50">
-```
 
 | Resets  | Points Normal | Points MG/DL | Total Normal | Total MG/DL | Experience |
 | :-----: | :-----------: | :----------: | :----------: | :---------: | :--------: |
@@ -77,11 +75,9 @@ Maximum resets will be raised throught the time as follows:
 
 :::
 
-```mdx-code-block
   </TabItem>
 
   <TabItem value="yoskreth-1000" label="Yoskreth - x1000">
-```
 
 | Resets  | Points Normal | Points MG/DL | Total Normal | Total MG/DL | Experience |
 | :-----: | :-----------: | :----------: | :----------: | :---------: | :--------: |
@@ -132,7 +128,5 @@ The reset raising will always happen on Sunday, 22:30 Server Time!
 
 :::
 
-```mdx-code-block
   </TabItem>
 </Tabs>
-```
