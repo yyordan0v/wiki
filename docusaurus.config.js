@@ -149,8 +149,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Lotus Mu Wiki.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
       },
       algolia: {
         // The application ID provided by Algolia
