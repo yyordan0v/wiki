@@ -25,6 +25,12 @@ keywords:
 
 Additionally, the minimap interface offers the functionality to initiate or halt the **3D Camera** feature, adding further flexibility to the gameplay experience.
 
+:::tip
+
+You can zoom out even further by using another functionality - press `F10` to activate, `F11` to reset the view.
+
+:::
+
 Furthermore, the **minimap** offers additional interactive features, allowing you to **zoom in and out** for a closer or broader view, adjust the **transparency** level according to your preference, and **relocate the minimap** on your screen by clicking and dragging its corner to your desired position.
 
 This grants you full control over the minimap's appearance and placement, enhancing your overall gaming experience.
