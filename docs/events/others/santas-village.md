@@ -14,7 +14,7 @@ The Invitation to **Santa's Village** was supposed to be given free to all playe
 
 Curse you, Kundun!
 
-![Cursed Santa](/img/img/monsters/special/others/cursed-santa.jpg) ![Cursed Goblin](/img/img/monsters/special/others/cursed-goblin.jpg)
+![Cursed Santa](/img/monsters/special/others/cursed-santa.jpg) ![Cursed Goblin](/img/monsters/special/others/cursed-goblin.jpg)
 
 _Cursed Santa & Cursed Goblin_
 
@@ -32,7 +32,7 @@ Each of these monsters have a **30 minute respawn time** and are limited to **5 
 
 :::
 
-In Santa Village, you can find **Santa** and **6 Elves**.
+In Santa Village, you can find **Santa** and **8 Elves**.
 
 - Speak to **Santa** for a free item, once every 24 hours.
 
@@ -45,7 +45,7 @@ In Santa Village, you can find **Santa** and **6 Elves**.
 - You can leave Santa's Village by speaking to the **Snowman**.
 - The Invitation to Santa's Village item can be used up to **10 times**.
 
-![Invitation to Santa Village](/img/img/items/invitations/santa-village-invitation.png)
+![Invitation to Santa Village](/img/items/invitations/santa-village-invitation.png)
 
 _Invitation to Santa Village_
 
@@ -60,7 +60,7 @@ Killing **Cursed Santa** will earn a special buff - **Blessing of Christmas**:
 - Increased Attack Power +94
 - Increased Defense +79
 
-![Cursed Santa](/img/img/monsters/special/others/cursed-santa.jpg)
+![Cursed Santa](/img/monsters/special/others/cursed-santa.jpg)
 
 _Cursed Santa_
 
@@ -81,7 +81,7 @@ Killing **Cursed Goblin** will drop one of the following items:
 - [Jewel of Creation](/items/jewels/regular-jewels/jewel-of-creation)
 - Invitation to Santa Village
 
-![Cursed Goblin](/img/img/monsters/special/others/cursed-goblin.jpg)
+![Cursed Goblin](/img/monsters/special/others/cursed-goblin.jpg)
 
 _Cursed Goblin_
 
@@ -112,3 +112,5 @@ Santa's helper Elves can give you one of the followings buffs:
 - Increased Defense +300
 - Increased AG Recovery +20
 - Increased Attack Power +100
+- Recover HP 100%
+- Recover Mana 100%
