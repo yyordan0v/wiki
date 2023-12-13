@@ -39,7 +39,7 @@ _Third Level Wings Mix_
 
 :::info
 
-The success rate for this Chaos Combination is **40%**.
+The success rate for this Chaos Combination is **60%**.
 
 :::
 

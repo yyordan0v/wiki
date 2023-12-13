@@ -42,7 +42,7 @@ _Condor Feather Mix_
 
 :::info
 
-The success rate for this Chaos Combination is **60%**.
+The success rate for this Chaos Combination is **70%**.
 
 :::
 
