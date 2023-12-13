@@ -12,7 +12,7 @@ _Jewel of Luck_
 
 The **Jewel of Luck** offers the ability to add the **Luck Option** to **any** of your items.
 
-It is worth noting that this enhancement process carries a **success rate of 50%**, signifying the likelihood of achieving the desired outcome.
+It is worth noting that this enhancement process carries a **success rate of 100%**, signifying the likelihood of achieving the desired outcome.
 
 :::caution
 
