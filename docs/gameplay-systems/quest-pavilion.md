@@ -18,8 +18,6 @@ The process is simple:
 
 Every time you complete a **[primary quest](/gameplay-systems/quest-system#primary-quests)**, you'll be granted **`1 star`**.
 
-Completing a **[secondary quest](/gameplay-systems/quest-system#secondary-quests)** will reward players with **`5 stars`**.
-
 :::
 
 ## Unlocking Valuable Assets
