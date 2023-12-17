@@ -47,10 +47,6 @@ The areas targeted by the **Golden Goblins** consistently encompass the followin
 - [Lorencia](/maps/lorencia)
 - [Noria](/maps/noria)
 
-#### Quantity
-
-During the invasion **20** Golden Goblins are spread on both of the above mentioned maps.
-
 #### Reward
 
 When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/items/item-bags/exc/box-of-kundun/bok-1) and **2 Credits**.
@@ -81,10 +77,6 @@ The menacing **Golden Titan** launches its relentless assault upon the serene la
 
 - [Devias](/maps/devias)
 
-#### Quantity
-
-During the invasion **14** Golden Titans and **28** Golden Soldiers are spread in [Devias](/maps/devias).
-
 #### Reward
 
 By slaying those creatures a player will be rewarded as follows:
@@ -111,10 +103,6 @@ The areas targeted by the **Golden Dragons** consistently encompass one the foll
 - [Lorencia](/maps/lorencia)
 - [Noria](/maps/noria)
 - [Devias](/maps/devias)
-
-#### Quantity
-
-During the invasion **10** Golden Dragons are spread on one of the above mentioned maps.
 
 #### Reward
 
@@ -146,10 +134,6 @@ With relentless determination, the **Golden Lizard King** initiates an unyieldin
 
 - [Atlans](/maps/atlans)
 
-#### Quantity
-
-During the invasion **6** Golden Lizard Kings and **12** Golden Vepars are spread in [Atlans](/maps/atlans).
-
 #### Reward
 
 By slaying those creatures a player will be rewarded as follows:
@@ -180,10 +164,6 @@ _Golden Wheel_
 The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, inviting players to confront this formidable foe on the designated map.
 
 - [Tarkan](/maps/tarkan)
-
-#### Quantity
-
-During the invasion **3** Golden Tantals and **9** Golden Wheels can be found [Tarkan](/maps/tarkan) during the **Golden Dragon Invasion**.
 
 #### Reward
 
