@@ -514,7 +514,6 @@ In order to obtain **Ancient Items**, adventurers must either:
 | Raptor Thunder Hawk Armor | **2 Parts Set option**: Increase Minimum damage +140 | Excellent damage Chance +20%  |
 | Raptor Thunder Sword      | **2 Parts Set option**: Increase Maximum damage +170 | Two-handed Weapon damage +20% |
 | Raptor Ring of Wind       |                                                      | Double damage Chance +20%     |
-|                           |                                                      |                               |
 
   </TabItem>
 
