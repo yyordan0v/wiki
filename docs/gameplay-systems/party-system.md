@@ -41,7 +41,7 @@ There are two types of Party Bonuses: the **General Party Bonus**, which is obta
 
 :::tip
 
-To form a **Character Set Party**, your party must consist from **at least** three different classes.
+To form a **Character Set Party**, your party must consist of **different character classes**.
 
 :::
 
