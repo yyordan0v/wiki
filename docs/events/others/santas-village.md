@@ -42,7 +42,7 @@ In Santa Village, you can find **Santa** and **8 Elves**.
 
 - Use I**nvitation to Santa's Village** item from inventory to warp to Santa Village.
 - You can leave Santa's Village by speaking to the **Snowman**.
-- The Invitation to Santa's Village item can be used up to **10 times**.
+- The Invitation to Santa's Village item can be used **only once**.
 
   ![Invitation to Santa Village](/img/items/invitations/santa-village-invitation.png)
 
@@ -88,18 +88,12 @@ _Cursed Goblin_
 
 Speak with the real **Santa** in Santa's Village for a free gift. Santa will only give **one gift**, per character, per **24 hours**.
 
-- [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless)
-- [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul)
-- [Jewel of Chaos Bundle](/items/jewels/regular-jewels/jewel-of-chaos)
-- [Jewel of Life Bundle](/items/jewels/regular-jewels/jewel-of-life)
-- [Jewel of Creation Bundle](/items/jewels/regular-jewels/jewel-of-creation)
-- 100,000,000 Zen
-
-:::info
-
-The bundles can consist of either **10, 20 or 30 jewels**.
-
-:::
+- [Jewel of Bless Bundle x10](/items/jewels/regular-jewels/jewel-of-bless)
+- [Jewel of Soul Bundle x10](/items/jewels/regular-jewels/jewel-of-soul)
+- [Jewel of Chaos Bundle x10](/items/jewels/regular-jewels/jewel-of-chaos)
+- [Jewel of Life Bundle x10](/items/jewels/regular-jewels/jewel-of-life)
+- [Jewel of Creation Bundle x10](/items/jewels/regular-jewels/jewel-of-creation)
+- 30,000,000 Zen
 
 ### Santa Elves
 

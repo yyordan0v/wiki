@@ -14,6 +14,8 @@ _Condor Flame_
 
 You can obtain a **Condor Flame** either by winning in [Chaos Castle 7](/events/chaos-castle/) or getting it from [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/).
 
+There is also a chance of getting a **Condor Flame** while killing monsters in [Balgass](/maps/balgass).
+
 ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
 _Pink Chocolate Box_
