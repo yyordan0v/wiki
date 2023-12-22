@@ -15,20 +15,9 @@ The **Golden Great Dragon** Invasion unleashes relentless fury across multiple k
 
 ## Schedule
 
-The table below presents valuable insights regarding the timing and frequency of the **Golden Great Dragon Invasion** in **Lotus Mu**.
-
-| Invasion time |
-| :-----------: |
-|   17:50:00    |
-|   21:50:00    |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 ## Invasion Details
 

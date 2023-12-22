@@ -16,19 +16,9 @@ _Erohim_
 
 ### Aida
 
-Prepare yourself for an exhilarating expedition through the perilous realm of [Aida](/maps/aida) as you gear up to face the mighty **Erohim**, a creature whose sheer power and presence are sure to captivate and challenge you.
-
-|      Location      |   Time   | Frequency |
-| :----------------: | :------: | :-------: |
-| [Aida](/maps/aida) | 21:30:00 | Every 24h |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 :::tip
 

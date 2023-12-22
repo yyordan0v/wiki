@@ -15,19 +15,9 @@ Unleashing its fury across multiple kingdoms simultaneously, the **Golden Dragon
 
 ## Schedule
 
-The table below presents valuable insights regarding the timing and frequency of the **Golden Dragon Invasion** in **Lotus Mu**. By referring to this table, players can gain a clear understanding of the schedule and pattern of the **Golden Dragon Invasion**, allowing them to prepare themselves and coordinate their efforts to counter this recurring menace effectively.
-
-| First Invasion time | Reappearing Time |
-| :-----------------: | :--------------: |
-|      01:50:00       |   Every 2 hour   |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 ## Invasion Details
 

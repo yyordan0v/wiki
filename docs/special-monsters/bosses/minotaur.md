@@ -14,19 +14,9 @@ _Minotaur_
 
 ## Details
 
-Experience the breathtaking presence of the **Minotaur** as you traverse [Karutan 2](/maps/karutan), embarking on a quest to confront this formidable creature.
-
-|          Location          |   Time   | Frequency |
-| :------------------------: | :------: | :-------: |
-| [Karutan 2](/maps/karutan) | 17:30:00 | Every 24h |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 :::tip
 

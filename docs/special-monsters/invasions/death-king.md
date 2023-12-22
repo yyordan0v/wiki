@@ -30,20 +30,9 @@ _Death Bone_
 
 ## Schedule
 
-The subsequent table provides detailed information about the time and the quantity of the **Death King** attacks that occur throughout the day. It offers a comprehensive overview of when the attacks take place and the number of the **Death King** involved in each assault.
-
-| Invasion time |
-| :-----------: |
-|   19:50:00    |
-|   23:50:00    |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 ### Land of Trials
 

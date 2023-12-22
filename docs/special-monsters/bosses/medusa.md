@@ -12,19 +12,9 @@ _Medusa_
 
 ## Details
 
-Embark on a thrilling journey through the treacherous [Swamp of Peace](/maps/swamp-of-peace) and brace yourself for an encounter with the **Medusa**, a formidable creature whose presence is bound to leave you spellbound.
-
-|                Location                |   Time   | Frequency |
-| :------------------------------------: | :------: | :-------: |
-| [Swamp of Peace](/maps/swamp-of-peace) | 19:30:00 | Every 24h |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 :::tip
 

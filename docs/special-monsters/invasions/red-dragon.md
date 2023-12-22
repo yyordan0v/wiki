@@ -26,19 +26,9 @@ You can find the invaders close to the safe zones of the mentioned maps.
 
 ## Schedule
 
-The subsequent table provides detailed information about the time and the quantity of **Red Dragon** attacks that occur throughout the day.
-
-| First Invasion time |  Frequency   | Monster Count |
-| :-----------------: | :----------: | :-----------: |
-|      00:30:00       | Every 1 hour |      15       |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 ## Reward
 

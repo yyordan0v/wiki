@@ -18,17 +18,9 @@ Embark on an extraordinary adventure into the depths of [Kalima 7](/maps/kalima)
 
 ### Kalima
 
-|         Location         |   Time   | Frequency |
-| :----------------------: | :------: | :-------: |
-| [Kalima 7](/maps/kalima) | 23:30:00 | Every 24h |
-
-:::info
-
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
-
-:::
 
 :::tip
 
