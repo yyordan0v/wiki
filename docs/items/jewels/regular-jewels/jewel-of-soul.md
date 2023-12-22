@@ -18,9 +18,9 @@ It can be applied to weapons, shields, armor, or wings, simply by selecting the 
 
 :::info
 
-Upgrading an item with **Jewel of Soul** has a **???** chance of success.
+Upgrading an item with **Jewel of Soul** has a **60** chance of success.
 
-However, if the item possesses the **+Luck** option, the probability of successful enhancement rises to **???**.
+However, if the item possesses the **+Luck** option, the probability of successful enhancement rises to **80**.
 
 :::
 

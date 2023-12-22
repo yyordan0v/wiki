@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Jewel of Life
 
-The **Jewel of Life** increases the option level of an item by one with a **???** chance of success (The **+Luck** option does not affect this jewel).
+The **Jewel of Life** increases the option level of an item by one with a **80** chance of success (The **+Luck** option does not affect this jewel).
 
 ![Jewel of Life](/img/items/jewels/life.png)
 
