@@ -18,7 +18,7 @@ The **Box of Kundun +3** can drop one of the following items:
 
 |                  Plate Set                   |                   Sphinx Set                   |                   Spirit Set                   |                     Light Plate Set                      |
 | :------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :------------------------------------------------------: |
-| ![Plate Set](/img/items/armors/dk/scale.png) | ![Sphinx Set](/img/items/armors/dw/sphinx.png) | ![Spirit Set](/img/items/armors/fe/spirit.png) | ![Light Plate Set](/img/items/armors/dl/light-plate.png) |
+| ![Plate Set](/img/items/armors/dk/plate.png) | ![Sphinx Set](/img/items/armors/dw/sphinx.png) | ![Spirit Set](/img/items/armors/fe/spirit.png) | ![Light Plate Set](/img/items/armors/dl/light-plate.png) |
 
 ### Weapons
 
