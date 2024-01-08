@@ -4,9 +4,9 @@ sidebar_position: 7
 
 # Kundun
 
-Within the enigmatic realm of [Kalima 7](/maps/kalima), a domain shrouded in mystery, lie treasures yet unseen in the vast Continent of MU. Here, amidst the depths of [Kalima 7](/maps/kalima), the formidable figure of **Lord Kundun** patiently awaits the arrival of courageous adventurers like yourself, beckoning you to face him in an ultimate showdown of strength and skill.
+Within the enigmatic realm of [The Citadel](/maps/the-citadel), a domain shrouded in mystery, lie treasures yet unseen in the vast Continent of MU. Here, amidst the depths of [The Citadel](/maps/the-citadel), the formidable figure of **Lord Kundun** patiently awaits the arrival of courageous adventurers like yourself, beckoning you to face him in an ultimate showdown of strength and skill.
 
-Brace yourself for a thrilling journey into the heart of [Kalima 7](/maps/kalima), where untold treasures and a legendary battle against **Lord Kundun** await those daring enough to venture forth.
+Brace yourself for a thrilling journey into the heart of [The Citadel](/maps/the-citadel), where untold treasures and a legendary battle against **Lord Kundun** await those daring enough to venture forth.
 
 ![Kundun](/img/monsters/special/bosses/kundun.jpg)
 
@@ -14,9 +14,9 @@ _Kundun_
 
 ## Details
 
-Embark on an extraordinary adventure into the depths of [Kalima 7](/maps/kalima) and brace yourself for an encounter with the awe-inspiring **Kundun**, a fearsome entity whose presence commands both respect and fear.
+Embark on an extraordinary adventure into [The Citadel](/maps/the-citadel) and brace yourself for an encounter with the awe-inspiring **Kundun**, a fearsome entity whose presence commands both respect and fear.
 
-### Kalima
+### The Citadel
 
 You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 

@@ -14,19 +14,7 @@ _Death King_
 
 The area targeted by the **Death King** is the following map:
 
-- [Dungeon 2](/maps/dungeon-2)
-
-:::tip
-
-You can find the **Death King** at coordinates - **237, 234**.
-
-:::
-
-Amidst the invasion, the **Death King** has summoned **10** minions known as the **Death Bones** all across [Dungeon 2](/maps/dungeon-2).
-
-![Death Bone](/img/monsters/special/invasions/death-bone.jpg)
-
-_Death Bone_
+- [The Citadel](/maps/the-citadel)
 
 ## Schedule
 
@@ -46,7 +34,7 @@ One of the advantages bestowed upon the victorious guild in the [Castle Siege Ev
 
 Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
 
-|                             Death King                              |                          Death Bone                          |
-| :-----------------------------------------------------------------: | :----------------------------------------------------------: |
-| [Red Chaos Box](/items/item-bags/exc/red-chaos-box) + **3 Credits** |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |
-|      ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)       | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) |
+|                             Death King                              |
+| :-----------------------------------------------------------------: |
+| [Red Chaos Box](/items/item-bags/exc/red-chaos-box) + **3 Credits** |
+|      ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)       |

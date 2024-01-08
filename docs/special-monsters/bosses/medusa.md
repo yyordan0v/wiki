@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Medusa
 
-**Medusa** reigns as one of the most formidable bosses within the realms of **Lotus Mu**, with her lair nestled deep within the treacherous [Swamp of Peace](/maps/swamp-of-peace), an eerie and marshy terrain.
+**Medusa** reigns as one of the most formidable bosses within the realms of **Lotus Mu**, with her lair nestled deep within [The Citadel](/maps/the-citadel).
 
 ![Medusa](/img/monsters/special/bosses/medusa.jpg)
 

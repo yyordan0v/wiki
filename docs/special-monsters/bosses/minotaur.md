@@ -20,7 +20,7 @@ Please take into account that the invasion timer is based on the server time.
 
 :::tip
 
-A Global message will appear to all players when the mighty **Minotaur** spawns.
+A Global message will appear to all players when the mighty **Minotaur** spawns in [The Citadel](/maps/the-citadel).
 
 :::
 
