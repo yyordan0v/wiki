@@ -10,6 +10,8 @@ The Citadel serves as an exclusive battleground tailored for the most formidable
 
 You can move to The Citadel by either using the Move Menu `M` or by typing `/move citadel`.
 
+The Citadel is **PK Free** map.
+
 :::
 
 ![The Citadel](/img/maps/the-citadel.jpg)
