@@ -104,10 +104,10 @@ _Red Chocolate Box & Pink Chocolate Box_
 
 On the **final day**, the rewards are more substantial than usual, making it **highly beneficial** to stay committed and obtain the **Complete Secromicon**. The table below outlines the corresponding rewards:
 
-| Boss        | Reward                                                          |
-| ----------- | --------------------------------------------------------------- |
-| Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
-| Main Boss   | 2x [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/)  |
+| Boss        | Reward                                                           |
+| ----------- | ---------------------------------------------------------------- |
+| Side Bosses | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/)  |
+| Main Boss   | [Purple Chaos Box (x2)](/items/item-bags/misc/purple-chaos-box/) |
 
 ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 

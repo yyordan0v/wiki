@@ -77,7 +77,7 @@ The **Pandora** Event in **Mu Mayhem** is a true test of cunning and adaptabilit
 The winner in the event will receive the following as a reward:
 
 - **60 Event Points (EP)**;
-- **3x** **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
+- **[Purple Chaos Box (x3)](/items/item-bags/misc/purple-chaos-box)**;
 
   ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 

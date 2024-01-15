@@ -41,3 +41,11 @@ The **Heart of Love** can drop one of the following items:
 Please note that the drop rates for these items may vary and the items are **non-excellent**.
 
 :::
+
+## Obtaining the Heart of Love
+
+To obtain the **Heart of Love**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
+
+| [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    |

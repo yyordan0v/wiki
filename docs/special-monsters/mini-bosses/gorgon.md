@@ -30,12 +30,12 @@ The subsequent table provides detailed information about the time and the quanti
 
 | Quantity |      Respawn Time      |
 | :------: | :--------------------: |
-|    10    | 3 minutes after killed |
+|    10    | 4 minutes after killed |
 
 ## Reward
 
-Upon successfully killing a **Gorgon**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+Upon successfully killing a **Gorgon**, players will be rewarded with a [Heart of Love](/items/item-bags/non-exc/heart-of-love).
 
-![Star of Sacred Birth](/img/items/item-bags/star.png)
+![Heart of Love](/img/items/item-bags/heart-of-love.png)
 
-_Star of Sacred Birth_
+_Heart of Love_

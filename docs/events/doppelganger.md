@@ -121,7 +121,7 @@ _Ice Walker_
 
 :::info
 
-After successfuly completing the **Doppelganger** a **Final Reward Chest**, which has **2x** [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/) inside it, will apear and its rewards will be available to the participating players.
+After successfuly completing the **Doppelganger** a **Final Reward Chest**, which has [Purple Chaos Box (x2)](/items/item-bags/misc/purple-chaos-box/) inside it, will apear and its rewards will be available to the participating players.
 
 ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 

@@ -1,8 +1,8 @@
 {
-  "label": "Maps",
+  "label": "Game Worlds",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "The Maps category provides information about the various locations and areas in Mu Online, including their features, monsters, and quests."
+    "description": "The Game Worlds category provides information about the various locations and areas in Mu Online, including their features, monsters, and quests."
   }
 }

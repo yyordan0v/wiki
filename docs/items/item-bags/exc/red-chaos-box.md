@@ -24,11 +24,11 @@ The **Red Chaos Box** can drop one of the following items:
 
 ### Weapons
 
-|                        Sword of Destruction                         |                           Beuroba                           |                           Staff of Kundun                           |
-| :-----------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------------: |
-| ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) |           ![Beuroba](/img/items/spears/brova.png)           |      ![Staff of Kundun](/img/items/staffs/staff-of-kundun.png)      |
-|                           Arrow Viper Bow                           |                      Dark Reign Blade                       |                        Gread Lord's Scepter                         |
-|       ![Arrow Viper Bow](/img/items/bows/arrow-viper-bow.png)       | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Gread Lord's Scepter](/img/items/scepters/great-lord-scepter.png) |
+|                        Sword of Destruction                         |                           Beuroba                           |                        Platina Staff                        |
+| :-----------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
+| ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) |           ![Beuroba](/img/items/spears/brova.png)           |    ![Platina Staff](/img/items/staffs/platina-staff.png)    |
+|                            Albatross Bow                            |                      Dark Reign Blade                       |                       Shining Scepter                       |
+|         ![Albatross Bow](/img/items/bows/albatross-bow.png)         | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
 
 ### Shields
 

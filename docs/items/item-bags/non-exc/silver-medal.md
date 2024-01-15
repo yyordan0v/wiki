@@ -46,6 +46,6 @@ Please note that the drop rates for these items may vary and the items are **non
 
 To obtain the **Silver Medal**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
 
-|     [Bali](/special-monsters/others/bali)      |
-| :--------------------------------------------: |
-| ![Bali](/img/monsters/special/others/bali.jpg) |
+|     [Bali](/special-monsters/others/bali)      | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
+| :--------------------------------------------: | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- |
+| ![Bali](/img/monsters/special/others/bali.jpg) | ![Balrog](/img/monsters/losttower/balrog.jpg)  | ![Hydra](/img/monsters/atlans/hydra.jpg)     | ![The Mummy](/img/monsters/special/others/mummy.jpg) |

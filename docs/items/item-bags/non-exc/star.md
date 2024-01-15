@@ -42,6 +42,6 @@ Please note that the drop rates for these items may vary and the items are **non
 
 To obtain the **Star of Sacred Birth**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures for a guaranteed drop:
 
-| [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) | [Ice Queen](/special-monsters/mini-bosses/ice-queen) | [Gorgon](/special-monsters/mini-bosses/gorgon) | [Balrog](/special-monsters/mini-bosses/balrog) | [Hydra](/special-monsters/mini-bosses/hydra) | [The Mummy](/special-monsters/mini-bosses/the-mummy) |
-| -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- | ---------------------------------------------------- |
-| ![Giant](/img/monsters/lorencia/giant.jpg)   | ![Giant](/img/monsters/noria/stone-golem.jpg)            | ![Ice Queen](/img/monsters/devias/ice-queen.jpg)     | ![Gorgon](/img/monsters/dungeon/gorgon.jpg)    | ![Balrog](/img/monsters/losttower/balrog.jpg)  | ![Hydra](/img/monsters/atlans/hydra.jpg)     | ![The Mummy](/img/monsters/special/others/mummy.jpg) |
+| [Giant](/special-monsters/mini-bosses/giant) | [Stone Golem](/special-monsters/mini-bosses/stone-golem) |
+| -------------------------------------------- | -------------------------------------------------------- |
+| ![Giant](/img/monsters/lorencia/giant.jpg)   | ![Giant](/img/monsters/noria/stone-golem.jpg)            |

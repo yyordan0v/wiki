@@ -22,9 +22,9 @@ The **Green Ribbon Box** can drop one of the following items:
 
 ### Weapons
 
-|                    Knight's Blade                     |                     Platina Staff                     |                    Albatross Bow                    |                    Sword Dancer                     |                       Shining Scepter                       |
-| :---------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
-| ![Knight's Blade](/img/items/swords/knight-blade.png) | ![Platina Staff](/img/items/staffs/platina-staff.png) | ![Albatross Bow](/img/items/bows/albatross-bow.png) | ![Sword Dancer](/img/items/swords/sword-dancer.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
+|                    Knight's Blade                     |                      Staff of Kundun                      |                     Arrow Viper Bow                     |                    Sword Dancer                     |                        Gread Lord's Scepter                         |
+| :---------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------------------: |
+| ![Knight's Blade](/img/items/swords/knight-blade.png) | ![Staff of Kundun](/img/items/staffs/staff-of-kundun.png) | ![Arrow Viper Bow](/img/items/bows/arrow-viper-bow.png) | ![Sword Dancer](/img/items/swords/sword-dancer.png) | ![Gread Lord's Scepter](/img/items/scepters/great-lord-scepter.png) |
 
 ### Shields
 

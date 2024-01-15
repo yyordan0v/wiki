@@ -28,9 +28,9 @@ You can find **Haven Archangel** near the following coordinates in [Icarus](/map
 
 The subsequent table provides detailed information about the time and the quantity of the available **Mummies**.
 
-| Quantity |      Respawn Time      |
-| :------: | :--------------------: |
-|    2     | 3 minutes after killed |
+| Quantity |      Respawn Time       |
+| :------: | :---------------------: |
+|    2     | 10 minutes after killed |
 
 ## Reward
 

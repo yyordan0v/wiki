@@ -30,7 +30,7 @@ You can learn on how to reach these monsters trough the [Kalima](/maps/kalima) a
 <Tabs lazy>
   <TabItem value="kalima-1" label="Kalima 1">
 
-When an **Illusion of Kundun** in **Kalima 1** is successfully defeated, players will be rewarded with [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) **x3**.
+When an **Illusion of Kundun** in **Kalima 1** is successfully defeated, players will be rewarded with [Box of Kundun +1 (x3)](/items/item-bags/exc/box-of-kundun/bok-1).
 
 |         Location         |       Frequency       |
 | :----------------------: | :-------------------: |
@@ -44,7 +44,7 @@ _Box of Kundun +1_
 
   <TabItem value="kalima-2" label="Kalima 2">
 
-When an **Illusion of Kundun** in **Kalima 2** is successfully defeated, players will be rewarded with [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) **x3**.
+When an **Illusion of Kundun** in **Kalima 2** is successfully defeated, players will be rewarded with [Box of Kundun +2 (x3)](/items/item-bags/exc/box-of-kundun/bok-2).
 
 |         Location         |       Frequency       |
 | :----------------------: | :-------------------: |
@@ -58,7 +58,7 @@ _Box of Kundun +2_
 
   <TabItem value="kalima-3" label="Kalima 3">
 
-When an **Illusion of Kundun** in **Kalima 3** is successfully defeated, players will be rewarded with [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3) **x2**.
+When an **Illusion of Kundun** in **Kalima 3** is successfully defeated, players will be rewarded with [Box of Kundun +3 (x2)](/items/item-bags/exc/box-of-kundun/bok-3).
 
 |         Location         |       Frequency       |
 | :----------------------: | :-------------------: |
@@ -72,7 +72,7 @@ _Box of Kundun +3_
 
   <TabItem value="kalima-4" label="Kalima 4">
 
-When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players will be rewarded with [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) **x2**.
+When an **Illusion of Kundun** in **Kalima 4** is successfully defeated, players will be rewarded with [Box of Kundun +4 (x2)](/items/item-bags/exc/box-of-kundun/bok-4).
 
 |         Location         |       Frequency       |
 | :----------------------: | :-------------------: |

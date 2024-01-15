@@ -85,7 +85,7 @@ As the dust settles and the timer expires, the player with the **highest score**
 
   _Blue Chocolate Box_
 
-- The winner of the **Mu Mayhem** will receve a **2x** **[Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)**;
+- The winner of the **Mu Mayhem** will receve a **[Blue Chocolate Box (x2)](/items/item-bags/exc/blue-chocolate-box)**;
 
   ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 

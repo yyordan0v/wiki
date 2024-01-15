@@ -30,12 +30,12 @@ The subsequent table provides detailed information about the time and the quanti
 
 | Quantity |      Respawn Time      |
 | :------: | :--------------------: |
-|    10    | 4 minutes after killed |
+|    5     | 6 minutes after killed |
 
 ## Reward
 
-Upon successfully killing **The Mummy**, players will be rewarded with a [Star of Sacred Birth](/items/item-bags/non-exc/star).
+Upon successfully killing **The Mummy**, players will be rewarded with a [Silver Medal](/items/item-bags/non-exc/silver-medal).
 
-![Star of Sacred Birth](/img/items/item-bags/star.png)
+![Silver Medal](/img/items/item-bags/silver-medal.png)
 
-_Star of Sacred Birth_
+_Silver Medal_
