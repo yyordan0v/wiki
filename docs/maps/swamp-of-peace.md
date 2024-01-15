@@ -23,9 +23,3 @@ _Swamp of Peace_
 | ![Thunder Napin](/img/monsters/swamp-of-peace/thunder-napin.jpg) |   ![Ghost Napin](/img/monsters/swamp-of-peace/ghost-napin.jpg)   | ![Blaze Napin](/img/monsters/swamp-of-peace/blaze-napin.jpg) |     ![Ice Napin](/img/monsters/swamp-of-peace/ice-napin.jpg)     |
 |                           Shadow Pawn                            |                          Shadow Knight                           |                         Shadow Look                          |                          Shadow Master                           |
 |   ![Shadow Pawn](/img/monsters/swamp-of-peace/shadow-pawn.jpg)   | ![Shadow Knight](/img/monsters/swamp-of-peace/shadow-knight.jpg) | ![Shadow Look](/img/monsters/swamp-of-peace/shadow-look.jpg) | ![Shadow Master](/img/monsters/swamp-of-peace/shadow-master.jpg) |
-
-### Boss
-
-|     [Medusa](/special-monsters/bosses/medusa)      |
-| :------------------------------------------------: |
-| ![Medusa](/img/monsters/swamp-of-peace/medusa.jpg) |

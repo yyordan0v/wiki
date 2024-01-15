@@ -25,9 +25,3 @@ _Aida_
 | ![Death Tree](/img/monsters/aida/death-tree.jpg) |         ![Forest Orc](/img/monsters/aida/forest-orc.jpg)         |  ![Death Rider](/img/monsters/aida/death-rider.jpg)  |         ![Blue Golem](/img/monsters/aida/blue-golem.jpg)         | ![Witch Queen](/img/monsters/aida/witch-queen.jpg) |
 |                    Bloody Orc                    |                        Bloody Death Rider                        |                     Bloody Golem                     |                        Bloody Witch Queen                        |                     Hell Maine                     |
 | ![Bloody Orc](/img/monsters/aida/bloody-orc.jpg) | ![Bloody Death Rider](/img/monsters/aida/bloody-death-rider.jpg) | ![Bloody Golem](/img/monsters/aida/bloody-golem.jpg) | ![Bloody Witch Queen](/img/monsters/aida/bloody-witch-queen.jpg) |  ![Hell Maine](/img/monsters/aida/hell-maine.jpg)  |
-
-### Boss
-
-|     [Erohim](/special-monsters/bosses/erohim)      |
-| :------------------------------------------------: |
-| ![Erohim](/img/monsters/special/bosses/erohim.jpg) |

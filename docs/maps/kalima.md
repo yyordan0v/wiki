@@ -44,12 +44,12 @@ _Dead Porter_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
+The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
 
 :::
 
-### Bosses
+### Boss
 
-| [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun) |     [Kundun](/special-monsters/bosses/kundun)      |
-| :--------------------------------------------------------------------: | :------------------------------------------------: |
-|   ![Illusion of Kundun](/img/monsters/kalima/illusion-of-kundun.jpg)   | ![Kundun](/img/monsters/special/bosses/kundun.jpg) |
+| [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun) |
+| :--------------------------------------------------------------------: |
+|   ![Illusion of Kundun](/img/monsters/kalima/illusion-of-kundun.jpg)   |

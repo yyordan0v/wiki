@@ -32,7 +32,7 @@ One of the advantages bestowed upon the victorious guild in the [Castle Siege Ev
 
 ## Reward
 
-Upon successfully defeating the **Death King** or a **Death Bone**, players will be rewarded with the following:
+Upon successfully defeating the **Death King**, players will be rewarded with the following:
 
 |                             Death King                              |
 | :-----------------------------------------------------------------: |
