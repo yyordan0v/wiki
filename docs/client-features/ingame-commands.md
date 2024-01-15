@@ -12,7 +12,7 @@ keywords:
     Join Events,
     Quiz Event,
     Mayhem Event,
-    King of Yoskreth Event,
+    Mayhem King Event,
     Battle Soccer,
     Guild War,
     Event Participation,
@@ -31,32 +31,32 @@ You can also check this list of commands while playing through the [Especial Men
 
 :::
 
-| Command                 | Description                                                                               |
-| ----------------------- | ----------------------------------------------------------------------------------------- |
-| `/move <map name>`      | Moves your character to a certain map.                                                    |
-| `/post <message>`       | Post a global message to the server.                                                      |
-| `/str <value>`          | Add points in Strength.                                                                   |
-| `/agi <value>`          | Add points in Agility.                                                                    |
-| `/vit <value>`          | Add points in Vitality.                                                                   |
-| `/ene <value>`          | Add points in Energy.                                                                     |
-| `/cmd <value>`          | Add points in Command.                                                                    |
-| `/re on`                | Turn on all requests.                                                                     |
-| `/re off`               | Turn off all requests.                                                                    |
-| `/re auto`              | Automatically accepts all requests.                                                       |
-| `/setparty <password>`  | Create a party that can be joined with a password.                                        |
-| `/joinparty <password>` | Join a party which has a password.                                                        |
-| `/quest`                | Shows the necessary requisites for the current quest.                                     |
-| `/lock <password>`      | Locks your items for trade/sale.                                                          |
-| `/unlock <password>`    | Unlocks your items for trade/sale.                                                        |
-| `/pack <type> <qty>`    | Bundles your jewels (Bless, Soul, Life etc.).                                             |
-| `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                                   |
-| `/war <guild name>`     | Challenge another guild to a Guild War.                                                   |
-| `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                               |
-| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                                  |
-| `/mayhem`               | Join the [Mayhem](/events/combat-events/mayhem) Event.                                    |
-| `/king`                 | Seize the throne in the [King of Yoskreth](/events/combat-events/king-of-yoskreth) Event. |
-| `/join`                 | Join in an Event.                                                                         |
-| `/go`                   | Join Events.                                                                              |
+| Command                 | Description                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| `/move <map name>`      | Moves your character to a certain map.                                          |
+| `/post <message>`       | Post a global message to the server.                                            |
+| `/str <value>`          | Add points in Strength.                                                         |
+| `/agi <value>`          | Add points in Agility.                                                          |
+| `/vit <value>`          | Add points in Vitality.                                                         |
+| `/ene <value>`          | Add points in Energy.                                                           |
+| `/cmd <value>`          | Add points in Command.                                                          |
+| `/re on`                | Turn on all requests.                                                           |
+| `/re off`               | Turn off all requests.                                                          |
+| `/re auto`              | Automatically accepts all requests.                                             |
+| `/setparty <password>`  | Create a party that can be joined with a password.                              |
+| `/joinparty <password>` | Join a party which has a password.                                              |
+| `/quest`                | Shows the necessary requisites for the current quest.                           |
+| `/lock <password>`      | Locks your items for trade/sale.                                                |
+| `/unlock <password>`    | Unlocks your items for trade/sale.                                              |
+| `/pack <type> <qty>`    | Bundles your jewels (Bless, Soul, Life etc.).                                   |
+| `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                         |
+| `/war <guild name>`     | Challenge another guild to a Guild War.                                         |
+| `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                     |
+| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                        |
+| `/mayhem`               | Join the [Mayhem](/events/combat-events/mayhem) Event.                          |
+| `/king`                 | Seize the throne in the [Mayhem King](/events/combat-events/mayhem-king) Event. |
+| `/join`                 | Join in an Event.                                                               |
+| `/go`                   | Join Events.                                                                    |
 
 :::info
 

@@ -53,13 +53,13 @@ Here's how to get involved:
 
 1. **System Notice**: A system-wide announcement will be broadcasted, notifying all active players about the upcoming event.
 
-2. **Acquire the Team Clash Ticket**: Players interested in joining the event need to acquire the **Team Clash Ticket**. This ticket can be obtained from **Silvia** in [Yoskreth](/maps/yoskreth), ensuring every player has equal access to participate.
+2. **Acquire the Team Clash Ticket**: Players interested in joining the event need to acquire the **Team Clash Ticket**. This ticket can be obtained from **Silvia** in [Devias](/maps/devias), ensuring every player has equal access to participate.
 
    ![Team Clash Ticket](/img/items/invitations/team-clash-ticket.png)
 
    _Team Clash Ticket_
 
-3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** in [Yoskreth](/maps/yoskreth) to officially join the event.
+3. **Join the Event**: Once in possession of the **Team Clash Ticket**, players must interact with **Freyr Rygax** in [Devias](/maps/devias) to officially join the event.
 
    ![Freyr Rygax](/img/npc/freyr-rygax.jpg)
 

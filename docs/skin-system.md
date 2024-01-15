@@ -48,7 +48,7 @@ There are several distinct methods to acquire prismatic gems.
 
 ### Silvia
 
-You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia**, located in [Yoskreth](/maps/yoskreth), in exchange for **Zen**.
+You have the opportunity to acquire [Prismatic Gems](/category/prismatic-gems) from **Silvia**, located in [Devias](/maps/devias), in exchange for **Zen**.
 
 ![Silvia](/img/npc/silvia.jpg)
 

@@ -93,7 +93,7 @@ When it comes to Excellent items, the sole individual capable of removing the Ha
 
 :::info
 
-**Jerridon** can be encountered within the vicinity of [Yoskreth](/maps/yoskreth).
+**Jerridon** can be encountered within the vicinity of [Devias](/maps/devias).
 
 :::
 

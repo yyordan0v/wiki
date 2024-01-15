@@ -41,7 +41,7 @@ If the combination fails the item will be gone forever.
 
 ## The Chaos Machine
 
-Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Once the materials are in hand, players can begin the upgrade process. They must locate the **Chaos Machine**, which can be found in [Noria](/maps/noria) and [Devias](/maps/devias).
 
 Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 

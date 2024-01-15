@@ -14,7 +14,7 @@ With the [Devil Square Invitation](/crafting/invitations/devil-square-invitation
 
 - You must craft an [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to enter **Devil Square**.
 - [Devil Square Invitation](/crafting/invitations/devil-square-invitation) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops or in [Yoskreth](/maps/yoskreth).
+- The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops or in [Devias](/maps/devias).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
 :::tip
@@ -79,7 +79,7 @@ Detailed information on the crafting process you can find in the [Devil Square I
 
 ### Preparation
 
-Prior to the start of the **Devil Square**, the following messages start to appear in the Mu Mayhem Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** located in [Yoskreth](/maps/yoskreth).
+Prior to the start of the **Devil Square**, the following messages start to appear in the Mu Mayhem Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** located in [Devias](/maps/devias).
 
 ![Charon](/img/events/ds/charon.jpg)
 

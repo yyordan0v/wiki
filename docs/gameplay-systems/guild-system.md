@@ -29,7 +29,7 @@ However, certain requirements need to be met:
 
 :::tip
 
-You can find the Guild Master NPC in [Devias](/maps/devias) or in [Yoskreth](/maps/yoskreth).
+You can find the Guild Master NPC in [Devias](/maps/devias) or in [Devias](/maps/devias).
 
 :::
 

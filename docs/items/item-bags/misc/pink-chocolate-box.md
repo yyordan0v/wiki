@@ -26,7 +26,7 @@ In order to obtain a **Pink Chocolate Box** you need to win in one of the follow
 
 - [Blood Castle 8](/events/blood-castle)
 - [Devil Square 7](/events/devil-square)
-- [Yoskreth Drop](/events/others/yoskreth-drop)
+- [Devias Drop](/events/others/devias-drop)
 - [Imperial Guardian](/events/imperial-guardian)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
+- [Mayhem King](/events/combat-events/mayhem-king)
 - [Specialists' Combat](/events/combat-events/specialists-combat)

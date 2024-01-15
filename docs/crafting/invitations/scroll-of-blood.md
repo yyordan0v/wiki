@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-description: Learn the Chaos Mix process for crafting the Scroll of Blood in Mu Mayhem. Acquire the Old Scroll, Illusion Sorcerer Covenant, and Jewel of Chaos to create the Scroll of Blood. Explore the Zen cost for each level of the Scroll and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth.
+description: Learn the Chaos Mix process for crafting the Scroll of Blood in Mu Mayhem. Acquire the Old Scroll, Illusion Sorcerer Covenant, and Jewel of Chaos to create the Scroll of Blood. Explore the Zen cost for each level of the Scroll and locate the Chaos Machine through the Chaos Goblin in Noria and Devias.
 keywords:
   [
     Scroll of Blood,
@@ -13,7 +13,7 @@ keywords:
     Jewel of Chaos,
     Goblin Locations,
     Noria,
-    Yoskreth,
+    Devias,
     Gameplay Systems,
   ]
 ---
@@ -53,7 +53,7 @@ The success rate for this Chaos Combination is **80%**.
 
 ## The Chaos Machine
 
-Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Devias](/maps/devias).
 
 Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 

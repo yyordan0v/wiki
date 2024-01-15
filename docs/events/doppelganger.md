@@ -24,7 +24,7 @@ In order to craft the **Dimensional Mirror** you need to collect **Dimensional S
 | :-----------------------------------------------------------------: | :-------------------------------------: | :--------------------------------------------------------------------: |
 | ![Dimensional Signs](/img/items/invitations/sign-of-dimensions.png) | ![Equals](/img/items/invitations/=.png) | ![Dimensional Mirror](/img/items/invitations/mirror-of-dimensions.png) |
 
-After obtaining the **Dimensional Mirror**, you can proceed to [Yoskreth](/maps/yoskreth) and engage with **Lugard**. Upon interaction, **Lugard** will transport you to a random **Doppelganger Arena**.
+After obtaining the **Dimensional Mirror**, you can proceed to [Devias](/maps/devias) and engage with **Lugard**. Upon interaction, **Lugard** will transport you to a random **Doppelganger Arena**.
 
 ![Lugard](/img/npc/lugard.jpg)
 

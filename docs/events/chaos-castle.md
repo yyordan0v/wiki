@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 **Chaos Castle** is the place where Mu Warriors fight for prestige or prize,but there can be only **one winner**.
 
-To join the event you must buy **Armor of Guardsman** from **Silvia** in [Yoskreth](/maps/yoskreth) and right click on it.
+To join the event you must buy **Armor of Guardsman** from **Silvia** in [Devias](/maps/devias) and right click on it.
 
 ![Silvia](/img/npc/silvia.jpg)
 
@@ -31,7 +31,7 @@ As the **Chaos Castle** is about to commence, a **system notice** will be sent t
 - All participant's **Zen fee** is put into a pool and the winner of the minigame will win **80%** of the total amount.
 - When you enter your character will have the **Guardsman** skin applied.
 - The monsters that spawn also have a **Guardsman** skin so its hard to see the differences between players and monsters.
-- **Chaos Castle** Entry item - the **Armor of Guardsman** is sold by **Silvia** in [Yoskreth](/maps/yoskreth).
+- **Chaos Castle** Entry item - the **Armor of Guardsman** is sold by **Silvia** in [Devias](/maps/devias).
 
 ![Armor of Guardsman](/img/items/invitations/armor-of-guardsman.png)
 

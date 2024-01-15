@@ -15,7 +15,7 @@ To procure the necessary refining stones, one must engage in conversation with t
 
 :::info
 
-**Osbourne** can be encountered within the vicinity of [Yoskreth](/maps/yoskreth).
+**Osbourne** can be encountered within the vicinity of [Devias](/maps/devias).
 
 :::
 

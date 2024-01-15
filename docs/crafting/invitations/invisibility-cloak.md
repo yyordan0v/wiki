@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: Learn how to craft the Invisibility Cloak in Mu Mayhem for participation in the Blood Castle event. Explore the Chaos Mix process, including the required ingredients such as Blood Fang, Scroll of Archangel, and Jewel of Chaos. Discover the Zen cost for each level of Invisibility Cloak and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Invisibility Cloak in Mu Mayhem.
+description: Learn how to craft the Invisibility Cloak in Mu Mayhem for participation in the Blood Castle event. Explore the Chaos Mix process, including the required ingredients such as Blood Fang, Scroll of Archangel, and Jewel of Chaos. Discover the Zen cost for each level of Invisibility Cloak and locate the Chaos Machine through the Chaos Goblin in Noria and Devias. Enhance your gameplay by mastering the crafting of the Invisibility Cloak in Mu Mayhem.
 keywords:
   [
     Invisibility Cloak,
@@ -14,7 +14,7 @@ keywords:
     Event Participation,
     Goblin Locations,
     Noria,
-    Yoskreth,
+    Devias,
     Gameplay Systems,
   ]
 ---
@@ -56,7 +56,7 @@ The success rate for this Chaos Combination is **80%**.
 
 ## The Chaos Machine
 
-Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Once you have acquired the [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) and the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Devias](/maps/devias).
 
 Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 

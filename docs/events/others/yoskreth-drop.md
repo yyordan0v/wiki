@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-description: Participate in the Yoskreth Drop Event in Mu Mayhem, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
+description: Participate in the Devias Drop Event in Mu Mayhem, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
 keywords:
   [
-    Yoskreth Drop,
+    Devias Drop,
     Mu Mayhem,
     Mu Online,
     Recurring Event,
@@ -20,19 +20,19 @@ keywords:
   ]
 ---
 
-# Yoskreth Drop
+# Devias Drop
 
-The **Yoskreth Drop** Event is a recurring event in **Mu Mayhem** that provides players with the opportunity to acquire valuable items.
+The **Devias Drop** Event is a recurring event in **Mu Mayhem** that provides players with the opportunity to acquire valuable items.
 
-Taking place **twice a day**, this event occurs at **02:45** and **14:45** within the **capital city** of [Yoskreth](/maps/yoskreth). Prior to the event's commencement, a **system notice** will be broadcasted to all online players, informing them about the upcoming event.
+Taking place **twice a day**, this event occurs at **02:45** and **14:45** within the **capital city** of [Devias](/maps/devias). Prior to the event's commencement, a **system notice** will be broadcasted to all online players, informing them about the upcoming event.
 
-![Yoskreth Drop](/img/events/yoskreth-drop.jpg)
+![Devias Drop](/img/events/yoskreth-drop.jpg)
 
-_Yoskreth Drop_
+_Devias Drop_
 
 ## Event Details
 
-During the **Yoskreth Drop** Event, various valuable items are dispersed across the city for players to collect. These items can significantly enhance a player's progress and gameplay experience. During the event players need to be quick and vigilant in order to secure these valuable rewards.
+During the **Devias Drop** Event, various valuable items are dispersed across the city for players to collect. These items can significantly enhance a player's progress and gameplay experience. During the event players need to be quick and vigilant in order to secure these valuable rewards.
 
 :::info
 
@@ -42,7 +42,7 @@ The event lasts for a total of **2 minutes**.
 
 ## Dropped Items
 
-Throughout the event, the following items will be available for players to pick up within the [Yoskreth](/maps/yoskreth) capital city:
+Throughout the event, the following items will be available for players to pick up within the [Devias](/maps/devias) capital city:
 
 |    [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)     |   [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |   [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)   |   [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box)   |
 | :-----------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -50,6 +50,6 @@ Throughout the event, the following items will be available for players to pick 
 
 These items hold the potential for unique and exciting rewards that can aid players in their journey through the world of **Mu Mayhem**.
 
-Participating in the **Yoskreth Drop** Event provides an opportunity for players to acquire items that would otherwise require significant effort or resources. Whether you're a seasoned adventurer or a newcomer to the realm, this event offers a chance to enhance your inventory and progress in the game.
+Participating in the **Devias Drop** Event provides an opportunity for players to acquire items that would otherwise require significant effort or resources. Whether you're a seasoned adventurer or a newcomer to the realm, this event offers a chance to enhance your inventory and progress in the game.
 
 Stay alert, as the event's limited duration requires quick reactions to seize the rewards on offer!

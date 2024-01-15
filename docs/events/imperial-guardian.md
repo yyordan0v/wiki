@@ -36,7 +36,7 @@ In order to craft the **Gaion's Order** you need to collect **Suspicious Scrap o
 | :--------------------------------------------------------------------------------: | :-------------------------------------: | :-------------------------------------------------------: |
 | ![Suspicious Scrap of Paper](/img/items/invitations/sispicious-scrap-of-paper.png) | ![Equals](/img/items/invitations/=.png) | ![Gaion's Order](/img/items/invitations/gaions-order.png) |
 
-After obtaining the **Gaion's Order**, you can proceed to [Yoskreth](/maps/yoskreth) and engage with **Jerint**. Upon interaction, **Jerint** will transport you to **Imperial Fortress**.
+After obtaining the **Gaion's Order**, you can proceed to [Devias](/maps/devias) and engage with **Jerint**. Upon interaction, **Jerint** will transport you to **Imperial Fortress**.
 
 ![Jerint](/img/npc/jerint.jpg)
 

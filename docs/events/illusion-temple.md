@@ -20,7 +20,7 @@ The players will be granted [special skills](/events/illusion-temple#kill-points
 
 - You must craft a [Scroll of Blood](/crafting/invitations/scroll-of-blood) to enter.
 - [Scroll of Blood](/crafting/invitations/scroll-of-blood) is crafted via Chaos Goblin Machine.
-- The crafting ingredients can be purchased in [Yoskreth](/maps/yoskreth).
+- The crafting ingredients can be purchased in [Devias](/maps/devias).
 - You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
 :::tip
@@ -84,7 +84,7 @@ Detailed information on the crafting process you can find in the [Scroll of Bloo
 
 ### Preparation
 
-Prior to the start of the **Illusion Temple**, the following messages appear in the Mu Mayhem Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** - located in [Yoskreth](/maps/yoskreth). You need to have the **correct Scroll of Blood** corresponding to your **Character's level** in order to enter the Event.
+Prior to the start of the **Illusion Temple**, the following messages appear in the Mu Mayhem Server: "Illusion Temple will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with the [Scroll of Blood](/crafting/invitations/scroll-of-blood) to **Mirage** - located in [Devias](/maps/devias). You need to have the **correct Scroll of Blood** corresponding to your **Character's level** in order to enter the Event.
 
 If you did everything correctly, then you will be taken to the **Illusion Temple** Event Map.
 

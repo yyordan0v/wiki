@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: Learn how to craft the Complete Secromicon in Mu Mayhem for participation in the Sunday Imperial Guardian event. Explore the Chaos Mix process, including the required ingredients such as Secromicon Fragments and Zen. Obtain detailed information on acquiring each Secromicon Fragment and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Complete Secromicon in Mu Mayhem.
+description: Learn how to craft the Complete Secromicon in Mu Mayhem for participation in the Sunday Imperial Guardian event. Explore the Chaos Mix process, including the required ingredients such as Secromicon Fragments and Zen. Obtain detailed information on acquiring each Secromicon Fragment and locate the Chaos Machine through the Chaos Goblin in Noria and Devias. Enhance your gameplay by mastering the crafting of the Complete Secromicon in Mu Mayhem.
 keywords:
   [
     Complete Secromicon,
@@ -15,7 +15,7 @@ keywords:
     In-game Crafting,
     Goblin Locations,
     Noria,
-    Yoskreth,
+    Devias,
     Gameplay Systems,
   ]
 ---
@@ -54,7 +54,7 @@ The success rate for this Chaos Combination is **100%**.
 
 ## The Chaos Machine
 
-Once you have acquired the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Once you have acquired the required items, locate the **Chaos Machine** within the game world. You can find the **Goblin** in [Noria](/maps/noria) and [Devias](/maps/devias).
 
 Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 

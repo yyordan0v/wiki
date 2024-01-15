@@ -63,4 +63,4 @@ There is also chance that you get **Blue Ribbon Box** dropped by one of the foll
 You can also obtain a **Blue Ribbon Box** by winning in one of the following events:
 
 - [Mayhem](/events/combat-events/mayhem)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
+- [Mayhem King](/events/combat-events/mayhem-king)

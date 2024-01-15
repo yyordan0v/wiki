@@ -33,7 +33,7 @@ Risk your life to **Save the Archangel**. One of the strongest warriors in **Mu 
 
 - You must craft an [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in order to enter Blood Castle.
 - [Invisibility Cloak](/crafting/invitations/invisibility-cloak) is crafted via Chaos Goblin Machine.
-- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Yorskreth](/maps/yoskreth).
+- The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Devias](/maps/devias).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
 :::tip
@@ -100,7 +100,7 @@ Detailed information on the crafting process you can find in the [Invisibility C
 
 ### Preparation
 
-Prior the **Blood Castle** start, the following message appear in Mu Mayhem: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found in [Yoskreth](/maps/yoskreth).
+Prior the **Blood Castle** start, the following message appear in Mu Mayhem: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found in [Devias](/maps/devias).
 
 Interacting with the **Messenger of Archangel** will open a table in which you need to select the **appropriate level** of Blood Castle for your character (The [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in your inventory **should be the same level**).
 If you did everything correctly, then you will be taken to the **Blood Castle**.

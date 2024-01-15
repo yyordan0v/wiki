@@ -45,7 +45,7 @@ The success rate for this Chaos Combination is **60%**.
 
 ## The Chaos Machine
 
-Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Yoskreth](/maps/yoskreth).
+Once you have acquired the Jewel of Chaos and the required items, locate the **Chaos Machine** within the game world. You can find him in [Noria](/maps/noria) and [Devias](/maps/devias).
 
 Interact with the **Chaos Goblin** and follow the prompts to proceed with your combination.
 
