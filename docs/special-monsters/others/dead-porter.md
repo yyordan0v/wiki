@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Dead Porter
 
-This article explores the **Dead Porter** - a special monster in the **Lotus Mu** realm.
+This article explores the **Dead Porter** - a special monster in the **Mu Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
 

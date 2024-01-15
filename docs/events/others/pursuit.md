@@ -1,10 +1,10 @@
 ---
 sidebar_position: 6
-description: Participate in the Pursuit Event in Lotus Mu, a GM-triggered challenge that tests players' agility and strategic thinking. Learn how to join, the rules of pursuit, and the ultimate goal of being the last survivor. The reward for the winner is a Red Chocolate Box.
+description: Participate in the Pursuit Event in Mu Mayhem, a GM-triggered challenge that tests players' agility and strategic thinking. Learn how to join, the rules of pursuit, and the ultimate goal of being the last survivor. The reward for the winner is a Red Chocolate Box.
 keywords:
   [
     Pursuit Event,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     GM-Triggered Event,
     Chase and Evade,
@@ -16,7 +16,7 @@ keywords:
 
 # Pursuit Event
 
-The **Pursuit Event** in **Lotus Mu** offers an adrenaline-filled experience that challenges players' agility and strategic thinking.
+The **Pursuit Event** in **Mu Mayhem** offers an adrenaline-filled experience that challenges players' agility and strategic thinking.
 
 As a **GM-triggered** event, it brings a dynamic twist to the gaming realm, requiring participants to either escape or outwit the pursuing **GM**. Here's what you need to know about this exciting event:
 
@@ -54,7 +54,7 @@ _Pursuit Event Winner_
 
 It's a test of wits, reflexes, and cunning strategy, where every decision can mean the difference between triumph and defeat.
 
-Experience the thrill of the **Pursuit Event** in Lotus Mu, where your ability to flee or outpace the pursuing GM determines your success. Stay sharp, strategize on your feet, and aim to be the ultimate survivor in this heart-pounding challenge.
+Experience the thrill of the **Pursuit Event** in Mu Mayhem, where your ability to flee or outpace the pursuing GM determines your success. Stay sharp, strategize on your feet, and aim to be the ultimate survivor in this heart-pounding challenge.
 
 ## Reward
 

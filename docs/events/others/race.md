@@ -1,10 +1,10 @@
 ---
 sidebar_position: 8
-description: Engage in the Race Event in Lotus Mu, a dynamic competition that tests players' speed, strategy, and quick thinking. Learn about the event triggering, the race challenge, victory conditions, and the rewards. Participate for an exhilarating experience and a chance to win the Red Ribbon Box.
+description: Engage in the Race Event in Mu Mayhem, a dynamic competition that tests players' speed, strategy, and quick thinking. Learn about the event triggering, the race challenge, victory conditions, and the rewards. Participate for an exhilarating experience and a chance to win the Red Ribbon Box.
 keywords:
   [
     Race Event,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     Dynamic Competition,
     Speed Challenge,
@@ -18,7 +18,7 @@ keywords:
 
 # Race Event
 
-The **Race Event** in Lotus Mu brings an exciting and dynamic competition to the realm, where players can put their speed and navigation skills to the test. This event offers a thrilling change of pace from regular gameplay, allowing players to engage in a **fast-paced race** to victory.
+The **Race Event** in Mu Mayhem brings an exciting and dynamic competition to the realm, where players can put their speed and navigation skills to the test. This event offers a thrilling change of pace from regular gameplay, allowing players to engage in a **fast-paced race** to victory.
 
 ## Event Triggering and Setup
 
@@ -62,4 +62,4 @@ Participating in the **Race Event** requires a combination of strategy, quick th
 
 Whether you're a speed enthusiast looking to test your agility or simply seeking a break from your usual routine, the **Race Event** offers an exhilarating experience for all types of players.
 
-Keep an eye out for the system notices indicating the start of the **Race Event** and get ready to dash to victory in Lotus Mu!
+Keep an eye out for the system notices indicating the start of the **Race Event** and get ready to dash to victory in Mu Mayhem!

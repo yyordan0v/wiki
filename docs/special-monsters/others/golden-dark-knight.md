@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # Golden Dark Knight
 
-This article explores the **Golden Dark Knight** - a special monster in the **Lotus Mu** realm.
+This article explores the **Golden Dark Knight** - a special monster in the **Mu Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 

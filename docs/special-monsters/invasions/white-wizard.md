@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # White Wizard Invasion
 
-Unleashing chaos and uncertainty upon the mystical realm of **Lotus Mu**, the **White Wizard** has sent shockwaves throughout the land. In this article, we delve into the heart of this unprecedented crisis, exploring the origins, consequences, and challenges that accompany the arrival of the enigmatic **White Wizard**. Brace yourself as we embark on a journey to understand the magnitude of this invasion and discover the heroic efforts of **Lotus Mu's** players as they unite to confront this formidable threat. Prepare to witness the clash between light and darkness in a battle that will determine the fate of the realm.
+Unleashing chaos and uncertainty upon the mystical realm of **Mu Mayhem**, the **White Wizard** has sent shockwaves throughout the land. In this article, we delve into the heart of this unprecedented crisis, exploring the origins, consequences, and challenges that accompany the arrival of the enigmatic **White Wizard**. Brace yourself as we embark on a journey to understand the magnitude of this invasion and discover the heroic efforts of **Mu Mayhem's** players as they unite to confront this formidable threat. Prepare to witness the clash between light and darkness in a battle that will determine the fate of the realm.
 
 ![White Wizard](/img/monsters/special/invasions/white-wizard.jpg)
 

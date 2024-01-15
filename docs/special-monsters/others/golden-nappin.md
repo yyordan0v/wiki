@@ -4,7 +4,7 @@ sidebar_position: 20
 
 # Golden Nappin
 
-This article explores the **Golden Nappin** - a special monster in the **Lotus Mu** realm.
+This article explores the **Golden Nappin** - a special monster in the **Mu Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 

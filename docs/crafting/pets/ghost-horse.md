@@ -86,6 +86,6 @@ This level of customization fosters a sense of pride and ownership among players
 
 :::tip
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+You learn more on Mu Mayhem Unique **Skin System** by going into our [Skin System](/skin-system) section.
 
 :::

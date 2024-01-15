@@ -4,7 +4,7 @@ sidebar_position: 22
 
 # Icewrack
 
-Welcome to the frigid and exclusive realm of **Icewrack** in **Lotus Mu**. This **unique** map, found solely within the world of **Lotus Mu**, is a frozen wonderland teeming with extraordinary creatures.
+Welcome to the frigid and exclusive realm of **Icewrack** in **Mu Mayhem**. This **unique** map, found solely within the world of **Mu Mayhem**, is a frozen wonderland teeming with extraordinary creatures.
 
 Brave adventurers who dare to venture into its icy depths are met with [Special Monsters](/category/others) that, when defeated, bestow invaluable rewards upon the victorious players. Get ready to embark on a thrilling journey through this deep-frozen domain, where both danger and treasure await at every turn.
 

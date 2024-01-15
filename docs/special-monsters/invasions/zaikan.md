@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Zaikan Invasion
 
-Prepare for an intense and thrilling journey as we delve into the formidable **Zaikan Invasion** in **Lotus Mu**. In this article, we explore the origins, challenges, and rewards that await players as they confront the merciless **Zaikan** and his hordes. Join us as we unravel the mysteries of this epic invasion and discover the strategies needed to emerge victorious against this fearsome adversary.
+Prepare for an intense and thrilling journey as we delve into the formidable **Zaikan Invasion** in **Mu Mayhem**. In this article, we explore the origins, challenges, and rewards that await players as they confront the merciless **Zaikan** and his hordes. Join us as we unravel the mysteries of this epic invasion and discover the strategies needed to emerge victorious against this fearsome adversary.
 
 ![Zaikan](/img/monsters/special/invasions/zaikan.jpg)
 

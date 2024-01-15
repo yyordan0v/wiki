@@ -1,10 +1,10 @@
 ---
 sidebar_position: 8
-description: Explore the Search Store functionality in Lotus Mu, closely connected with the Personal Store, creating a seamless experience for players seeking to sell their items. Learn how to list items for sale, set prices universally, and open your store for exciting opportunities to trade items for precious jewels and coins. Utilize the Search Store Module to conveniently filter and purchase items from other players. Access the Search Store Module via the Especial Menu for a streamlined trading experience.
+description: Explore the Search Store functionality in Mu Mayhem, closely connected with the Personal Store, creating a seamless experience for players seeking to sell their items. Learn how to list items for sale, set prices universally, and open your store for exciting opportunities to trade items for precious jewels and coins. Utilize the Search Store Module to conveniently filter and purchase items from other players. Access the Search Store Module via the Especial Menu for a streamlined trading experience.
 keywords:
   [
     Search Stores,
-    Lotus Mu,
+    Mu Mayhem,
     Search Store Module,
     Personal Store,
     Zen Trading,
@@ -21,7 +21,7 @@ keywords:
 
 # Search Stores
 
-The **Search Store** functionality in Lotus Mu is closely connected with the **Personal Store**, creating a seamless experience for players seeking to sell their items. This feature enables you to list items for sale in exchange for zen but also opens up exciting opportunities to trade them for precious jewels and coins.
+The **Search Store** functionality in Mu Mayhem is closely connected with the **Personal Store**, creating a seamless experience for players seeking to sell their items. This feature enables you to list items for sale in exchange for zen but also opens up exciting opportunities to trade them for precious jewels and coins.
 
 To list an item for sale in the **Search Stores** Module you need to open your **Personal Store**.
 

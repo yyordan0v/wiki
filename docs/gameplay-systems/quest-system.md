@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Quest System
 
-**Lotus Mu** offers a captivating array of consecutive **quests** that not only add variety to the gameplay but also **reward** players with a plethora of prizes upon successful completion.
+**Mu Mayhem** offers a captivating array of consecutive **quests** that not only add variety to the gameplay but also **reward** players with a plethora of prizes upon successful completion.
 
 Our **Primary Quests** have been meticulously crafted to align with the growth and advancement of your hero. This means that you'll start off by slaying **Spiders**, then progress to **Budge Dragons**, and so forth, until you find yourself facing off against the most formidable creatures in the realm.
 
@@ -18,7 +18,7 @@ Each completed quest bestows upon the player a **reward**, ensuring that they ar
 
 ## Quest Window
 
-As you join in the **Lotus Mu** realm you will see a **white arrow** in the middle right of your screen. When you press this arrow, the **Quest Window** will pop.
+As you join in the **Mu Mayhem** realm you will see a **white arrow** in the middle right of your screen. When you press this arrow, the **Quest Window** will pop.
 
 ![Open/Close Quest Window](/img/client-features/open-quest-window.jpg)
 
@@ -46,6 +46,6 @@ In the **Primary Quests** you will be killing monsters 99% of the time in order 
 
 ## Quest Pavilion
 
-Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion) - a rewarding feature in **Lotus Mu** that recognizes your quest achievements by granting **`stars`**
+Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion) - a rewarding feature in **Mu Mayhem** that recognizes your quest achievements by granting **`stars`**
 
 These **stars** can be exchanged for valuable rewards, enhancing your gameplay experience. Dive into **quests**, earn **stars**, and unlock exciting possibilities in the [Quest Pavilion](/gameplay-systems/quest-pavilion).

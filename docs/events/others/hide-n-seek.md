@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-description: Join the excitement of the Hide n' Seek Event in Lotus Mu, a GM-triggered event challenging players to locate a hidden Game Master within a limited time. Learn about the event concept, the thrill of discovery, and the rewards for the first player to find the elusive GM.
+description: Join the excitement of the Hide n' Seek Event in Mu Mayhem, a GM-triggered event challenging players to locate a hidden Game Master within a limited time. Learn about the event concept, the thrill of discovery, and the rewards for the first player to find the elusive GM.
 keywords:
   [
     Hide n' Seek,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     GM-Triggered Event,
     Game Master,
@@ -16,7 +16,7 @@ keywords:
 
 # Hide n' Seek
 
-The **Hide n' Seek** Event in Lotus Mu adds an element of fun and spontaneity to the realm, challenging players to embark on a quest to locate a hidden **Game Master**.
+The **Hide n' Seek** Event in Mu Mayhem adds an element of fun and spontaneity to the realm, challenging players to embark on a quest to locate a hidden **Game Master**.
 
 This event, known for its excitement and unpredictability, provides an opportunity for players to take a break from their usual activities and engage in a thrilling search.
 
@@ -32,7 +32,7 @@ _Hide n' Seek Start_
 
 ## The Search Begins
 
-The objective of the **Hide n' Seek** Event is simple: players must locate the **GM** who initiated the event. This **GM** will be hidden somewhere within the game world of **Lotus Mu**.
+The objective of the **Hide n' Seek** Event is simple: players must locate the **GM** who initiated the event. This **GM** will be hidden somewhere within the game world of **Mu Mayhem**.
 
 :::info
 
@@ -56,7 +56,7 @@ _Hide n' Seek_
 
 Keep an eye out for the **system notices** signaling the start of the **Hide n' Seek** Event. When that message appears, gear up for an exhilarating adventure as you race against time to find the elusive **Game Master**.
 
-Will you be the one to crack the riddle, locate the hidden **Game Master**, and claim your well-earned [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)? Join the hunt and embrace the thrill of the **Hide n' Seek** Event in Lotus Mu!
+Will you be the one to crack the riddle, locate the hidden **Game Master**, and claim your well-earned [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)? Join the hunt and embrace the thrill of the **Hide n' Seek** Event in Mu Mayhem!
 
 ## Reward
 

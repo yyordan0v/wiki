@@ -6,7 +6,7 @@ import ReactPlayer from 'react-player';
 
 # Skin System
 
-We have embraced the concept of player self-expression by introducing the revolutionary **Skin System** - unique feature which can be encountered only in the realm of **Lotus Mu**.
+We have embraced the concept of player self-expression by introducing the revolutionary **Skin System** - unique feature which can be encountered only in the realm of **Mu Mayhem**.
 
 This opens up the opportunity for you to modify the appearance of your [Tier 2 pets](/category/pets).
 
@@ -62,7 +62,7 @@ The Prismatic Gems available for purchase with **Zen** include:
 
 ### Cash Shop
 
-You can obtain [Prismatic Gems](/category/prismatic-gems) from the **Lotus Mu Collector's Caches** where the **rarest** prismatic gems are hidden.
+You can obtain [Prismatic Gems](/category/prismatic-gems) from the **Mu Mayhem Collector's Caches** where the **rarest** prismatic gems are hidden.
 
 :::tip
 

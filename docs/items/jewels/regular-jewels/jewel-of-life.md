@@ -22,7 +22,7 @@ Unleash the true potential of your items and achieve unparalleled power through 
 
 :::tip
 
-Alternatively, in the realm of Lotus Mu, the game administration has introduced the option to acquire the **Jewel of Life** or **Jewel of Life Bundles** by completing [quests](/gameplay-systems/quest-system).
+Alternatively, in the realm of Mu Mayhem, the game administration has introduced the option to acquire the **Jewel of Life** or **Jewel of Life Bundles** by completing [quests](/gameplay-systems/quest-system).
 
 :::
 

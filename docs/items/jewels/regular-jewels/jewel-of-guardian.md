@@ -12,7 +12,7 @@ _Jewel of Guardian_
 
 ## Item Options
 
-The aforementioned **Item Options**, commonly referred to as **pink options** in the world of Mu Online, were originally restricted to **380 level** items. However, considering the distinct setup of **Lotus Mu**, our team has made the decision to extend the availability of these valuable Item Options to encompass **all items**. This expansion grants players the opportunity to enhance their equipment with these coveted enhancements, irrespective of their item's level.
+The aforementioned **Item Options**, commonly referred to as **pink options** in the world of Mu Online, were originally restricted to **380 level** items. However, considering the distinct setup of **Mu Mayhem**, our team has made the decision to extend the availability of these valuable Item Options to encompass **all items**. This expansion grants players the opportunity to enhance their equipment with these coveted enhancements, irrespective of their item's level.
 
 :::tip
 

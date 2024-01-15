@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Death King Invasion
 
-Prepare for a harrowing encounter as the **Death King** invasion descends upon the realms of Lotus Mu, shrouding the land in darkness and despair. In this formidable event, players must rise to the challenge and confront the malevolent forces that seek to unleash chaos and destruction. Brace yourself for epic battles and face the wrath of the **Death King** as you embark on a quest to defend the realm and restore peace.
+Prepare for a harrowing encounter as the **Death King** invasion descends upon the realms of Mu Mayhem, shrouding the land in darkness and despair. In this formidable event, players must rise to the challenge and confront the malevolent forces that seek to unleash chaos and destruction. Brace yourself for epic battles and face the wrath of the **Death King** as you embark on a quest to defend the realm and restore peace.
 
 ![Death King](/img/monsters/special/invasions/death-king.jpg)
 

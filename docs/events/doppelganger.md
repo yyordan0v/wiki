@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Doppelganger
 
-Step into a realm of strategic challenges and **teamwork** with the **Doppelganger Event** in Lotus Mu.
+Step into a realm of strategic challenges and **teamwork** with the **Doppelganger Event** in Mu Mayhem.
 
 This unique event introduces players to a captivating "**tower defence**" style event that demands quick thinking, coordination, and combat prowess. Dive into the **Doppelganger arena** to test your skills and **protect your base** from relentless waves of monsters.
 
@@ -129,4 +129,4 @@ _Purple Chaos Box_
 
 :::
 
-Prepare to engage in an exhilarating test of skill and coordination as you defend against relentless waves of monsters. The **Doppelganger** Event is not only a chance to showcase your **combat prowess** but also a platform to demonstrate the **power of teamwork** in the realm of **Lotus Mu**.
+Prepare to engage in an exhilarating test of skill and coordination as you defend against relentless waves of monsters. The **Doppelganger** Event is not only a chance to showcase your **combat prowess** but also a platform to demonstrate the **power of teamwork** in the realm of **Mu Mayhem**.

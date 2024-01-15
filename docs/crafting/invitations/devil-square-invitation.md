@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-description: Learn how to craft the Devil Square Invitation in Lotus Mu for participation in the Devil Square event. Explore the Chaos Mix process, including the required ingredients such as Devil's Key, Devil's Eye, and Jewel of Chaos. Discover the Zen cost for each level of Devil Square Invitation and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Devil Square Invitation in Lotus Mu.
+description: Learn how to craft the Devil Square Invitation in Mu Mayhem for participation in the Devil Square event. Explore the Chaos Mix process, including the required ingredients such as Devil's Key, Devil's Eye, and Jewel of Chaos. Discover the Zen cost for each level of Devil Square Invitation and locate the Chaos Machine through the Chaos Goblin in Noria and Yoskreth. Enhance your gameplay by mastering the crafting of the Devil Square Invitation in Mu Mayhem.
 keywords:
   [
     Devil Square Invitation,
-    Lotus Mu,
+    Mu Mayhem,
     Chaos Mix,
     Devil's Key,
     Devil's Eye,

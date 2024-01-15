@@ -7,22 +7,14 @@
 /* You can override the default Infima variables here. */
 :root {
   /* light - default green */
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #db2f1b;
+  --ifm-color-primary-dark: #d42e1a;
+  --ifm-color-primary-darker: #ce2c19;
+  --ifm-color-primary-darkest: #c72b19;
+  --ifm-color-primary-light: #e2301c;
+  --ifm-color-primary-lighter: #e43521;
+  --ifm-color-primary-lightest: #e43b28;
 
-  /* light - purple */
-  /* --ifm-color-primary: #6002ee;
-  --ifm-color-primary-dark: #5602d6;
-  --ifm-color-primary-darker: #5202ca;
-  --ifm-color-primary-darkest: #4301a7;
-  --ifm-color-primary-light: #6b0bfd;
-  --ifm-color-primary-lighter: #7317fd;
-  --ifm-color-primary-lightest: #883bfd; */
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -30,28 +22,15 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 
 /* dark - default green */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+[data-theme="dark"] {
+  --ifm-color-primary: #ff7575;
+  --ifm-color-primary-dark: #ff6a6a;
+  --ifm-color-primary-darker: #ff5f5f;
+  --ifm-color-primary-darkest: #ff5454;
+  --ifm-color-primary-light: #ff8080;
+  --ifm-color-primary-lighter: #ff8b8b;
+  --ifm-color-primary-lightest: #ff9696;
 }
-
-/* dark - purple */
-/* [data-theme='dark'] {
-  --ifm-color-primary: #8d95fe;
-  --ifm-color-primary-dark: #8991fe;
-  --ifm-color-primary-darker: #818afe;
-  --ifm-color-primary-darkest: #7983fe;
-  --ifm-color-primary-light: #9199fe;
-  --ifm-color-primary-lighter: #99a0fe;
-  --ifm-color-primary-lightest: #a1a7fe;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-} */
 
 /* Skin rarity colors */
 .tier-common {
@@ -61,11 +40,11 @@
   color: #5e98d9 !important;
 }
 .tier-rare {
-  color: #4b69ff	!important;
+  color: #4b69ff !important;
 }
 .tier-mythical {
-  color: #D32F2F	!important;
+  color: #d32f2f !important;
 }
 .tier-legendary {
-  color: #d32ce6	!important;
+  color: #d32ce6 !important;
 }

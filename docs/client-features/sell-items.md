@@ -1,10 +1,10 @@
 ---
 sidebar_position: 9
-description: Explore the Sell Items function in Lotus Mu, simplifying the process of promoting your items for sale. Learn how to use the Sell Items function by holding the Shift Key and Right Clicking on your item, effortlessly sending a global message. Discover the convenience of the Trade Window, where you can view all items posted for sale in one convenient location. Please note the cooldown feature, allowing you to utilize the Sell Items function once every 5 minutes. Enhance your trading experience in Lotus Mu with this efficient and user-friendly feature.
+description: Explore the Sell Items function in Mu Mayhem, simplifying the process of promoting your items for sale. Learn how to use the Sell Items function by holding the Shift Key and Right Clicking on your item, effortlessly sending a global message. Discover the convenience of the Trade Window, where you can view all items posted for sale in one convenient location. Please note the cooldown feature, allowing you to utilize the Sell Items function once every 5 minutes. Enhance your trading experience in Mu Mayhem with this efficient and user-friendly feature.
 keywords:
   [
     Sell Items,
-    Lotus Mu,
+    Mu Mayhem,
     Trade Window,
     Global Messages,
     Item Promotion,

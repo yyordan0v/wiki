@@ -85,7 +85,7 @@ The **Jewel of Harmony** is a single-use item, rendering it irretrievable for an
 
 The **Harmony Option** has the potential for further enhancement through the utilization of either [Low Refining Stones](/items/jewels/regular-jewels/refining-stones) or [High Refining Stones](/items/jewels/regular-jewels/refining-stones). These refining stones serve as catalysts for elevating the power and effectiveness of the **Jewel of Harmony Option**.
 
-Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/refining-stones) or the [High Refining Stone](/items/jewels/regular-jewels/refining-stones), this upgrade process enables you to amplify the benefits and advantages conferred by the **Jewel of Harmony Option**, allowing for a more formidable presence in the realms of **Lotus Mu**.
+Whether you opt for the [Low Refining Stone](/items/jewels/regular-jewels/refining-stones) or the [High Refining Stone](/items/jewels/regular-jewels/refining-stones), this upgrade process enables you to amplify the benefits and advantages conferred by the **Jewel of Harmony Option**, allowing for a more formidable presence in the realms of **Mu Mayhem**.
 
 ## Harmony Options Removal
 

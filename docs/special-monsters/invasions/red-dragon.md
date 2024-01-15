@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Red Dragon Invasion
 
-In the mystical world of **Lotus Mu**, a cataclysmic event has unfolded, plunging the realm into darkness and unleashing chaos upon its inhabitants. The once serene and peaceful lands have been invaded by the fearsome **Red Dragons**, heralding an era of destruction and uncertainty. Today, we delve into the heart of this unprecedented crisis and explore the consequences it has wrought upon the world of **Lotus Mu**.
+In the mystical world of **Mu Mayhem**, a cataclysmic event has unfolded, plunging the realm into darkness and unleashing chaos upon its inhabitants. The once serene and peaceful lands have been invaded by the fearsome **Red Dragons**, heralding an era of destruction and uncertainty. Today, we delve into the heart of this unprecedented crisis and explore the consequences it has wrought upon the world of **Mu Mayhem**.
 
 ![Red Dragon](/img/monsters/special/invasions/red-dragon.jpg)
 

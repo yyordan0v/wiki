@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-description: Immerse yourself in the heart-pounding Mayhem Event in Lotus Mu, where warriors engage in a relentless free-for-all battle. Learn how to participate, the diverse Mayhem formats tailored to different classes, and the rewards that await the ultimate victor.
+description: Immerse yourself in the heart-pounding Mayhem Event in Mu Mayhem, where warriors engage in a relentless free-for-all battle. Learn how to participate, the diverse Mayhem formats tailored to different classes, and the rewards that await the ultimate victor.
 keywords:
   [
     Mayhem,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     Mayhem Event,
     PvP Event,
@@ -20,9 +20,9 @@ keywords:
 
 # Mayhem
 
-## Unleash the Mayhem in Lotus Mu!
+## Unleash the Mayhem in Mu Mayhem!
 
-Welcome to the heart-pounding world of the **Mayhem** Event in **Lotus Mu**. This is where warriors from all corners of the realm gather to engage in a relentless clash of strength, strategy, and skill.
+Welcome to the heart-pounding world of the **Mayhem** Event in **Mu Mayhem**. This is where warriors from all corners of the realm gather to engage in a relentless clash of strength, strategy, and skill.
 
 The **Mayhem** is not for the faint of heart—it's a fast-paced battle where every move counts, every kill matters, and only the strongest will survive.
 

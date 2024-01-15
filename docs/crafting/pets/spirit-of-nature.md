@@ -76,6 +76,6 @@ This customization feature adds a personal touch and allows players to create a 
 
 :::tip
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+You learn more on Mu Mayhem Unique **Skin System** by going into our [Skin System](/skin-system) section.
 
 :::

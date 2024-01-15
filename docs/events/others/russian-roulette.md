@@ -1,10 +1,10 @@
 ---
 sidebar_position: 7
-description: Join the electrifying Russian Roulette Event in Lotus Mu, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Lilac Candy Box and experience the daring showdown.
+description: Join the electrifying Russian Roulette Event in Mu Mayhem, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Lilac Candy Box and experience the daring showdown.
 keywords:
   [
     Russian Roulette,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     GM-triggered Event,
     Nerve Challenge,
@@ -19,7 +19,7 @@ keywords:
 
 # Russian Roulette
 
-Experience an electrifying game of chance and nerve in the heart of the gaming realm with the **Russian Roulette** Event in Lotus Mu.
+Experience an electrifying game of chance and nerve in the heart of the gaming realm with the **Russian Roulette** Event in Mu Mayhem.
 
 This **GM-triggered** event offers players an intense and unpredictable challenge that keeps everyone on the edge of their seats. Here's everything you need to know about this daring event:
 
@@ -67,7 +67,7 @@ As the interactions continue and shots are fired, only the **luckiest player** w
 
 :::
 
-Participate in the **Russian Roulette** Event in Lotus Mu for a heart-pounding thrill that combines daring, luck, and strategy. Will you be the last player left standing, or will fate test your luck in this exhilarating showdown?
+Participate in the **Russian Roulette** Event in Mu Mayhem for a heart-pounding thrill that combines daring, luck, and strategy. Will you be the last player left standing, or will fate test your luck in this exhilarating showdown?
 
 ## Reward
 

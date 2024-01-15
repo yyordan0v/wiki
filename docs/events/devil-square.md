@@ -79,7 +79,7 @@ Detailed information on the crafting process you can find in the [Devil Square I
 
 ### Preparation
 
-Prior to the start of the **Devil Square**, the following messages start to appear in the Lotus Mu Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** located in [Yoskreth](/maps/yoskreth).
+Prior to the start of the **Devil Square**, the following messages start to appear in the Mu Mayhem Server: "Devil Square will close in 5 (4,3,2,1) minute (s) ". As soon as you see such a message, go with [Devil Square Invitation](/crafting/invitations/devil-square-invitation) to the **Charon** located in [Yoskreth](/maps/yoskreth).
 
 ![Charon](/img/events/ds/charon.jpg)
 

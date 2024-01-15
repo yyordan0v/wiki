@@ -7,11 +7,11 @@ import TabItem from '@theme/TabItem';
 
 # Golden Dragon Invasion
 
-Prepare to be enthralled by the mythical realm of **Lotus Mu** as we delve into the thrilling phenomenon of the **Golden Dragon Invasion**. In this article, we embark on a journey through a land shrouded in mystery, where fearsome dragons wield immense power and treasure awaits those bold enough to face their fiery wrath. Join us as we uncover the secrets, challenges, and rewards that await adventurers who dare to confront the **Golden Dragon Invasion** in the immersive world of **Lotus Mu**.
+Prepare to be enthralled by the mythical realm of **Mu Mayhem** as we delve into the thrilling phenomenon of the **Golden Dragon Invasion**. In this article, we embark on a journey through a land shrouded in mystery, where fearsome dragons wield immense power and treasure awaits those bold enough to face their fiery wrath. Join us as we uncover the secrets, challenges, and rewards that await adventurers who dare to confront the **Golden Dragon Invasion** in the immersive world of **Mu Mayhem**.
 
 ## Place of Invasion
 
-Unleashing its fury across multiple kingdoms simultaneously, the **Golden Dragon Invasion** ravages the lands with relentless force. In the forthcoming section of this article, we will explore in detail the numerous locations that fall victim to this devastating assault. Brace yourself as we delve into the specifics of the kingdoms targeted by the **Golden Dragon Invasion**, revealing the breadth and scope of this cataclysmic event in **Lotus Mu**.
+Unleashing its fury across multiple kingdoms simultaneously, the **Golden Dragon Invasion** ravages the lands with relentless force. In the forthcoming section of this article, we will explore in detail the numerous locations that fall victim to this devastating assault. Brace yourself as we delve into the specifics of the kingdoms targeted by the **Golden Dragon Invasion**, revealing the breadth and scope of this cataclysmic event in **Mu Mayhem**.
 
 ## Schedule
 
@@ -49,7 +49,7 @@ _Box of Kundun +1_
 
   <TabItem value="golden-titan" label="Golden Titan">
 
-The **Golden Titan**, a towering behemoth of immense strength, strikes fear into the hearts of all who dare to challenge it, making for a formidable encounter in the world of **Lotus Mu**.
+The **Golden Titan**, a towering behemoth of immense strength, strikes fear into the hearts of all who dare to challenge it, making for a formidable encounter in the world of **Mu Mayhem**.
 
 ![Golden Titan](/img/monsters/special/golden/titan.jpg)
 
@@ -63,7 +63,7 @@ _Golden Soldier_
 
 #### Location
 
-The menacing **Golden Titan** launches its relentless assault upon the serene lands of **Lotus Mu**, instilling chaos and fear in its wake. You can find him on the following map:
+The menacing **Golden Titan** launches its relentless assault upon the serene lands of **Mu Mayhem**, instilling chaos and fear in its wake. You can find him on the following map:
 
 - [Devias](/maps/devias)
 
@@ -80,7 +80,7 @@ By slaying those creatures a player will be rewarded as follows:
 
   <TabItem value="golden-dragon" label="Golden Dragon">
 
-The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies of **Lotus Mu** with its immense power and deadly breath of fire.
+The **Golden Dragon**, a majestic and awe-inspiring creature, commands the skies of **Mu Mayhem** with its immense power and deadly breath of fire.
 
 ![Golden Dragon](/img/monsters/special/golden/dragon.jpg)
 
@@ -120,7 +120,7 @@ _Golden Vepar_
 
 #### Location
 
-With relentless determination, the **Golden Lizard King** initiates an unyielding onslaught upon the tranquil realms of **Lotus Mu**, sowing chaos and terror in its path. Seek out this formidable foe on the designated map below:
+With relentless determination, the **Golden Lizard King** initiates an unyielding onslaught upon the tranquil realms of **Mu Mayhem**, sowing chaos and terror in its path. Seek out this formidable foe on the designated map below:
 
 - [Atlans](/maps/atlans)
 
@@ -151,7 +151,7 @@ _Golden Wheel_
 
 #### Location
 
-The relentless **Golden Tantal** unleashes chaos and terror upon **Lotus Mu**, inviting players to confront this formidable foe on the designated map.
+The relentless **Golden Tantal** unleashes chaos and terror upon **Mu Mayhem**, inviting players to confront this formidable foe on the designated map.
 
 - [Tarkan](/maps/tarkan)
 

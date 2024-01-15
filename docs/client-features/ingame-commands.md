@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-description: Explore a comprehensive list of in-game commands in Lotus Mu, providing details on how to use commands for character movement, messaging, attribute points, party creation, and participation in various in-game events. Access the list conveniently through the Especial Menu and enhance your gameplay experience.
+description: Explore a comprehensive list of in-game commands in Mu Mayhem, providing details on how to use commands for character movement, messaging, attribute points, party creation, and participation in various in-game events. Access the list conveniently through the Especial Menu and enhance your gameplay experience.
 keywords:
   [
     In-game Commands,
-    Lotus Mu,
+    Mu Mayhem,
     Character Movement,
     Global Messaging,
     Attribute Points,
@@ -21,7 +21,7 @@ keywords:
 
 # In-game Commands
 
-In this article We will list all the available **in-game commands** in Lotus Mu.
+In this article We will list all the available **in-game commands** in Mu Mayhem.
 
 Please explore the following table for details.
 

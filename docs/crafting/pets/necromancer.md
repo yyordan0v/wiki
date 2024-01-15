@@ -76,6 +76,6 @@ Whether adorned in regal attire or draped in eerie darkness, players can display
 
 :::tip
 
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
+You learn more on Mu Mayhem Unique **Skin System** by going into our [Skin System](/skin-system) section.
 
 :::

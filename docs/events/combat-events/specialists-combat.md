@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-description: Engage in fierce 1v1 battles and showcase your combat skills in the Specialists' Combat Event in Lotus Mu. Learn about the event mechanics, how to participate, and the rewarding journey to become the final winner. Ready to prove your prowess?
+description: Engage in fierce 1v1 battles and showcase your combat skills in the Specialists' Combat Event in Mu Mayhem. Learn about the event mechanics, how to participate, and the rewarding journey to become the final winner. Ready to prove your prowess?
 keywords:
   [
     Specialists' Combat,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     1v1 Battles,
     Combat Skills,
@@ -19,7 +19,7 @@ keywords:
 
 # Specialists' Combat
 
-The **Specialists' Combat Event** in Lotus Mu is an exciting opportunity for **warriors from all classes** to showcase their combat skills.
+The **Specialists' Combat Event** in Mu Mayhem is an exciting opportunity for **warriors from all classes** to showcase their combat skills.
 
 This event features intense **1v1 battles** where participants engage in **direct elimination matches**, testing their prowess against opponents from various classes.
 
@@ -91,6 +91,6 @@ To take part in the Specialists' Combat Event, follow these steps:
 
 :::
 
-The **Specialists' Combat** Event is a thrilling opportunity to demonstrate your **individual combat prowess**, earn rewards, and stand out as a skilled fighter in the realm of **Lotus Mu**.
+The **Specialists' Combat** Event is a thrilling opportunity to demonstrate your **individual combat prowess**, earn rewards, and stand out as a skilled fighter in the realm of **Mu Mayhem**.
 
 Don't miss out on this chance to prove your mettle and compete against the **best warriors** from various classes!

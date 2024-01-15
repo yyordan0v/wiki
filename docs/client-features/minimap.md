@@ -1,10 +1,10 @@
 ---
 sidebar_position: 10
-description: Explore the versatile Minimap feature in Lotus Mu, designed to provide precise information about your character's location on the map. Learn how to activate the Full Screen Minimap using the TAB key, gaining a comprehensive view of the current map and easily locating your character and monster spawns. Customize the Minimap's appearance, transparency, and position, adding flexibility to your gameplay experience.
+description: Explore the versatile Minimap feature in Mu Mayhem, designed to provide precise information about your character's location on the map. Learn how to activate the Full Screen Minimap using the TAB key, gaining a comprehensive view of the current map and easily locating your character and monster spawns. Customize the Minimap's appearance, transparency, and position, adding flexibility to your gameplay experience.
 keywords:
   [
     Minimap,
-    Lotus Mu,
+    Mu Mayhem,
     Character Location,
     3D Camera,
     Zoom In,
@@ -21,7 +21,7 @@ keywords:
 
 # Minimap
 
-**Lotus Mu** boasts an incredibly versatile **minimap** feature, primarily designed to provide players with precise information about their character's **location** on the map.
+**Mu Mayhem** boasts an incredibly versatile **minimap** feature, primarily designed to provide players with precise information about their character's **location** on the map.
 
 Additionally, the minimap interface offers the functionality to initiate or halt the **3D Camera** feature, adding further flexibility to the gameplay experience.
 

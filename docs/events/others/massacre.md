@@ -1,10 +1,10 @@
 ---
 sidebar_position: 9
-description: Engage in the adrenaline-pumping Massacre Event in Lotus Mu, a GM-triggered PvP competition where 20 players battle in a free-for-all. Learn how to participate, the rules and objectives, event specifications, and the rewards for top placements.
+description: Engage in the adrenaline-pumping Massacre Event in Mu Mayhem, a GM-triggered PvP competition where 20 players battle in a free-for-all. Learn how to participate, the rules and objectives, event specifications, and the rewards for top placements.
 keywords:
   [
     Massacre Event,
-    Lotus Mu,
+    Mu Mayhem,
     Mu Online,
     GM-Triggered Event,
     PvP Competition,
@@ -16,7 +16,7 @@ keywords:
 
 # Massacre Event
 
-The **Massacre Event** is a thrilling **PvP competition** that brings intense battles and fierce rivalry to the world of **Lotus Mu**.
+The **Massacre Event** is a thrilling **PvP competition** that brings intense battles and fierce rivalry to the world of **Mu Mayhem**.
 
 This **GM-triggered** event offers players the chance to engage in a **20-player** free-for-all brawl where the goal is to **accumulate points** by defeating opponents and outlasting the competition.
 
