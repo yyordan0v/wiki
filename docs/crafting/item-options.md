@@ -31,7 +31,7 @@ Before you add an **Item Option** to your item, you need to ensure that you have
 - [Jewel of Bless Bundle](/items/jewels/regular-jewels/jewel-of-bless)
 - [Jewel of Soul Bundle](/items/jewels/regular-jewels/jewel-of-soul)
 - [Jewel of Creation Bundle](/items/jewels/regular-jewels/jewel-of-creation)
-- **Excellent item** that has been upgraded to a **minimum of +4**
+- **Excellent item** that has been upgraded to a **minimum of +13 (+4 additional damage/defense)**
 - 10,000,000 Zen
 
 ![Item Options](/img/crafting/item-options.png)
