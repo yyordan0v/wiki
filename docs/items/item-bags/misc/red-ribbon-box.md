@@ -28,7 +28,7 @@ To obtain the **Red Ribbon Box**, adventurers must complete [quests](/gameplay-s
 
 Another way to obtain the **Red Ribbon Box** is to win in one of the following Events:
 
-- [Devias Lottery](/events/others/yoskreth-lottery)
+- [Devias Lottery](/events/others/devias-lottery)
 - [Devias Drop](/events/others/devias-drop)
 - [Race Event](/events/others/race)
 - [Massacre Event](/events/others/massacre)
