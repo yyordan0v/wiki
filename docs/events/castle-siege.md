@@ -683,6 +683,6 @@ Regular players who **do not belong** to the Castle Lord's guild **may be restri
 
 The Castle Lord can charge an **entrance fee** through the **Guard NPC** or restrict players from entering the Land of Trials.
 
-Price passage can vary from **0** to **1 billion Zen**.
+Price passage can vary from **0** to **300,000 Zen**.
 
 ![Land of Trials Entrance](/img/events/cs/lotenter.jpg)
