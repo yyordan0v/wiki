@@ -55,9 +55,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/mayhem-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
-        title: 'Mu Mayhem Wiki',
+        // title: 'Mu Mayhem Wiki',
         logo: {
           alt: 'Mu Mayhem Logo',
           src: 'img/logo.svg',
