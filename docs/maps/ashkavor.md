@@ -4,11 +4,11 @@ sidebar_position: 25
 
 # Ashkavor
 
-Prepare to explore the untamed wilderness of **Ashkavor**, an **exclusive** map found solely within the immersive world of **Mu Mayhem**. This captivating realm, reminiscent of a vast savannah or dense jungle, is home to a myriad of fierce and extraordinary creatures.
+Prepare to explore the untamed wilderness of **Ashkavor**, an **exclusive** map found solely within the immersive world of **MU Mayhem**. This captivating realm, reminiscent of a vast savannah or dense jungle, is home to a myriad of fierce and extraordinary creatures.
 
 As adventurers embark on their journey through this untamed landscape, they will encounter not only formidable monsters but also a multitude of [special beings](/category/others) whose defeat yields valuable rewards.
 
-Brace yourself for an exhilarating expedition through the wilds of **Ashkavor**, where danger and riches await those daring enough to face its challenges in **Mu Mayhem**.
+Brace yourself for an exhilarating expedition through the wilds of **Ashkavor**, where danger and riches await those daring enough to face its challenges in **MU Mayhem**.
 
 ## Monsters in Ashkavor
 

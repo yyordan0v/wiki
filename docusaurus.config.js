@@ -7,8 +7,8 @@ const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki • Mu Mayhem',
-  tagline: 'Mu Mayhem Wiki: Your Go-To Destination for Game Mechanics, Tips, and Tricks',
+  title: 'Wiki • MU Mayhem',
+  tagline: 'MU Mayhem Wiki: Your Go-To Destination for Game Mechanics, Tips, and Tricks',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -57,16 +57,16 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.jpg',
       navbar: {
-        // title: 'Mu Mayhem Wiki',
+        // title: 'MU Mayhem Wiki',
         logo: {
-          alt: 'Mu Mayhem Logo',
+          alt: 'MU Mayhem Logo',
           src: 'img/logo.svg',
           srcDark: 'img/logo-dark.svg',
         },
         items: [
           {
             href: 'https://mayhem.mu',
-            label: 'Mu Mayhem',
+            label: 'MU Mayhem',
             position: 'right',
           },
         ],
@@ -75,12 +75,12 @@ const config = {
       footer: {
         style: 'dark',
         logo: {
-          alt: 'Mu Mayhem Logo',
+          alt: 'MU Mayhem Logo',
           src: 'img/logo-dark.svg',
           href: 'https://mayhem.mu',
           height: 100,
         },
-        copyright: `Copyright © ${new Date().getFullYear()} Mu Mayhem Wiki.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MU Mayhem Wiki.`,
       },
       prism: {
         theme: lightTheme,
@@ -133,7 +133,7 @@ export default {
   themeConfig: {
     // Declare some <meta> tags
     metadata: [
-      {name: 'keywords', content: 'Mu Online private server, Private server for Mu Online, Mu Mayhem private server, Mu Online gameplay guide, Mu Mayhem getting started, Mu Online beginners guide, Mu Mayhem monsters, Mu Online epic invasions, Monster guide for Mu Online, Mu Mayhem items guide, Mu Online equipment tiers, Rare loot in Mu Online, Mu Online enchantment guide, Crafting systems in Mu Mayhem, Optimal enchantment strategies, Mu Online in-game events, Mu Mayhem event guide, Challenges and rewards in Mu Online, Mu Mayhem Skin System, Character customization in Mu Online, Visual appearance in Mu Mayhem, Mu Mayhem game client features, Mu Online client tools, Immersive gameplay in Mu Mayhem, Mu Mayhem documentation search, Mu Online wiki search, Efficient search in Mu Mayhem documentation, Mu Mayhem community forums, Mu Online player experiences, Inclusive gaming environment in Mu Mayhem, Mu Mayhem Discord, Mu Online Facebook community, Social media for Mu Mayhem, Improve Mu Mayhem documentation, File documentation issues, Provide feedback for Mu Mayhem wiki'}
+      {name: 'keywords', content: 'Mu Online private server, Private server for Mu Online, MU Mayhem private server, Mu Online gameplay guide, MU Mayhem getting started, Mu Online beginners guide, MU Mayhem monsters, Mu Online epic invasions, Monster guide for Mu Online, MU Mayhem items guide, Mu Online equipment tiers, Rare loot in Mu Online, Mu Online enchantment guide, Crafting systems in MU Mayhem, Optimal enchantment strategies, Mu Online in-game events, MU Mayhem event guide, Challenges and rewards in Mu Online, MU Mayhem Skin System, Character customization in Mu Online, Visual appearance in MU Mayhem, MU Mayhem game client features, Mu Online client tools, Immersive gameplay in MU Mayhem, MU Mayhem documentation search, Mu Online wiki search, Efficient search in MU Mayhem documentation, MU Mayhem community forums, Mu Online player experiences, Inclusive gaming environment in MU Mayhem, MU Mayhem Discord, Mu Online Facebook community, Social media for MU Mayhem, Improve MU Mayhem documentation, File documentation issues, Provide feedback for MU Mayhem wiki'}
     ],
     headTags: [
       // Declare a <link> preconnect tag
@@ -153,7 +153,7 @@ export default {
         innerHTML: JSON.stringify({
           '@context': 'https://mayhem.mu/',
           '@type': 'Organization',
-          name: 'Mu Mayhem',
+          name: 'MU Mayhem',
           url: 'https://wiki.mayhem.mu/',
           logo: 'https://wiki.mayhem.mu/img/logo.svg',
         }),

@@ -4,7 +4,7 @@ sidebar_position: 18
 
 # Fire Flame Ghost
 
-This article explores the **Fire Flame Ghost** - a special monster in the **Mu Mayhem** realm.
+This article explores the **Fire Flame Ghost** - a special monster in the **MU Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 

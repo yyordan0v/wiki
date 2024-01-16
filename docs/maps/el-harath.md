@@ -4,9 +4,9 @@ sidebar_position: 23
 
 # El'Harath
 
-Step into the realm of **El'Harath**, an **exclusive** map found only in the expansive world of **Mu Mayhem**. Within this **unique** domain, players will encounter not only fierce monsters but also a multitude of [special creatures](/category/others) that hold the key to valuable rewards.
+Step into the realm of **El'Harath**, an **exclusive** map found only in the expansive world of **MU Mayhem**. Within this **unique** domain, players will encounter not only fierce monsters but also a multitude of [special creatures](/category/others) that hold the key to valuable rewards.
 
-As adventurers navigate through this treacherous landscape, they must face formidable foes and seize every opportunity to claim the riches that await those brave enough to conquer the challenges of **El'Harath**. Prepare yourself for an epic quest unlike any other, where danger and fortune collide in this extraordinary corner of **Mu Mayhem**.
+As adventurers navigate through this treacherous landscape, they must face formidable foes and seize every opportunity to claim the riches that await those brave enough to conquer the challenges of **El'Harath**. Prepare yourself for an epic quest unlike any other, where danger and fortune collide in this extraordinary corner of **MU Mayhem**.
 
 ## Monsters in El'Harath
 

@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Mine Driller
 
-This article explores the **Mine Driller** - a special monster in the **Mu Mayhem** realm.
+This article explores the **Mine Driller** - a special monster in the **MU Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
 

@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-description: Immerse yourself in the intriguing Pandora Event in Mu Mayhem, a test of strategy and cunning where players vie for the cursed status from the mysterious Pandora Box. Learn how to participate, the rules of the event, and the rewards that await the ultimate victor.
+description: Immerse yourself in the intriguing Pandora Event in MU Mayhem, a test of strategy and cunning where players vie for the cursed status from the mysterious Pandora Box. Learn how to participate, the rules of the event, and the rewards that await the ultimate victor.
 keywords:
   [
     Pandora,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Pandora Event,
     Cursed Status,
@@ -19,7 +19,7 @@ keywords:
 
 ## Diving into Mystery: Pandora Event
 
-Prepare for an event that will test your wits, strategy, and quick decision-making in the world of **Mu Mayhem**.
+Prepare for an event that will test your wits, strategy, and quick decision-making in the world of **MU Mayhem**.
 
 The **Pandora** Event offers an intriguing challenge that will keep you on your toes as you strive to emerge victorious amidst a unique blend of strategy and chaos.
 
@@ -70,7 +70,7 @@ It's a test of strategy, adaptability, and nerve.
 
 Are you skilled enough to elude the clutches of your pursuers and hold onto the curse until the final moments? Or will you engage in fierce battles to acquire the curse and ensure your place at the pinnacle of this event's victors?
 
-The **Pandora** Event in **Mu Mayhem** is a true test of cunning and adaptability. Embrace the challenge, employ shrewd strategies, and engage in tactical skirmishes to secure your place as the one who claims the coveted curse and emerges triumphant in this exhilarating competition.
+The **Pandora** Event in **MU Mayhem** is a true test of cunning and adaptability. Embrace the challenge, employ shrewd strategies, and engage in tactical skirmishes to secure your place as the one who claims the coveted curse and emerges triumphant in this exhilarating competition.
 
 :::info
 

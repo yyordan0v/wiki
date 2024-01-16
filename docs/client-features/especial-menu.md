@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-description: Explore the Especial Menu in Mu Mayhem, an exclusive feature offering players valuable resources, event and invasion timers, rankings, and more. Learn how to access the Especial Menu and utilize its functionality for an enhanced gaming experience.
+description: Explore the Especial Menu in MU Mayhem, an exclusive feature offering players valuable resources, event and invasion timers, rankings, and more. Learn how to access the Especial Menu and utilize its functionality for an enhanced gaming experience.
 keywords:
   [
     Especial Menu,
-    Mu Mayhem,
+    MU Mayhem,
     M-button,
     Mu Helper Play button,
     Event Timers,

@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Dead Showbell
 
-This article explores the **Dead Showbell** - a special monster in the **Mu Mayhem** realm.
+This article explores the **Dead Showbell** - a special monster in the **MU Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who dare to cross paths with this formidable beast.
 

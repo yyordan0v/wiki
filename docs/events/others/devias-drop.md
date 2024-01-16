@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-description: Participate in the Devias Drop Event in Mu Mayhem, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
+description: Participate in the Devias Drop Event in MU Mayhem, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
 keywords:
   [
     Devias Drop,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Recurring Event,
     Valuable Items,
@@ -22,7 +22,7 @@ keywords:
 
 # Devias Drop
 
-The **Devias Drop** Event is a recurring event in **Mu Mayhem** that provides players with the opportunity to acquire valuable items.
+The **Devias Drop** Event is a recurring event in **MU Mayhem** that provides players with the opportunity to acquire valuable items.
 
 Taking place **twice a day**, this event occurs at **02:45** and **14:45** within the **capital city** of [Devias](/maps/devias). Prior to the event's commencement, a **system notice** will be broadcasted to all online players, informing them about the upcoming event.
 
@@ -48,7 +48,7 @@ Throughout the event, the following items will be available for players to pick 
 | :-----------------------------------------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png) | ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) | ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) | ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png) |
 
-These items hold the potential for unique and exciting rewards that can aid players in their journey through the world of **Mu Mayhem**.
+These items hold the potential for unique and exciting rewards that can aid players in their journey through the world of **MU Mayhem**.
 
 Participating in the **Devias Drop** Event provides an opportunity for players to acquire items that would otherwise require significant effort or resources. Whether you're a seasoned adventurer or a newcomer to the realm, this event offers a chance to enhance your inventory and progress in the game.
 

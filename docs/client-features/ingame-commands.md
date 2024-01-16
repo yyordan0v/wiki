@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-description: Explore a comprehensive list of in-game commands in Mu Mayhem, providing details on how to use commands for character movement, messaging, attribute points, party creation, and participation in various in-game events. Access the list conveniently through the Especial Menu and enhance your gameplay experience.
+description: Explore a comprehensive list of in-game commands in MU Mayhem, providing details on how to use commands for character movement, messaging, attribute points, party creation, and participation in various in-game events. Access the list conveniently through the Especial Menu and enhance your gameplay experience.
 keywords:
   [
     In-game Commands,
-    Mu Mayhem,
+    MU Mayhem,
     Character Movement,
     Global Messaging,
     Attribute Points,
@@ -12,7 +12,7 @@ keywords:
     Join Events,
     Quiz Event,
     Mayhem Event,
-    Mayhem King Event,
+    The Mayhem King Event,
     Battle Soccer,
     Guild War,
     Event Participation,
@@ -21,7 +21,7 @@ keywords:
 
 # In-game Commands
 
-In this article We will list all the available **in-game commands** in Mu Mayhem.
+In this article We will list all the available **in-game commands** in MU Mayhem.
 
 Please explore the following table for details.
 
@@ -54,7 +54,7 @@ You can also check this list of commands while playing through the [Especial Men
 | `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                     |
 | `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                        |
 | `/mayhem`               | Join the [Mayhem](/events/combat-events/mayhem) Event.                          |
-| `/king`                 | Seize the throne in the [Mayhem King](/events/combat-events/mayhem-king) Event. |
+| `/king`                 | Seize the throne in [The Mayhem King](/events/combat-events/mayhem-king) Event. |
 | `/join`                 | Join in an Event.                                                               |
 | `/go`                   | Join Events.                                                                    |
 

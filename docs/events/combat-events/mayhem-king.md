@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-description: Engage in the epic Mayhem King event in Mu Online, a fierce guild-based combat for supremacy in the city of Devias. Learn how to participate, seize the tomb, and reap the rewards for your guild and individual achievements.
+description: Engage in the epic The Mayhem King event in Mu Online, a fierce guild-based combat for supremacy in the city of Devias. Learn how to participate, seize the tomb, and reap the rewards for your guild and individual achievements.
 keywords:
   [
-    Mayhem King,
+    The Mayhem King,
     Mu Online,
     Guild Event,
     Devias,
@@ -17,15 +17,15 @@ keywords:
   ]
 ---
 
-# Mayhem King
+# The Mayhem King
 
-**Mayhem King** is an epic combat event that pits **guilds** against each other in a fierce battle for supremacy. This thrilling event places great importance on individual and guild performance, but the most important objective is holding the tomb at the event's conclusion.
+**The Mayhem King** is an epic combat event that pits **guilds** against each other in a fierce battle for supremacy. This thrilling event places great importance on individual and guild performance, but the most important objective is holding the tomb at the event's conclusion.
 
-The battleground for the **Mayhem King** event is none other than the capital city of [Devias](/maps/devias) itself. This sprawling city becomes the epicenter of intense combat as guilds vie for control and supremacy.
+The battleground for **The Mayhem King** event is none other than the capital city of [Devias](/maps/devias) itself. This sprawling city becomes the epicenter of intense combat as guilds vie for control and supremacy.
 
 ## How to Participate
 
-To take part in the Mayhem King Event, follow these steps:
+To take part in The Mayhem King Event, follow these steps:
 
 1. Stay vigilant for **system notices** indicating the commencement of the event.
 
@@ -33,7 +33,7 @@ To take part in the Mayhem King Event, follow these steps:
 
    _System Notice_
 
-2. Engage with **Reimond Payne** in [Devias](/maps/devias) so you can go the battle arena dedicated for the **Mayhem King** Event.
+2. Engage with **Reimond Payne** in [Devias](/maps/devias) so you can go the battle arena dedicated for **The Mayhem King** Event.
 
    ![Reimond Payne](/img/events/king/king-npc.jpg)
 
@@ -41,7 +41,7 @@ To take part in the Mayhem King Event, follow these steps:
 
 3. A System Notice will mark the beginning of the Event.
 
-   ![Mayhem King Event](/img/events/king/king-start.jpg)
+   ![The Mayhem King Event](/img/events/king/king-start.jpg)
 
 :::info
 
@@ -57,7 +57,7 @@ Once the event starts, the priority is to seize the **tomb**. You can do this by
 
 When you take the **tomb** a System Notice will notify the server that indeed your guild now holds the Tomb.
 
-![Mayhem King](/img/events/king/king-throne-2.jpg)
+![The Mayhem King](/img/events/king/king-throne-2.jpg)
 
 :::tip
 
@@ -67,7 +67,7 @@ You can move your character **freely** and do whatever you like, but beware that
 
 ## Victory and Rewards
 
-The result of the **Mayhem King** event is determined by whoever guild **possesses the Tomb** at its conclusion.
+The result of **The Mayhem King** event is determined by whoever guild **possesses the Tomb** at its conclusion.
 
 ### Guild Rewards
 
@@ -108,4 +108,4 @@ During the event additional rankigs are being held:
 
 ## Conclusion
 
-In this grand event, alliances are forged, rivalries are intensified, and only **one guild** can claim the Tomb as the undisputed **Mayhem King**. Will your guild rise to the occasion and seize the ultimate prize in this monumental battle for dominance?
+In this grand event, alliances are forged, rivalries are intensified, and only **one guild** can claim the Tomb as the undisputed **The Mayhem King**. Will your guild rise to the occasion and seize the ultimate prize in this monumental battle for dominance?

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Lorencia
 
-**Lorencia**, a vast and flat map situated at the center of MU, marks the starting point for all characters in **Mu Mayhem**.
+**Lorencia**, a vast and flat map situated at the center of MU, marks the starting point for all characters in **MU Mayhem**.
 
 Within this realm, one will encounter the game's least formidable creatures, alongside essential items crucial for overcoming lower levels, rendering it an ideal destination for adventurers at early stages (levels 1-20).
 

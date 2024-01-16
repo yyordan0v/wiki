@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
-description: Explore the Blood Castle event in Mu Mayhem, where players risk their lives to save the Archangel. Learn about the entry requirements, Blood Castle rules, gameplay, and the rewarding system. Join the fight against Kundun's forces and earn valuable rewards.
+description: Explore the Blood Castle event in MU Mayhem, where players risk their lives to save the Archangel. Learn about the entry requirements, Blood Castle rules, gameplay, and the rewarding system. Join the fight against Kundun's forces and earn valuable rewards.
 keywords:
   [
     Blood Castle,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Archangel,
     Kundun,
@@ -25,7 +25,7 @@ keywords:
 
 # Blood Castle
 
-Risk your life to **Save the Archangel**. One of the strongest warriors in **Mu Mayhem**, the Archangel, has secretly been laying watch over the lands that he has sworn to protect. As **Kundun's** presence approaches, the **Archangel** has been warding off all the monsters trying to invade **Mu Mayhem**. But alas, our **Guardian Archangel** can not fend on his own forever.
+Risk your life to **Save the Archangel**. One of the strongest warriors in **MU Mayhem**, the Archangel, has secretly been laying watch over the lands that he has sworn to protect. As **Kundun's** presence approaches, the **Archangel** has been warding off all the monsters trying to invade **MU Mayhem**. But alas, our **Guardian Archangel** can not fend on his own forever.
 
 ## Entry Requirements
 
@@ -100,7 +100,7 @@ Detailed information on the crafting process you can find in the [Invisibility C
 
 ### Preparation
 
-Prior the **Blood Castle** start, the following message appear in Mu Mayhem: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found in [Devias](/maps/devias).
+Prior the **Blood Castle** start, the following message appear in MU Mayhem: "5 (4,3,2,1) minute (s) left before entry into Blood Castle". As soon as you see this message, go with the [Invisibility Cloak](/crafting/invitations/invisibility-cloak) to the **Messenger of Archangel** which can be found in [Devias](/maps/devias).
 
 Interacting with the **Messenger of Archangel** will open a table in which you need to select the **appropriate level** of Blood Castle for your character (The [Invisibility Cloak](/crafting/invitations/invisibility-cloak) in your inventory **should be the same level**).
 If you did everything correctly, then you will be taken to the **Blood Castle**.
@@ -111,7 +111,7 @@ _Messenger Of Archangel_
 
 ### Blood Castle Quest
 
-After teleporting to **Blood Castle**, talk to the wounded **Archangel**. He will tell you the story of his fall and the next coming of the monsters, which you have to defeat. The **Archangel** will challenge you to retrieve his holy weapon so that he can join the heroes of **Mu Mayhem** in the fight against the troops of [Kundun](/special-monsters/bosses/kundun).
+After teleporting to **Blood Castle**, talk to the wounded **Archangel**. He will tell you the story of his fall and the next coming of the monsters, which you have to defeat. The **Archangel** will challenge you to retrieve his holy weapon so that he can join the heroes of **MU Mayhem** in the fight against the troops of [Kundun](/special-monsters/bosses/kundun).
 
 :::info
 

@@ -18,7 +18,7 @@ Embark on your journey to masterful item enhancement, and unleash the full poten
 
 :::tip
 
-Alternatively, in the realm of Mu Mayhem, the game administration has introduced the option to acquire the **Jewel of Bless** or **Jewel of Bless Bundles** by completing [quests](/gameplay-systems/quest-system).
+Alternatively, in the realm of MU Mayhem, the game administration has introduced the option to acquire the **Jewel of Bless** or **Jewel of Bless Bundles** by completing [quests](/gameplay-systems/quest-system).
 
 :::
 

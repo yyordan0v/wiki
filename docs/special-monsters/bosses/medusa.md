@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Medusa
 
-**Medusa** reigns as one of the most formidable bosses within the realms of **Mu Mayhem**, with her lair nestled deep within [The Citadel](/maps/the-citadel).
+**Medusa** reigns as one of the most formidable bosses within the realms of **MU Mayhem**, with her lair nestled deep within [The Citadel](/maps/the-citadel).
 
 ![Medusa](/img/monsters/special/bosses/medusa.jpg)
 

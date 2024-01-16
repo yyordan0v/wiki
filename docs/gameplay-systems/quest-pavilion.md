@@ -4,9 +4,9 @@ sidebar_position: 8
 
 # Quest Pavilion
 
-The **Quest Pavilion** system introduces an exciting way for dedicated players in **Mu Mayhem** to gain additional rewards by embarking on [quests](/gameplay-systems/quest-system) and achieving milestones within the game.
+The **Quest Pavilion** system introduces an exciting way for dedicated players in **MU Mayhem** to gain additional rewards by embarking on [quests](/gameplay-systems/quest-system) and achieving milestones within the game.
 
-As you immerse yourself in the realm of **Mu Mayhem** and successfully complete [quests](/gameplay-systems/quest-system), you'll have the opportunity to earn **`stars`**, which can be exchanged for **valuable assets**. Let's delve into the details of this innovative system.
+As you immerse yourself in the realm of **MU Mayhem** and successfully complete [quests](/gameplay-systems/quest-system), you'll have the opportunity to earn **`stars`**, which can be exchanged for **valuable assets**. Let's delve into the details of this innovative system.
 
 ## Earning Stars and Rewards
 
@@ -36,4 +36,4 @@ The **Quest Pavilion** can be conveniently accessed through a dedicated button l
 
 ## Embrace the Quest Pavilion
 
-The **Quest Pavilion** is designed to reward players who consistently engage in [quests](/gameplay-systems/quest-system) and seek to enhance their characters. With the ability to earn stars and trade them for valuable assets, this system adds an extra layer of excitement and motivation to your **Mu Mayhem** journey.
+The **Quest Pavilion** is designed to reward players who consistently engage in [quests](/gameplay-systems/quest-system) and seek to enhance their characters. With the ability to earn stars and trade them for valuable assets, this system adds an extra layer of excitement and motivation to your **MU Mayhem** journey.

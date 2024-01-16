@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-description: Immerse yourself in the heart-pounding Mayhem Event in Mu Mayhem, where warriors engage in a relentless free-for-all battle. Learn how to participate, the diverse Mayhem formats tailored to different classes, and the rewards that await the ultimate victor.
+description: Immerse yourself in the heart-pounding Mayhem Event in MU Mayhem, where warriors engage in a relentless free-for-all battle. Learn how to participate, the diverse Mayhem formats tailored to different classes, and the rewards that await the ultimate victor.
 keywords:
   [
     Mayhem,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Mayhem Event,
     PvP Event,
@@ -14,15 +14,15 @@ keywords:
     Elves Mayhem,
     Gladiators Mayhem,
     Lords Mayhem,
-    Mu Mayhem,
+    Full Mayhem,
   ]
 ---
 
 # Mayhem
 
-## Unleash the Mayhem in Mu Mayhem!
+## Unleash the Mayhem in MU Mayhem!
 
-Welcome to the heart-pounding world of the **Mayhem** Event in **Mu Mayhem**. This is where warriors from all corners of the realm gather to engage in a relentless clash of strength, strategy, and skill.
+Welcome to the heart-pounding world of the **Mayhem** Event in **MU Mayhem**. This is where warriors from all corners of the realm gather to engage in a relentless clash of strength, strategy, and skill.
 
 The **Mayhem** is not for the faint of heart—it's a fast-paced battle where every move counts, every kill matters, and only the strongest will survive.
 
@@ -69,7 +69,7 @@ The **Mayhem** Event offers a diverse array of competitions tailored to **differ
 - **Elves Mayhem:** A ballet of precision and agility, as swift **elves** dominate the battlefield.
 - **Gladiators Mayhem:** A display of fierce combat skills, where **gladiators** wield their weapons with precision.
 - **Lords Mayhem:** A realm of strategic mastery, where **lords** demonstrate their tactical brilliance.
-- **Mu Mayhem:** For those who embrace diversity, there's the grand **Mu Mayhem**, where **all classes** unite to engage in **the ultimate showdown**.
+- **Full Mayhem:** For those who embrace diversity, there's the grand **Full Mayhem**, where **all classes** unite to engage in **the ultimate showdown**.
 
 Regardless of your class, each **Mayhem** promises a unique experience and challenges your ability to **adapt and conquer**.
 
@@ -85,7 +85,7 @@ As the dust settles and the timer expires, the player with the **highest score**
 
   _Blue Chocolate Box_
 
-- The winner of the **Mu Mayhem** will receve a **[Blue Chocolate Box (x2)](/items/item-bags/exc/blue-chocolate-box)**;
+- The winner of the **Full Mayhem** will receve a **[Blue Chocolate Box (x2)](/items/item-bags/exc/blue-chocolate-box)**;
 
   ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png)
 

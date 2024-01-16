@@ -28,7 +28,7 @@ Beware that if your Item's Level is already **+7** or more a **failed upgrade** 
 
 :::tip
 
-Alternatively, in the realm of Mu Mayhem, the game administration has introduced the option to acquire the **Jewel of Soul** or **Jewel of Soul Bundles** by completing [quests](/gameplay-systems/quest-system).
+Alternatively, in the realm of MU Mayhem, the game administration has introduced the option to acquire the **Jewel of Soul** or **Jewel of Soul Bundles** by completing [quests](/gameplay-systems/quest-system).
 
 :::
 

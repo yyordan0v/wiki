@@ -10,7 +10,7 @@ These guilds are formed with various objectives in mind, whether it's bringing t
 
 :::note
 
-In **Mu Mayhem**, guilds have a maximum capacity of **30** members. However, if the guild master is **Dark Lord**, the guild can accommodate up to **35** members.
+In **MU Mayhem**, guilds have a maximum capacity of **30** members. However, if the guild master is **Dark Lord**, the guild can accommodate up to **35** members.
 
 :::
 
@@ -64,13 +64,13 @@ Similarly, to disband a guild, pressing the **`G key`** opens the guild interfac
 
 :::caution
 
-The option for guild alliances is not available in Mu Mayhem.
+The option for guild alliances is not available in MU Mayhem.
 
 :::
 
 ## Guild's Hostility
 
-Guilds have the ability to declare **hostility** towards other guilds in **Mu Mayhem**. Once this feature is enabled, all members of the opposing guild will be visually marked as **flagged for PK** (Player Killing), allowing attacks and kills on them **without** incurring any penalties. The names of hostile guilds will appear in **red** on your screen, similar to the appearance of outlaws.
+Guilds have the ability to declare **hostility** towards other guilds in **MU Mayhem**. Once this feature is enabled, all members of the opposing guild will be visually marked as **flagged for PK** (Player Killing), allowing attacks and kills on them **without** incurring any penalties. The names of hostile guilds will appear in **red** on your screen, similar to the appearance of outlaws.
 
 :::tip
 
@@ -80,6 +80,6 @@ Engaging and defeating members of hostile guilds **will not** result in you bein
 
 ## Guild's War
 
-Guild Masters in **Mu Mayhem** have the authority to initiate guild duels by using the command **`/war`** followed by the name of the target guild. Once the challenged guild accepts the duel, members from both guilds can engage in immediate combat against each other.
+Guild Masters in **MU Mayhem** have the authority to initiate guild duels by using the command **`/war`** followed by the name of the target guild. Once the challenged guild accepts the duel, members from both guilds can engage in immediate combat against each other.
 
 If your guild is challenged to a duel by another guild master, a notification screen will appear. If you prefer not to participate in the duel, you can reject the proposal by selecting "Cancel". It is possible to receive multiple guild duel challenges while playing the game. In such cases, you can block incoming requests by enabling the "Request Off" option. Enabling "Request Off" will block all trade, party play, and guild duel requests.

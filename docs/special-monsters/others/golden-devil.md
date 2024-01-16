@@ -4,7 +4,7 @@ sidebar_position: 15
 
 # Golden Devil
 
-This article explores the **Golden Devil** - a special monster in the **Mu Mayhem** realm.
+This article explores the **Golden Devil** - a special monster in the **MU Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Minotaur
 
-Unveiling the secrets of the formidable **Minotaur**, a fearsome **boss** residing within the realm of Mu Mayhem.
+Unveiling the secrets of the formidable **Minotaur**, a fearsome **boss** residing within the realm of MU Mayhem.
 
 Discover the precise location where the **Minotaur** lurks, and delve into the alluring treasures and the rewards that await triumphant adventurers who emerge victorious from their harrowing encounter with this formidable foe.
 

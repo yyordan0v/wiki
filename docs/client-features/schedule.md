@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-description: Explore the Schedule Module in Mu Mayhem, a convenient feature that allows you to view the upcoming time of specific events or invasions. Accessible through the Especial Menu, this tool provides easy and quick access to the event timetable for seamless planning and participation. Discover Event Timers, Invasion Timers, and Mayhem Timers to stay informed about the schedule in Mu Mayhem.
+description: Explore the Schedule Module in MU Mayhem, a convenient feature that allows you to view the upcoming time of specific events or invasions. Accessible through the Especial Menu, this tool provides easy and quick access to the event timetable for seamless planning and participation. Discover Event Timers, Invasion Timers, and Mayhem Timers to stay informed about the schedule in MU Mayhem.
 keywords:
   [
     Schedule Module,
-    Mu Mayhem,
+    MU Mayhem,
     Event Timers,
     Invasion Timers,
     Mayhem Timers,
@@ -12,7 +12,7 @@ keywords:
     Event Timetable,
     Invasions,
     Mayhem Events,
-    Mu Mayhem Schedule,
+    MU Mayhem Schedule,
   ]
 ---
 
@@ -28,7 +28,7 @@ The Schedule Module offers the following submenus to various event timetables an
 
 ## Event Timers
 
-The **Event Time** Module displays a comprehensive list of all the available events in **Mu Mayhem**, along with the remaining time before each event commences.
+The **Event Time** Module displays a comprehensive list of all the available events in **MU Mayhem**, along with the remaining time before each event commences.
 
 ![Event Timers](/img/client-features/event-timers.jpg)
 
@@ -36,7 +36,7 @@ _Event Timers_
 
 ## Invasion Timers
 
-The **Invasion Time** section provides a comprehensive compilation of all [invasions](/category/invasions) in **Mu Mayhem**, along with the remaining time until their attacks begin.
+The **Invasion Time** section provides a comprehensive compilation of all [invasions](/category/invasions) in **MU Mayhem**, along with the remaining time until their attacks begin.
 
 ![Invasion Timers](/img/client-features/invasion-timers.jpg)
 

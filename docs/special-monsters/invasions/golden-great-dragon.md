@@ -7,11 +7,11 @@ import TabItem from '@theme/TabItem';
 
 # Golden Great Dragon Invasion
 
-Embark on an extraordinary adventure as we delve into the legendary **Golden Great Dragon** Invasion in Mu Mayhem. In this captivating article, we uncover the awe-inspiring power and magnificence of the **Golden Great Dragon**, as well as the trials and triumphs that await players who dare to face this mighty creature. Prepare to witness the clash of titans and discover the extraordinary rewards that lie in wait for those who prove themselves worthy in this epic battle.
+Embark on an extraordinary adventure as we delve into the legendary **Golden Great Dragon** Invasion in MU Mayhem. In this captivating article, we uncover the awe-inspiring power and magnificence of the **Golden Great Dragon**, as well as the trials and triumphs that await players who dare to face this mighty creature. Prepare to witness the clash of titans and discover the extraordinary rewards that lie in wait for those who prove themselves worthy in this epic battle.
 
 ## Place of Invasion
 
-The **Golden Great Dragon** Invasion unleashes relentless fury across multiple kingdoms, devastating the lands of **Mu Mayhem**. We will explore the targeted locations and witness the catastrophic scale of this cataclysmic event later in that article.
+The **Golden Great Dragon** Invasion unleashes relentless fury across multiple kingdoms, devastating the lands of **MU Mayhem**. We will explore the targeted locations and witness the catastrophic scale of this cataclysmic event later in that article.
 
 ## Schedule
 
@@ -24,7 +24,7 @@ Please take into account that the invasion timer is based on the server time.
 <Tabs lazy>
   <TabItem value="golden-knight" label="Golden Knight">
 
-The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **Mu Mayhem**.
+The **Golden Knigth**, a formidable and relentless warrior, strikes fear into the hearts of all who dare to face it with its exceptional combat skills and unwavering determination in the realm of **MU Mayhem**.
 
 ![Golden Knight](/img/monsters/special/golden/golden-iron-knight.jpg)
 
@@ -32,7 +32,7 @@ _Golden Knight_
 
 #### Location
 
-The menacing **Golden Knight** wreaks havoc in the serene lands of **Mu Mayhem**, instilling chaos and fear. Find the Golden Knight on the designated map:
+The menacing **Golden Knight** wreaks havoc in the serene lands of **MU Mayhem**, instilling chaos and fear. Find the Golden Knight on the designated map:
 
 - [Kanturu Ruins](/maps/kanturu-ruins)
 
@@ -51,7 +51,7 @@ _Red Chaos Box_
   </TabItem>
   <TabItem value="golden-twin-tale" label="Golden Twin Tale">
 
-The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **Mu Mayhem**.
+The **Golden Twin Tail**, a mesmerizing and formidable creature, bewitches adventurers with its enchanting presence and challenges them with its deadly attacks in the realm of **MU Mayhem**.
 
 ![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg)
 
@@ -78,7 +78,7 @@ _Green Ribbon Box_
   </TabItem>
   <TabItem value="golden-great-dragon" label="Golden Great Dragon">
 
-The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **Mu Mayhem**.
+The **Golden Great Dragon**, a legendary and awe-inspiring creature, commands respect and awe with its majestic presence and formidable might in the realm of **MU Mayhem**.
 
 ![Golden Great Dragon](/img/monsters/special/golden/golden-great-dragon.jpg)
 

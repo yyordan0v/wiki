@@ -1,10 +1,10 @@
 ---
 sidebar_position: 12
-description: Learn about the Exclusive Glow feature in Mu Mayhem, offering the opportunity to customize your character's appearance by modifying colors and glows of armor items, weapons, and wings. Discover how to access the Exclusive Glow Settings Menu, preview configurations, and apply unique glows to your in-game items.
+description: Learn about the Exclusive Glow feature in MU Mayhem, offering the opportunity to customize your character's appearance by modifying colors and glows of armor items, weapons, and wings. Discover how to access the Exclusive Glow Settings Menu, preview configurations, and apply unique glows to your in-game items.
 keywords:
   [
     Exclusive Glow,
-    Mu Mayhem,
+    MU Mayhem,
     Character Appearance,
     Armor Items,
     Weapons,

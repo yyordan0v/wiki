@@ -1,10 +1,10 @@
 ---
 sidebar_position: 7
-description: Explore the Search Party functionality in Mu Mayhem, seamlessly integrated into the game client. With this groundbreaking feature, connecting with fellow adventurers has never been easier. Discover how to swiftly assemble a team of brave warriors, cunning mages, or steadfast healers at the breeze of a few clicks using the Search Party Module. Customize your search party preferences and optimize your collective strength for upcoming adventures.
+description: Explore the Search Party functionality in MU Mayhem, seamlessly integrated into the game client. With this groundbreaking feature, connecting with fellow adventurers has never been easier. Discover how to swiftly assemble a team of brave warriors, cunning mages, or steadfast healers at the breeze of a few clicks using the Search Party Module. Customize your search party preferences and optimize your collective strength for upcoming adventures.
 keywords:
   [
     Search Party,
-    Mu Mayhem,
+    MU Mayhem,
     Search Party Module,
     Especial Menu,
     Party System,

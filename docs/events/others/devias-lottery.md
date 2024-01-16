@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-description: Learn about the Devias Lottery in Mu Mayhem, a special event where players have the chance to win exciting rewards through a random selection process. Understand the event mechanism, how to participate, and embrace the element of surprise as you anticipate being the lucky recipient.
+description: Learn about the Devias Lottery in MU Mayhem, a special event where players have the chance to win exciting rewards through a random selection process. Understand the event mechanism, how to participate, and embrace the element of surprise as you anticipate being the lucky recipient.
 keywords:
   [
     Devias Lottery,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Special Event,
     Rewards,
@@ -19,7 +19,7 @@ keywords:
 
 # Devias Lottery
 
-The **Devias Lottery** is a special occurrence in **Mu Mayhem** that offers players the chance to win exciting rewards through a random selection process. This event is designed to add an element of surprise and excitement to the gameplay experience, providing players with an opportunity to receive valuable items.
+The **Devias Lottery** is a special occurrence in **MU Mayhem** that offers players the chance to win exciting rewards through a random selection process. This event is designed to add an element of surprise and excitement to the gameplay experience, providing players with an opportunity to receive valuable items.
 
 ## Event Mechanism
 
@@ -39,6 +39,6 @@ Keep an eye on the system notices and announcements that may appear, as they wil
 
 ## Embrace the Element of Surprise
 
-The **Devias Lottery** adds an exciting element of randomness to the Mu Mayhem experience. It offers players the opportunity to receive rewards they might not have anticipated, making each login an anticipation of the possibility of being chosen as the lucky winner. Whether you're an experienced player or new to the realm, this event adds an extra layer of excitement and variety to your journey.
+The **Devias Lottery** adds an exciting element of randomness to the MU Mayhem experience. It offers players the opportunity to receive rewards they might not have anticipated, making each login an anticipation of the possibility of being chosen as the lucky winner. Whether you're an experienced player or new to the realm, this event adds an extra layer of excitement and variety to your journey.
 
-Stay engaged and active in the world of Mu Mayhem to maximize your chances of being selected for the Devias Lottery. Who knows? The next time the system notice appears, it might be you who gets to enjoy the rewards of this thrilling event!
+Stay engaged and active in the world of MU Mayhem to maximize your chances of being selected for the Devias Lottery. Who knows? The next time the system notice appears, it might be you who gets to enjoy the rewards of this thrilling event!

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Stone Golem
 
-Embark on a thrilling journey where your skills and bravery will be put to the ultimate test, as the colossal force of the **Stone Golem** rises to prominence, demanding your undivided attention and wreaking havoc upon the immersive realm of **Mu Mayhem**.
+Embark on a thrilling journey where your skills and bravery will be put to the ultimate test, as the colossal force of the **Stone Golem** rises to prominence, demanding your undivided attention and wreaking havoc upon the immersive realm of **MU Mayhem**.
 
 Brace yourself for an adrenaline-pumping adventure, where triumph over this formidable adversary is the key to unlocking new horizons of excitement and glory.
 

@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-description: Learn the Chaos Mix process for crafting the Scroll of Blood in Mu Mayhem. Acquire the Old Scroll, Illusion Sorcerer Covenant, and Jewel of Chaos to create the Scroll of Blood. Explore the Zen cost for each level of the Scroll and locate the Chaos Machine through the Chaos Goblin in Noria and Devias.
+description: Learn the Chaos Mix process for crafting the Scroll of Blood in MU Mayhem. Acquire the Old Scroll, Illusion Sorcerer Covenant, and Jewel of Chaos to create the Scroll of Blood. Explore the Zen cost for each level of the Scroll and locate the Chaos Machine through the Chaos Goblin in Noria and Devias.
 keywords:
   [
     Scroll of Blood,
-    Mu Mayhem,
+    MU Mayhem,
     Chaos Mix,
     Illusion Temple,
     Crafting Guide,

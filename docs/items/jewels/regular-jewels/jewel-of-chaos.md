@@ -14,7 +14,7 @@ To obtain the **Jewel of Chaos**, adventurers can embark on hunting expeditions 
 
 :::tip
 
-Alternatively, in the realm of Mu Mayhem, the game administration has introduced the option to acquire the **Jewel of Chaos** or **Jewel of Chaos Bundles** by completing [quests](/gameplay-systems/quest-system).
+Alternatively, in the realm of MU Mayhem, the game administration has introduced the option to acquire the **Jewel of Chaos** or **Jewel of Chaos Bundles** by completing [quests](/gameplay-systems/quest-system).
 
 :::
 

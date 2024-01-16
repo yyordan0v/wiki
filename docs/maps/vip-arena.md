@@ -4,7 +4,7 @@ sidebar_position: 26
 
 # VIP Arena
 
-Reserved solely for the esteemed **VIP players** of **Mu Mayhem**, the **VIP Arena** stands as a realm apart, offering an unmatched sanctuary of challenges and rewards. This privileged domain welcomes **VIP** adventurers with open arms, providing an expansive playground of monster spawns that cater to diverse strengths – from the feeble to the formidable.
+Reserved solely for the esteemed **VIP players** of **MU Mayhem**, the **VIP Arena** stands as a realm apart, offering an unmatched sanctuary of challenges and rewards. This privileged domain welcomes **VIP** adventurers with open arms, providing an expansive playground of monster spawns that cater to diverse strengths – from the feeble to the formidable.
 
 :::note
 

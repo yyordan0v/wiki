@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Giant
 
-Prepare to face an exhilarating test of skill and courage as the colossal **Giant**, commands attention and unleashes chaos in the immersive realm of **Mu Mayhem**.
+Prepare to face an exhilarating test of skill and courage as the colossal **Giant**, commands attention and unleashes chaos in the immersive realm of **MU Mayhem**.
 
 ![Giant](/img/monsters/special/others/giant.jpg)
 

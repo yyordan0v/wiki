@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Golden Stone Golem
 
-This article explores the **Golden Stone Golem** - a special monster in the **Mu Mayhem** realm.
+This article explores the **Golden Stone Golem** - a special monster in the **MU Mayhem** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 

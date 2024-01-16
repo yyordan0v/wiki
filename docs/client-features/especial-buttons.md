@@ -1,10 +1,10 @@
 ---
 sidebar_position: 4
-description: Explore the Especial Buttons in Mu Mayhem, providing convenient access to Quest Pavilion, Active Invasions, and Daily Rewards. Learn about the Active Invasions feature and how to navigate through ongoing server invasions.
+description: Explore the Especial Buttons in MU Mayhem, providing convenient access to Quest Pavilion, Active Invasions, and Daily Rewards. Learn about the Active Invasions feature and how to navigate through ongoing server invasions.
 keywords:
   [
     Especial Buttons,
-    Mu Mayhem,
+    MU Mayhem,
     Quest Pavilion,
     Active Invasions,
     Daily Reward,

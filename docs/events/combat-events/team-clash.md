@@ -1,10 +1,10 @@
 ---
 sidebar_position: 6
-description: Dive into intense team-based combat in the Team Clash Event of Mu Mayhem. Learn how to participate, the event overview, and the victory rewards for both Team Red and Team Blue. Gear up for thrilling battles and strategic gameplay in this team-oriented event.
+description: Dive into intense team-based combat in the Team Clash Event of MU Mayhem. Learn how to participate, the event overview, and the victory rewards for both Team Red and Team Blue. Gear up for thrilling battles and strategic gameplay in this team-oriented event.
 keywords:
   [
     Team Clash,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Team-Based Combat,
     PvP,
@@ -19,7 +19,7 @@ keywords:
 
 # Team Clash
 
-The **Team Clash Event** brings an exhilarating opportunity for players to engage in thrilling **team-based combat** within the realm of **Mu Mayhem**.
+The **Team Clash Event** brings an exhilarating opportunity for players to engage in thrilling **team-based combat** within the realm of **MU Mayhem**.
 
 This Combat Event revolves around two competing teams, **Team Red** and **Team Blue**, battling for supremacy. With **unique skins** distinguishing each team's members, the event promises intense and action-packed gameplay.
 

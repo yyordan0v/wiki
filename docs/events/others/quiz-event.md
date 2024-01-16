@@ -1,10 +1,10 @@
 ---
 sidebar_position: 4
-description: Participate in the Quiz Event in Mu Mayhem, a fun and interactive activity that challenges players' knowledge and quick thinking. Learn about the event schedule, how it works, and the rewards for correct answers. Engage in friendly competition and showcase your knowledge in this exciting event.
+description: Participate in the Quiz Event in MU Mayhem, a fun and interactive activity that challenges players' knowledge and quick thinking. Learn about the event schedule, how it works, and the rewards for correct answers. Engage in friendly competition and showcase your knowledge in this exciting event.
 keywords:
   [
     Quiz Event,
-    Mu Mayhem,
+    MU Mayhem,
     Mu Online,
     Knowledge Challenge,
     Interactive Event,
@@ -17,11 +17,11 @@ keywords:
 
 # Quiz Event
 
-The **Quiz Event** in **Mu Mayhem** is a fun and interactive activity that challenges players' knowledge and quick thinking. This event adds an element of excitement and engagement, providing players with a chance to win rewards while putting their knowledge to the test.
+The **Quiz Event** in **MU Mayhem** is a fun and interactive activity that challenges players' knowledge and quick thinking. This event adds an element of excitement and engagement, providing players with a chance to win rewards while putting their knowledge to the test.
 
 ## Event Schedule
 
-The **Quiz Event** takes place at the beginning of **every hour** in the **Mu Mayhem** realm. During this time, players will have the opportunity to participate in a series of quiz questions and potentially earn rewards.
+The **Quiz Event** takes place at the beginning of **every hour** in the **MU Mayhem** realm. During this time, players will have the opportunity to participate in a series of quiz questions and potentially earn rewards.
 
 The event's regular occurrence ensures that players have multiple chances throughout the day to engage in the **quiz** and demonstrate their knowledge.
 

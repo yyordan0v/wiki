@@ -4,7 +4,7 @@ sidebar_position: 24
 
 # Ultoria
 
-Welcome to the mysterious and exclusive **Ultoria**, a hidden gem within the vast world of **Mu Mayhem**. This **unique** terrain is a captivating marshy expanse teeming with both formidable and extraordinary creatures.
+Welcome to the mysterious and exclusive **Ultoria**, a hidden gem within the vast world of **MU Mayhem**. This **unique** terrain is a captivating marshy expanse teeming with both formidable and extraordinary creatures.
 
 As players venture into this treacherous realm, they will encounter fierce monsters and discover a plethora of [special beings](/category/others) whose defeat holds the key to valuable rewards. Brace yourself for an unforgettable journey through this murky and perilous landscape, where bravery and skill will be rewarded with unimaginable treasures.
 
