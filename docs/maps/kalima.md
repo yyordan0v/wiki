@@ -22,16 +22,6 @@ Crafting a **Lost Map** requires the combination of (x5) **Symbols of Kundun**. 
 
 _Symbol of Kundun_
 
-:::tip
-
-For a **guaranteed** drop of **Symbol of Kundun** you can kill the [Dead Porter](//special-monsters/others/dead-porter) in either [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
-
-![Dead Porter](/img/monsters/special/others/dead-porter.jpg)
-
-_Dead Porter_
-
-:::
-
 ## Monsters in Kalima
 
 ### Regular Monsters
@@ -44,7 +34,7 @@ _Dead Porter_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
+The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
 
 :::
 

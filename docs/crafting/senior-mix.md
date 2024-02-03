@@ -22,7 +22,7 @@ One of those benefits is the **Senior Mix**. In exchange for precious jewels fou
 
 :::note
 
-The Senior Mix can be held only **once a day**, only by the **Castle Lord**.
+The Senior Mix can be held only by the **Castle Lord**.
 
 :::
 

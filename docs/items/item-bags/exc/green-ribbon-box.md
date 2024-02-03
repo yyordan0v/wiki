@@ -22,9 +22,9 @@ The **Green Ribbon Box** can drop one of the following items:
 
 ### Weapons
 
-|                    Knight's Blade                     |                     Platina Staff                     |                    Albatross Bow                    |                    Sword Dancer                     |                       Shining Scepter                       |
-| :---------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------------: |
-| ![Knight's Blade](/img/items/swords/knight-blade.png) | ![Platina Staff](/img/items/staffs/platina-staff.png) | ![Albatross Bow](/img/items/bows/albatross-bow.png) | ![Sword Dancer](/img/items/swords/sword-dancer.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
+|                    Knight's Blade                     |                     Platina Staff                     |                     Arrow Viper Bow                     |                    Sword Dancer                     |                        Great Lord's Scepter                         |
+| :---------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------: | :-----------------------------------------------------------------: |
+| ![Knight's Blade](/img/items/swords/knight-blade.png) | ![Platina Staff](/img/items/staffs/platina-staff.png) | ![Arrow Viper Bow](/img/items/bows/arrow-viper-bow.png) | ![Sword Dancer](/img/items/swords/sword-dancer.png) | ![Great Lord's Scepter](/img/items/scepters/great-lord-scepter.png) |
 
 ### Shields
 
@@ -61,4 +61,3 @@ There is also chance that you get **Green Ribbon Box** dropped by one of the fol
 You can also obtain a **Green Ribbon Box** by winning in one of the following events:
 
 - [Illusion Temple 6](/events/illusion-temple)
-- [Team Clash](/events/combat-events/team-clash)

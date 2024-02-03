@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-description: Explore the Ghost Horse, a Tier 2 pet in Mu Online, renowned for its ethereal beauty, speed, and agility. Learn about its ingredients, crafting process, stats, and customization options, including skins. Unleash the Ghost Horse's unique buffs and bonuses, and discover its significance to the Dark Lord class.
+description: Explore the Ghost Horse, a Tier 1 pet in Mu Online, renowned for its ethereal beauty, speed, and agility. Learn about its ingredients, crafting process, stats, and customization options, including skins. Unleash the Ghost Horse's unique buffs and bonuses, and discover its significance to the Dark Lord class.
 keywords:
   [
     Ghost Horse,
     Mu Online pets,
-    Tier 2 pet,
+    Tier 1 pet,
     Jewel of Chaos,
     Jewel of Creation,
     Jewel of Life,
@@ -25,9 +25,7 @@ keywords:
 
 In the vast and enchanting world of Mu Online, players have the opportunity to embark on thrilling adventures and conquer formidable challenges. Alongside their relentless battles, they can also forge bonds with mystical creatures known as pets, which provide valuable assistance and companionship on their journey.
 
-One such extraordinary companion is the **Ghost Horse**, a Tier 2 pet that captivates players with its ethereal beauty and powerful abilities.
-
-The **Ghost Horse** is an evolution of the Tier 1 pet, **Dark Horse**, and is renowned for its exceptional speed and agility. As it glides through the mystical realm of Mu, its transparent form leaves a trail of wispy, ghostly echoes behind, adding an aura of mystery and enchantment to its presence.
+One such extraordinary companion is the **Ghost Horse**, a Tier 1 pet that captivates players with its ethereal beauty and powerful abilities.
 
 ![Ghost Horse](/img/items/pets/ghost-horse.jpg)
 
@@ -43,7 +41,7 @@ In order to get your hands on the **Ghost Horse** you need to acquire the follow
 - [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
 - [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
 - **Horn of Uniria** x10
-- 50,000,000 Zen
+- 100,000,000 Zen
 
 ![Ghost Horse Mix](/img/crafting/ghost-horse-mix.png)
 
@@ -51,7 +49,7 @@ _Ghost Horse Mix_
 
 :::info
 
-The success rate for this Chaos Combination is **60%**.
+The success rate for this Chaos Combination is **40%**.
 
 :::
 
@@ -67,25 +65,13 @@ No matter how hard you fight, the **Ghost Horse** will stay healthy forever.
 
 Hero equiped with the **Ghost Horse** gets the following bonuses:
 
-- Increased Damage & Wizardry Damage by **30%**
-- **50%** of Damage Absorb
-- Increased maximum HP by **+6000**
+- Increased Damage & Wizardry Damage by **10%**
+- **30%** of Damage Absorb
+- Increased maximum HP by **+1,000**
 - **Earth Shake Skill**
 
 :::note
 
 The Ghost Horse can be only tamed by the **Dark Lord**.
-
-:::
-
-## Cosmetics
-
-The **Ghost Horse** not only serves as a formidable ally but also adds a touch of personalization to each player's journey. They can customize their **Ghost Horse's** appearance through a variety of skins, allowing them to create a unique and distinguished presence on the battlefield.
-
-This level of customization fosters a sense of pride and ownership among players, making their **Ghost Horse** more than just a companion but an extension of their own identity within the game.
-
-:::tip
-
-You learn more on Lotus Mu Unique **Skin System** by going into our [Skin System](/skin-system) section.
 
 :::

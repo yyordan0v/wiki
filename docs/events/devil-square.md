@@ -17,16 +17,6 @@ With the [Devil Square Invitation](/crafting/invitations/devil-square-invitation
 - The crafting ingredients (**Devil's Key** and **Devil's Eye**) can be obtained from monster drops or in [Yoskreth](/maps/yoskreth).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
-:::tip
-
-For a **guaranteed** drop of the **Devil Square Invitiation Ingredients** you can kill the [Dead Showbell](//special-monsters/others/dead-showbell) in either [Ultoria](/maps/ultoria) or [Land of Trials](/maps/land-of-trials).
-
-![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
-
-_Dead Showbell_
-
-:::
-
 |                      Devil's Key                      |                                       |                      Devil's Eye                      |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |  [Devil Square Invitation](/crafting/invitations/devil-square-invitation)  |
 | :---------------------------------------------------: | :-----------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------------: |
 | ![Devil's Key](/img/items/invitations/devils-key.png) | ![Plus](/img/items/invitations/+.png) | ![Devil's Eye](/img/items/invitations/devils-eye.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Devil Square Invitation  ](/img/items/invitations/devils-invitation.png) |

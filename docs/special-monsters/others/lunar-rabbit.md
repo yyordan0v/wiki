@@ -16,12 +16,10 @@ _Lunar Rabbit_
 
 The subsequent table provides detailed information about location, respawn time and the quantity of the available **Lunar Rabbit** across the realm.
 
-|           Location           | Quantity |           Respawn Time            |
-| :--------------------------: | :------: | :-------------------------------: |
-|  [Icewrack](/maps/icewrack)  |    3     | **30 minutes** after being killed |
-| [El'Harath](/maps/el-harath) |    3     | **30 minutes** after being killed |
-|   [Ultoria](/maps/ultoria)   |    3     | **30 minutes** after being killed |
-|  [Ashkavor](/maps/ashkavor)  |    3     | **30 minutes** after being killed |
+|          Location          | Quantity |           Respawn Time            |
+| :------------------------: | :------: | :-------------------------------: |
+| [Icewrack](/maps/icewrack) |    3     | **30 minutes** after being killed |
+| [Ashkavor](/maps/ashkavor) |    3     | **30 minutes** after being killed |
 
 ## Reward
 

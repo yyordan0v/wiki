@@ -41,10 +41,6 @@ Unlock the secrets of enhancing your gear through the crafting systems. Gain ins
 
 Immerse yourself in the exciting world of game events in **Lotus Mu**, where thrilling challenges and bountiful rewards await. The Events section of the documentation provides comprehensive coverage of the diverse range of events hosted within the game.
 
-### ✨ Skin System
-
-Step into the realm of personalization and self-expression with the innovative Skin System in **Lotus Mu**. The Skin System section of the documentation unveils a world of possibilities, allowing you to customize the visual appearance of your character and gear.
-
 ### 🕹️ Client Features
 
 Explore the wealth of features available in the **Lotus Mu** game client, designed to enhance your gameplay experience and provide convenient tools for seamless immersion in this fantasy world.

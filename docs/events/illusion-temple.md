@@ -23,16 +23,6 @@ The players will be granted [special skills](/events/illusion-temple#kill-points
 - The crafting ingredients can be purchased in [Yoskreth](/maps/yoskreth).
 - You'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
-:::tip
-
-For a **guaranteed** drop of the **Scroll of Blood Ingredients** you can kill the [Mine Driller](//special-monsters/others/mine-driller) in either [El'Harath](/maps/el-harath) or [Land of Trials](/maps/land-of-trials).
-
-![Mine Driller](/img/monsters/special/others/mine-driller.jpg)
-
-_Mine Driller_
-
-:::
-
 |                      Old Scroll                      |                                       |                              Illusion Sorcerer Covenant                              |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Scroll of Blood](/crafting/invitations/scroll-of-blood)    |
 | :--------------------------------------------------: | :-----------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------: |
 | ![Old Scroll](/img/items/invitations/old-scroll.png) | ![Plus](/img/items/invitations/+.png) | ![Illusion Sorcerer Covenant](/img/items/invitations/illusion-sorcerer-covenant.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Scroll of Blood](/img/items/invitations/scroll-of-blood.png) |

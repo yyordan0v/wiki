@@ -26,6 +26,6 @@ A Global message will appear to all players when the **Medusa** spawns.
 
 Upon successfully killing the **Medusa**, players will be rewarded with:
 
-| [Green Chaos Box](/items/item-bags/exc/green-chaos-box) + **15 Credits** |
+| [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box) + **15 Credits** |
 | :----------------------------------------------------------------------: |
-|       ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png)       |
+|     ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png)      |

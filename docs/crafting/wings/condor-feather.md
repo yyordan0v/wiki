@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 description: Explore the mystical world of Mu Online and uncover the secrets of the Condor Feather, a sacred artifact crucial for crafting the resplendent 3rd Level Wings. Learn about its hidden enchantments, transformative potential, and its role in empowering adventurers with extraordinary abilities.
 keywords:
   [

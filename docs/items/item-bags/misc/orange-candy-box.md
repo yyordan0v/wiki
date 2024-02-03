@@ -24,6 +24,5 @@ The **Orange Candy Box** can drop one of the following items:
 
 In order to obtain a **Orange Candy Box** you need to win in one of the following events:
 
-- [Team Clash](/events/combat-events/team-clash)
-- [Specialists' Combat](/events/combat-events/specialists-combat)
+- [Hall of Fame](/events/hall-of-fame)
 - [Massacre](/events/others/massacre)

@@ -19,8 +19,6 @@ The subsequent table provides detailed information about location, respawn time 
 |   [Dungeon](/maps/dungeon)   |    10    | **10 minutes** after being killed |
 | [Dungeon 2](/maps/dungeon-2) |    10    | **10 minutes** after being killed |
 |  [Icewrack](/maps/icewrack)  |    10    | **10 minutes** after being killed |
-| [El'Harath](/maps/el-harath) |    10    | **10 minutes** after being killed |
-|   [Ultoria](/maps/ultoria)   |    10    | **10 minutes** after being killed |
 |  [Ashkavor](/maps/ashkavor)  |    10    | **10 minutes** after being killed |
 
 ## Reward

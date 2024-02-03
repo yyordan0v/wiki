@@ -4,7 +4,7 @@ sidebar_position: 27
 
 # The Citadel
 
-The Citadel serves as an exclusive battleground tailored for the most formidable adversaries, specifically designed to host the awe-inspiring challenges presented during the [Pandora Event](/events/combat-events/pandora).
+The Citadel serves as an exclusive battleground tailored for the most formidable adversaries, specifically designed to host the awe-inspiring challenges presented during the [Pandora Event](/events/pandora).
 
 :::info
 

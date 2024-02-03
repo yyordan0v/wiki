@@ -30,6 +30,12 @@ Experience the eagerly anticipated **Castle Siege Event**, offering enticing rew
 
 Best of luck and enjoy the event, all participating guilds!
 
+:::info
+
+In addition to all the benefits of owning the Castle, our Team is giving away **70,000 Credits** distributed equally to the winning guilds in the **first 7 weeks** of Castle Seige.
+
+:::
+
 ## Siege Warfare Timeline
 
 The image provided below offers a concise overview of the **Castle Siege cycle**.
@@ -37,6 +43,12 @@ The image provided below offers a concise overview of the **Castle Siege cycle**
 ![Castle Siege cycle](/img/events/cs/timeline.jpg)
 
 _Castle Siege cycle_
+
+:::info
+
+The first Castle Siege cycle will start on **26-03-2024** in **Yoskreth - x10**.
+
+:::
 
 ## Siege Participant Requirements
 
@@ -682,7 +694,5 @@ Regular players who **do not belong** to the Castle Lord's guild **may be restri
 #### Entrance Settings
 
 The Castle Lord can charge an **entrance fee** through the **Guard NPC** or restrict players from entering the Land of Trials.
-
-Price passage can vary from **0** to **1 billion Zen**.
 
 ![Land of Trials Entrance](/img/events/cs/lotenter.jpg)

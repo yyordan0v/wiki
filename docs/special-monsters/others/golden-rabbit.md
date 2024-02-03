@@ -19,8 +19,6 @@ The subsequent table provides detailed information about location, respawn time 
 |                Location                | Quantity |           Respawn Time           |
 | :------------------------------------: | :------: | :------------------------------: |
 |       [Icewrack](/maps/icewrack)       |    5     | **3 minutes** after being killed |
-|      [El'Harath](/maps/el-harath)      |    5     | **3 minutes** after being killed |
-|        [Ultoria](/maps/ultoria)        |    5     | **3 minutes** after being killed |
 |       [Ashkavor](/maps/ashkavor)       |    5     | **3 minutes** after being killed |
 | [Land of Trials](/maps/land-of-trials) |    10    | **3 minutes** after being killed |
 

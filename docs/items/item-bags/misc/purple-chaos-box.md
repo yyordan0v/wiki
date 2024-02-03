@@ -14,11 +14,11 @@ _Purple Chaos Box_
 
 The **Purple Chaos Box** can drop one of the following items:
 
-| [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) |   [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2)    |  [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3)   | [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4) | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |
-| :----------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     ![Box of Kundun +1](/img/items/item-bags/bok-1.png)      |        ![Box of Kundun +2](/img/items/item-bags/bok-2.png)        |       ![Box of Kundun +3](/img/items/item-bags/bok-3.png)       |     ![Box of Kundun +4](/img/items/item-bags/bok-4.png)      |     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      |
-|     [Red Chaos Box](/items/item-bags/exc/red-chaos-box)      |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
-|   ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)   | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
+| [Box of Kundun +1](/items/item-bags/exc/box-of-kundun/bok-1) | [Box of Kundun +2](/items/item-bags/exc/box-of-kundun/bok-2) |   [Box of Kundun +3](/items/item-bags/exc/box-of-kundun/bok-3)    |  [Box of Kundun +4](/items/item-bags/exc/box-of-kundun/bok-4)   |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------: |
+|     ![Box of Kundun +1](/img/items/item-bags/bok-1.png)      |     ![Box of Kundun +2](/img/items/item-bags/bok-2.png)      |        ![Box of Kundun +3](/img/items/item-bags/bok-3.png)        |       ![Box of Kundun +4](/img/items/item-bags/bok-4.png)       |
+| [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |     [Red Chaos Box](/items/item-bags/exc/red-chaos-box)      |     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |
+|     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      |   ![Red Chaos Box](/img/items/item-bags/red-chaos-box.png)   | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) |
 
 ## Obtaining the Purple Chaos Box
 
@@ -39,4 +39,4 @@ You can also obtain a **Purple Chaos Box** by winning in one of the following ev
 - [Doppelganger](/events/doppelganger)
 - [Imperial Guardian](/events/imperial-guardian)
 - [Illusion Temple 1-5](/events/illusion-temple)
-- [Pandora Event](/events/combat-events/pandora)
+- [Pandora Event](/events/pandora)

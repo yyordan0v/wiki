@@ -12,13 +12,15 @@ _Golden Box_
 
 ## Item Drops
 
-The **Golden Box** randomly yields **a collection of x5 items** from the following selection:
+The **Golden Box** randomly yields **a collection of x3 items** from the following selection:
 
-|     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Green Chaos Box](/items/item-bags/exc/green-chaos-box)    |
-| :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Green Chaos Box](/img/items/item-bags/green-chaos-box.png) |
+|     [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)     |     [Blue Ribbon Box](/items/item-bags/exc/blue-ribbon-box)     |   [Blue Chocolate Box](/items/item-bags/exc/blue-chocolate-box)    |
+| :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------------: |
+| ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
 
 ## Obtaining the Golden Box
+
+### Senior Mix
 
 **Golden Box** is being crafted via the [Senior Mix](/crafting/senior-mix).
 
@@ -29,3 +31,19 @@ To acquire knowledge on crafting the **Golden Box**, you may visit the [Senior M
 ![Senior](/img/npc/senior.jpg)
 
 _Senior_
+
+### Hall of Fame
+
+The winner in each class of the [Hall of Fame](/events/hall-of-fame) wins not one, but **two Golden Boxes**.
+
+### Bosses
+
+The strongest Monsters in Lotus Mu also drop not one, but **three Golden Boxes**. These are namely:
+
+1. [Kundun](/special-monsters/bosses/kundun)
+
+   ![Kundun](/img/monsters/special/bosses/kundun.jpg)
+
+2. [Selupan](/special-monsters/bosses/selupan)
+
+   ![Selupan](/img/monsters/special/bosses/selupan.jpg)

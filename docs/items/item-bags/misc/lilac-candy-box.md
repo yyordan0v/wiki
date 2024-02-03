@@ -35,4 +35,4 @@ Another way to obtain a **Lilac Candy Box** is to triumph in one of the followin
 - [Devil Square Event](/events/devil-square)
 - [Illusion Temple 1-5](/events/illusion-temple)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
+- [King of Yoskreth](/events/king-of-yoskreth)

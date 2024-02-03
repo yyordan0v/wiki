@@ -28,5 +28,5 @@ In order to obtain a **Pink Chocolate Box** you need to win in one of the follow
 - [Devil Square 7](/events/devil-square)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
 - [Imperial Guardian](/events/imperial-guardian)
-- [King of Yoskreth](/events/combat-events/king-of-yoskreth)
-- [Specialists' Combat](/events/combat-events/specialists-combat)
+- [King of Yoskreth](/events/king-of-yoskreth)
+- [Hall of Fame](/events/hall-of-fame)

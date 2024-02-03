@@ -46,5 +46,10 @@ To obtain the **Blue Chocolate Box**, adventurers must complete [quests](/gamepl
 
 You can also obtain a **Blue Chocolate Box** by winning in the following events:
 
-- [My Mayhem](/events/combat-events/mayhem)
-- [Specialists' Combat](/events/combat-events/specialists-combat)
+- [Hall of Fame](/events/hall-of-fame)
+
+There is a high chance of receiving the **Blue Chocolate Box** by dropping a [Golden Box](/items/item-bags/misc/golden-box).
+
+![Golden Box](/img/items/item-bags/golden-box.png)
+
+_Golden Box_
