@@ -22,23 +22,20 @@ _Land of Trials_
 
 :::tip
 
-The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items)  in it.
+The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
 
 :::
 
 ### Special Monsters
 
-|     [Golden Rabbit](/special-monsters/others/golden-rabbit)      |  [Golden Dark Knight](/special-monsters/others/golden-dark-knight)  |    [Golden Devil](/special-monsters/others/golden-devil)     |        [Golden Satyros](/special-monsters/others/golden-satyros)         |
-| :--------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------------------: |
-| ![Golden Rabbit](/img/monsters/special/golden/golden-rabbit.jpg) | ![Golden Dark Knight](/img/monsters/special/golden/dark-knight.jpg) |   ![Golden Devil](/img/monsters/special/golden/devil.jpg)    |       ![Golden Satyros](/img/monsters/special/golden/satyros.jpg)        |
-|          [Axl Hero](/special-monsters/others/axl-hero)           |         [Hero Mutant](/special-monsters/others/hero-mutant)         |      [Omega Wing](/special-monsters/others/omega-wing)       |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |
-|      ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)      |    ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg)     |  ![Omega Wing](/img/monsters/special/others/omega-wing.jpg)  | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) |
-|       [Dead Digger](/special-monsters/others/dead-digger)        |       [Dead Showbell](/special-monsters/others/dead-showbell)       |     [Dead Porter](/special-monsters/others/dead-porter)      |          [Mine Driller](/special-monsters/others/mine-driller)           |
-|   ![Dead Digger](/img/monsters/special/others/dead-digger.jpg)   |  ![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)   | ![Dead Porter](/img/monsters/special/others/dead-porter.jpg) |      ![Mine Driller](/img/monsters/special/others/mine-driller.jpg)      |
+|     [Golden Rabbit](/special-monsters/others/golden-rabbit)      |  [Golden Dark Knight](/special-monsters/others/golden-dark-knight)  |   [Golden Devil](/special-monsters/others/golden-devil)    |        [Golden Satyros](/special-monsters/others/golden-satyros)         |
+| :--------------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![Golden Rabbit](/img/monsters/special/golden/golden-rabbit.jpg) | ![Golden Dark Knight](/img/monsters/special/golden/dark-knight.jpg) |  ![Golden Devil](/img/monsters/special/golden/devil.jpg)   |       ![Golden Satyros](/img/monsters/special/golden/satyros.jpg)        |
+|          [Axl Hero](/special-monsters/others/axl-hero)           |         [Hero Mutant](/special-monsters/others/hero-mutant)         |     [Omega Wing](/special-monsters/others/omega-wing)      |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |
+|      ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)      |    ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg)     | ![Omega Wing](/img/monsters/special/others/omega-wing.jpg) | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) |
 
 ### Bosses
 
 |     [Death King](/special-monsters/invasions/death-king)      |     [Erohim](/special-monsters/bosses/erohim)      |     [Kundun](/special-monsters/bosses/kundun)      |
 | :-----------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
 | ![Death King](/img/monsters/special/invasions/death-king.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) | ![Kundun](/img/monsters/special/bosses/kundun.jpg) |
-
