@@ -61,7 +61,6 @@ Detailed information on the crafting process you can find in the [Invisibility C
   |   Blood Castle 5   |      231 - 280       |
   |   Blood Castle 6   |      281 - 330       |
   |   Blood Castle 7   |      331 - 400       |
-  |   Blood Castle 8   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
@@ -74,7 +73,6 @@ Detailed information on the crafting process you can find in the [Invisibility C
   |   Blood Castle 5   |      211 - 260       |
   |   Blood Castle 6   |      261 - 310       |
   |   Blood Castle 7   |      311 - 400       |
-  |   Blood Castle 8   | 3rd Quest Completed  |
 
 ## Blood Castle Rules
 
@@ -157,8 +155,7 @@ For a comprehensive breakdown of the **Blood Castle rewards**, refer to the tabl
 |   Blood Castle 4   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
 |   Blood Castle 5   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    10 EP     |
 |   Blood Castle 6   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    15 EP     |
-|   Blood Castle 7   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    20 EP     |
-|   Blood Castle 8   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |    40 EP     |
+|   Blood Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |    20 EP     |
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 

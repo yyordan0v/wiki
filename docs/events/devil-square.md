@@ -41,7 +41,6 @@ Detailed information on the crafting process you can find in the [Devil Square I
   |   Devil Square 4   |      231 - 280       |
   |   Devil Square 5   |      281 - 330       |
   |   Devil Square 6   |      331 - 400       |
-  |   Devil Square 7   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
@@ -53,7 +52,6 @@ Detailed information on the crafting process you can find in the [Devil Square I
   |   Devil Square 4   |      211 - 260       |
   |   Devil Square 5   |      261 - 310       |
   |   Devil Square 6   |      311 - 400       |
-  |   Devil Square 7   | 3rd Quest Completed  |
 
 ## Devil Square Rules
 
@@ -106,8 +104,7 @@ For a comprehensive breakdown of the reward of the **Devil Square Winner**, refe
 |   Devil Square 3   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
 |   Devil Square 4   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    10 EP     |
 |   Devil Square 5   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    15 EP     |
-|   Devil Square 6   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    20 EP     |
-|   Devil Square 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    40 EP     |
+|   Devil Square 6   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    20 EP     |
 
 ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 
@@ -115,15 +112,14 @@ _Lilac Candy Box & Pink Chocolate Box_
 
 Furthermore, there is a **Zen reward** granted to the **top 10 players** in the current **Devil Square** rankings. The distribution of this reward is as outlined below:
 
-| DS Level | Rank 1     | Rank 2     | Rank 3     | Rank 4     | Rank 5     | Rank 6     | Rank 7    | Rank 8    | Rank 9    | Rank 10   |
-| -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | --------- | --------- | --------- |
-| 1        | 15,000,000 | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000  | 1,000,000  | 500,000   | 400,000   | 300,000   | 200,000   |
-| 2        | 20,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000 | 1,000,000 | 300,000   | 200,000   |
-| 3        | 25,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000 | 2,000,000 | 1,000,000 | 300,000   |
-| 4        | 30,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000 | 3,000,000 | 2,000,000 | 1,000,000 |
-| 5        | 35,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000 | 4,000,000 | 3,000,000 | 2,000,000 |
-| 6        | 40,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000 | 5,000,000 | 4,000,000 | 3,000,000 |
-| 7        | 45,000,000 | 30,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000 | 6,000,000 | 5,000,000 | 4,000,000 |
+| DS Level | Rank 1     | Rank 2     | Rank 3     | Rank 4     | Rank 5     | Rank 6    | Rank 7    | Rank 8    | Rank 9    | Rank 10   |
+| -------- | ---------- | ---------- | ---------- | ---------- | ---------- | --------- | --------- | --------- | --------- | --------- |
+| 1        | 15,000,000 | 5,000,000  | 4,000,000  | 3,000,000  | 2,000,000  | 1,000,000 | 500,000   | 400,000   | 300,000   | 200,000   |
+| 2        | 20,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000  | 3,000,000 | 2,000,000 | 1,000,000 | 300,000   | 200,000   |
+| 3        | 25,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000  | 4,000,000 | 3,000,000 | 2,000,000 | 1,000,000 | 300,000   |
+| 4        | 30,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000  | 5,000,000 | 4,000,000 | 3,000,000 | 2,000,000 | 1,000,000 |
+| 5        | 35,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000  | 6,000,000 | 5,000,000 | 4,000,000 | 3,000,000 | 2,000,000 |
+| 6        | 40,000,000 | 25,000,000 | 20,000,000 | 15,000,000 | 10,000,000 | 8,000,000 | 6,000,000 | 5,000,000 | 4,000,000 | 3,000,000 |
 
 :::note
 

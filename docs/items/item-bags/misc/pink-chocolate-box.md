@@ -24,8 +24,8 @@ The **Pink Chocolate Box** can drop one of the following items:
 
 In order to obtain a **Pink Chocolate Box** you need to win in one of the following events:
 
-- [Blood Castle 8](/events/blood-castle)
-- [Devil Square 7](/events/devil-square)
+- [Blood Castle 7](/events/blood-castle)
+- [Devil Square 6](/events/devil-square)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
 - [Imperial Guardian](/events/imperial-guardian)
 - [King of Yoskreth](/events/king-of-yoskreth)

@@ -49,7 +49,6 @@ _Armor of Guardsman_
   |   Chaos Castle 4   |      180 - 239       |
   |   Chaos Castle 5   |      240 - 299       |
   |   Chaos Castle 6   |      300 - 400       |
-  |   Chaos Castle 7   | 3rd Quest Completed  |
 
 - **Gladiators and Lords:**
 
@@ -61,7 +60,6 @@ _Armor of Guardsman_
   |   Chaos Castle 4   |      160 - 219       |
   |   Chaos Castle 5   |      220 - 279       |
   |   Chaos Castle 6   |      280 - 400       |
-  |   Chaos Castle 7   | 3rd Quest Completed  |
 
 ## Chaos Castle Rules
 
@@ -124,7 +122,7 @@ By winning **Chaos Castle** players will be rewarded with an [Ancient Item](/ite
 For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tables below.
 
 <Tabs lazy>
-  <TabItem value="cc1-6" label="Chaos Castle 1-6">
+  <TabItem value="cc1-5" label="Chaos Castle 1-5">
 
 |   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |   [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)  |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
@@ -132,7 +130,7 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 
   </TabItem>
 
-  <TabItem value="cc-7" label="Chaos Castle 7">
+  <TabItem value="cc-6" label="Chaos Castle 6">
 
 |   [Paladin Dark Phoenix](/items/ancient-items/#ancient-sets)   |  [Astral Grand Sould](/items/ancient-items/#ancient-sets)  | [Mistique Divine](/items/ancient-items/#ancient-sets) |    [Fury Thunder Hawk](/items/ancient-items/#ancient-sets)    |  [Blaze Dark Steel](/items/ancient-items/#ancient-sets)   |
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: |
@@ -142,7 +140,7 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 
 :::tip
 
-There is also chance to receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 7**.
+There is also chance to receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 6**.
 
 ![Condor Flame](/img/items/others/condor-flame.png)
 
