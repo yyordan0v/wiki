@@ -68,5 +68,5 @@ The following table will compare the stats all three of these pets give to it's 
 | :-------------: | :----------------------------------------------: | :--------------------------------------------------: | :------------------------------------------: |
 | Increase Damage |                       30%                        |                         35%                          |                     40%                      |
 |  Damage Absorb  |                       10%                        |                         20%                          |                     25%                      |
-|   Increase HP   |                      +3,000                      |                        +6,000                        |                   +10,000                    |
+|   Increase HP   |                                                  |                        +1,000                        |                    +3,000                    |
 |     Special     |                                                  |                                                      |             Reflect Damage +10%              |
