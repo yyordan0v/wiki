@@ -32,7 +32,7 @@ One of the most anticipated events on **Lotus Mu** unfolds within the walls of *
 
 ## Summary
 
-In summary, **Yoskreth**, the captivating capital city at the juncture of desert and sea, offers adventurers a sanctuary of peace and interaction in the midst of chaos. With its diverse populace, unique location, and the exhilarating [The King of Yoskreth](/events/combat-events/king-of-yoskreth) Event, it stands as a pivotal hub where tales are woven, alliances are forged, and legends are made in the ever-evolving world of **Lotus Mu**. So, step into the vibrant streets of **Yoskreth** and uncover the secrets it holds, for adventure awaits those who dare to explore its captivating realm.
+In summary, **Yoskreth**, the captivating capital city at the juncture of desert and sea, offers adventurers a sanctuary of peace and interaction in the midst of chaos. With its diverse populace, unique location, and the exhilarating [The King of Yoskreth](/events/king-of-yoskreth) Event, it stands as a pivotal hub where tales are woven, alliances are forged, and legends are made in the ever-evolving world of **Lotus Mu**. So, step into the vibrant streets of **Yoskreth** and uncover the secrets it holds, for adventure awaits those who dare to explore its captivating realm.
 
 ![Yoskreth](/img/maps/yoskreth-3.jpg)
 
