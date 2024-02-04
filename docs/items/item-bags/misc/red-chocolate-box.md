@@ -24,7 +24,7 @@ The **Red Chocolate Box** can drop one of the following items:
 
 To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to win in one of the following Events:
 
-- [Blood Castle 1 - 7](/events/blood-castle)
+- [Blood Castle 1 - 6](/events/blood-castle)
 - [Hide n' Seek](/events/others/hide-n-seek)
 - [Pursuit Event](/events/others/pursuit)
 - [Russian Roulette](/events/others/russian-roulette)

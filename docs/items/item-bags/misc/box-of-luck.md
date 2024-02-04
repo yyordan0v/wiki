@@ -28,9 +28,9 @@ The **Box of Luck** can drop one of the following items:
 
 To obtain the **Box of Luck**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following creatures:
 
-|  [Budge Dragon](/special-monsters/others/golden-budge-dragon)  |
-| :------------------------------------------------------------: |
-| ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) |
+|  [Budge Dragon](/special-monsters/others/golden-budge-dragon)  |     [Hero Mutant](/special-monsters/others/hero-mutant)      |     [Axl Hero](/special-monsters/others/axl-hero)      |
+| :------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: |
+| ![Budge Dragon](/img/monsters/special/golden/budge-dragon.jpg) | ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg) | ![Axl Hero](/img/monsters/special/others/axl-hero.jpg) |
 
 There is also chance that you get **Box of Luck** dropped by the following item bag:
 

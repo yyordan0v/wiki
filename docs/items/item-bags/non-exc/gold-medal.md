@@ -18,9 +18,9 @@ The **Gold Medal** can drop the one of following items:
 
 ### Armor items
 
-|                      Black Dragon Set                      |                      Dark Phoenix Set                      |                      Great Dragon Set                      |
+|                      Black Dragon Set                      |                      Dark Phoenix Set                      |                      Great Dragon Set                      |                                                          |
 | :--------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: |
-| ![Black Dragon Set](/img/items/armors/dk/black-dragon.png) | ![Dark Phoenix Set](/img/items/armors/dk/dark-phoenix.png) | ![Great Dragon Set](/img/items/armors/dk/great-dragon.png) |
+| ![Black Dragon Set](/img/items/armors/dk/black-dragon.png) | ![Dark Phoenix Set](/img/items/armors/dk/dark-phoenix.png) | ![Great Dragon Set](/img/items/armors/dk/great-dragon.png) |                                                          |
 |                         Divine Set                         |                       Red Spirit Set                       |                       Grand Soul Set                       |                      Dark Soul Set                       |
 |       ![Divine Set](/img/items/armors/fe/divine.png)       |   ![Red Spirit Set](/img/items/armors/fe/red-spirit.png)   |   ![Grand Soul Set](/img/items/armors/dw/grand-soul.png)   |   ![Dark Soul Set](/img/items/armors/dw/dark-soul.png)   |
 |                      Thunder Hawk Set                      |                       Hurricane Set                        |                        Glorious Set                        |                     Dark Master Set                      |

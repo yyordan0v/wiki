@@ -28,6 +28,12 @@ The table below provides a comprehensive overview of the rewards and experience 
 | 26-29  |     1,400     |    1,680     |      -       |      -      |     1      |
 | **30** |   **6,000**   |  **7,200**   |  **43,800**  | **52,560**  |  **0.3**   |
 
+:::tip
+
+You can receive **huge Points Boost** by completing [**quests**](/gameplay-systems/quest-system).
+
+:::
+
 #### Reset Scheme
 
 Maximum resets in **Yoskreth - x10** will be raised throught the time as follows:
@@ -50,3 +56,9 @@ Maximum resets in **Yoskreth - x10** will be raised throught the time as follows
 - The reset raising will always happen on **Sunday, 22:30 Server Time** - right after Castle Siege battle ends!
 
 :::
+
+#### How to Reset
+
+Resets are made in-game via the **`Reset Button`** (see below).
+
+`PLACE IMAGE`

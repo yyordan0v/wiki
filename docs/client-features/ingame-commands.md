@@ -39,6 +39,8 @@ You can also check this list of commands while playing through the [Especial Men
 | `/vit <value>`          | Add points in Vitality.                                                     |
 | `/ene <value>`          | Add points in Energy.                                                       |
 | `/cmd <value>`          | Add points in Command.                                                      |
+| `/readd`                | Re-assign your stats (available to **VIP Players** only).                   |
+| `/pkclear`              | Clear player kills (available to **VIP Players** only).                     |
 | `/re on`                | Turn on all requests.                                                       |
 | `/re off`               | Turn off all requests.                                                      |
 | `/re auto`              | Automatically accepts all requests.                                         |

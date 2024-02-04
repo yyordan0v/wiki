@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # Quest Pavilion
@@ -30,10 +30,10 @@ _Quest Pavilion_
 
 ## Accessing the Quest Pavilion
 
-To make use of the **Quest Pavilion**, all you need to do is have **20 resets** on your character. This ensures that seasoned players who have reached a certain level of progression can benefit from the rewards offered in the Pavilion.
-
 The **Quest Pavilion** can be conveniently accessed through a dedicated button located in the game's interface - the [Quest Pavilion Especial Button](/client-features/especial-buttons), providing a seamless experience for players to manage their earned stars and claim their rewards.
 
-## Embrace the Quest Pavilion
+:::info
 
-The **Quest Pavilion** is designed to reward players who consistently engage in [quests](/gameplay-systems/quest-system) and seek to enhance their characters. With the ability to earn stars and trade them for valuable assets, this system adds an extra layer of excitement and motivation to your **Lotus Mu** journey.
+To make use of the **Quest Pavilion**, all you need to do is have **10 resets** on your character.
+
+:::

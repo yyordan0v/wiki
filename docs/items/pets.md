@@ -30,12 +30,12 @@ The **Lords** can equip either of the following:
 
 The following table will compare the stats all three of these pets give to it's wearer:
 
-|     Options     | [Ghost Horse](/crafting/pets/tier-1/ghost-horse) | [Blue Darkhorse](/crafting/pets/tier-2/blue-darkhorse) | [Warhorse](/crafting/pets/tier-3/warhorse) |
-| :-------------: | :----------------------------------------------: | :----------------------------------------------------: | :----------------------------------------: |
-| Increase Damage |                       10%                        |                          20%                           |                    25%                     |
-|  Damage Absorb  |                       30%                        |                          35%                           |                    40%                     |
-|   Increase HP   |                      +1,000                      |                         +3,000                         |                   +5,000                   |
-|     Special     |                                                  |                                                        |          Ignor defense Chance +3%          |
+|         Options          | [Ghost Horse](/crafting/pets/tier-1/ghost-horse) | [Blue Darkhorse](/crafting/pets/tier-2/blue-darkhorse) | [Warhorse](/crafting/pets/tier-3/warhorse) |
+| :----------------------: | :----------------------------------------------: | :----------------------------------------------------: | :----------------------------------------: |
+|   **Increase Damage**    |                       10%                        |                          20%                           |                    25%                     |
+|    **Damage Absorb**     |                       30%                        |                          35%                           |                    40%                     |
+|     **Increase HP**      |                      +1,000                      |                         +3,000                         |                   +5,000                   |
+| **Ignor defense Chance** |                        -                         |                           -                            |                    +3%                     |
 
 ## Elves & Wizards Pets
 
@@ -47,12 +47,12 @@ Both the **Elves and Wizards** can equip either of the following:
 
 The following table will compare the stats all three of these pets give to it's wearer:
 
-|     Options     | [Spirit of Nature](/crafting/pets/tier-1/spirit-of-nature) | [Ghost Fenrir](/crafting/pets/tier-2/ghost-fenrir) | [Ice Dragon](/crafting/pets/tier-3/ice-dragon) |
-| :-------------: | :--------------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: |
-| Increase Damage |                            10%                             |                        20%                         |                      25%                       |
-|  Damage Absorb  |                            25%                             |                        30%                         |                      35%                       |
-|   Increase HP   |                           +3,000                           |                       +6,000                       |                    +10,000                     |
-|     Special     |                                                            |                                                    |            Ignor defense Chance +3%            |
+|         Options          | [Spirit of Nature](/crafting/pets/tier-1/spirit-of-nature) | [Ghost Fenrir](/crafting/pets/tier-2/ghost-fenrir) | [Ice Dragon](/crafting/pets/tier-3/ice-dragon) |
+| :----------------------: | :--------------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------: |
+|   **Increase Damage**    |                            10%                             |                        20%                         |                      25%                       |
+|    **Damage Absorb**     |                            25%                             |                        30%                         |                      35%                       |
+|     **Increase HP**      |                           +3,000                           |                       +6,000                       |                    +10,000                     |
+| **Ignor defense Chance** |                             -                              |                         -                          |                      +3%                       |
 
 ## Knights & Gladiators Pets
 
@@ -64,9 +64,9 @@ Both the **Knights and Gladiators** can equip either of the following:
 
 The following table will compare the stats all three of these pets give to it's wearer:
 
-|     Options     | [Necromancer](/crafting/pets/tier-1/necromancer) | [Skeleton King](/crafting/pets/tier-2/skeleton-king) | [Commander](/crafting/pets/tier-3/commander) |
-| :-------------: | :----------------------------------------------: | :--------------------------------------------------: | :------------------------------------------: |
-| Increase Damage |                       30%                        |                         35%                          |                     40%                      |
-|  Damage Absorb  |                       10%                        |                         20%                          |                     25%                      |
-|   Increase HP   |                                                  |                        +1,000                        |                    +3,000                    |
-|     Special     |                                                  |                                                      |           Ignor defense Chance +3%           |
+|         Options          | [Necromancer](/crafting/pets/tier-1/necromancer) | [Skeleton King](/crafting/pets/tier-2/skeleton-king) | [Commander](/crafting/pets/tier-3/commander) |
+| :----------------------: | :----------------------------------------------: | :--------------------------------------------------: | :------------------------------------------: |
+|   **Increase Damage**    |                       30%                        |                         35%                          |                     40%                      |
+|    **Damage Absorb**     |                       10%                        |                         20%                          |                     25%                      |
+|     **Increase HP**      |                        -                         |                        +1,000                        |                    +3,000                    |
+| **Ignor defense Chance** |                        -                         |                          -                           |                     +3%                      |

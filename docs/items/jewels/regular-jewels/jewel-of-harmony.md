@@ -48,6 +48,21 @@ The **Jewel of Harmony** is a single-use item, rendering it irretrievable for an
 
 ### Weapons Harmony Options
 
+The following table shows what harmony options and their respective values you can have on your **excellent** items depending on their item level.
+
+| Option / Item Level                   | +0  | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 | +13 |
+| ------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Minimum attack power increase**     | 3   | 5   | 7   | 9   | 11  | 13  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  |
+| **Maximum Attack Power Increase**     | 5   | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  | 60  | 70  | 80  | 105 |
+| **Required Strength decrease**        | 5   | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 100 | 110 | 120 | 135 |
+| **Required Agility decrease**         | 5   | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 100 | 110 | 120 | 135 |
+| **Attack power increase(Min, Max)**   |     |     |     |     |     |     | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 85  |
+| **Critical damage increase**          |     |     |     |     |     |     | 20  | 30  | 40  | 50  | 100 | 110 | 120 | 135 |
+| **Skill attack power increase**       |     |     |     |     |     |     |     |     |     | 45  | 55  | 65  | 75  | 100 |
+| **Attack success rate increase(PvP)** |     |     |     |     |     |     |     |     |     | 50  | 100 | 150 | 200 | 250 |
+| **SD decrement increase**             |     |     |     |     |     |     |     |     |     | 3   | 5   | 8   | 15  | 20  |
+| **SD bypass rate increase**           |     |     |     |     |     |     |     |     |     |     |     |     |     | 10  |
+
 - **Minimum attack power increase**: Increase in minimum attack power according to set value. However, cannot increase beyond -1 of the maximum attack power.
 - **Maximum Attack Power Increase** : Increase in maximum attack power according to set value.
 - **Required Strength decrease**: Decrease in required strength value of weapon according to set value.
@@ -61,6 +76,19 @@ The **Jewel of Harmony** is a single-use item, rendering it irretrievable for an
 
 ### Staffs Harmony Options
 
+The following table shows what harmony options and their respective values you can have on your **excellent** items depending on their item level.
+
+| Option / Item Level                          | +0  | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 | +13 |
+| -------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Magic power increase**                     | 5   | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 125 | 150 | 175 | 220 |
+| **Required Strength decrease**               | 5   | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  | 60  | 70  | 80  | 105 |
+| **Required Agility Decrease**                | 5   | 10  | 15  | 20  | 25  | 30  | 35  | 40  | 45  | 50  | 60  | 70  | 80  | 105 |
+| **Skill attack power increase**              |     |     |     |     |     |     | 60  | 70  | 80  | 90  | 105 | 120 | 145 | 165 |
+| **Critical damage increase**                 |     |     |     |     |     |     | 60  | 70  | 80  | 90  | 100 | 125 | 150 | 175 |
+| **SD decrement increase**                    |     |     |     |     |     |     |     |     |     | 15  | 20  | 25  | 30  | 35  |
+| **SD bypass rate increase increase ( PVP )** |     |     |     |     |     |     |     |     |     | 50  | 100 | 150 | 200 | 250 |
+| **SD bypass rate increase**                  |     |     |     |     |     |     |     |     |     |     |     |     |     | 25  |
+
 - **Magic power increase**: Increase in magic power of the orb according to set value.
 - **Required Strength decrease**: Decrease in staffs required strength value according to set value.
 - **Required Agility Decrease**: Decrease in weapons required agility value according to set value.
@@ -71,6 +99,19 @@ The **Jewel of Harmony** is a single-use item, rendering it irretrievable for an
 - **SD bypass rate increase**: The damage absorbed by the opponent's shield in PVP directly translates into HP damage according to set value.
 
 ### Armors Harmony Options
+
+The following table shows what harmony options and their respective values you can have on your **excellent** items depending on their item level.
+
+| Option / Item Level                     | +0  | +1  | +2  | +3  | +4  | +5  | +6  | +7  | +8  | +9  | +10 | +11 | +12 | +13 |
+| --------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Defense power increase**              | 5   | 10  | 20  | 30  | 40  | 50  | 60  | 70  | 80  | 90  | 100 | 110 | 120 | 150 |
+| **Maximum HP increase**                 |     |     |     | 5   | 25  | 50  | 75  | 100 | 125 | 150 | 175 | 200 | 225 | 250 |
+| **Maximum HP increase**                 |     |     |     | 5   | 25  | 50  | 75  | 100 | 125 | 150 | 175 | 200 | 225 | 250 |
+| **HP automatic increase rate increase** |     |     |     |     |     |     | 1   | 2   | 3   | 5   | 10  | 15  | 20  | 25  |
+| **MP automatic increase rate increase** |     |     |     |     |     |     |     |     |     | 10  | 15  | 20  | 25  | 30  |
+| **Defense success rate increase(PvP)**  |     |     |     |     |     |     |     |     |     | 50  | 100 | 150 | 200 | 250 |
+| **Damage decrease increase**            |     |     |     |     |     |     |     |     |     | 4   | 5   | 6   | 7   | 8   |
+| **SD rate increase**                    |     |     |     |     |     |     |     |     |     |     |     |     |     | 10  |
 
 - **Defense power increase**: Increase in defense weapons defense power according to set value.
 - **Maximum AG increase**: Increase in characters AG according to set value.

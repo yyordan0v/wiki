@@ -48,9 +48,9 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Green Ribbon Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-|  [Golden Twin Tail](/special-monsters/invasions/golden-great-dragon)   | [Kundun](/special-monsters/bosses/kundun)  |     [Selupan](/special-monsters/bosses/selupan)      |
-| :--------------------------------------------------------------------: | :----------------------------------------: | :--------------------------------------------------: |
-| ![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg) | ![Kundun](/img/monsters/kalima/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |
+|  [Golden Twin Tail](/special-monsters/invasions/golden-great-dragon)   | [Dark Elf](/special-monsters/event-exclusive/dark-elf) |
+| :--------------------------------------------------------------------: | :----------------------------------------------------: |
+| ![Golden Twin Tail](/img/monsters/special/golden/golden-twin-tail.jpg) | ![Dark Elf](/img/monsters/special/others/dark-elf.jpg) |
 
 There is also chance that you get **Green Ribbon Box** dropped by one of the following item bags:
 

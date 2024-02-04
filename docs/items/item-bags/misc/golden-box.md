@@ -40,10 +40,6 @@ The winner in each class of the [Hall of Fame](/events/hall-of-fame) wins not on
 
 The strongest Monsters in Lotus Mu also drop not one, but **three Golden Boxes**. These are namely:
 
-1. [Kundun](/special-monsters/bosses/kundun)
-
-   ![Kundun](/img/monsters/special/bosses/kundun.jpg)
-
-2. [Selupan](/special-monsters/bosses/selupan)
-
-   ![Selupan](/img/monsters/special/bosses/selupan.jpg)
+|     [Kundun](/special-monsters/bosses/kundun)      |     [Selupan](/special-monsters/bosses/selupan)      |
+| :------------------------------------------------: | :--------------------------------------------------: |
+| ![Kundun](/img/monsters/special/bosses/kundun.jpg) | ![Selupan](/img/monsters/special/bosses/selupan.jpg) |

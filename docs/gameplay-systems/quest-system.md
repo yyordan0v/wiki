@@ -8,13 +8,17 @@ sidebar_position: 6
 
 Our **Primary Quests** have been meticulously crafted to align with the growth and advancement of your hero. This means that you'll start off by slaying **Spiders**, then progress to **Budge Dragons**, and so forth, until you find yourself facing off against the most formidable creatures in the realm.
 
+Each completed quest bestows upon the player a **reward**, ensuring that they are well-equipped for their journey ahead. These **valuable rewards** will undoubtedly prove to be invaluable assets in the long run, bolstering the player's capabilities and enhancing their chances of success.
+
 :::tip
 
-We strongly advise all players to begin their quest immediately after creating their first character.
+- We strongly advise all players to begin their quests **immediately** after creating their first character.
+
+- Quests also give a lot of **Points** to boost your character's power.
+
+- Check the [**quest list**](/gameplay-systems/quest-system#quest-list) below for details.
 
 :::
-
-Each completed quest bestows upon the player a **reward**, ensuring that they are well-equipped for their journey ahead. These **valuable rewards** will undoubtedly prove to be invaluable assets in the long run, bolstering the player's capabilities and enhancing their chances of success.
 
 ## Quest Window
 
@@ -28,7 +32,7 @@ Once the **Quest Window** is opened you will be able to see what are the **Requi
 
 :::caution
 
-Beware that you need to manually finish your quest.
+Beware that you need to **manually** finish your quest.
 
 To accomplish this, all you need to do is click on the **Get Reward** button.
 
@@ -38,14 +42,10 @@ To accomplish this, all you need to do is click on the **Get Reward** button.
 
 _Quest Window_
 
-## Primary Quests
-
-The **Primary Quests** adapt to your progress, gradually increasing the strength and quantity of monsters you face, while simultaneously improving the quality of the rewards you receive.
-
-In the **Primary Quests** you will be killing monsters 99% of the time in order to complete them.
-
 ## Quest Pavilion
 
 Introducing the [Quest Pavilion](/gameplay-systems/quest-pavilion) - a rewarding feature in **Lotus Mu** that recognizes your quest achievements by granting **`stars`**
 
 These **stars** can be exchanged for valuable rewards, enhancing your gameplay experience. Dive into **quests**, earn **stars**, and unlock exciting possibilities in the [Quest Pavilion](/gameplay-systems/quest-pavilion).
+
+## Quest List
