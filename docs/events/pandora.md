@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 11
 description: Immerse yourself in the intriguing Pandora Event in Lotus Mu, a test of strategy and cunning where players vie for the cursed status from the mysterious Pandora Box. Learn how to participate, the rules of the event, and the rewards that await the ultimate victor.
 keywords:
   [

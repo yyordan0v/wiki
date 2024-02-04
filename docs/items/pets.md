@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Pets
@@ -69,4 +69,4 @@ The following table will compare the stats all three of these pets give to it's 
 | Increase Damage |                       30%                        |                         35%                          |                     40%                      |
 |  Damage Absorb  |                       10%                        |                         20%                          |                     25%                      |
 |   Increase HP   |                                                  |                        +1,000                        |                    +3,000                    |
-|     Special     |                                                  |                                                      |             Reflect Damage +10%              |
+|     Special     |                                                  |                                                      |           Ignor defense Chance +3%           |

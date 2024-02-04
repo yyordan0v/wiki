@@ -46,7 +46,6 @@ The following table provides information on how much Zen the respective **Chaos 
 |         +5         |  4,000,000   |
 |         +6         |  5,000,000   |
 |         +7         |  7,000,000   |
-|         +8         |  15,000,000  |
 
 :::info
 

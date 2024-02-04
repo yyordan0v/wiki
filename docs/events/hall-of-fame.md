@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 9
 description: Engage in fierce 1v1 battles and showcase your combat skills in the Hall of Fame Event in Lotus Mu. Learn about the event mechanics, how to participate, and the rewarding journey to become the final winner. Ready to prove your prowess?
 keywords:
   [

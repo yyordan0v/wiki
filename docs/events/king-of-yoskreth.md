@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 10
 description: Engage in the epic King of Yoskreth event in Mu Online, a fierce guild-based combat for supremacy in the city of Yoskreth. Learn how to participate, seize the tomb, and reap the rewards for your guild and individual achievements.
 keywords:
   [

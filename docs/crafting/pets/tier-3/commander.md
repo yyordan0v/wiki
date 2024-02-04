@@ -62,7 +62,7 @@ Hero equiped with the **Commander** gets the following bonuses:
 - Increased Damage & Wizardry Damage by **40%**
 - **25%** of Damage Absorb
 - Increased maximum HP by **+3,000**
-- Reflect Damage **+10%**
+- Ignor defense Chance **+3%**
 
 :::note
 

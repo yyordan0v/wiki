@@ -57,6 +57,8 @@ Detailed information on the crafting process you can find in the [Devil Square I
 
 - A minimum of **1 player** must enter, or it will not start.
 - A maximum of **15 players** can join in a single instance.
+- Entry limit per **24 hours**: **3 entries**.
+- Entry limit per **24 hours**: **4 entries** for **VIP Players**.
 - Party is **allowed** and can be formed inside the **Devil Square** map.
 - Any character with a PK Status cannot enter the **Devil Square** map.
 - Combat adjustments:
