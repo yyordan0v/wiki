@@ -30,33 +30,34 @@ You can also check this list of commands while playing through the [Especial Men
 
 :::
 
-| Command                 | Description                                                                 |
-| ----------------------- | --------------------------------------------------------------------------- |
-| `/move <map name>`      | Moves your character to a certain map.                                      |
-| `/post <message>`       | Post a global message to the server.                                        |
-| `/str <value>`          | Add points in Strength.                                                     |
-| `/agi <value>`          | Add points in Agility.                                                      |
-| `/vit <value>`          | Add points in Vitality.                                                     |
-| `/ene <value>`          | Add points in Energy.                                                       |
-| `/cmd <value>`          | Add points in Command.                                                      |
-| `/readd`                | Re-assign your stats (available to **VIP Players** only).                   |
-| `/pkclear`              | Clear player kills (available to **VIP Players** only).                     |
-| `/re on`                | Turn on all requests.                                                       |
-| `/re off`               | Turn off all requests.                                                      |
-| `/re auto`              | Automatically accepts all requests.                                         |
-| `/setparty <password>`  | Create a party that can be joined with a password.                          |
-| `/joinparty <password>` | Join a party which has a password.                                          |
-| `/quest`                | Shows the necessary requisites for the current quest.                       |
-| `/lock <password>`      | Locks your items for trade/sale.                                            |
-| `/unlock <password>`    | Unlocks your items for trade/sale.                                          |
-| `/pack <type> <qty>`    | Bundles your jewels (Bless, Soul, Life etc.).                               |
-| `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                     |
-| `/war <guild name>`     | Challenge another guild to a Guild War.                                     |
-| `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                 |
-| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                    |
-| `/king`                 | Seize the throne in the [King of Yoskreth](/events/king-of-yoskreth) Event. |
-| `/join`                 | Join in an Event.                                                           |
-| `/go`                   | Join Events.                                                                |
+| Command                 | Description                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| `/move <map name>`      | Moves your character to a certain map.                                         |
+| `/post <message>`       | Post a global message to the server.                                           |
+| `/str <value>`          | Add points in Strength.                                                        |
+| `/agi <value>`          | Add points in Agility.                                                         |
+| `/vit <value>`          | Add points in Vitality.                                                        |
+| `/ene <value>`          | Add points in Energy.                                                          |
+| `/cmd <value>`          | Add points in Command.                                                         |
+| `/readd`                | Re-assign your stats for **FREE** (available to **VIP Players** only).         |
+| `/wh`                   | Open warehouse in safe zones (available to **VIP Players** only).              |
+| `/pkclear`              | Clear player kills (available to **VIP Players** only). Cost - always 10kk Zen |
+| `/re on`                | Turn on all requests.                                                          |
+| `/re off`               | Turn off all requests.                                                         |
+| `/re auto`              | Automatically accepts all requests.                                            |
+| `/setparty <password>`  | Create a party that can be joined with a password.                             |
+| `/joinparty <password>` | Join a party which has a password.                                             |
+| `/quest`                | Shows the necessary requisites for the current quest.                          |
+| `/lock <password>`      | Locks your items for trade/sale.                                               |
+| `/unlock <password>`    | Unlocks your items for trade/sale.                                             |
+| `/pack <type> <qty>`    | Bundles your jewels (Bless, Soul, Life etc.).                                  |
+| `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                        |
+| `/war <guild name>`     | Challenge another guild to a Guild War.                                        |
+| `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                    |
+| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                       |
+| `/king`                 | Seize the throne in the [King of Yoskreth](/events/king-of-yoskreth) Event.    |
+| `/join`                 | Join in an Event.                                                              |
+| `/go`                   | Join Events.                                                                   |
 
 :::info
 
