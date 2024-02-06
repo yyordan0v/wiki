@@ -187,6 +187,11 @@ const config = {
           autoCollapseCategories: true,
         },
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
     }),
 };
 
