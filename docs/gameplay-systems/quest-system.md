@@ -84,7 +84,7 @@ The following table represents all the quests in Lotus Mu.
 | 20  | Assassin                      |  5   | Devias                | Jewel of Bless                                                 |     10      |              |
 | 21  | Yeti                          |  30  | Devias                | [Heart of love](/items/item-bags/non-exc/heart-of-love)        |             |              |
 | 22  | Elite Yeti                    |  35  | Devias                | 6kk Zen                                                        |             |      5       |
-| 23  | Ice Queen                     |  1   | Devias(45,205)        | **`Reward by Class`**                                          |     15      |              |
+| 23  | Ice Queen                     |  1   | Devias(45,205)        | Reward by Class                                                |     15      |              |
 | 24  | Cyclops                       |  40  | Dungeon               | [Heart of love](/items/item-bags/non-exc/heart-of-love)        |             |              |
 | 25  | Chief Skeleton Warrior        |  45  | Dungeon               | Jewel of Chaos                                                 |             |      5       |
 | 26  | Thunder Lich                  |  50  | Dungeon               | 7kk Zen                                                        |     10      |              |
@@ -121,7 +121,7 @@ The following table represents all the quests in Lotus Mu.
 | 57  | Lizard King                   | 150  | Atlans3(30,210)       | Jewel of Chaos                                                 |             |      10      |
 | 58  | Sealithan                     | 120  | Atlans3(170,140)      | [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)         |             |      10      |
 | 59  | Pudge                         |  5   | Dungeon2(180,240)     | 40kk Zen                                                       |     40      |              |
-| 60  | Hydra                         |  3   | Atlans3(30,230)       | **`Reward by Class`**                                          |     100     |              |
+| 60  | Hydra                         |  3   | Atlans3(30,230)       | Reward by Class                                                |     100     |              |
 | 61  | Mutant                        | 210  | Tarkan                | Jewel of Soul                                                  |             |      20      |
 | 62  | The Mummy                     |  3   | Dungeon2(240,230)     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)     |     100     |              |
 | 63  | Blood Wolf                    | 220  | Tarkan                | [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)         |             |      20      |
