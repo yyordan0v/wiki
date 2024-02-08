@@ -52,7 +52,7 @@ Please note that the drop rates for these items may vary and the items are **exc
 
 To obtain the **Red Chaos Box**, adventurers must complete [quests](/gameplay-systems/quest-system) or to triumph over the following formidable creatures:
 
-|   [Golden Knight](/special-monsters/invasions/golden-great-dragon)    |     [Death King](/special-monsters/invasions/death-king)      | [Illusion of Kundun (Kalima 6)](/special-monsters/mini-bosses/illusion-of-kundun) |
+|   [Golden Knight](/special-monsters/invasions/golden-great-dragon)    |       [Death King](/special-monsters/bosses/death-king)       | [Illusion of Kundun (Kalima 6)](/special-monsters/mini-bosses/illusion-of-kundun) |
 | :-------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | ![Golden Knight](/img/monsters/special/golden/golden-iron-knight.jpg) | ![Death King](/img/monsters/special/invasions/death-king.jpg) |   ![Illusion of Kundun (Kalima 6)](/img/monsters/kalima/illusion-of-kundun.jpg)   |
 
