@@ -61,4 +61,6 @@ Maximum resets in **Yoskreth - x10** will be raised throught the time as follows
 
 Resets are made in-game via the **`Reset Button`** (see below).
 
-`PLACE IMAGE`
+![Reset Button](/img/client-features/reset-btn.jpg)
+
+_Reset Button_
