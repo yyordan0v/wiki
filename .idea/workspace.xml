@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2915c2be-42c0-4ee8-8275-8827c4ad06f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/crafting/pets/ghost-horse.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/crafting/pets/necromancer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/crafting/pets/spirit-of-nature.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/item-bags/exc/green-chaos-box.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/item-bags/misc/golden-box.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/items/item-bags/misc/golden-box.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/item-bags/misc/purple-chaos-box.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/items/item-bags/misc/purple-chaos-box.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/jewels/prismatic-gems/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/jewels/prismatic-gems/darkhorse-gems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/jewels/prismatic-gems/dragon-gems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/jewels/prismatic-gems/fenrir-gems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/items/jewels/prismatic-gems/ghost-horse-gems.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/skin-system.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/special-monsters/bosses/balgass.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/special-monsters/bosses/balgass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/special-monsters/bosses/kundun.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/special-monsters/bosses/kundun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/special-monsters/bosses/medusa.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/special-monsters/bosses/medusa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/special-monsters/bosses/selupan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/special-monsters/bosses/selupan.md" afterDir="false" />
-    </list>
+    <list default="true" id="2915c2be-42c0-4ee8-8275-8827c4ad06f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,24 +39,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.laravel-idea.search-composer-json": "true",
-    "ToolWindowProblems.ShowToolbar": "false",
-    "git-widget-placeholder": "mayhem",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/media/void/444C49112C824AAF/Работилничка/Lotus Mu/wiki",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Markdown",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;ToolWindowProblems.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;mayhem&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/void/444C49112C824AAF/Работилничка/Lotus Mu/wiki&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Markdown&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +76,7 @@
       <workItem from="1706954403414" duration="1552000" />
       <workItem from="1706956323540" duration="244000" />
       <workItem from="1706971091484" duration="703000" />
+      <workItem from="1707392141992" duration="10000" />
     </task>
     <servers />
   </component>

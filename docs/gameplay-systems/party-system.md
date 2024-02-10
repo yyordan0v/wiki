@@ -34,10 +34,10 @@ The Party Bonus EXP gained is determined based on the personal Base EXP of each 
 
 There are two types of Party Bonuses: the **General Party Bonus**, which is obtained when **any combination** of Character Classes are in a party, and the **Character Set Party Bonus**, which is acquired when a **specific combination** of Character Classes are present in a party.
 
-|     Party Bonus     | Two Members  | Three Members | Four Members | Five Members |
-| :-----------------: | :----------: | :-----------: | :----------: | :----------: |
-|    General Party    | **-25%** EXP | **-20%** EXP  | **-15%** EXP | **-10%** EXP |
-| Character Set Party | **-25%** EXP | **+10%** EXP  | **+15%** EXP | **+20%** EXP |
+|     Party Bonus     | Two Members | Three Members | Four Members | Five Members |
+| :-----------------: | :---------: | :-----------: | :----------: | :----------: |
+|    General Party    | **+2%** EXP |  **+5%** EXP  | **+7%** EXP  | **+10%** EXP |
+| Character Set Party | **+5%** EXP | **+10%** EXP  | **+15%** EXP | **+20%** EXP |
 
 :::tip
 
