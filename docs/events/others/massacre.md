@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 7
 description: Engage in the adrenaline-pumping Massacre Event in Lotus Mu, a GM-triggered PvP competition where 20 players battle in a free-for-all. Learn how to participate, the rules and objectives, event specifications, and the rewards for top placements.
 keywords:
   [

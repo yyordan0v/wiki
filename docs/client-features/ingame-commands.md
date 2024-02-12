@@ -54,7 +54,6 @@ You can also check this list of commands while playing through the [Especial Men
 | `/unpack <type> <qty>`  | Unbundles your bundled jewels (Bless, Soul, Life etc.).                        |
 | `/war <guild name>`     | Challenge another guild to a Guild War.                                        |
 | `/soccer <guild name>`  | Challenge another guild to a Battle Soccer.                                    |
-| `/resp <answer>`        | Responds to the [Quiz Event](/events/others/quiz-event).                       |
 | `/king`                 | Seize the throne in the [King of Yoskreth](/events/king-of-yoskreth) Event.    |
 | `/join`                 | Join in an Event.                                                              |
 | `/go`                   | Join Events.                                                                   |

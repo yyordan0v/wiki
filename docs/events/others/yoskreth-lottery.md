@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 description: Learn about the Yoskreth Lottery in Lotus Mu, a special event where players have the chance to win exciting rewards through a random selection process. Understand the event mechanism, how to participate, and embrace the element of surprise as you anticipate being the lucky recipient.
 keywords:
   [

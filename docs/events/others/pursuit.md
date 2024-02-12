@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 description: Participate in the Pursuit Event in Lotus Mu, a GM-triggered challenge that tests players' agility and strategic thinking. Learn how to join, the rules of pursuit, and the ultimate goal of being the last survivor. The reward for the winner is a Red Chocolate Box.
 keywords:
   [

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 6
 description: Join the electrifying Russian Roulette Event in Lotus Mu, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Lilac Candy Box and experience the daring showdown.
 keywords:
   [

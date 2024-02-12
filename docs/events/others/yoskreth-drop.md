@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 description: Participate in the Yoskreth Drop Event in Lotus Mu, a recurring event offering players the chance to collect valuable items. Learn about the event details, timing, and the items available for pickup. Enhance your gameplay by seizing unique rewards during this time-limited event.
 keywords:
   [
