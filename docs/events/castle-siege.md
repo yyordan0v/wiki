@@ -46,7 +46,7 @@ _Castle Siege cycle_
 
 :::info
 
-The first Castle Siege cycle will start on **26-03-2024** in **Yoskreth - x10**.
+The first Castle Siege cycle will start on **26-02-2024** in **Yoskreth - x10**.
 
 :::
 
