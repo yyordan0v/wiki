@@ -18,6 +18,12 @@ The **Golden Box** randomly yields **a collection of x3 items** from the followi
 | :---------------------------------------------------------------: | :-------------------------------------------------------------: | :----------------------------------------------------------------: |
 | ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png) | ![Blue Ribbon Box](/img/items/item-bags/box-of-blue-ribbon.png) | ![Blue Chocolate Box](/img/items/item-bags/blue-chocolate-box.png) |
 
+:::note
+
+The drop is random, meaning you can get various combinations of the item bags listed above.
+
+:::
+
 ## Obtaining the Golden Box
 
 ### Senior Mix
