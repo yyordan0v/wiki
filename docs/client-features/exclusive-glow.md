@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 11
 description: Learn about the Exclusive Glow feature in Lotus Mu, offering the opportunity to customize your character's appearance by modifying colors and glows of armor items, weapons, and wings. Discover how to access the Exclusive Glow Settings Menu, preview configurations, and apply unique glows to your in-game items.
 keywords:
   [

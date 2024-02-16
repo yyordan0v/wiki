@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 5
 description: Explore the Lotus Mu Item Bank, a secure repository for safeguarding and managing your valuable collection of harvested jewels and resources. Learn how to access the Item Bank through the Especial Menu or by using the 'J' key, and discover the convenience of depositing and withdrawing items. Enhance your gaming experience by ensuring your hard-earned treasures are readily available, regardless of your in-game location.
 keywords:
   [

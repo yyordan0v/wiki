@@ -26,7 +26,7 @@ The **White Wizard** and his troops appear on all of the aforementioned maps.
 
 ## Schedule
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+You have the option to utilize the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
 

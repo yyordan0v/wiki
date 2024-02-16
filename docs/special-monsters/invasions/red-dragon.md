@@ -26,7 +26,7 @@ You can find the invaders close to the safe zones of the mentioned maps.
 
 ## Schedule
 
-You have the option to utilize either our [in-game schedule](/client-features/schedule) or the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
+You have the option to utilize the [website schedule](https://lotusmu.org/schedule) to check the remaining time before the next instance commences.
 
 Please take into account that the invasion timer is based on the server time.
 
