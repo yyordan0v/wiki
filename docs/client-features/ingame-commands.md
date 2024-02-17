@@ -36,7 +36,7 @@ You can also check this list of commands while playing through the [Especial Men
 | `/post <message>`       | Post a global message to the server.                                           |
 | `/str <value>`          | Add points in Strength.                                                        |
 | `/agi <value>`          | Add points in Agility.                                                         |
-| `/sta <value>`          | Add points in Vitality.                                                        |
+| `/sta <value>`          | Add points in Stamina.                                                        |
 | `/ene <value>`          | Add points in Energy.                                                          |
 | `/cmd <value>`          | Add points in Command.                                                         |
 | `/readd`                | Re-assign your stats for **FREE** (available to **VIP Players** only).         |
