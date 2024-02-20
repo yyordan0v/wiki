@@ -42,8 +42,8 @@ To move to the **VIP Arena** you need to type one of the following commands:
 
 ## Monsters in VIP Arena
 
-|                         Death Gorgon                         |                    Mega Crust                     |                     Alpha Crust                      |                            Venomous Chain Scorpion                            |
-| :----------------------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------------: |
-|  ![Death Gorgon](/img/monsters/losttower/death-gorgon.jpg)   | ![Megacrust](/img/monsters/icarus/mega-crust.jpg) | ![Alpha Crust](/img/monsters/icarus/alpha-crust.jpg) | ![Venomous Chain Scorpion](/img/monsters/karutan/venomous-chain-scorpion.jpg) |
-|                         Blaze Napin                          |                      Cryptos                      |                      Narcondra                       |                                 Dark Coolutin                                 |
-| ![Blaze Napin](/img/monsters/swamp-of-peace/blaze-napin.jpg) |   ![Cryptos](/img/monsters/karutan/crypos.jpg)    |  ![Narcondra](/img/monsters/karutan/narcondra.jpg)   |          ![Dark Coolutin](/img/monsters/la-cleon/dark-coolutin.jpg)           |
+|                       Death Gorgon                        |                    Mega Crust                     |                     Alpha Crust                      |                            Venomous Chain Scorpion                            |
+| :-------------------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------------------------------: |
+| ![Death Gorgon](/img/monsters/losttower/death-gorgon.jpg) | ![Megacrust](/img/monsters/icarus/mega-crust.jpg) | ![Alpha Crust](/img/monsters/icarus/alpha-crust.jpg) | ![Venomous Chain Scorpion](/img/monsters/karutan/venomous-chain-scorpion.jpg) |
+|                         Twin Tail                         |                      Cryptos                      |                      Narcondra                       |
+|     ![Twin Tail](/img/monsters/kanturu/twin-tale.jpg)     |   ![Cryptos](/img/monsters/karutan/crypos.jpg)    |  ![Narcondra](/img/monsters/karutan/narcondra.jpg)   |
