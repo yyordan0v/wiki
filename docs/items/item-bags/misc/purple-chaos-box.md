@@ -38,3 +38,6 @@ You can also obtain a **Purple Chaos Box** by winning in one of the following ev
 
 - [Illusion Temple 1-5](/events/illusion-temple)
 - [Pandora Event](/events/pandora)
+- [Massacre](/events/others/massacre)
+- [Pursuit Event](/events/others/pursuit)
+- [Russian Roulette](/events/others/russian-roulette)

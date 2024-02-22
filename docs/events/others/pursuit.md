@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-description: Participate in the Pursuit Event in Lotus Mu, a GM-triggered challenge that tests players' agility and strategic thinking. Learn how to join, the rules of pursuit, and the ultimate goal of being the last survivor. The reward for the winner is a Red Chocolate Box.
+description: Participate in the Pursuit Event in Lotus Mu, a GM-triggered challenge that tests players' agility and strategic thinking. Learn how to join, the rules of pursuit, and the ultimate goal of being the last survivor. The reward for the winner is a Purple Chaos Box.
 keywords:
   [
     Pursuit Event,
@@ -58,8 +58,8 @@ Experience the thrill of the **Pursuit Event** in Lotus Mu, where your ability t
 
 ## Reward
 
-The winner will be granted with a [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box/).
+The winner will be granted with a [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box/).
 
-![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Red Chocolate Box_
+_Purple Chaos Box_

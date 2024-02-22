@@ -50,11 +50,11 @@ Interacting with **Santa** signifies that you have successfully completed the ra
 
 _Race Event Winner_
 
-As a reward for your speed and determination, **Santa** will grant you a [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box).
+As a reward for your speed and determination, **Santa** will grant you a [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box).
 
-![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png)
+![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
 
-_Red Ribbon Box_
+_Lilac Candy Box_
 
 ## Strategy and Quick Thinking
 

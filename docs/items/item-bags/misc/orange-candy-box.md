@@ -22,6 +22,4 @@ The **Orange Candy Box** can drop one of the following items:
 
 ## Obtaining the Orange Candy Box
 
-In order to obtain a **Orange Candy Box** you need to win in one of the following events:
-
-- [Massacre](/events/others/massacre)
+In order to obtain a **Orange Candy Box** you need to complete various [quests](/gameplay-systems/quest-system).

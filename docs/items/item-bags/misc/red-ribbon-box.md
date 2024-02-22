@@ -30,5 +30,3 @@ Another way to obtain the **Red Ribbon Box** is to win in one of the following E
 
 - [Yoskreth Lottery](/events/others/yoskreth-lottery)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
-- [Race Event](/events/others/race)
-- [Massacre Event](/events/others/massacre)

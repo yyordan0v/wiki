@@ -29,3 +29,4 @@ In order to obtain a **Pink Chocolate Box** you need to win in one of the follow
 - [Yoskreth Drop](/events/others/yoskreth-drop)
 - [King of Yoskreth](/events/king-of-yoskreth)
 - [Hall of Fame](/events/hall-of-fame)
+- [Massacre Event](/events/others/massacre)

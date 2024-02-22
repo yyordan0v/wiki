@@ -77,8 +77,8 @@ Prepare for an adrenaline-pumping battle and demonstrate your combat prowess in 
 
 Players will be rewarded depending on their final placement as follows:
 
-| Rank | Reward                                                       |
-| ---- | ------------------------------------------------------------ |
-| 1.   | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |
-| 2.   | [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box) |
-| 3.   | [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box)       |
+| Rank | Reward                                                         |
+| ---- | -------------------------------------------------------------- |
+| 1.   | [3x Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)  |
+| 2.   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |
+| 3.   | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)       |

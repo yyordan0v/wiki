@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-description: Join the electrifying Russian Roulette Event in Lotus Mu, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Lilac Candy Box and experience the daring showdown.
+description: Join the electrifying Russian Roulette Event in Lotus Mu, a GM-triggered challenge that tests players' nerves and luck. Learn how to participate, the setup of the event, and the thrilling last-player-standing scenario. Engage for a chance to win the Purple Chaos Box and experience the daring showdown.
 keywords:
   [
     Russian Roulette,
@@ -12,7 +12,7 @@ keywords:
     Participation,
     Setup,
     Last Player Standing,
-    Lilac Candy Box,
+    Purple Chaos Box,
     Rewards,
   ]
 ---
@@ -71,8 +71,8 @@ Participate in the **Russian Roulette** Event in Lotus Mu for a heart-pounding t
 
 ## Reward
 
-The winner will be granted with a [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box/).
+The winner will be granted with [3x Purple Chaos Boxes](/items/item-bags/misc/purple-chaos-box/).
 
-![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
+![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
 
-_Lilac Candy Box_
+_Purple Chaos Box_

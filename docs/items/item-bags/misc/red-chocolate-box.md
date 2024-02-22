@@ -26,7 +26,4 @@ To obtain the **Red Chocolate Box**, adventurers must complete [quests](/gamepla
 
 - [Blood Castle 1 - 6](/events/blood-castle)
 - [Hide n' Seek](/events/others/hide-n-seek)
-- [Pursuit Event](/events/others/pursuit)
-- [Russian Roulette](/events/others/russian-roulette)
-- [Massacre Event](/events/others/massacre)
 - [Yoskreth Drop](/events/others/yoskreth-drop)
