@@ -40,9 +40,9 @@ Prepare yourself for intense encounters with the **White Wizard** and his menaci
 
 When a player successfully vanquishes a **White Wizard**, they will receive a rewarding prize - **2 Credits** and one of the following:
 
-| [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [10 Bundled Jewels of Life](/items/jewels/regular-jewels/jewel-of-life) |
-| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|       ![10 Bundled Jewels of Bless](/img/items/jewels/bless-10.png)       |       ![10 Bundled Jewels of Soul](/img/items/jewels/soul-10.png)       |       ![10 Bundled Jewels of Life](/img/items/jewels/life-10.png)       |
+| [10 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless) | [10 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul) | [10 Bundled Jewels of Life](/items/jewels/regular-jewels/jewel-of-life) |                         **Talisman of Chaos Assembly**                          |
+| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+|       ![10 Bundled Jewels of Bless](/img/items/jewels/bless-10.png)       |       ![10 Bundled Jewels of Soul](/img/items/jewels/soul-10.png)       |       ![10 Bundled Jewels of Life](/img/items/jewels/life-10.png)       | ![Talisman of Chaos Assembly](/img/items/others/talisman-of-chaos-assembly.png) |
 
 ### Destructive Orcs
 
