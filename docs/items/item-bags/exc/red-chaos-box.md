@@ -24,11 +24,11 @@ The **Red Chaos Box** can drop one of the following items:
 
 ### Weapons
 
-|                        Sword of Destruction                         |                           Beuroba                           |                       Staff of Kundun                       |
-| :-----------------------------------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
-| ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) |           ![Beuroba](/img/items/spears/brova.png)           |  ![Staff of Kundun](/img/items/staffs/staff-of-kundun.png)  |
-|                            Albatross Bow                            |                      Dark Reign Blade                       |                       Shining Scepter                       |
-|         ![Albatross Bow](/img/items/bows/albatross-bow.png)         | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
+|                        Sword of Destruction                         |                        Beuroba                        |                       Staff of Kundun                       |
+| :-----------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: |
+| ![Sword of Destruction](/img/items/swords/sword-of-destruction.png) |        ![Beuroba](/img/items/spears/brova.png)        |  ![Staff of Kundun](/img/items/staffs/staff-of-kundun.png)  |
+|                            Albatross Bow                            |                     Thunder Blade                     |                       Shining Scepter                       |
+|         ![Albatross Bow](/img/items/bows/albatross-bow.png)         | ![Thunder Blade](/img/items/swords/thunder-blade.png) | ![Shining Scepter](/img/items/scepters/shining-scepter.png) |
 
 ### Shields
 

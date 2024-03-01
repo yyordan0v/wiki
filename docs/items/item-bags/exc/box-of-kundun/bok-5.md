@@ -22,11 +22,11 @@ The **Box of Kundun +5** can drop one of the following items:
 
 ### Weapons
 
-|                          Lighting Sword                           |                    Daybreak                     |                       Dragon Soul Staff                       |                        Staff of Destruction                         |
-| :---------------------------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------------: |
-|      ![Lighting Sword](/img/items/swords/lighting-sword.png)      |   ![Daybreak](/img/items/swords/daybreak.png)   | ![Dragon Soul Staff](/img/items/staffs/dragon-soul-staff.png) | ![Staff of Destruction](/img/items/staffs/staff-of-destruction.png) |
-|                       Great Reign Crossbow                        |                   Rune Blade                    |                         Lord Scepter                          |
-| ![Great Reign Crossbow](/img/items/bows/great-reign-crossbow.png) | ![Rune Blade](/img/items/swords/rune-blade.png) |     ![Lord Scepter](/img/items/scepters/lord-scepter.png)     |
+|                          Lighting Sword                           |                          Daybreak                           |                       Dragon Soul Staff                       |                        Staff of Destruction                         |
+| :---------------------------------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------------: |
+|      ![Lighting Sword](/img/items/swords/lighting-sword.png)      |         ![Daybreak](/img/items/swords/daybreak.png)         | ![Dragon Soul Staff](/img/items/staffs/dragon-soul-staff.png) | ![Staff of Destruction](/img/items/staffs/staff-of-destruction.png) |
+|                       Great Reign Crossbow                        |                      Dark Reign Blade                       |                         Lord Scepter                          |
+| ![Great Reign Crossbow](/img/items/bows/great-reign-crossbow.png) | ![Dark Reign Blade](/img/items/swords/dark-reign-blade.png) |     ![Lord Scepter](/img/items/scepters/lord-scepter.png)     |
 
 ### Shields
 

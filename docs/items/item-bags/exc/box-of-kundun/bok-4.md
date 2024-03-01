@@ -22,11 +22,11 @@ The **Box of Kundun +4** can drop one of the following items:
 
 ### Weapons
 
-|                             Double Blade                              |                     Dark Breaker                      |                      Saint Crossbow                       |                    Celestial Bow                    |
-| :-------------------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
-|          ![Double Blade](/img/items/swords/double-blade.png)          |  ![Dark Breaker](/img/items/swords/dark-breaker.png)  |   ![Saint Crossbow](/img/items/bows/saint-crossbow.png)   | ![Celestial Bow](/img/items/bows/celestial-bow.png) |
-|                         Staff of Resurrection                         |                     Thunder Blade                     |                      Master Scepter                       |
-| ![Staff of Resurrection](/img/items/staffs/staff-of-ressurection.png) | ![Thunder Blade](/img/items/swords/thunder-blade.png) | ![Master Scepter](/img/items/scepters/master-scepter.png) |
+|                             Double Blade                              |                    Dark Breaker                     |                      Saint Crossbow                       |                    Celestial Bow                    |
+| :-------------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
+|          ![Double Blade](/img/items/swords/double-blade.png)          | ![Dark Breaker](/img/items/swords/dark-breaker.png) |   ![Saint Crossbow](/img/items/bows/saint-crossbow.png)   | ![Celestial Bow](/img/items/bows/celestial-bow.png) |
+|                         Staff of Resurrection                         |                     Rune Blade                      |                      Master Scepter                       |
+| ![Staff of Resurrection](/img/items/staffs/staff-of-ressurection.png) |   ![Rune Blade](/img/items/swords/rune-blade.png)   | ![Master Scepter](/img/items/scepters/master-scepter.png) |
 
 ### Shields
 
