@@ -38,7 +38,7 @@ In order to get your hands on the **Commander** you need to acquire the followin
 - [30 Bundled Jewels of Bless](/items/jewels/regular-jewels/jewel-of-bless)
 - [30 Bundled Jewels of Soul](/items/jewels/regular-jewels/jewel-of-soul)
 - [Skeleton King](/crafting/pets/tier-2/skeleton-king)
-- [Wings of Storm or Wings of Ruin](/crafting/wings/third-level-wings) upgraded to **minimum level of +11** and **minimum of +4 additional damage / +1% hp Recovery**
+- [3rd Level Wings](/crafting/wings/third-level-wings) upgraded to **minimum level of +11** and **minimum of +4 additional damage / +1% hp Recovery**
 - 1,000,000,000 Zen
 
 :::info
