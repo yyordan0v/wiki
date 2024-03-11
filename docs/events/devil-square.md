@@ -104,14 +104,14 @@ Depending on your **score** which is based on how many monsters you killed durin
 
 For a comprehensive breakdown of the reward of the **Devil Square Winner**, refer to the table below.
 
-| Devil Square Level |                              Item                              | Event Points |
-| :----------------: | :------------------------------------------------------------: | :----------: |
-|   Devil Square 1   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
-|   Devil Square 2   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
-|   Devil Square 3   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |     5 EP     |
-|   Devil Square 4   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    10 EP     |
-|   Devil Square 5   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |    15 EP     |
-|   Devil Square 6   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |    20 EP     |
+| Devil Square Level |                              Item                              |
+| :----------------: | :------------------------------------------------------------: |
+|   Devil Square 1   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |
+|   Devil Square 2   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |
+|   Devil Square 3   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |
+|   Devil Square 4   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |
+|   Devil Square 5   |    [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)    |
+|   Devil Square 6   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |
 
 ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 

@@ -177,14 +177,14 @@ If both team have **equal Game Points** when the time expires the **Illusion Tem
 
 For a comprehensive breakdown of the **Illusion Temple rewards**, refer to the table below.
 
-| Illusion Temple Level |                            Item                            | Event Points |
-| :-------------------: | :--------------------------------------------------------: | :----------: |
-|   Illusion Temple 1   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |     5 EP     |
-|   Illusion Temple 2   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    10 EP     |
-|   Illusion Temple 3   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    15 EP     |
-|   Illusion Temple 4   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    20 EP     |
-|   Illusion Temple 5   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) |    40 EP     |
-|   Illusion Temple 6   | [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)  |    80 EP     |
+| Illusion Temple Level |                            Item                            |                  Lucky Ticket                  |
+| :-------------------: | :--------------------------------------------------------: | :--------------------------------------------: |
+|   Illusion Temple 1   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
+|   Illusion Temple 2   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
+|   Illusion Temple 3   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
+|   Illusion Temple 4   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
+|   Illusion Temple 5   | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box) | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
+|   Illusion Temple 6   | [Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)  | [1 Lucky Ticket](/gameplay-systems/lucky-spin) |
 
 ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) ![Green Ribbon Box](/img/items/item-bags/box-of-green-ribbon.png)
 

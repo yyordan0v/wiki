@@ -79,7 +79,7 @@ The outcome of the **Team Clash** Event is determined by the **accumulated point
 
 :::tip
 
-**Each player** on the **winning team** will receive **50 Event Points (EP)** and one of the following selection of items for their contribution:
+**Each player** on the **winning team** will receive **[1 Lucky Ticket](/gameplay-systems/lucky-spin)** and one of the following selection of items for their contribution:
 
 - **[Red Chaos Box](/items/item-bags/exc/red-chaos-box)**
 - **[Green Ribbon Box](/items/item-bags/exc/green-ribbon-box)**

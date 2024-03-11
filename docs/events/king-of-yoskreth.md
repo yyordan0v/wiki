@@ -73,7 +73,6 @@ The result of the **King of Yoskreth** event is determined by whoever guild **po
 
 **Each player** on the **winning guild** will receive the following well-deserved **reward** for their contribution:
 
-- **50 Event Points (EP)**
 - **[Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)**
 
   ![Lilac Candy Box](/img/items/item-bags/lilac-candy-box.png)
@@ -84,7 +83,9 @@ The result of the **King of Yoskreth** event is determined by whoever guild **po
 
 During the event additional rankigs are being held:
 
-1. **Tomb Holder** - the character that "locks" the Tomb for the longest period during the event instance will be rewarded with: **100 Event Points (EP)**.
+1. **Tomb Holder** - the character that "locks" the Tomb for the longest period during the event instance will be rewarded with:
+
+   - [1 Lucky Ticket](/gameplay-systems/lucky-spin).
 
 2. **Battle Points** - during the event instance the most active players will gain **Battle Points**. Using those **Battle Points** a individual ranking is being made.
 

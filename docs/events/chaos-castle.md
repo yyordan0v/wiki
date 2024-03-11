@@ -128,6 +128,12 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 | :------------------------------------------------------------: | :--------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------: |
 | ![Paladin Dark Phoenix](/img/items/armors/dk/dark-phoenix.png) | ![Astral Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Mistique Divine](/img/items/armors/fe/divine.png)  | ![Fury Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Blaze Dark Steel](/img/items/armors/dl/dark-steel.png) |
 
+:::info
+
+A [Lucky Ticket](/gameplay-systems/lucky-spin) is always granted to the winner of **Chaos Castle**.
+
+:::
+
   </TabItem>
 
   <TabItem value="cc-6" label="Chaos Castle 6">
@@ -138,13 +144,14 @@ For a comprehensive breakdown of the **Chaos Castle rewards**, refer to the tabl
 |   [Wraith Dark Phoenix](/items/ancient-items/#ancient-sets)    |  [Scorch Grand Sould](/items/ancient-items/#ancient-sets)  | [Celestia Divine](/items/ancient-items/#ancient-sets) |   [Raptor Thunder Hawk](/items/ancient-items/#ancient-sets)   |  [Shadow Dark Steel](/items/ancient-items/#ancient-sets)  |
 | ![Wraith Dark Phoenix](/img/items/armors/dk/dark-phoenix.png)  | ![Scorch Grand Sould](/img/items/armors/dw/grand-soul.png) |  ![Celestia Divine](/img/items/armors/fe/divine.png)  | ![Raptor Thunder Hawk](/img/items/armors/mg/thunder-hawk.png) | ![Shadow Dark Steel](/img/items/armors/dl/dark-steel.png) |
 
-:::tip
+:::info
 
-There is also chance to receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 6**.
+- A [Lucky Ticket](/gameplay-systems/lucky-spin) is always granted to the winner of **Chaos Castle**.
+- There is also chance to receive a [Condor Flame](/items/condor-flame) by winnging **Chaos Castle 6**.
 
-![Condor Flame](/img/items/others/condor-flame.png)
+  ![Condor Flame](/img/items/others/condor-flame.png)
 
-_Condor Flame_
+  _Condor Flame_
 
 :::
 

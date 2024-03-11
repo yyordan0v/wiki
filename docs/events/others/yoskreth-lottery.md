@@ -25,7 +25,7 @@ The **Yoskreth Lottery** is a special occurrence in **Lotus Mu** that offers pla
 
 During the **Yoskreth Lottery** a **random online character** is chosen to be the lucky recipient of rewards.
 
-The selection process is **entirely random**, ensuring fairness and unpredictability. The **selected character** will be rewarded with a [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box) and **5 Event Points** as a token of their good fortune.
+The selection process is **entirely random**, ensuring fairness and unpredictability. The **selected character** will be rewarded with a [Red Ribbon Box](/items/item-bags/misc/red-ribbon-box) and as a token of their good fortune.
 
 ![Red Ribbon Box](/img/items/item-bags/box-of-red-ribbon.png)
 

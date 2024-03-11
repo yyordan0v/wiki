@@ -154,15 +154,15 @@ The Blood Castle duration is **15 minutes**.
 
 For a comprehensive breakdown of the **Blood Castle rewards**, refer to the table below.
 
-| Blood Castle Level |                              Item                               | Event Points |
-| :----------------: | :-------------------------------------------------------------: | :----------: |
-|   Blood Castle 1   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 2   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 3   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 4   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |     5 EP     |
-|   Blood Castle 5   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    10 EP     |
-|   Blood Castle 6   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |    15 EP     |
-|   Blood Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |    20 EP     |
+| Blood Castle Level |                              Item                               |
+| :----------------: | :-------------------------------------------------------------: |
+|   Blood Castle 1   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 2   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 3   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 4   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 5   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 6   |  [Red Chocolate Box](/items/item-bags/misc/red-chocolate-box)   |
+|   Blood Castle 7   | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box/) |
 
 ![Red Chocolate Box](/img/items/item-bags/red-chocolate-box.png) ![Pink Chocolate Box](/img/items/item-bags/pink-chocolate-box.png)
 

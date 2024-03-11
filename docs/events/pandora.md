@@ -76,7 +76,7 @@ The **Pandora** Event in **Lotus Mu** is a true test of cunning and adaptability
 
 The winner in the event will receive the following as a reward:
 
-- **60 Event Points (EP)**;
+- **[1 Lucky Ticket](/gameplay-systems/lucky-spin)**;
 - **3x** **[Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)**;
 
   ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png)
