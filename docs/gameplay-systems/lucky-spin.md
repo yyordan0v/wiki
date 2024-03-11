@@ -92,7 +92,7 @@ Here is a list of all possible rewards:
 |           ![Ring of Ice](/img/items/rings-pendants/ring-of-ice.png)            |         ![Ring of Poison](/img/items/rings-pendants/ring-of-poison.png)         |       ![Ring of Earth](/img/items/rings-pendants/ring-of-earth.png)        |         ![Ring of Fire](/img/items/rings-pendants/ring-of-fire.png)         |         ![Ring of Wind](/img/items/rings-pendants/ring-of-wind.png)          |
 |  **Pendant of Fire** [<span className="tier-legendary">**Legendary**</span>]   | **Pendant of Lighting** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Ice** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Wind** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Water** [<span className="tier-legendary">**Legendary**</span>] |
 |       ![Pendant of Fire](/img/items/rings-pendants/pendant-of-fire.png)        |    ![Pendant of Lighting](/img/items/rings-pendants/pendant-of-lighting.png)    |      ![Pendant of Ice](/img/items/rings-pendants/pendant-of-ice.png)       |      ![Pendant of Wind](/img/items/rings-pendants/pendant-of-wind.png)      |     ![Pendant of Water](/img/items/rings-pendants/pendant-of-water.png)      |
-| **10,000 Credits Gem** [<span className="tier-Legendary">**Legendary**</span>] |    **Condor Flame** [<span className="tier-legendary">**Legendary**</span>]     |
+| **10,000 Credits Gem** [<span className="tier-legendary">**Legendary**</span>] |    **Condor Flame** [<span className="tier-legendary">**Legendary**</span>]     |
 |                 ![Credits Gem](/img/items/jewels/10k-gem.jpg)                  |               ![Condor Flame](/img/items/others/condor-flame.png)               |
 
 :::info
