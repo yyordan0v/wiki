@@ -89,8 +89,6 @@ To to so, you will need to get a special jewels from **Silvia** in [Yoskreth](/m
 
 _Silvia_
 
-### Purple Dragon
-
 You need to use a jewel named **Purple Dragon Add/Remove** on your [Skeleton King](/items/pets#knights--gladiators-pets) to transform it into the **Purple Dragon Mount**.
 
 ![Purple Dragon Add/Remove](/img/items/jewels/purpledragon-jewel.jpg)

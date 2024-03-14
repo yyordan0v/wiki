@@ -90,8 +90,6 @@ To to so, you will need to get a special jewels from **Silvia** in [Yoskreth](/m
 
 _Silvia_
 
-### Steel Dragon
-
 You need to use a jewel named **Steel Dragon Add/Remove** on your [Commander](/items/pets#knights--gladiators-pets) to transform it into the **Steel Dragon Mount**.
 
 ![Steel Dragon Add/Remove](/img/items/jewels/steeldragon-jewel.jpg)
