@@ -69,3 +69,31 @@ Hero equiped with the **Commander** gets the following bonuses:
 The Commander can be only used by the **Knights and Gladiators** classes.
 
 :::
+
+## Transformation
+
+You can transform the [Commander](/items/pets#knights--gladiators-pets) into mount - the **Steel Dragon**.
+
+![Steel Dragon](/img/items/pets/steel-dragon.jpg)
+
+_Steel Dragon_
+
+:::tip
+
+This process is **reversible**, meaning that you can transform a mount back to its original form - the Commander.
+
+:::
+
+To to so, you will need to get a special jewels from **Silvia** in [Yoskreth](/maps/yoskreth).
+
+![Silvia](/img/npc/silvia.jpg)
+
+_Silvia_
+
+## Steel Dragon
+
+You need to use a jewel named **Steel Dragon Add/Remove** on your [Commander](/items/pets#knights--gladiators-pets) to transform it into the **Steel Dragon Mount**.
+
+![Steel Dragon Add/Remove](/img/items/jewels/steeldragon-jewel.jpg)
+
+_Steel Dragon Add/Remove_

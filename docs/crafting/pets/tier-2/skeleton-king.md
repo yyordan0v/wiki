@@ -68,3 +68,31 @@ Hero equiped with the **Skeleton King** gets the following bonuses:
 The Skeleton King can be only used by the **Knights and Gladiators** classes.
 
 :::
+
+## Transformation
+
+You can transform the [Skeleton King](/items/pets#knights--gladiators-pets) into mount - **Purple Dragon**.
+
+![Purple Dragon](/img/items/pets/purple-dragon.jpg)
+
+_Purple Dragon_
+
+:::tip
+
+This process is **reversible**, meaning that you can transform a mount back to its original form - the Skeleton King.
+
+:::
+
+To to so, you will need to get a special jewels from **Silvia** in [Yoskreth](/maps/yoskreth).
+
+![Silvia](/img/npc/silvia.jpg)
+
+_Silvia_
+
+## Purple Dragon
+
+You need to use a jewel named **Purple Dragon Add/Remove** on your [Skeleton King](/items/pets#knights--gladiators-pets) to transform it into the **Purple Dragon Mount**.
+
+![Purple Dragon Add/Remove](/img/items/jewels/purpledragon-jewel.jpg)
+
+_Purple Dragon Add/Remove_
