@@ -16,10 +16,11 @@ _Golden Crust_
 
 The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Crust** across the realm.
 
-|          Location          | Quantity |           Respawn Time            |
-| :------------------------: | :------: | :-------------------------------: |
-| [Icewrack](/maps/icewrack) |    2     | **30 minutes** after being killed |
-| [Ashkavor](/maps/ashkavor) |    2     | **30 minutes** after being killed |
+|                Location                | Quantity |           Respawn Time            |
+| :------------------------------------: | :------: | :-------------------------------: |
+|       [Icewrack](/maps/icewrack)       |    2     | **30 minutes** after being killed |
+|       [Ashkavor](/maps/ashkavor)       |    2     | **30 minutes** after being killed |
+| [Land of Trials](/maps/land-of-trials) |    2     | **30 minutes** after being killed |
 
 ## Reward
 

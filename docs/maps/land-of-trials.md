@@ -28,11 +28,13 @@ The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies 
 
 ### Special Monsters
 
-|     [Golden Rabbit](/special-monsters/others/golden-rabbit)      |  [Golden Dark Knight](/special-monsters/others/golden-dark-knight)  |   [Golden Devil](/special-monsters/others/golden-devil)    |        [Golden Satyros](/special-monsters/others/golden-satyros)         |
-| :--------------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------: |
-| ![Golden Rabbit](/img/monsters/special/golden/golden-rabbit.jpg) | ![Golden Dark Knight](/img/monsters/special/golden/dark-knight.jpg) |  ![Golden Devil](/img/monsters/special/golden/devil.jpg)   |       ![Golden Satyros](/img/monsters/special/golden/satyros.jpg)        |
-|          [Axl Hero](/special-monsters/others/axl-hero)           |         [Hero Mutant](/special-monsters/others/hero-mutant)         |     [Omega Wing](/special-monsters/others/omega-wing)      |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |
-|      ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)      |    ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg)     | ![Omega Wing](/img/monsters/special/others/omega-wing.jpg) | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) |
+|     [Golden Rabbit](/special-monsters/others/golden-rabbit)      |   [Golden Dark Knight](/special-monsters/others/golden-dark-knight)    |     [Golden Devil](/special-monsters/others/golden-devil)      |        [Golden Satyros](/special-monsters/others/golden-satyros)         |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------: | --- |
+| ![Golden Rabbit](/img/monsters/special/golden/golden-rabbit.jpg) |  ![Golden Dark Knight](/img/monsters/special/golden/dark-knight.jpg)   |    ![Golden Devil](/img/monsters/special/golden/devil.jpg)     |       ![Golden Satyros](/img/monsters/special/golden/satyros.jpg)        |
+|          [Axl Hero](/special-monsters/others/axl-hero)           |          [Hero Mutant](/special-monsters/others/hero-mutant)           |       [Omega Wing](/special-monsters/others/omega-wing)        |     [Pouch of Blessing](/special-monsters/others/pouch-of-blessing)      |
+|      ![Axl Hero](/img/monsters/special/others/axl-hero.jpg)      |      ![Hero Mutant](/img/monsters/special/others/hero-mutant.jpg)      |   ![Omega Wing](/img/monsters/special/others/omega-wing.jpg)   | ![Pouch of Blessing](/img/monsters/special/others/pouch-of-blessing.jpg) |
+|      [Lunar Rabbit](/special-monsters/others/lunar-rabbit)       |     [Fire Flame Ghost](/special-monsters/others/fire-flame-ghost)      |     [Golden Crust](/special-monsters/others/golden-crust)      |         [Golden Nappin](/special-monsters/others/golden-nappin)          |     |
+|  ![Lunar Rabbit](/img/monsters/special/others/lunar-rabbit.jpg)  | ![Fire Flame Ghost](/img/monsters/special/others/fire-flame-ghost.jpg) | ![Golden Crust](/img/monsters/special/golden/golden-crust.jpg) |     ![Golden Nappin](/img/monsters/special/golden/golden-nappin.jpg)     |
 
 ### Bosses
 
