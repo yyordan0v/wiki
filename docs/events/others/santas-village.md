@@ -6,7 +6,7 @@ sidebar_position: 8
 
 Each year, there is a winter celebration, in which Santa visits! During this special event, you can obtain an Invitation to **Santa's Village**.
 
-Use the ticket to go to **Santa's Villag**e for free presents and buffs.
+Use the ticket to go to **Santa's Village** for free presents and buffs.
 
 ## How to Participate
 
