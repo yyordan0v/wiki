@@ -47,6 +47,7 @@ To obtain the **Blue Chocolate Box**, adventurers must complete [quests](/gamepl
 You can also obtain a **Blue Chocolate Box** by winning in the following events:
 
 - [Hall of Fame](/events/hall-of-fame)
+- [Marathon](/events/others/marathon)
 
 There is a high chance of receiving the **Blue Chocolate Box** by dropping a [Golden Box](/items/item-bags/misc/golden-box).
 

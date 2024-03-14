@@ -61,3 +61,9 @@ There is also chance that you get **Red Chaos Box** dropped by one of the follow
 |   [Orange Candy Box](/items/item-bags/misc/orange-candy-box)   |   [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)   | [Box of Kundun +5](/items/item-bags/exc/box-of-kundun/bok-5) |
 | :------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Orange Candy Box](/img/items/item-bags/orange-candy-box.png) | ![Purple Chaos Box](/img/items/item-bags/purple-chaos-box.png) |     ![Box of Kundun +5](/img/items/item-bags/bok-5.png)      |
+
+:::note
+
+You can also win a **Red Chaos Box** by participating in the [Marathon](/events/others/marathon).
+
+:::

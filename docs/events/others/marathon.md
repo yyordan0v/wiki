@@ -9,7 +9,7 @@ Once per day, a **Marathon** will be held in Lotus Mu across the following maps:
 - [Lorencia](/maps/lorencia)
 - [Devias](/maps/devias)
 - [Noria](/maps/noria)
-- [Dungeon](/maps/dunbeon)
+- [Dungeon](/maps/dungeon)
 
 :::danger
 
