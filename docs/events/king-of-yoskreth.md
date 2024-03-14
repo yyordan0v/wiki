@@ -21,8 +21,6 @@ keywords:
 
 **King of Yoskreth** is an epic combat event that pits **guilds** against each other in a fierce battle for supremacy. This thrilling event places great importance on individual and guild performance, but the most important objective is holding the tomb at the event's conclusion.
 
-The battleground for the **King of Yoskreth** event is none other than the capital city of [Yoskreth](/maps/yoskreth) itself. This sprawling city becomes the epicenter of intense combat as guilds vie for control and supremacy.
-
 ## How to Participate
 
 To take part in the King of Yoskreth Event, follow these steps:
@@ -33,11 +31,7 @@ To take part in the King of Yoskreth Event, follow these steps:
 
    _System Notice_
 
-2. Engage with **Reimond Payne** in [Yoskreth](/maps/yoskreth) so you can go the battle arena dedicated for the **King of Yoskreth** Event.
-
-   ![Reimond Payne](/img/events/king/king-npc.jpg)
-
-   _Reimond Payne_
+2. Move to [The Citadel](/maps/the-citadel).
 
 3. A System Notice will mark the beginning of the Event.
 
@@ -53,11 +47,9 @@ The event lasts for **10 minutes**.
 
 Once the event starts, the priority is to seize the **tomb**. You can do this by going to a **specific place** (show in the picture below) in the battle arena an typing the following command: **`/king`**.
 
-![Seizing the Tomb](/img/events/king/king-throne.jpg)
+![Seizing the Tomb](/img/events/king/king-tomb.jpg)
 
 When you take the **tomb** a System Notice will notify the server that indeed your guild now holds the Tomb.
-
-![King of Yoskreth](/img/events/king/king-throne-2.jpg)
 
 :::tip
 

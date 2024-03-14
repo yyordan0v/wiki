@@ -14,7 +14,7 @@ The Citadel is **PK Free** map.
 
 :::
 
-![The Citadel](/img/maps/the-citadel.jpg)
+![The Citadel](/img/maps/the-citadel-new.jpg)
 
 _The Citadel_
 
