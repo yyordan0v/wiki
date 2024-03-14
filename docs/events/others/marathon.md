@@ -14,6 +14,7 @@ Once per day, a **Marathon** will be held in Lotus Mu across the following maps:
 :::danger
 
 During the **Marathon**, PK is **`forbidden`** on the aforementioned maps.
+
 _Violiting this rule will result in a 1-day account block._
 
 :::

@@ -45,6 +45,16 @@ When a player kills a **Golden Goblin**, they will receive a [Box of Kundun+1](/
 
 _Box of Kundun +1_
 
+:::tip
+
+There is also a chance to receive the [Jewel of Excellent](/items/jewels/superb-jewels/jewel-of-exc) by killing this creature.
+
+![Jewel of Excellent](/img/items/jewels/custom-red.png)
+
+_Jewel of Excellent_
+
+:::
+
   </TabItem>
 
   <TabItem value="golden-titan" label="Golden Titan">
