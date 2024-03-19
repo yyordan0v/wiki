@@ -38,6 +38,6 @@ The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies 
 
 ### Bosses
 
-|       [Death King](/special-monsters/bosses/death-king)       |     [Erohim](/special-monsters/bosses/erohim)      |     [Kundun](/special-monsters/bosses/kundun)      |
-| :-----------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
-| ![Death King](/img/monsters/special/invasions/death-king.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) | ![Kundun](/img/monsters/special/bosses/kundun.jpg) |
+|       [Death King](/special-monsters/bosses/death-king)       |     [Erohim](/special-monsters/bosses/erohim)      |     [Minotaur](/special-monsters/bosses/minotaur)      |     [Kundun](/special-monsters/bosses/kundun)      |
+| :-----------------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------: |
+| ![Death King](/img/monsters/special/invasions/death-king.jpg) | ![Erohim](/img/monsters/special/bosses/erohim.jpg) | ![Minotaur](/img/monsters/special/bosses/minotaur.jpg) | ![Kundun](/img/monsters/special/bosses/kundun.jpg) |
