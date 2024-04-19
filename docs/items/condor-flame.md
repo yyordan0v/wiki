@@ -20,6 +20,6 @@ _Condor Flame_
 
    _Pink Chocolate Box_
 
-3. There is also a chance of getting a **Condor Flame** while killing monsters in [Balgass](/maps/balgass).
+3. There is also chance of getting a **Condor Flame** while killing monsters in [Balgass](/maps/balgass).
 
 4. By succeeding in the [Condor Flame Chaos Mix](/crafting/wings/condor-flame)
