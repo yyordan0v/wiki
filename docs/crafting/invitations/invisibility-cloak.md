@@ -33,6 +33,16 @@ To craft the **Invisibility Cloak Mix**, you'll need two essential components:
 
 _Invisibility Cloak Crafting_
 
+:::tip
+
+For a **guaranteed** drop of the **Invisibility Cloak Ingredients** you can kill the [Dead Digger](/special-monsters/others/dead-digger) in either [Icewrack](/maps/icewrack), [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
+
+![Dead Digger](/img/monsters/special/others/dead-digger.jpg)
+
+_Dead Digger_
+
+:::
+
 The [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) serves as the catalyst for the fusion process, while the items provide the foundation for the creation of the **Invisibility Cloak**.
 
 The following table provides information on how much Zen the respective **Chaos Mix** will cost:

@@ -32,6 +32,16 @@ To craft the **Scroll of Blood**, you'll need two essential components:
 
 _Scroll of Blood Crafting_
 
+:::tip
+
+For a **guaranteed** drop of the **Scroll of Blood Ingredients** you can kill the [Mine Driller](/special-monsters/others/mine-driller) in either [Icewrack](/maps/icewrack), [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
+
+![Mine Driller](/img/monsters/special/others/mine-driller.jpg)
+
+_Mine Driller_
+
+:::
+
 The [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of the **Scroll of Blood**.
 
 The following table provides information on how much Zen the respective **Chaos Mix** will cost:

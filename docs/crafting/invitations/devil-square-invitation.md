@@ -33,6 +33,16 @@ To craft the **Devil Square Invitation Mix**, you'll need two essential componen
 
 _Devil Square Invitation Crafting_
 
+:::tip
+
+For a **guaranteed** drop of the **Devil Square Invitation Ingredients** you can kill the [Dead Showbell](/special-monsters/others/dead-showbell) in either [Icewrack](/maps/icewrack), [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
+
+[Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
+
+_Dead Showbell_
+
+:::
+
 The [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) serves as the catalyst for the fusion process, while the upgraded items provide the foundation for the creation of the **Devil Square Invitation**.
 
 The following table provides information on how much Zen the respective **Chaos Mix** will cost:

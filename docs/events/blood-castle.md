@@ -36,6 +36,16 @@ Risk your life to **Save the Archangel**. One of the strongest warriors in **Lot
 - The crafting ingredients (**Blood Bone** and **Scroll of Archangel**) can be obtained from monster drops or in [Yorskreth](/maps/yoskreth).
 - Additionally, you'll also need one [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) for the crafting.
 
+:::tip
+
+For a **guaranteed** drop of the **Invisibility Cloak Ingredients** you can kill the [Dead Digger](/special-monsters/others/dead-digger) in either [Icewrack](/maps/icewrack), [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
+
+![Dead Digger](/img/monsters/special/others/dead-digger.jpg)
+
+_Dead Digger_
+
+:::
+
 |                      Blood Fang                      |                                       |                          Scroll of Archangel                           |                                       | [Jewel of Chaos](/items/jewels/regular-jewels/jewel-of-chaos) |                                         |    [Invisibility Cloak](/crafting/invitations/invisibility-cloak)    |
 | :--------------------------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------: | :-----------------------------------------------------------: | :-------------------------------------: | :------------------------------------------------------------------: |
 | ![Blood Fang](/img/items/invitations/blood-bone.png) | ![Plus](/img/items/invitations/+.png) | ![Scroll of Archangel](/img/items/invitations/scroll-of-archangel.png) | ![Plus](/img/items/invitations/+.png) |        ![Jewel of Chaos](/img/items/jewels/chaos.png)         | ![Equals](/img/items/invitations/=.png) | ![Invisibility Cloak](/img/items/invitations/invisibility-cloak.png) |
