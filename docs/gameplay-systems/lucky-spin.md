@@ -24,14 +24,14 @@ You can win a **Lucky Ticket** by winning in one of the following events:
 - [Team Clash](/events/team-clash)
 - [Pandora](/events/pandora)
 
-Another way of obtaining a **Lucky Ticket** is by buying it in exchange for the in-game Credits. You can do so by utilizing either of the following commands:
+<!-- Another way of obtaining a **Lucky Ticket** is by buying it in exchange for the in-game Credits. You can do so by utilizing either of the following commands:
 
 - **`/buyticket`** (50 Credits) - receive 1 ticket;
 - **`/buyticket5`** (250 Credits) - receive 5 tickets;
 - **`/buyticket10`** (500 Credits) - receive 10 tickets;
 - **`/buyticket20`** (1000 Credits) - receive 20 tickets;
 - **`/buyticket50`** (2400 Credits) - receive 50 tickets;
-- **`/buyticket100`** (4500 Credits) - receive 100 tickets;
+- **`/buyticket100`** (4500 Credits) - receive 100 tickets; -->
 
 ## Rewards
 
@@ -85,19 +85,20 @@ Here is a list of all possible rewards:
 
 ### <span className="tier-legendary">Legendary Rewards</span>
 
-|       Bone Blade [<span className="tier-legendary">**Legendary**</span>]       |    Grand Viper Staff [<span className="tier-legendary">**Legendary**</span>]    |   Sylph Wind Bow [<span className="tier-legendary">**Legendary**</span>]   |   Explosion Blade [<span className="tier-legendary">**Legendary**</span>]   |    Soleil Scepter [<span className="tier-legendary">**Legendary**</span>]    |
-| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|                ![Bone Blade](/img/items/swords/bone-blade.png)                 |          ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png)          |           ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)            |          ![Explosion Blade](/img/items/swords/explosion-blade.png)          |          ![Soleil Scepter](/img/items/scepters/soleil-scepter.png)           |
-|    **Ring of Ice** [<span className="tier-legendary">**Legendary**</span>]     |   **Ring of Poison** [<span className="tier-legendary">**Legendary**</span>]    | **Ring of Earth** [<span className="tier-legendary">**Legendary**</span>]  |  **Ring of Fire** [<span className="tier-legendary">**Legendary**</span>]   |   **Ring of Wind** [<span className="tier-legendary">**Legendary**</span>]   |
-|           ![Ring of Ice](/img/items/rings-pendants/ring-of-ice.png)            |         ![Ring of Poison](/img/items/rings-pendants/ring-of-poison.png)         |       ![Ring of Earth](/img/items/rings-pendants/ring-of-earth.png)        |         ![Ring of Fire](/img/items/rings-pendants/ring-of-fire.png)         |         ![Ring of Wind](/img/items/rings-pendants/ring-of-wind.png)          |
-|  **Pendant of Fire** [<span className="tier-legendary">**Legendary**</span>]   | **Pendant of Lighting** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Ice** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Wind** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Water** [<span className="tier-legendary">**Legendary**</span>] |
-|       ![Pendant of Fire](/img/items/rings-pendants/pendant-of-fire.png)        |    ![Pendant of Lighting](/img/items/rings-pendants/pendant-of-lighting.png)    |      ![Pendant of Ice](/img/items/rings-pendants/pendant-of-ice.png)       |      ![Pendant of Wind](/img/items/rings-pendants/pendant-of-wind.png)      |     ![Pendant of Water](/img/items/rings-pendants/pendant-of-water.png)      |
-| **10,000 Credits Gem** [<span className="tier-legendary">**Legendary**</span>] |    **Condor Flame** [<span className="tier-legendary">**Legendary**</span>]     |
-|                 ![Credits Gem](/img/items/jewels/10k-gem.jpg)                  |               ![Condor Flame](/img/items/others/condor-flame.png)               |
+|       Bone Blade [<span className="tier-legendary">**Legendary**</span>]       | Grand Viper Staff [<span className="tier-legendary">**Legendary**</span>] | Sylph Wind Bow [<span className="tier-legendary">**Legendary**</span>] | Explosion Blade [<span className="tier-legendary">**Legendary**</span>] | Soleil Scepter [<span className="tier-legendary">**Legendary**</span>] |
+| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------: | :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                ![Bone Blade](/img/items/swords/bone-blade.png)                 |       ![Grand Viper Staff](/img/items/staffs/grand-viper-staff.png)       |         ![Sylph Wind Bow](/img/items/bows/sylph-wind-bow.png)          |        ![Explosion Blade](/img/items/swords/explosion-blade.png)        |       ![Soleil Scepter](/img/items/scepters/soleil-scepter.png)        |
+| **10,000 Credits Gem** [<span className="tier-legendary">**Legendary**</span>] | **Condor Flame** [<span className="tier-legendary">**Legendary**</span>]  |
+|                 ![Credits Gem](/img/items/jewels/10k-gem.jpg)                  |            ![Condor Flame](/img/items/others/condor-flame.png)            |
+
+<!-- | **Ring of Ice** [<span className="tier-legendary">**Legendary**</span>] | **Ring of Poison** [<span className="tier-legendary">**Legendary**</span>] | **Ring of Earth** [<span className="tier-legendary">**Legendary**</span>] | **Ring of Fire** [<span className="tier-legendary">**Legendary**</span>] | **Ring of Wind** [<span className="tier-legendary">**Legendary**</span>] |
+| ![Ring of Ice](/img/items/rings-pendants/ring-of-ice.png) | ![Ring of Poison](/img/items/rings-pendants/ring-of-poison.png) | ![Ring of Earth](/img/items/rings-pendants/ring-of-earth.png) | ![Ring of Fire](/img/items/rings-pendants/ring-of-fire.png) | ![Ring of Wind](/img/items/rings-pendants/ring-of-wind.png) |
+| **Pendant of Fire** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Lighting** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Ice** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Wind** [<span className="tier-legendary">**Legendary**</span>] | **Pendant of Water** [<span className="tier-legendary">**Legendary**</span>] |
+| ![Pendant of Fire](/img/items/rings-pendants/pendant-of-fire.png) | ![Pendant of Lighting](/img/items/rings-pendants/pendant-of-lighting.png) | ![Pendant of Ice](/img/items/rings-pendants/pendant-of-ice.png) | ![Pendant of Wind](/img/items/rings-pendants/pendant-of-wind.png) | ![Pendant of Water](/img/items/rings-pendants/pendant-of-water.png) | -->
 
 :::info
 
-- Please note that all of the items are **Excellent +13(Rings/Pendants +9), +5 Random Excellent Options**.
+- Please note that all of the items are **Excellent +Luck, +5 Random Excellent Options**.
 - You can sell the **Credit Gems** in any in-game shop to receive their respective Credits amount.
 
 :::
