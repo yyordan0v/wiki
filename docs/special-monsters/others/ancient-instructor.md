@@ -2,19 +2,19 @@
 sidebar_position: 18
 ---
 
-# Fire Flame Ghost
+# Ancient Instructor
 
-This article explores the **Fire Flame Ghost** - a special monster in the **Lotus Mu** realm.
+This article explores the **Ancient Instructor** - a special monster in the **Lotus Mu** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 
-![Fire Flame Ghost](/img/monsters/special/others/fire-flame-ghost.jpg)
+![Ancient Instructor](/img/monsters/special/others/ancient-instructor.jpg)
 
-_Fire Flame Ghost_
+_Ancient Instructor_
 
 ## Details
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Fire Flame Ghost** across the realm.
+The subsequent table provides detailed information about location, respawn time and the quantity of the available **Ancient Instructor** across the realm.
 
 |                Location                | Quantity |           Respawn Time            |
 | :------------------------------------: | :------: | :-------------------------------: |
@@ -24,7 +24,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 ## Reward
 
-Upon successfully killing a **Fire Flame Ghost**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
+Upon successfully killing a **Ancient Instructor**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
 
 | [Hyperion Bronze](/items/ancient-items/#ancient-sets) |  [Eplate Scale](/items/ancient-items/#ancient-sets)   |  [Evis Bone](/items/ancient-items/#ancient-sets)  | [Gaia Silk](/items/ancient-items/#ancient-sets) |
 | :---------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: |

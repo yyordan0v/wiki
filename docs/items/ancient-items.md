@@ -31,10 +31,10 @@ In order to obtain **Ancient Items**, adventurers must either:
 
 - Acquire a [Silver Box](/items/item-bags/non-exc/silver-box)
 - Triumph in the [Chaos Castle](/events/chaos-castle) Event
-- [Lunar Rabbit](/special-monsters/others/lunar-rabbit)
-- [Fire Flame Ghost](/special-monsters/others/fire-flame-ghost)
-- [Golden Crust](/special-monsters/others/golden-crust)
-- [Golden Nappin](/special-monsters/others/golden-nappin)
+- [Ancient Bearer](/special-monsters/others/ancient-bearer)
+- [Ancient Instructor](/special-monsters/others/ancient-instructor)
+- [Ancient Instructor](/special-monsters/others/ancient-commander)
+- [Ancient Captain](/special-monsters/others/ancient-captain)
 
 ## Ancient Sets
 

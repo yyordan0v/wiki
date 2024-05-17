@@ -2,19 +2,19 @@
 sidebar_position: 17
 ---
 
-# Lunar Rabbit
+# Ancient Bearer
 
-This article explores the **Lunar Rabbit** - a special monster in the **Lotus Mu** realm.
+This article explores the **Ancient Bearer** - a special monster in the **Lotus Mu** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 
-![Lunar Rabbit](/img/monsters/special/others/lunar-rabbit.jpg)
+![Ancient Bearer](/img/monsters/special/others/ancient-bearer.jpg)
 
-_Lunar Rabbit_
+_Ancient Bearer_
 
 ## Details
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Lunar Rabbit** across the realm.
+The subsequent table provides detailed information about location, respawn time and the quantity of the available **Ancient Bearer** across the realm.
 
 |                Location                | Quantity |           Respawn Time            |
 | :------------------------------------: | :------: | :-------------------------------: |
@@ -24,7 +24,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 ## Reward
 
-Upon successfully killing a **Lunar Rabbit**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
+Upon successfully killing a **Ancient Bearer**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
 
 |  [Warrior Leather](/items/ancient-items/#ancient-sets)  | [Apollo Pad](/items/ancient-items/#ancient-sets)  | [Ceto Vine](/items/ancient-items/#ancient-sets)  |
 | :-----------------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------: |

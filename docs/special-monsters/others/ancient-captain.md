@@ -2,19 +2,19 @@
 sidebar_position: 20
 ---
 
-# Golden Nappin
+# Ancient Captain
 
-This article explores the **Golden Nappin** - a special monster in the **Lotus Mu** realm.
+This article explores the **Ancient Captain** - a special monster in the **Lotus Mu** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 
-![Golden Nappin](/img/monsters/special/golden/golden-nappin.jpg)
+![Ancient Captain](/img/monsters/special/others/ancient-captain.jpg)
 
-_Golden Nappin_
+_Ancient Captain_
 
 ## Details
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Nappin** across the realm.
+The subsequent table provides detailed information about location, respawn time and the quantity of the available **Ancient Captain** across the realm.
 
 |                Location                | Quantity |           Respawn Time            |
 | :------------------------------------: | :------: | :-------------------------------: |
@@ -24,7 +24,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 ## Reward
 
-Upon successfully killing a **Golden Nappin**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
+Upon successfully killing a **Ancient Captain**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
 
 |  [Hyon Dragon](/items/ancient-items/#ancient-sets)   | [Anubis Legendary](/items/ancient-items/#ancient-sets)  | [Gywen Guardian](/items/ancient-items/#ancient-sets) |  [Gaion Storm Crow](/items/ancient-items/#ancient-sets)  |  [Agnis Adamantine](/items/ancient-items/#ancient-sets)  |
 | :--------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------------: |

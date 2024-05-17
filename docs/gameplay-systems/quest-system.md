@@ -185,7 +185,7 @@ The following table represents all the quests in Lotus Mu.
 | 121 | Golden Budge Dragon           |  2   | Lorencia,Noria,Devias | [Navy Candy Box](/items/item-bags/misc/navy-candy-box)         |             |      60      |
 | 122 | Blood Soldier                 |  80  | Kalima2               | 70kk Zen                                                       |     90      |              |
 | 123 | Blue Golem                    | 420  | Aida2                 | 70kk Zen                                                       |             |      60      |
-| 124 | Lunar Rabbit                  |  1   | Icewrack,Ashkavor     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)     |     100     |              |
+| 124 | Ancient Bearer                |  1   | Icewrack,Ashkavor     | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)     |     100     |              |
 | 125 | Pouch of Blessing             |  4   | Lorencia,Noria,Devias | Bundle Jewel of Bless 10                                       |     100     |              |
 | 126 | Witch Queen                   |  10  | Aida2(135,90)         | 70kk Zen                                                       |             |      70      |
 | 127 | Death Angel                   |  80  | Kalima2               | [Box of Kundun+4](/items/item-bags/exc/box-of-kundun/bok-4)    |             |      70      |
@@ -207,12 +207,12 @@ The following table represents all the quests in Lotus Mu.
 | 143 | Hell Maine                    |  1   | Aida2(40,50)          | 150kk Zen                                                      |     300     |              |
 | 144 | Dragon                        |  2   | Lorencia,Noria,Devias | [Box of Kundun+5](/items/item-bags/exc/box-of-kundun/bok-5)    |     110     |              |
 | 145 | Splinter Wolf                 | 540  | Kanturu               | 80kk Zen                                                       |             |      80      |
-| 146 | Fire Flame Ghost              |  1   | Icewrack,Ashkavor     | 80kk Zen                                                       |     110     |              |
+| 146 | Ancient Instructor            |  1   | Icewrack,Ashkavor     | 80kk Zen                                                       |     110     |              |
 | 147 | Hammer Scout                  |  50  | Crywolf               | [Orange Candy Box](/items/item-bags/misc/orange-candy-box)     |             |      80      |
 | 148 | Berserker Warrior             |  50  | Kanturu3              | 80kk Zen                                                       |             |      80      |
 | 149 | Chaos Castle 6                |  1   | Chaos Castle 6        | [Purple Chaos Box](/items/item-bags/misc/purple-chaos-box)     |     110     |              |
 | 150 | Iron Rider                    | 560  | Kanturu               | 80kk Zen                                                       |             |      80      |
-| 151 | Golden Crust                  |  1   | Icewrack,Ashkavor     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)       |     110     |              |
+| 151 | Ancient Instructor            |  1   | Icewrack,Ashkavor     | [Lilac Candy Box](/items/item-bags/misc/lilac-candy-box)       |     110     |              |
 | 152 | Lance Scout                   |  50  | Crywolf               | 80kk Zen                                                       |             |      90      |
 | 153 | Kentauros Warrior             |  50  | Kanturu3              | [Pink Chocolate Box](/items/item-bags/misc/pink-chocolate-box) |             |      90      |
 | 154 | BC7 Warrior                   |  5   | Blood Castle 7        | 100kk Zen                                                      |     120     |              |

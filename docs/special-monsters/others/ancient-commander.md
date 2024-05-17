@@ -2,19 +2,19 @@
 sidebar_position: 19
 ---
 
-# Golden Crust
+# Ancient Instructor
 
-This article explores the **Golden Crust** - a special monster in the **Lotus Mu** realm.
+This article explores the **Ancient Instructor** - a special monster in the **Lotus Mu** realm.
 
 The focus is on its location and what this monster rewards adventurers who manage to kill it.
 
-![Golden Crust](/img/monsters/special/golden/golden-crust.jpg)
+![Ancient Instructor](/img/monsters/special/others/ancient-commander.jpg)
 
-_Golden Crust_
+_Ancient Instructor_
 
 ## Details
 
-The subsequent table provides detailed information about location, respawn time and the quantity of the available **Golden Crust** across the realm.
+The subsequent table provides detailed information about location, respawn time and the quantity of the available **Ancient Instructor** across the realm.
 
 |                Location                | Quantity |           Respawn Time            |
 | :------------------------------------: | :------: | :-------------------------------: |
@@ -24,7 +24,7 @@ The subsequent table provides detailed information about location, respawn time 
 
 ## Reward
 
-Upon successfully killing a **Golden Crust**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
+Upon successfully killing a **Ancient Instructor**, players will be rewarded with the following selection of [Ancient Items](/items/ancient-items):
 
 | [Garuda Brass](/items/ancient-items/#ancient-sets) | [Kantata Plate](/items/ancient-items/#ancient-sets) | [Heras Sphinx](/items/ancient-items/#ancient-sets) |  [Odin Wind](/items/ancient-items/#ancient-sets)  | [Argo Spirit](/items/ancient-items/#ancient-sets)  |
 | :------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------: |
