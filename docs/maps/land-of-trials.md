@@ -20,12 +20,6 @@ _Land of Trials_
 | :--------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: |
 | ![Ax Warrior](/img/monsters/land-of-trials/ax-warrior.jpg) | ![Lizard Warrior](/img/monsters/land-of-trials/lizard-warrior.jpg) | ![Poison Golem](/img/monsters/land-of-trials/poison-golem.jpg) | ![Queen Bee](/img/monsters/land-of-trials/queen-bee.jpg) | ![Fire Golem](/img/monsters/land-of-trials/fire-golem.jpg) |
 
-:::tip
-
-The distinctive aspect of the _Regular Monsters_ within **Land of Trials** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
-
-:::
-
 ### Special Monsters
 
 |      [Golden Rabbit](/special-monsters/others/golden-rabbit)       |     [Golden Dark Knight](/special-monsters/others/golden-dark-knight)      |           [Golden Devil](/special-monsters/others/golden-devil)           |        [Golden Satyros](/special-monsters/others/golden-satyros)         |

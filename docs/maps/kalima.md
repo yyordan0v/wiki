@@ -32,12 +32,6 @@ _Symbol of Kundun_
 |                   Necron                   |                       Death Centurion                        |                         Schriker                         |
 | ![Necron](/img/monsters/kalima/necron.jpg) | ![Death Centurion](/img/monsters/kalima/death-centurion.jpg) |      ![Schriker](/img/monsters/kalima/schriker.jpg)      |
 
-:::tip
-
-The distinctive aspect of the _Regular Monsters_ within **Kalima 7** lies in the potential to acquire a [Silver Box](/items/item-bags/non-exc/silver-box) which hides the **most powerful** [Ancient Items](/items/ancient-items) in it.
-
-:::
-
 ### Bosses
 
 | [Illusion of Kundun](/special-monsters/mini-bosses/illusion-of-kundun) |     [Kundun](/special-monsters/bosses/kundun)      |

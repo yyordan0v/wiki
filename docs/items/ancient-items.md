@@ -29,7 +29,6 @@ Among the pantheon of equipment, **Ancient Sets** stand as some of the most form
 
 In order to obtain **Ancient Items**, adventurers must either:
 
-- Acquire a [Silver Box](/items/item-bags/non-exc/silver-box)
 - Triumph in the [Chaos Castle](/events/chaos-castle) Event
 - [Ancient Bearer](/special-monsters/others/ancient-bearer)
 - [Ancient Instructor](/special-monsters/others/ancient-instructor)
