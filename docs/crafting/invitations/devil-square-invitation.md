@@ -37,7 +37,7 @@ _Devil Square Invitation Crafting_
 
 For a **guaranteed** drop of the **Devil Square Invitation Ingredients** you can kill the [Dead Showbell](/special-monsters/others/dead-showbell) in either [Icewrack](/maps/icewrack), [Ashkavor](/maps/ashkavor) or [Land of Trials](/maps/land-of-trials).
 
-[Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
+![Dead Showbell](/img/monsters/special/others/dead-showbell.jpg)
 
 _Dead Showbell_
 
