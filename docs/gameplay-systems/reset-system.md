@@ -55,7 +55,7 @@ You can receive **huge Points Boost** by completing [**quests**](/gameplay-syste
 
 #### Reset Scheme
 
-Maximum resets in **Yoskreth - x10** will be raised throught the time as follows:
+Maximum resets in **Carnage - x200** will be raised throught the time as follows:
 
 | Maximum Resets | Start Date |  End Date  |
 | :------------: | :--------: | :--------: |
