@@ -36,10 +36,6 @@ Before you can combine the **Feather**, you need to ensure that you have the nec
 - **Ancient** item that has been upgraded to a **minimum of +9** with an **option of +4 or higher**
 - 300,000,000 Zen
 
-![Condor Feather Mix](/img/crafting/condor-feather.png)
-
-_Condor Feather Mix_
-
 :::info
 
 The success rate for this Chaos Combination is **70%**.

@@ -33,10 +33,6 @@ Before you can combine the **Wings**, you need to ensure that you have the neces
 - **Excellent** item that has been upgraded to a **minimum of +13** with an **option of +4 or higher**
 - 1,000,000,000 Zen
 
-![Third Level Wings Mix](/img/crafting/third-level-wings.png)
-
-_Third Level Wings Mix_
-
 :::info
 
 The success rate for this Chaos Combination is **60%**.
